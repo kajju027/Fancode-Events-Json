@@ -38,6 +38,6 @@ jobs:
         if: steps.git_status.outputs.has_changes == 'true'
         run: |
           git add fancode.json
-          git commit -m "Automated: Update fancode.json (Action runs every 7 mins)"
+          git commit -m "Fancode Letest Update Now Live ✅"
           git push
           
