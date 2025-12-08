@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download Fancode JSON
+      - name: Download JSON
         run: |
           curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
 
@@ -27,14 +27,14 @@ jobs:
       - name: Check for Changes
         id: git_status
         run: |
-          if git diff --exit-code fancode.json; then
+          if [ -z "$(git status --porcelain)" ]; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
         shell: bash
 
-      - name: Commit and Push if Changed
+      - name: Commit and Push
         if: steps.git_status.outputs.has_changes == 'true'
         run: |
           git add fancode.json
