@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:30:33 AM 30-12-2025",
+    "last update time": "05:01:10 AM 30-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Otago Sparks vs Central Hinds (Women's Super Smash, 2025-26)",
+            "title": "Central Hinds vs Otago Sparks (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138767_5801_OS-W_CH-W_fc-web_1766596522209.jpg",
-            "team_1": "Otago Sparks",
-            "team_2": "Central Hinds",
-            "status": "UPCOMING",
+            "team_1": "Central Hinds",
+            "team_2": "Otago Sparks",
+            "status": "LIVE",
             "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Otago Sparks vs Central Hinds",
+            "match_name": "Central Hinds vs Otago Sparks",
             "match_id": 138767,
-            "startTime": "05:10:00 AM 30-12-2025"
+            "startTime": "05:10:00 AM 30-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZiRxKnXvQRuyvKgMpbiAnw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138767_english_hls_843d7c911b99616_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -88,18 +90,6 @@
             "startTime": "09:30:00 PM 30-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Ettifaq vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138443_5655_ETT_ANF_fc-web.png",
-            "team_1": "Al-Ettifaq",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ettifaq vs Al-Nassr FC",
-            "match_id": 138443,
-            "startTime": "11:00:00 PM 30-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northern Brave Women vs Wellington Blaze (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138768_5801_NB-W_WB-W_fc-web_1766596522206.jpg",
@@ -110,6 +100,18 @@
             "match_name": "Northern Brave Women vs Wellington Blaze",
             "match_id": 138768,
             "startTime": "05:10:00 AM 31-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ettifaq vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138443_5655_ETT_ANF_fc-web.png",
+            "team_1": "Al-Ettifaq",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ettifaq vs Al-Nassr FC",
+            "match_id": 138443,
+            "startTime": "11:00:00 PM 30-12-2025"
         },
         {
             "event_category": "Football",
