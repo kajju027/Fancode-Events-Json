@@ -21,7 +21,7 @@ jobs:
         run: |
           curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
           export TZ="Asia/Kolkata"
-          echo "🚀 Fancode Synced Successfully | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
+          echo "🚀 Fancode Synced Successfully BY Sayan | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
 
       - name: Configure Git User
         run: |
