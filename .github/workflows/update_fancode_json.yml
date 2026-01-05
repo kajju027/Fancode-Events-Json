@@ -17,29 +17,21 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download JSON
+      - name: Download JSON and Update Log
         run: |
           curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
+          export TZ="Asia/Kolkata"
+          echo "🚀 Fancode Synced Successfully | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
 
       - name: Configure Git User
         run: |
           git config --global user.email "kajju3864@gmail.com"
           git config --global user.name "kajju027"
 
-      - name: Check for Changes
-        id: git_status
-        run: |
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          fi
-        shell: bash
-
       - name: Commit and Push
-        if: steps.git_status.outputs.has_changes == 'true'
         run: |
-          git add fancode.json
-          git commit -m "Fancode Letest Update Now Live ✅"
+          export TZ="Asia/Kolkata"
+          git add fancode.json fancode.txt
+          git commit -m "Fancode Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')] #$RANDOM" --allow-empty
           git push
           
