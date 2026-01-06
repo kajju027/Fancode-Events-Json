@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '*/7 * * * *' 
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   update-file:
@@ -17,21 +20,23 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download JSON and Update Log
-        run: |
-          curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
-          export TZ="Asia/Kolkata"
-          echo "🚀 Fancode Synced Successfully BY Sayan | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
-
       - name: Configure Git User
         run: |
-          git config --global user.email "kajju3864@gmail.com"
           git config --global user.name "kajju027"
+          git config --global user.email "209622231+kajju027@users.noreply.github.com"
+
+      - name: Sync and Update Log
+        run: |
+          export TZ="Asia/Kolkata"
+          git pull origin main --rebase
+          
+          curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
+          echo "🚀 Fancode Synced Successfully BY Sayan | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
 
       - name: Commit and Push
         run: |
           export TZ="Asia/Kolkata"
           git add fancode.json fancode.txt
           git commit -m "Fancode Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')] #$RANDOM" --allow-empty
-          git push
+          git push origin main
           
