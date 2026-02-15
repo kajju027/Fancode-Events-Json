@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:02:32 AM 16-02-2026",
+    "last update time": "05:22:44 AM 16-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
             "team_1": "Queensland",
             "team_2": "South Australia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Sheffield Shield, 2025-26",
             "match_name": "Queensland vs South Australia",
             "match_id": 134035,
-            "startTime": "05:30:00 AM 16-02-2026"
+            "startTime": "05:30:00 AM 16-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d64226_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d64226_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -270,6 +272,18 @@
             "startTime": "09:00:00 AM 17-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
+            "team_1": "Sydney FC",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Auckland",
+            "match_id": 138808,
+            "startTime": "01:30:00 PM 17-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Quadra 1 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
@@ -304,18 +318,6 @@
             "match_name": "Quadra Guga Kuerten",
             "match_id": 140650,
             "startTime": "12:00:00 AM 17-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
-            "team_1": "Sydney FC",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Auckland",
-            "match_id": 138808,
-            "startTime": "01:30:00 PM 17-02-2026"
         },
         {
             "event_category": "Football",
