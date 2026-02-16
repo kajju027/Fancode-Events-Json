@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:29:27 PM 16-02-2026",
+    "last update time": "05:19:58 PM 16-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs New South Wales",
-            "match_id": 134037,
-            "startTime": "09:00:00 AM 16-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c85184_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c85184_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Live Events",
             "title": "Day 1 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
@@ -58,6 +44,20 @@
             "startTime": "04:00:00 PM 16-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140645_english_hls_cb3d9b991455332_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140645_english_hls_cb3d9b991455332_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 1 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Grandstand 1",
+            "team_2": "Qatar",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 1",
+            "match_id": 140646,
+            "startTime": "05:30:00 PM 16-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140646_english_hls_962ab804fe14279_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140646_english_hls_962ab804fe14279_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -168,6 +168,18 @@
             "startTime": "08:00:00 AM 16-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs New South Wales",
+            "match_id": 134037,
+            "startTime": "09:00:00 AM 16-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Real Sociedad vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072514/140423_CASACARDS_APP.png",
@@ -178,18 +190,6 @@
             "match_name": "Real Sociedad vs M\u00e1laga",
             "match_id": 140423,
             "startTime": "01:00:00 AM 17-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Grandstand 1 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "Grandstand 1",
-            "team_2": "Qatar",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "Grandstand 1",
-            "match_id": 140646,
-            "startTime": "05:30:00 PM 16-02-2026"
         },
         {
             "event_category": "Football",
@@ -266,7 +266,7 @@
         {
             "event_category": "Live Events",
             "title": "Big Cricket League Auction vs Crown Plaza, Greater Noida, Uttar Pradesh (Big Cricket League Season 2 Auction 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Big-Cricket-League-Season-2--Auction-2026-Web.jpg",
             "team_1": "Big Cricket League Auction",
             "team_2": "Crown Plaza, Greater Noida, Uttar Pradesh",
             "status": "UPCOMING",
