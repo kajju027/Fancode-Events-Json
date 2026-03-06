@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:50:13 PM 06-03-2026",
+    "last update time": "03:30:39 PM 06-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Lightning Legends vs JP Sports (Tillo Cup 2026)",
+            "title": "Lightning Legends vs JP Sports Noida (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
             "team_1": "Lightning Legends",
-            "team_2": "JP Sports",
+            "team_2": "JP Sports Noida",
             "status": "LIVE",
             "event_name": "Tillo Cup 2026",
-            "match_name": "Lightning Legends vs JP Sports",
+            "match_name": "Lightning Legends vs JP Sports Noida",
             "match_id": 141255,
             "startTime": "01:00:00 PM 06-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141255_english_hls_197d05fbd248087_1ta-di_h264/index.m3u8",
@@ -274,6 +274,18 @@
             "startTime": "05:00:00 PM 07-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
+            "team_1": "Blackburn Rovers F.C.",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
+            "match_id": 140553,
+            "startTime": "06:00:00 PM 07-03-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
@@ -419,30 +431,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
-            "team_1": "Blackburn Rovers F.C.",
-            "team_2": "Portsmouth F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
-            "match_id": 140553,
-            "startTime": "06:00:00 PM 07-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Magenta Shares Golf & Country Club (Australian Women's Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
-            "team_1": "Day 1",
-            "team_2": "Magenta Shares Golf & Country Club",
-            "status": "UPCOMING",
-            "event_name": "Australian Women's Classic 2026",
-            "match_name": "Day 1",
-            "match_id": 140785,
-            "startTime": "06:30:00 AM 07-03-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "CA Osasuna vs RCD Mallorca (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131091_5427_OSN_MRC_FC-Web.png",
             "team_1": "CA Osasuna",
@@ -464,6 +452,18 @@
             "match_name": "India Women vs Japan Women",
             "match_id": 140805,
             "startTime": "04:30:00 PM 07-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Magenta Shares Golf & Country Club (Australian Women's Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+            "team_1": "Day 1",
+            "team_2": "Magenta Shares Golf & Country Club",
+            "status": "UPCOMING",
+            "event_name": "Australian Women's Classic 2026",
+            "match_name": "Day 1",
+            "match_id": 140785,
+            "startTime": "06:30:00 AM 07-03-2026"
         }
     ]
 }
