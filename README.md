@@ -49,14 +49,6 @@ https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.m3u
 
 ---
 
-JavaScript Example
-
-fetch("https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.json")
-.then((response) => response.json())
-.then((data) => console.log(data));
-
----
-
 IPTV Usage
 
 Paste the .m3u URL into any compatible IPTV player to access the available live streams.
