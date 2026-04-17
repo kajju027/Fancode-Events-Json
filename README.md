@@ -1,49 +1,111 @@
-# ⚽ 🏏📡 Fancode Live Events Auto-Sync by Sayan
+**FANCODE LIVE EVENTS ✨✊**
 
-[![GitHub Workflow Status](https://github.com/kajju027/Fancode-Events-Json/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/kajju027/Fancode-Events-Json/actions) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/kajju027/Fancode-Events-Json)](https://github.com/kajju027/Fancode-Events-Json/commits/main)
-
-> ✨ **A high-availability, fully automated data synchronization project ensuring the Fancode live events list is always fresh and reliable.**
-
-### 📈 Repository Metrics & Visitor Count
-
-| Metric | Status |
-| :---: | :--- |
-| **Workflow Status** | [![GitHub Workflow Status](https://github.com/kajju027/Fancode-Events-Json/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/kajju027/Fancode-Events-Json/actions) |
-| **Total Stars** | [![GitHub stars](https://img.shields.io/github/stars/kajju027/Fancode-Events-Json?style=social)](https://github.com/kajju027/Fancode-Events-Json/stargazers) |
-| **Total Forks** | [![GitHub forks](https://img.shields.io/github/forks/kajju027/Fancode-Events-Json?style=social)](https://github.com/kajju027/Fancode-Events-Json/network/members) |
-| **Total Visitors** | ![](https://komarev.com/ghpvc/?username=kajju027&repo=Fancode-Events-Json&color=orange&style=flat) |
-| **Repo Size** | [![GitHub repo size](https://img.shields.io/github/repo-size/kajju027/Fancode-Events-Json)](https://github.com/kajju027/Fancode-Events-Json) |
+""Workflow Status" (https://github.com/kajju027/Fancode-Events-Json/actions/workflows/update_fancode_json.yml/badge.svg)" (https://github.com/kajju027/Fancode-Events-Json/actions)
+""Last Commit" (https://img.shields.io/github/last-commit/kajju027/Fancode-Events-Json)" (https://github.com/kajju027/Fancode-Events-Json/commits/main)
+""Repo Size" (https://img.shields.io/github/repo-size/kajju027/Fancode-Events-Json)" (https://github.com/kajju027/Fancode-Events-Json)
+""Stars" (https://img.shields.io/github/stars/kajju027/Fancode-Events-Json?style=social)" (https://github.com/kajju027/Fancode-Events-Json/stargazers)
+""Forks" (https://img.shields.io/github/forks/kajju027/Fancode-Events-Json?style=social)" (https://github.com/kajju027/Fancode-Events-Json/network/members)
 
 ---
 
-## 🔗 Quick Attribution (Credit)
+📌 Overview
 
-This automated service is based on data collected and maintained by others. We provide full credit to the original source:
+A continuously updated repository providing structured Fancode event data for developers and IPTV usage.
 
-* **Original Source Repository:** [drmlive/fancode-live-events](https://github.com/drmlive/fancode-live-events)
-
----
-
-## 🎯 Core Synchronization Details
-
-| Component | Detail | Setting |
-| :--- | :--- | :--- |
-| **Data File** | `fancode.json` | JSON Format |
-| **Sync Frequency** | **Every Moments** | `Now Live` Cron |
+This project delivers clean, ready-to-use outputs with minimal latency and consistent availability.
 
 ---
 
-## 📢 Call to Action: Use and Enjoy!
+📦 Available Files
 
-This repository is your most reliable, zero-maintenance source for Fancode event data.
+🔹 "fancode.json"
 
-We encourage developers and enthusiasts to **Clone this repository**, integrate the JSON file into your projects, and enjoy seamless access to the latest content seamlessly!
-
-> **Hit the Star ⭐ button to show your appreciation and help Sayan keep this project running!**
+- Complete structured dataset
+- Includes:
+  - Live matches
+  - Upcoming matches
+  - Event metadata
+  - Match details (teams, category, language, etc.)
 
 ---
 
-## 👤 Project Developed by
+🔹 "fancode.m3u"
 
-This advanced auto-sync project is developed and maintained by **Sayan**.
+- IPTV-ready playlist format
+- Contains:
+  - Live streams only
+  - Stream URLs
+  - Match titles
+  - Logos (tvg-logo)
+  - Category and language grouping
+
+---
+
+⏱️ Update Frequency
+
+Type| Interval
+Automatic Updates| Every 7 Minutes
+
+Ensures near real-time data availability.
+
+---
+
+🚀 Usage
+
+🔗 Direct Links
+
+JSON
+
+https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.json
+
+M3U Playlist
+
+https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.m3u
+
+---
+
+💻 Example (JavaScript)
+
+fetch("https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.json")
+  .then(res => res.json())
+  .then(data => console.log(data));
+
+---
+
+📺 IPTV Usage
+
+Paste the ".m3u" URL into any compatible IPTV player to access live streams.
+
+---
+
+📊 Repository Status
+
+Metric| Value
+Updates| Automated
+Availability| High
+Maintenance| Minimal
+
+---
+
+⚠️ Disclaimer
+
+This repository does not host any media content.
+It provides structured data and publicly accessible stream references for informational and development purposes only.
+
+---
+
+👤 Maintainer
+
+Sayan
+
+---
+
+⭐ Support
+
+If you find this useful:
+
+- Star the repository
+- Share it
+- Use responsibly
+
+---
