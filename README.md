@@ -1,15 +1,5 @@
 Fancode Live Events ✨✊
 
-""Workflow Status" (https://github.com/kajju027/Fancode-Events-Json/actions/workflows/update_fancode_json.yml/badge.svg)" (https://github.com/kajju027/Fancode-Events-Json/actions)
-""Last Commit" (https://img.shields.io/github/last-commit/kajju027/Fancode-Events-Json)" (https://github.com/kajju027/Fancode-Events-Json/commits/main)
-""Repo Size" (https://img.shields.io/github/repo-size/kajju027/Fancode-Events-Json)" (https://github.com/kajju027/Fancode-Events-Json)
-""Stars" (https://img.shields.io/github/stars/kajju027/Fancode-Events-Json?style=social)" (https://github.com/kajju027/Fancode-Events-Json/stargazers)
-""Forks" (https://img.shields.io/github/forks/kajju027/Fancode-Events-Json?style=social)" (https://github.com/kajju027/Fancode-Events-Json/network/members)
-
----
-
-Overview
-
 Fancode Live Events is a continuously updated repository that provides structured Fancode event data for developers and IPTV integrations.
 It delivers clean, ready-to-use outputs with low latency and reliable availability.
 
