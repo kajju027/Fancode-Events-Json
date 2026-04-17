@@ -1,4 +1,4 @@
-**FANCODE LIVE EVENTS ✨✊**
+Fancode Live Events ✨✊
 
 ""Workflow Status" (https://github.com/kajju027/Fancode-Events-Json/actions/workflows/update_fancode_json.yml/badge.svg)" (https://github.com/kajju027/Fancode-Events-Json/actions)
 ""Last Commit" (https://img.shields.io/github/last-commit/kajju027/Fancode-Events-Json)" (https://github.com/kajju027/Fancode-Events-Json/commits/main)
@@ -8,77 +8,72 @@
 
 ---
 
-📌 Overview
+Overview
 
-A continuously updated repository providing structured Fancode event data for developers and IPTV usage.
-
-This project delivers clean, ready-to-use outputs with minimal latency and consistent availability.
-
----
-
-📦 Available Files
-
-🔹 "fancode.json"
-
-- Complete structured dataset
-- Includes:
-  - Live matches
-  - Upcoming matches
-  - Event metadata
-  - Match details (teams, category, language, etc.)
+Fancode Live Events is a continuously updated repository that provides structured Fancode event data for developers and IPTV integrations.
+It delivers clean, ready-to-use outputs with low latency and reliable availability.
 
 ---
 
-🔹 "fancode.m3u"
+Available Files
 
-- IPTV-ready playlist format
-- Contains:
-  - Live streams only
-  - Stream URLs
-  - Match titles
-  - Logos (tvg-logo)
-  - Category and language grouping
+fancode.json
+
+A structured dataset that includes:
+
+- Live matches
+- Upcoming matches
+- Event metadata
+- Match details such as teams, category, language, and more
+
+fancode.m3u
+
+An IPTV-ready playlist file that includes:
+
+- Live streams only
+- Stream URLs
+- Match titles
+- tvg-logo support
+- Category and language grouping
 
 ---
 
-⏱️ Update Frequency
+Update Frequency
 
-Type| Interval
-Automatic Updates| Every 7 Minutes
+Update Type| Interval
+Automatic Updates| Every 7 minutes
 
-Ensures near real-time data availability.
+This ensures near real-time data availability.
 
 ---
 
-🚀 Usage
+Usage
 
-🔗 Direct Links
+Direct Links
 
-JSON
-
+JSON:
 https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.json
 
-M3U Playlist
-
+M3U Playlist:
 https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.m3u
 
 ---
 
-💻 Example (JavaScript)
+JavaScript Example
 
 fetch("https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/main/fancode.json")
-  .then(res => res.json())
-  .then(data => console.log(data));
+.then((response) => response.json())
+.then((data) => console.log(data));
 
 ---
 
-📺 IPTV Usage
+IPTV Usage
 
-Paste the ".m3u" URL into any compatible IPTV player to access live streams.
+Paste the .m3u URL into any compatible IPTV player to access the available live streams.
 
 ---
 
-📊 Repository Status
+Repository Status
 
 Metric| Value
 Updates| Automated
@@ -87,25 +82,23 @@ Maintenance| Minimal
 
 ---
 
-⚠️ Disclaimer
+Disclaimer
 
 This repository does not host any media content.
 It provides structured data and publicly accessible stream references for informational and development purposes only.
 
 ---
 
-👤 Maintainer
+Maintainer
 
 Sayan
 
 ---
 
-⭐ Support
+Support
 
-If you find this useful:
+If you find this project useful:
 
 - Star the repository
 - Share it
 - Use responsibly
-
----
