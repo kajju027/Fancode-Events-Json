@@ -2,11 +2,11 @@
   "Author": "Sayan Official ™",
   "Telegram": "https://t.me/Sayan_xyz",
   "name": "Sayan FanCode API",
-  "last_updated": "19/4/2026, 9:19:20 pm IST",
+  "last_updated": "19/4/2026, 10:07:21 pm IST",
   "cache_ttl_min": 15,
   "total_matches": 36,
-  "live_count": 12,
-  "upcoming_count": 24,
+  "live_count": 9,
+  "upcoming_count": 27,
   "live_matches": [
     {
       "type": "live",
@@ -70,42 +70,6 @@
     },
     {
       "type": "live",
-      "match_id": "140870",
-      "tournament": "AFC Champions League Two 2025-26 Al Wasl F.C.",
-      "match": "Al Wasl F C vs Al Nassr Fc",
-      "category": "Football",
-      "language": "English",
-      "status": "started",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/140870_5648_AWL_ANF_FC-WEB.jpg",
-      "match_url": "https://www.fancode.com/al-wasl-f-c-vs-al-nassr-fc/tour/afc-champions-league-two-2025-26-18953371/matches/al-wasl-f-c-vs-al-nassr-fc-140870/live-match-info",
-      "stream_url": "https://fancode-india-sonu.pages.dev/api/140870_english_sayan.m3u8"
-    },
-    {
-      "type": "live",
-      "match_id": "141498",
-      "tournament": "Scottish Cup 2025-26 Celtic",
-      "match": "Celtic vs St Mirren",
-      "category": "Cricket",
-      "language": "English",
-      "status": "started",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
-      "match_url": "https://www.fancode.com/celtic-vs-st-mirren/tour/scottish-cup-2025-26-19305599/matches/celtic-vs-st-mirren-141498/live-match-info",
-      "stream_url": "https://fancode-india-sonu.pages.dev/api/141498_english_sayan.m3u8"
-    },
-    {
-      "type": "live",
-      "match_id": "141641",
-      "tournament": "Joburg Ladies Open 2026 Day 2 Randpark",
-      "match": "Golf vs Club",
-      "category": "Golf",
-      "language": "English",
-      "status": "started",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14)_1776151284392.png",
-      "match_url": "https://www.fancode.com/day-2/tour/joburg-ladies-open-2026-19546176/matches/day-2-141641/live-match-info",
-      "stream_url": "https://fancode-india-sonu.pages.dev/api/141641_english_sayan.m3u8"
-    },
-    {
-      "type": "live",
       "match_id": "141945",
       "tournament": "RBC Heritage 2026 Featured Groups - Day 4 Harbour Town Golf Links - Hilton Head",
       "match": "Island, vs Sout",
@@ -147,10 +111,10 @@
       "match": "A Rublev vs A Fils",
       "category": "Tennis",
       "language": "English",
-      "status": "started",
+      "status": "Not Started",
       "image": "https://images.fancode.com/skillup-uploads/cms-media/Andrey-Rublev-vs-Arthur-Fils_FC-WEB.jpg",
       "match_url": "https://www.fancode.com/a-rublev-vs-a-fils/tour/atp-500-barcelona-open-banc-sabadell-2026-19567042/matches/a-rublev-vs-a-fils-141837/live-match-info",
-      "stream_url": "https://fancode-india-sonu.pages.dev/api/141837_english_sayan.m3u8"
+      "stream_url": ""
     }
   ],
   "upcoming_matches": [
@@ -464,6 +428,45 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-.png",
       "match_url": "",
       "startTime": "22 April 2026 05:30 PM",
+      "stream_url": ""
+    },
+    {
+      "type": "upcoming",
+      "match_id": "131157",
+      "tournament": "Elche CF vs Atletico de Madrid (LALIGA 2025-26)",
+      "match": "Elche CF vs Atletico de Madrid",
+      "category": "Football",
+      "language": "English",
+      "status": "Not Started",
+      "image": "https://images.fancode.com/aig/match/v1/131157_CASACARDS_APP.png",
+      "match_url": "",
+      "startTime": "22 April 2026 10:30 PM",
+      "stream_url": ""
+    },
+    {
+      "type": "upcoming",
+      "match_id": "141580",
+      "tournament": "TBC vs TBC (AFC Champions League Two 2025-26)",
+      "match": "TBC vs TBC",
+      "category": "Football",
+      "language": "English",
+      "status": "Not Started",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "match_url": "",
+      "startTime": "22 April 2026 09:30 PM",
+      "stream_url": ""
+    },
+    {
+      "type": "upcoming",
+      "match_id": "131150",
+      "tournament": "Real Sociedad vs Getafe CF (LALIGA 2025-26)",
+      "match": "Real Sociedad vs Getafe CF",
+      "category": "Football",
+      "language": "English",
+      "status": "Not Started",
+      "image": "https://images.fancode.com/aig/match/v1776142761201/131150_CASACARDS_APP.png",
+      "match_url": "",
+      "startTime": "22 April 2026 11:30 PM",
       "stream_url": ""
     }
   ],
