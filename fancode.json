@@ -3,18 +3,51 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/6/2026, 9:35:28 am",
+  "updatedAt": "4/6/2026, 10:01:59 am",
   "_meta": {
-    "source_updated": "09:21:03 AM 04-06-2026"
+    "source_updated": "09:49:03 AM 04-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 49,
-  "live_matches": 1,
-  "upcoming_matches": 48,
+  "live_matches": 2,
+  "upcoming_matches": 47,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Amo Region Vs Speen Ghar Region",
+      "tournament": "Supercola Regional List A Tournament, 2026",
+      "match_id": 142754,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "04 June 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+      "teams": [
+        {
+          "name": "Amo Region",
+          "shortName": "AM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png"
+        },
+        {
+          "name": "Speen Ghar Region",
+          "shortName": "SG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
+        }
+      ],
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8",
+        "sony_cdn": "Unavailable",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Chambal Ghariyals Women Vs Gwalior Shernis",
@@ -46,36 +79,6 @@
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143018_english_hls_97974655575689_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143018_english_hls_97974655575689_1ta-di_h264/index.m3u8"
         }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Amo Region Vs Speen Ghar Region",
-      "tournament": "Supercola Regional List A Tournament, 2026",
-      "match_id": 142754,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "04 June 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-      "teams": [
-        {
-          "name": "Amo Region",
-          "shortName": "AM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png"
-        },
-        {
-          "name": "Speen Ghar Region",
-          "shortName": "SG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
       }
     },
     {
@@ -1223,7 +1226,7 @@
       "title": "Amo Region Vs Speen Ghar Region",
       "tournament": "Supercola Regional List A Tournament, 2026",
       "match_id": 142754,
-      "status": "NOT_STARTED",
+      "status": "STARTED",
       "startTime": "04 June 2026 10:00 AM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [],
