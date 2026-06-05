@@ -3,17 +3,17 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 8:29:01 pm",
+  "updatedAt": "5/6/2026, 9:34:16 pm",
   "_meta": {
-    "source_updated": "08:21:04 PM 05-06-2026"
+    "source_updated": "09:21:01 PM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 50,
-  "live_matches": 8,
-  "upcoming_matches": 42,
+  "live_matches": 7,
+  "upcoming_matches": 43,
   "matches": [
     {
       "category": "Cricket",
@@ -53,7 +53,7 @@
       "title": "Ujjain Falcons Vs Malwa Stallions",
       "tournament": "Madhya Pradesh League T20, 2026",
       "match_id": 143062,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "05 June 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png",
@@ -78,39 +78,6 @@
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Court Simonne Mathieu",
-      "tournament": "Roland Garros 2026",
-      "match_id": 142725,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "05 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-      "teams": [
-        {
-          "name": "Court Simonne-Mathieu",
-          "shortName": "Court Simonne-Mathieu",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
-        },
-        {
-          "name": "Paris",
-          "shortName": "Paris",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
-        "dai_cdn": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
-        "fancode_cdn": "Unavailable",
-        "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master.m3u8",
-        "backup": {
-          "fancode_cdn": "Unavailable",
-          "fancode_dai_cdn": "Unavailable"
         }
       }
     },
@@ -440,6 +407,36 @@
     },
     {
       "category": "Cricket",
+      "title": "India Vs Afghanistan",
+      "tournament": "Afghanistan tour of India, 2026",
+      "match_id": 143243,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 09:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card.png",
+      "teams": [
+        {
+          "name": "India",
+          "shortName": "IND",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png"
+        },
+        {
+          "name": "Afghanistan",
+          "shortName": "AFG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Jb Bruges Vs Akcel United Brussels",
       "tournament": "EUT20 Belgium, 2026",
       "match_id": 143149,
@@ -470,36 +467,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Bundelkhand Bulls Women Vs Royal Nimar Eagles Women",
-      "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143022,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 09:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Bundelkhand Bulls Women",
-          "shortName": "BBW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
-        },
-        {
-          "name": "Royal Nimar Eagles Women",
-          "shortName": "RNE",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Mumbai Marines Vs Northern Challengers",
       "tournament": "Big Cricket League Season 2",
       "match_id": 142990,
@@ -517,6 +484,36 @@
           "name": "Northern Challengers",
           "shortName": "NC",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bundelkhand Bulls Women Vs Royal Nimar Eagles Women",
+      "tournament": "Madhya Pradesh League T20 Women's 2026",
+      "match_id": 143022,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 09:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Bundelkhand Bulls Women",
+          "shortName": "BBW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+        },
+        {
+          "name": "Royal Nimar Eagles Women",
+          "shortName": "RNE",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -649,6 +646,36 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Qualifying Session   Monaco",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143234,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "05 June 2026 10:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg",
+      "teams": [
+        {
+          "name": "Qualifying Session - Monaco",
+          "shortName": "Qualifying Session - Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Indore Pink Panthers Vs Jabalpur Royal Lions",
       "tournament": "Madhya Pradesh League T20, 2026",
@@ -667,36 +694,6 @@
           "name": "Jabalpur Royal Lions",
           "shortName": "JRL",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Bangladesh Women Vs India Women",
-      "tournament": "SAFF Women's Championship 2026",
-      "match_id": 142943,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142940_6089_INDW_BDW_FC-Web_1779706389414.jpg",
-      "teams": [
-        {
-          "name": "Bangladesh Women",
-          "shortName": "BDW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAN@2x.png"
-        },
-        {
-          "name": "India Women",
-          "shortName": "INDW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -739,24 +736,24 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying Session   Monaco",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143234,
+      "category": "Football",
+      "title": "Bangladesh Women Vs India Women",
+      "tournament": "SAFF Women's Championship 2026",
+      "match_id": 142943,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "05 June 2026 10:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg",
+      "startTime": "06 June 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142940_6089_INDW_BDW_FC-Web_1779706389414.jpg",
       "teams": [
         {
-          "name": "Qualifying Session - Monaco",
-          "shortName": "Qualifying Session - Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
+          "name": "Bangladesh Women",
+          "shortName": "BDW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BAN@2x.png"
         },
         {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+          "name": "India Women",
+          "shortName": "INDW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -859,6 +856,36 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 MONACO 2026",
+      "match_id": 139715,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 02:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+      "teams": [
+        {
+          "name": "Sprint Race",
+          "shortName": "Sprint Race",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Gujarat Diamonds Vs Mumbai Marines",
       "tournament": "Big Cricket League Season 2",
@@ -937,36 +964,6 @@
           "name": "UP Brij Stars",
           "shortName": "UPBS",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F3 MONACO 2026",
-      "match_id": 139715,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 02:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-      "teams": [
-        {
-          "name": "Sprint Race",
-          "shortName": "Sprint Race",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1129,36 +1126,6 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 3",
-      "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
-      "match_id": 139449,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
-      "teams": [
-        {
-          "name": "Practice 3",
-          "shortName": "P3",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
       "category": "Football",
       "title": "Bolivia Vs Scotland",
       "tournament": "International Friendlies 2026",
@@ -1177,6 +1144,36 @@
           "name": "Scotland",
           "shortName": "SCO",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SCO-FT1@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 3",
+      "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
+      "match_id": 139449,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
+      "teams": [
+        {
+          "name": "Practice 3",
+          "shortName": "P3",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1328,25 +1325,6 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "Court Simonne Mathieu",
-      "tournament": "Roland Garros 2026",
-      "match_id": 142725,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 03:30 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
       "category": "Golf",
       "title": "Main Feed   Day 2",
       "tournament": "the Memorial Tournament presented by Workday 2026",
@@ -1431,6 +1409,25 @@
       "streamingStatus": "",
       "startTime": "05 June 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142989,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "06 June 2026 02:00 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [],
       "language": "BLOODY_SWEET",
       "streams": {
