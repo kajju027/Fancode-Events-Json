@@ -3,9 +3,9 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 4:00:29 am",
+  "updatedAt": "5/6/2026, 7:45:26 am",
   "_meta": {
-    "source_updated": "03:49:02 AM 05-06-2026"
+    "source_updated": "07:42:04 AM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
@@ -38,9 +38,9 @@
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-plive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
@@ -217,6 +217,36 @@
           "name": "Malwa Stallions",
           "shortName": "MWS",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bundelkhand Bulls Women Vs Royal Nimar Eagles Women",
+      "tournament": "Madhya Pradesh League T20 Women's 2026",
+      "match_id": 143022,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 09:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Bundelkhand Bulls Women",
+          "shortName": "BBW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+        },
+        {
+          "name": "Royal Nimar Eagles Women",
+          "shortName": "RNE",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -620,73 +650,13 @@
     },
     {
       "category": "Cricket",
-      "title": "Sri Lanka Vs West Indies",
-      "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142972,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "03 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-      "teams": [
-        {
-          "name": "Sri Lanka",
-          "shortName": "SL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-        },
-        {
-          "name": "West Indies",
-          "shortName": "WI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Speen Ghar Region Vs Amo Region",
-      "tournament": "Supercola Regional List A Tournament, 2026",
-      "match_id": 142754,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "04 June 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-      "teams": [
-        {
-          "name": "Speen Ghar Region",
-          "shortName": "SG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
-        },
-        {
-          "name": "Amo Region",
-          "shortName": "AM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mumbai Marines",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
       "tournament": "Big Cricket League Season 2",
-      "match_id": 142986,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "04 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
+      "match_id": 142989,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
       "teams": [
         {
           "name": "Gujarat Diamonds",
@@ -694,39 +664,9 @@
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
         },
         {
-          "name": "Mumbai Marines",
-          "shortName": "MM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Ireland Women Vs Pakistan Women",
-      "tournament": "Women's T20I Tri-Series in Ireland 2026",
-      "match_id": 143057,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "04 June 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Ireland Women",
-          "shortName": "IR-W",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
-        },
-        {
-          "name": "Pakistan Women",
-          "shortName": "PK-W",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+          "name": "UP Brij Stars",
+          "shortName": "UPBS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -830,23 +770,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Bundelkhand Bulls Women Vs Royal Nimar Eagles Women",
-      "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143022,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 09:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+      "title": "Speen Ghar Region Vs Amo Region",
+      "tournament": "Supercola Regional List A Tournament, 2026",
+      "match_id": 142754,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "04 June 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
       "teams": [
         {
-          "name": "Bundelkhand Bulls Women",
-          "shortName": "BBW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+          "name": "Speen Ghar Region",
+          "shortName": "SG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
         },
         {
-          "name": "Royal Nimar Eagles Women",
-          "shortName": "RNE",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
+          "name": "Amo Region",
+          "shortName": "AM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -860,13 +800,13 @@
     },
     {
       "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
+      "title": "Gujarat Diamonds Vs Mumbai Marines",
       "tournament": "Big Cricket League Season 2",
-      "match_id": 142989,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
+      "match_id": 142986,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "04 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
       "teams": [
         {
           "name": "Gujarat Diamonds",
@@ -874,9 +814,39 @@
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
         },
         {
-          "name": "UP Brij Stars",
-          "shortName": "UPBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
+          "name": "Mumbai Marines",
+          "shortName": "MM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Ireland Women Vs Pakistan Women",
+      "tournament": "Women's T20I Tri-Series in Ireland 2026",
+      "match_id": 143057,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "04 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Ireland Women",
+          "shortName": "IR-W",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
+        },
+        {
+          "name": "Pakistan Women",
+          "shortName": "PK-W",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1117,6 +1087,36 @@
           "name": "Monaco",
           "shortName": "Monaco",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Indore Pink Panthers Vs Jabalpur Royal Lions",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143064,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022397/143064_CASACARDS_APP.png",
+      "teams": [
+        {
+          "name": "Indore Pink Panthers",
+          "shortName": "IPP",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
+        },
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortName": "JRL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
