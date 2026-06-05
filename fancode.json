@@ -3,9 +3,9 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 7:45:26 am",
+  "updatedAt": "5/6/2026, 7:55:38 am",
   "_meta": {
-    "source_updated": "07:42:04 AM 05-06-2026"
+    "source_updated": "07:49:04 AM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
@@ -38,9 +38,9 @@
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-plive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
@@ -1069,36 +1069,6 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F3 MONACO 2026",
-      "match_id": 139715,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 02:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-      "teams": [
-        {
-          "name": "Sprint Race",
-          "shortName": "Sprint Race",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Indore Pink Panthers Vs Jabalpur Royal Lions",
       "tournament": "Madhya Pradesh League T20, 2026",
@@ -1117,6 +1087,36 @@
           "name": "Jabalpur Royal Lions",
           "shortName": "JRL",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 MONACO 2026",
+      "match_id": 139715,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 02:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+      "teams": [
+        {
+          "name": "Sprint Race",
+          "shortName": "Sprint Race",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
