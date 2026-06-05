@@ -3,9 +3,9 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 11:49:48 pm",
+  "updatedAt": "6/6/2026, 12:00:37 am",
   "_meta": {
-    "source_updated": "11:42:04 PM 05-06-2026"
+    "source_updated": "11:49:04 PM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
@@ -137,9 +137,9 @@
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-plive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8",
@@ -814,36 +814,6 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 3",
-      "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
-      "match_id": 139449,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
-      "teams": [
-        {
-          "name": "Practice 3",
-          "shortName": "P3",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
       "category": "Football",
       "title": "Brazil Vs Egypt",
       "tournament": "International Friendlies 2026",
@@ -862,6 +832,36 @@
           "name": "Egypt",
           "shortName": "EGY",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 3",
+      "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
+      "match_id": 139449,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
+      "teams": [
+        {
+          "name": "Practice 3",
+          "shortName": "P3",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
