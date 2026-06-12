@@ -3,181 +3,27 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/6/2026, 9:35:03 am",
+  "updatedAt": "12/6/2026, 8:44:47 am",
   "_meta": {
-    "source_updated": "09:14:02 AM 08-06-2026"
+    "source_updated": "05:35:15 AM 12-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 45,
+  "total_matches": 48,
   "live_matches": 1,
-  "upcoming_matches": 44,
+  "upcoming_matches": 47,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bundelkhand Bulls Women Vs Chambal Ghariyals Women",
-      "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143025,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "08 June 2026 09:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Bundelkhand Bulls Women",
-          "shortName": "BBW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
-        },
-        {
-          "name": "Chambal Ghariyals Women",
-          "shortName": "CGW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143025_english_hls_e7fa39261d84423_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143025_english_hls_e7fa39261d84423_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143025_english_hls_e7fa39261d84423_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143025_english_hls_e7fa39261d84423_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143025_english_hls_e7fa39261d84423_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jb Bruges Vs Liege Red Lions",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143153,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143153_6108_JB_LRL_FC-Web.png",
-      "teams": [
-        {
-          "name": "JB Bruges",
-          "shortName": "JB",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png"
-        },
-        {
-          "name": "Liege Red Lions",
-          "shortName": "LRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Southern Spartans Vs Northern Challengers",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142985,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB_1780318028391.jpg",
-      "teams": [
-        {
-          "name": "Southern Spartans",
-          "shortName": "SS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png"
-        },
-        {
-          "name": "Northern Challengers",
-          "shortName": "NC",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Antwerp Anchors Vs Ghent Gladiators",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143154,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
-      "teams": [
-        {
-          "name": "Antwerp Anchors",
-          "shortName": "AA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
-        },
-        {
-          "name": "Ghent Gladiators",
-          "shortName": "GG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Netherlands Vs Usa",
-      "tournament": "ICC CWC League 2 Canada, 2026",
-      "match_id": 143196,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143196_6110_NED_USA_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Netherlands",
-          "shortName": "NED",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-        },
-        {
-          "name": "USA",
-          "shortName": "USA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
     {
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142974,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+      "match_id": 142975,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "12 June 2026 06:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
       "teams": [
         {
           "name": "West Indies",
@@ -190,773 +36,27 @@
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
         }
       ],
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bundelkhand Bulls Vs Bhopal Leopards",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143068,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 02:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022415/143068_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Bundelkhand Bulls",
-          "shortName": "BBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
-        },
-        {
-          "name": "Bhopal Leopards",
-          "shortName": "BL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png"
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8"
         }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Chambal Ghariyals Vs Ujjain Falcons",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143069,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022406/143069_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Chambal Ghariyals",
-          "shortName": "CGS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png"
-        },
-        {
-          "name": "Ujjain Falcons",
-          "shortName": "UJF",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Malwa Stallions Vs Indore Pink Panthers",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143070,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022390/143070_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Malwa Stallions",
-          "shortName": "MWS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
-        },
-        {
-          "name": "Indore Pink Panthers",
-          "shortName": "IPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142965,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card.png",
-      "teams": [
-        {
-          "name": "Bangladesh",
-          "shortName": "BAN",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-        },
-        {
-          "name": "Australia",
-          "shortName": "AUS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mp Tigers",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142993,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg",
-      "teams": [
-        {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
-        },
-        {
-          "name": "MP Tigers",
-          "shortName": "MPT",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - Libema Open",
-      "match_id": 143125,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-      "teams": [
-        {
-          "name": "Day 1",
-          "shortName": "Day 1",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Netherlands",
-          "shortName": "Netherlands",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - BOSS OPEN 2026",
-      "match_id": 143118,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-      "teams": [
-        {
-          "name": "Day 1",
-          "shortName": "Day 1",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Stuttgart, Germany",
-          "shortName": "Stuttgart, Germany",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1   Mens Doubles",
-      "tournament": "ATP 250 - Libema Open",
-      "match_id": 143345,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "08 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-      "teams": [
-        {
-          "name": "Day 1 - Mens Doubles",
-          "shortName": "Day 1 - Mens Doubles",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Netherlands",
-          "shortName": "Netherlands",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Liege Red Lions Vs Akcel United Brussels",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143155,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
-      "teams": [
-        {
-          "name": "Liege Red Lions",
-          "shortName": "LRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png"
-        },
-        {
-          "name": "Akcel United Brussels",
-          "shortName": "AUB",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Southern Spartans Vs Gujarat Diamonds",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142991,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "07 June 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg",
-      "teams": [
-        {
-          "name": "Southern Spartans",
-          "shortName": "SS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png"
-        },
-        {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jb Bruges Vs Ghent Gladiators",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143151,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "07 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143151_6108_JB_GG_FC-Web.png",
-      "teams": [
-        {
-          "name": "JB Bruges",
-          "shortName": "JB",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png"
-        },
-        {
-          "name": "Ghent Gladiators",
-          "shortName": "GG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mp Tigers Vs Up Brij Stars",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142992,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "07 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142992_6094_MPT_UPBS_FC-WEB_1780318028366.jpg",
-      "teams": [
-        {
-          "name": "MP Tigers",
-          "shortName": "MPT",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png"
-        },
-        {
-          "name": "UP Brij Stars",
-          "shortName": "UPBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Antwerp Anchors Vs Akcel United Brussels",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143152,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "07 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png",
-      "teams": [
-        {
-          "name": "Antwerp Anchors",
-          "shortName": "AA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
-        },
-        {
-          "name": "Akcel United Brussels",
-          "shortName": "AUB",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Up Brij Stars Vs Southern Spartans",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142994,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg",
-      "teams": [
-        {
-          "name": "UP Brij Stars",
-          "shortName": "UPBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
-        },
-        {
-          "name": "Southern Spartans",
-          "shortName": "SS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jb Bruges Vs Antwerp Anchors",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143156,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png",
-      "teams": [
-        {
-          "name": "JB Bruges",
-          "shortName": "JB",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png"
-        },
-        {
-          "name": "Antwerp Anchors",
-          "shortName": "AA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 250   Libema Open",
-      "tournament": "ATP 250 - Libema Open",
-      "match_id": 143126,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-      "teams": [
-        {
-          "name": "ATP 250 - Libema Open",
-          "shortName": "ATP 250 - Libema Open",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Netherlands",
-          "shortName": "Netherlands",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 250   Boss Open 2026",
-      "tournament": "ATP 250 - BOSS OPEN 2026",
-      "match_id": 143119,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "09 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-      "teams": [
-        {
-          "name": "ATP 250 - BOSS OPEN 2026",
-          "shortName": "ATP 250 - BOSS OPEN 2026",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Stuttgart, Germany",
-          "shortName": "Stuttgart, Germany",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Argentina Vs Iceland",
-      "tournament": "International Friendlies 2026",
-      "match_id": 143344,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 06:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
-      "teams": [
-        {
-          "name": "Argentina",
-          "shortName": "ARG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png"
-        },
-        {
-          "name": "Iceland",
-          "shortName": "ICE",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ICE-FT1@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gwalior Shernis Vs Royal Nimar Eagles Women",
-      "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143026,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 09:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Gwalior Shernis",
-          "shortName": "GWS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GSW@2x.png"
-        },
-        {
-          "name": "Royal Nimar Eagles Women",
-          "shortName": "RNE",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Ghent Gladiators Vs Akcel United Brussels",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143157,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 12:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143157_6108_GG_AUB_FC-Web.png",
-      "teams": [
-        {
-          "name": "Ghent Gladiators",
-          "shortName": "GG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
-        },
-        {
-          "name": "Akcel United Brussels",
-          "shortName": "AUB",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mumbai Marines Vs Mp Tigers",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142995,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142995_6094_MM_MPT_FC-WEB_1780318028370.jpg",
-      "teams": [
-        {
-          "name": "Mumbai Marines",
-          "shortName": "MM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
-        },
-        {
-          "name": "MP Tigers",
-          "shortName": "MPT",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Antwerp Anchors Vs Liege Red Lions",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143158,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143158_6108_AA_LRL_FC-Web.png",
-      "teams": [
-        {
-          "name": "Antwerp Anchors",
-          "shortName": "AA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
-        },
-        {
-          "name": "Liege Red Lions",
-          "shortName": "LRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Indore Pink Panthers Vs Rewa Jaguars",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143071,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 02:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022377/143071_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Indore Pink Panthers",
-          "shortName": "IPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
-        },
-        {
-          "name": "Rewa Jaguars",
-          "shortName": "RW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bhopal Leopards Vs Ujjain Falcons",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143072,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022420/143072_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Bhopal Leopards",
-          "shortName": "BL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png"
-        },
-        {
-          "name": "Ujjain Falcons",
-          "shortName": "UJF",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Northern Challengers",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142996,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142996_6094_GD_NC_FC-WEB_1780318029118.jpg",
-      "teams": [
-        {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
-        },
-        {
-          "name": "Northern Challengers",
-          "shortName": "NC",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
       }
     },
     {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143159,
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142999,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 08:00 PM",
+      "startTime": "12 June 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "teams": [
         {
@@ -981,23 +81,263 @@
     },
     {
       "category": "Cricket",
-      "title": "Canada Vs Netherlands",
-      "tournament": "ICC CWC League 2 Canada, 2026",
-      "match_id": 143197,
+      "title": "Akcel United Brussels Vs Ghent Gladiators",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143162,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143197_6110_CAN_NED_fc-web.jpg",
+      "startTime": "12 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143157_6108_GG_AUB_FC-Web.png",
       "teams": [
+        {
+          "name": "Akcel United Brussels",
+          "shortName": "AUB",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
+        },
+        {
+          "name": "Ghent Gladiators",
+          "shortName": "GG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 143000,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "teams": [
+        {
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+        },
+        {
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Antwerp Anchors Vs Jb Bruges",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143163,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png",
+      "teams": [
+        {
+          "name": "Antwerp Anchors",
+          "shortName": "AA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
+        },
+        {
+          "name": "JB Bruges",
+          "shortName": "JB",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Usa Vs Canada",
+      "tournament": "ICC CWC League 2 Canada, 2026",
+      "match_id": 143198,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143198_6110_USA_CAN_fc-web.jpg",
+      "teams": [
+        {
+          "name": "USA",
+          "shortName": "USA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png"
+        },
         {
           "name": "Canada",
           "shortName": "CAN",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Rewa Jaguars Vs Royal Nimar Eagles",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143077,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Rewa Jaguars",
+          "shortName": "RW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png"
         },
         {
-          "name": "Netherlands",
-          "shortName": "NED",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+          "name": "Royal Nimar Eagles",
+          "shortName": "RNG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhopal Leopards Vs Chambal Ghariyals",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143078,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143078_6102_BL_CGS_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Bhopal Leopards",
+          "shortName": "BL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png"
+        },
+        {
+          "name": "Chambal Ghariyals",
+          "shortName": "CGS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Indore Pink Panthers Vs Bundelkhand Bulls",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143079,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143079_6102_IPP_BBS_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Indore Pink Panthers",
+          "shortName": "IPP",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
+        },
+        {
+          "name": "Bundelkhand Bulls",
+          "shortName": "BBS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Gwalior Shernis Vs Bundelkhand Bulls Women",
+      "tournament": "Madhya Pradesh League T20 Women's 2026",
+      "match_id": 143028,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Gwalior Shernis",
+          "shortName": "GWS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GSW@2x.png"
+        },
+        {
+          "name": "Bundelkhand Bulls Women",
+          "shortName": "BBW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F3 BARCELONA 2026",
+      "match_id": 139717,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 01:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+      "teams": [
+        {
+          "name": "Practice Session",
+          "shortName": "Practice Session",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1013,10 +353,10 @@
       "category": "Tennis",
       "title": "Atp 250   Libema Open",
       "tournament": "ATP 250 - Libema Open",
-      "match_id": 143127,
+      "match_id": 143129,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 02:30 PM",
+      "startTime": "12 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
       "teams": [
         {
@@ -1043,10 +383,790 @@
       "category": "Tennis",
       "title": "Atp 250   Boss Open 2026",
       "tournament": "ATP 250 - BOSS OPEN 2026",
-      "match_id": 143120,
+      "match_id": 143122,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 02:30 PM",
+      "startTime": "12 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
+      "teams": [
+        {
+          "name": "ATP 250 - BOSS OPEN 2026",
+          "shortName": "ATP 250 - BOSS OPEN 2026",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Stuttgart, Germany",
+          "shortName": "Stuttgart, Germany",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Free Practice",
+      "tournament": "F2 BARCELONA 2026",
+      "match_id": 139570,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 02:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
+      "teams": [
+        {
+          "name": "Free Practice",
+          "shortName": "Free Practice",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2   Main Feed",
+      "tournament": "RBC Canadian Open 2026",
+      "match_id": 143207,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 04:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "teams": [
+        {
+          "name": "Day 2 - Main Feed",
+          "shortName": "Day 2 - Main Feed",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+          "shortName": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2   Featured Holes",
+      "tournament": "RBC Canadian Open 2026",
+      "match_id": 143209,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 04:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "teams": [
+        {
+          "name": "Day 2 - Featured Holes",
+          "shortName": "Day 2 - Featured Holes",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+          "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139452,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+      "teams": [
+        {
+          "name": "Practice 1",
+          "shortName": "P1",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2   Featured Groups",
+      "tournament": "RBC Canadian Open 2026",
+      "match_id": 143210,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "teams": [
+        {
+          "name": "Day 2 - Featured Groups",
+          "shortName": "Day 2 - Featured Groups",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+          "shortName": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2   Marquee Group",
+      "tournament": "RBC Canadian Open 2026",
+      "match_id": 143208,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "teams": [
+        {
+          "name": "Day 2 - Marquee Group",
+          "shortName": "Day 2 - Marquee Group",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+          "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F3 BARCELONA 2026",
+      "match_id": 139718,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+      "teams": [
+        {
+          "name": "Qualifying Session",
+          "shortName": "Qualifying Session",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F2 BARCELONA 2026",
+      "match_id": 139571,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 07:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
+      "teams": [
+        {
+          "name": "Qualifying Session",
+          "shortName": "Qualifying Session",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 2",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139453,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+      "teams": [
+        {
+          "name": "Practice 2",
+          "shortName": "P2",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143388,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "12 June 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Spain_barcelona_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Practice Session",
+          "shortName": "Practice Session",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
+        },
+        {
+          "name": " Circuit de Barcelona-Catalunya",
+          "shortName": " Circuit de Barcelona-Catalunya",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Australia Vs Bangladesh",
+      "tournament": "Australia tour of Bangladesh, 2026",
+      "match_id": 142966,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "11 June 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",
+      "teams": [
+        {
+          "name": "Australia",
+          "shortName": "AUS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
+        },
+        {
+          "name": "Bangladesh",
+          "shortName": "BAN",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mumbai Marines Vs Southern Spartans",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142997,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "11 June 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142997_6094_MM_SS_FC-WEB_1780318029115.jpg",
+      "teams": [
+        {
+          "name": "Mumbai Marines",
+          "shortName": "MM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
+        },
+        {
+          "name": "Southern Spartans",
+          "shortName": "SS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Antwerp Anchors Vs Akcel United Brussels",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143160,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "11 June 2026 04:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781153194943/143160_CASACARDS_APP.png",
+      "teams": [
+        {
+          "name": "Antwerp Anchors",
+          "shortName": "AA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
+        },
+        {
+          "name": "Akcel United Brussels",
+          "shortName": "AUB",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mp Tigers Vs Northern Challengers",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142998,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "11 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142998_6094_MPT_NC_FC-WEB_1780318028400.jpg",
+      "teams": [
+        {
+          "name": "MP Tigers",
+          "shortName": "MPT",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png"
+        },
+        {
+          "name": "Northern Challengers",
+          "shortName": "NC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jb Bruges Vs Ghent Gladiators",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143161,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "11 June 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/web.png",
+      "teams": [
+        {
+          "name": "JB Bruges",
+          "shortName": "JB",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png"
+        },
+        {
+          "name": "Ghent Gladiators",
+          "shortName": "GG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Malwa Stallions Vs Jabalpur Royal Lions",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143080,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143080_6102_MWS_JRL_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Malwa Stallions",
+          "shortName": "MWS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
+        },
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortName": "JRL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2   World Feed",
+      "tournament": "RBC Canadian Open 2026",
+      "match_id": 143206,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "teams": [
+        {
+          "name": "Day 2 - World Feed",
+          "shortName": "Day 2 - World Feed",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+        },
+        {
+          "name": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+          "shortName": "TPC Toronto at Osprey Valley, Caledon, Ontario",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Antwerp Anchors Vs Ghent Gladiators",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143164,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
+      "teams": [
+        {
+          "name": "Antwerp Anchors",
+          "shortName": "AA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
+        },
+        {
+          "name": "Ghent Gladiators",
+          "shortName": "GG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bundelkhand Bulls Vs Gwalior Cheetahs",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143081,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143081_6102_BBS_GC_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Bundelkhand Bulls",
+          "shortName": "BBS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+        },
+        {
+          "name": "Gwalior Cheetahs",
+          "shortName": "GC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Ujjain Falcons Vs Rewa Jaguars",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143082,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143082_6102_UJF_RW_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Ujjain Falcons",
+          "shortName": "UJF",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
+        },
+        {
+          "name": "Rewa Jaguars",
+          "shortName": "RW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 143001,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "teams": [
+        {
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+        },
+        {
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Europe   Race 2",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143349,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
+      "teams": [
+        {
+          "name": "Europe - Race 2",
+          "shortName": "Europe - Race 2",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
+        },
+        {
+          "name": "Le Mans, France",
+          "shortName": "Le Mans, France",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Akcel United Brussels Vs Jb Bruges",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143165,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
+      "teams": [
+        {
+          "name": "Akcel United Brussels",
+          "shortName": "AUB",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
+        },
+        {
+          "name": "JB Bruges",
+          "shortName": "JB",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 BARCELONA 2026",
+      "match_id": 139719,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 01:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+      "teams": [
+        {
+          "name": "Sprint Race",
+          "shortName": "Sprint Race",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Libema Open",
+      "tournament": "ATP 250 - Libema Open",
+      "match_id": 143130,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+      "teams": [
+        {
+          "name": "ATP 250 - Libema Open",
+          "shortName": "ATP 250 - Libema Open",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "Netherlands",
+          "shortName": "Netherlands",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Boss Open 2026",
+      "tournament": "ATP 250 - BOSS OPEN 2026",
+      "match_id": 143123,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
       "teams": [
         {
@@ -1071,180 +1191,25 @@
     },
     {
       "category": "Cricket",
-      "title": "Bundelkhand Bulls Vs Malwa Stallions",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143073,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022399/143073_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Bundelkhand Bulls",
-          "shortName": "BBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
-        },
-        {
-          "name": "Malwa Stallions",
-          "shortName": "MWS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142966,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "11 June 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card.png",
-      "teams": [
-        {
-          "name": "Bangladesh",
-          "shortName": "BAN",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-        },
-        {
-          "name": "Australia",
-          "shortName": "AUS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Royal Nimar Eagles Women Vs Bhopal Wolves Women",
+      "title": "Chambal Ghariyals Women Vs Tbc",
       "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143027,
+      "match_id": 143029,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "11 June 2026 09:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+      "startTime": "13 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "teams": [
         {
-          "name": "Royal Nimar Eagles Women",
-          "shortName": "RNE",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
+          "name": "Chambal Ghariyals Women",
+          "shortName": "CGW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png"
         },
         {
-          "name": "Bhopal Wolves Women",
-          "shortName": "BWW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BWW@2x.png"
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
         }
       ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bundelkhand Bulls Women Vs Chambal Ghariyals Women",
-      "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143025,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "08 June 2026 09:30 AM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jb Bruges Vs Liege Red Lions",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143153,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "08 June 2026 04:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Southern Spartans Vs Northern Challengers",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142985,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "08 June 2026 07:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Antwerp Anchors Vs Ghent Gladiators",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143154,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "08 June 2026 08:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Netherlands Vs Usa",
-      "tournament": "ICC CWC League 2 Canada, 2026",
-      "match_id": 143196,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "08 June 2026 08:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1258,10 +1223,10 @@
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142974,
-      "status": "NOT_STARTED",
+      "match_id": 142975,
+      "status": "STARTED",
       "streamingStatus": "",
-      "startTime": "09 June 2026 01:00 AM",
+      "startTime": "12 June 2026 06:00 AM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [],
       "language": "BLOODY_SWEET",
@@ -1275,13 +1240,127 @@
     },
     {
       "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142965,
+      "title": "Tbc Vs Tbc",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142999,
       "status": "NOT_STARTED",
       "streamingStatus": "",
-      "startTime": "09 June 2026 10:30 AM",
+      "startTime": "12 June 2026 02:00 PM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Akcel United Brussels Vs Ghent Gladiators",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143162,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "12 June 2026 04:00 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 143000,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "12 June 2026 07:00 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Antwerp Anchors Vs Jb Bruges",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143163,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "12 June 2026 08:00 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Usa Vs Canada",
+      "tournament": "ICC CWC League 2 Canada, 2026",
+      "match_id": 143198,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "12 June 2026 08:30 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139452,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "12 June 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 2",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139453,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "12 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
       "teams": [],
       "language": "BLOODY_SWEET",
       "streams": {
