@@ -3,17 +3,17 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/6/2026, 1:02:45 pm",
+  "updatedAt": "13/6/2026, 2:26:44 pm",
   "_meta": {
-    "source_updated": "12:42:00 PM 13-06-2026"
+    "source_updated": "02:13:46 PM 13-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 9,
-  "live_matches": 0,
-  "upcoming_matches": 9,
+  "total_matches": 8,
+  "live_matches": 1,
+  "upcoming_matches": 7,
   "matches": [
     {
       "category": "Cricket",
@@ -24,7 +24,18 @@
       "streamingStatus": "",
       "startTime": "13 June 2026 04:00 PM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "Antwerp Anchors",
+          "shortName": "AA",
+          "flag": ""
+        },
+        {
+          "name": "Ghent Gladiators",
+          "shortName": "GG",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -43,7 +54,18 @@
       "streamingStatus": "",
       "startTime": "13 June 2026 07:00 PM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "Gujarat Diamonds",
+          "shortName": "GD",
+          "flag": ""
+        },
+        {
+          "name": "UP Brij Stars",
+          "shortName": "UPBS",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -62,7 +84,18 @@
       "streamingStatus": "",
       "startTime": "13 June 2026 08:00 PM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "Akcel United Brussels",
+          "shortName": "AUB",
+          "flag": ""
+        },
+        {
+          "name": "JB Bruges",
+          "shortName": "JB",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -81,7 +114,18 @@
       "streamingStatus": "",
       "startTime": "14 June 2026 06:00 AM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "West Indies",
+          "shortName": "WI",
+          "flag": ""
+        },
+        {
+          "name": "Sri Lanka",
+          "shortName": "SL",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -100,7 +144,18 @@
       "streamingStatus": "",
       "startTime": "14 June 2026 10:30 AM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "Bangladesh",
+          "shortName": "BAN",
+          "flag": ""
+        },
+        {
+          "name": "Australia",
+          "shortName": "AUS",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -119,7 +174,18 @@
       "streamingStatus": "",
       "startTime": "13 June 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "Practice 3",
+          "shortName": "P3",
+          "flag": ""
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "LOC",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -138,26 +204,18 @@
       "streamingStatus": "",
       "startTime": "13 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Malwa Stallions Vs Jabalpur Royal Lions",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143080,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "13 June 2026 09:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143080_6102_MWS_JRL_FC-WEB.jpg",
-      "teams": [],
+      "teams": [
+        {
+          "name": "Qualifying",
+          "shortName": "QF",
+          "flag": ""
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "LOC",
+          "flag": ""
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -169,21 +227,36 @@
     },
     {
       "category": "Motorsports",
-      "title": "Ferrari Challenge Series",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 143349,
+      "title": "Formula 3",
+      "tournament": "F3 BARCELONA 2026",
+      "match_id": 139719,
       "status": "STARTED",
       "streamingStatus": "",
-      "startTime": "13 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-      "teams": [],
-      "language": "BLOODY_SWEET",
+      "startTime": "13 June 2026 01:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2_1781168885520.jpg",
+      "teams": [
+        {
+          "name": "Sprint Race",
+          "shortName": "F3",
+          "flag": ""
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "LOC",
+          "flag": ""
+        }
+      ],
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139719_english_hls_dde10f96a828050_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139719_english_hls_dde10f96a828050_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
-        "backup": {}
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139719_english_hls_dde10f96a828050_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139719_english_hls_dde10f96a828050_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139719_english_hls_dde10f96a828050_1ta-di_h264/index.m3u8"
+        }
       }
     }
   ]
