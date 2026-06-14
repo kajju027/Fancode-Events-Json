@@ -1,19 +1,13 @@
 {
   "Author": "@Sayan_xyz",
   "Telegram": "https://t.me/Sayan_xyz",
-  "GitHub": "https://github.com/Prime-Sonu",
+  "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/6/2026, 1:26:30 am",
-  "_meta": {
-    "source_updated": "01:07:05 AM 15-06-2026"
-  },
-  "headers": {
-    "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
-    "Referer": "https://fancode.com/"
-  },
+  "updatedAt": "15/6/2026, 2:18:12 am",
+  "_src_updated": "02:14:03 AM 15-06-2026",
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Football",
@@ -23,18 +17,6 @@
       "status": "LIVE",
       "startTime": "15 June 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Málaga",
-          "shortName": "MAG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png"
-        },
-        {
-          "name": "Almería",
-          "shortName": "ALM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png"
-        }
-      ],
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
@@ -42,53 +24,26 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
           "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8"
-        },
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4   Featured Groups",
-      "tournament": "RBC Canadian Open 2026",
-      "match_id": 143220,
-      "status": "LIVE",
-      "startTime": "14 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 4 - Featured Groups",
-          "shortName": "Day 4 - Featured Groups",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-          "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
         }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8"
-        },
-        "quality_streams": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/240p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/360p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/480p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/540p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/720p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE"
+          },
+          "cookie": "hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE",
+          "expires": "1781549049",
+          "expire_date": "Tuesday, June 16, 2026, 12:14:09 AM"
+        }
       }
     },
     {
@@ -99,18 +54,6 @@
       "status": "LIVE",
       "startTime": "14 June 2026 08:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 4 - Main Feed",
-          "shortName": "Day 4 - Main Feed",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
@@ -118,15 +61,26 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
           "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8"
-        },
-        "quality_streams": {}
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/240p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/360p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/480p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/540p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/720p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P"
+          },
+          "cookie": "hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P",
+          "expires": "1781547970",
+          "expire_date": "Monday, June 15, 2026, 11:56:10 PM"
+        }
       }
     },
     {
@@ -134,38 +88,19 @@
       "title": "Day 4   Featured Holes",
       "tournament": "RBC Canadian Open 2026",
       "match_id": 143219,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "14 June 2026 08:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 4 - Featured Holes",
-          "shortName": "Day 4 - Featured Holes",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8"
-        },
-        "quality_streams": {}
-      }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -175,18 +110,6 @@
       "status": "LIVE",
       "startTime": "14 June 2026 09:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 4 - Marquee Group",
-          "shortName": "Day 4 - Marquee Group",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-          "shortName": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
@@ -194,15 +117,26 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
           "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8"
-        },
-        "quality_streams": {}
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/240p.m3u8?hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/360p.m3u8?hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/480p.m3u8?hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/540p.m3u8?hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/720p.m3u8?hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F"
+          },
+          "cookie": "hdntl=Expires=1781552228~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6ezJQOkL9x2mCoPsIUZWct55vAIMvYMslS84rzl4Y3xh2dbGnDVAL8SYp0U5xn_JCV-VUybAtzaMsAEdQkfwX4F",
+          "expires": "1781552228",
+          "expire_date": "Tuesday, June 16, 2026, 1:07:08 AM"
+        }
       }
     },
     {
@@ -213,18 +147,6 @@
       "status": "LIVE",
       "startTime": "14 June 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 4 - World Feed",
-          "shortName": "Day 4 - World Feed",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8",
@@ -232,15 +154,26 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8",
           "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8"
-        },
-        "quality_streams": {}
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/240p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/360p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/480p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/540p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/720p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM"
+          },
+          "cookie": "hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM",
+          "expires": "1781542266",
+          "expire_date": "Monday, June 15, 2026, 10:21:06 PM"
+        }
       }
     },
     {
@@ -251,18 +184,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 06:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
-      "teams": [
-        {
-          "name": "West Indies",
-          "shortName": "WI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-        },
-        {
-          "name": "Sri Lanka",
-          "shortName": "SL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -270,12 +191,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -285,18 +203,6 @@
       "status": "UPCOMING",
       "startTime": "14 June 2026 01:50 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Amritsar Alligators",
-          "shortName": "AAL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AAL@2x.png"
-        },
-        {
-          "name": "Ludhiana Lions",
-          "shortName": "LLI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLI@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -304,12 +210,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -319,18 +222,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 12:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Stockholm City",
-          "shortName": "STY",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STY@2x.png"
-        },
-        {
-          "name": "Malmo Mavericks",
-          "shortName": "MLM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLM@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -338,12 +229,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -353,18 +241,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 01:50 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143033_6095_PPA_AAL_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Patiala Panthers",
-          "shortName": "PPA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPA@2x.png"
-        },
-        {
-          "name": "Amritsar Alligators",
-          "shortName": "AAL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AAL@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -372,12 +248,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -387,18 +260,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022377/143085_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Rewa Jaguars",
-          "shortName": "RW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png"
-        },
-        {
-          "name": "Gwalior Cheetahs",
-          "shortName": "GC",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -406,12 +267,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -421,18 +279,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143034_6095_LLI_BBU_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Ludhiana Lions",
-          "shortName": "LLI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLI@2x.png"
-        },
-        {
-          "name": "Bathinda Bulls",
-          "shortName": "BBU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBU@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -440,12 +286,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -455,18 +298,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Uppsala Tigers",
-          "shortName": "UPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPP@2x.png"
-        },
-        {
-          "name": "Stockholm United",
-          "shortName": "HMU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HMU@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -474,12 +305,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -489,18 +317,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022419/143086_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Jabalpur Royal Lions",
-          "shortName": "JRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
-        },
-        {
-          "name": "Bhopal Leopards",
-          "shortName": "BL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -508,12 +324,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -523,18 +336,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Vasteras United",
-          "shortName": "VTU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTU@2x.png"
-        },
-        {
-          "name": "Gothenburg Phoenix",
-          "shortName": "GTP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTP@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -542,12 +343,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -557,18 +355,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-      "teams": [
-        {
-          "name": "ATP 500 - HSBC Championship",
-          "shortName": "ATP 500 - HSBC Championship",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "London, Great Britain",
-          "shortName": "London, Great Britain",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -576,12 +362,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -591,18 +374,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-      "teams": [
-        {
-          "name": "ATP 500 - HSBC Championship",
-          "shortName": "ATP 500 - HSBC Championship",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "London, Great Britain",
-          "shortName": "London, Great Britain",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -610,12 +381,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -625,18 +393,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "teams": [
-        {
-          "name": "ATP 500 - Terra Wortmann Open 2026",
-          "shortName": "ATP 500 - Terra Wortmann Open 2026",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Halle, Germany",
-          "shortName": "Halle, Germany",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -644,12 +400,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -659,18 +412,6 @@
       "status": "UPCOMING",
       "startTime": "15 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "teams": [
-        {
-          "name": "ATP 500 - Terra Wortmann Open 2026",
-          "shortName": "ATP 500 - Terra Wortmann Open 2026",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Halle, Germany",
-          "shortName": "Halle, Germany",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -678,46 +419,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Up Brij Stars Vs Gujarat Diamonds",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 143001,
-      "status": "UPCOMING",
-      "startTime": "13 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
-      "teams": [
-        {
-          "name": "UP Brij Stars",
-          "shortName": "UPBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
-        },
-        {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -727,18 +431,6 @@
       "status": "UPCOMING",
       "startTime": "14 June 2026 06:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Sri Lanka",
-          "shortName": "SL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-        },
-        {
-          "name": "West Indies",
-          "shortName": "WI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -746,12 +438,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -761,18 +450,6 @@
       "status": "UPCOMING",
       "startTime": "14 June 2026 10:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",
-      "teams": [
-        {
-          "name": "Bangladesh",
-          "shortName": "BAN",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-        },
-        {
-          "name": "Australia",
-          "shortName": "AUS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -780,12 +457,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -795,18 +469,6 @@
       "status": "UPCOMING",
       "startTime": "14 June 2026 08:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
-      "teams": [
-        {
-          "name": "Antwerp Anchors",
-          "shortName": "AA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
-        },
-        {
-          "name": "Ghent Gladiators",
-          "shortName": "GG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -814,12 +476,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -829,18 +488,6 @@
       "status": "UPCOMING",
       "startTime": "14 June 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg",
-      "teams": [
-        {
-          "name": "USA",
-          "shortName": "USA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png"
-        },
-        {
-          "name": "Netherlands",
-          "shortName": "NED",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -848,12 +495,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -863,18 +507,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 12:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Stockholm United",
-          "shortName": "HMU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HMU@2x.png"
-        },
-        {
-          "name": "Gothenburg Phoenix",
-          "shortName": "GTP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTP@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -882,12 +514,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -897,18 +526,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143035_6095_LLI_PPA_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Ludhiana Lions",
-          "shortName": "LLI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLI@2x.png"
-        },
-        {
-          "name": "Patiala Panthers",
-          "shortName": "PPA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPA@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -916,12 +533,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -931,18 +545,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022416/143087_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Indore Pink Panthers",
-          "shortName": "IPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
-        },
-        {
-          "name": "Royal Nimar Eagles",
-          "shortName": "RNG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -950,12 +552,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -965,18 +564,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143036_6095_AAL_BBU_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Amritsar Alligators",
-          "shortName": "AAL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AAL@2x.png"
-        },
-        {
-          "name": "Bathinda Bulls",
-          "shortName": "BBU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBU@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -984,12 +571,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -999,18 +583,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Uppsala Tigers",
-          "shortName": "UPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPP@2x.png"
-        },
-        {
-          "name": "Malmo Mavericks",
-          "shortName": "MLM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLM@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1018,12 +590,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -1033,18 +602,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Netherlands",
-          "shortName": "NED",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-        },
-        {
-          "name": "Canada",
-          "shortName": "CAN",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1052,12 +609,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -1067,18 +621,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-      "teams": [
-        {
-          "name": "ATP 500 - HSBC Championship",
-          "shortName": "ATP 500 - HSBC Championship",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "London, Great Britain",
-          "shortName": "London, Great Britain",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1086,12 +628,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -1101,18 +640,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-      "teams": [
-        {
-          "name": "ATP 500 - HSBC Championship",
-          "shortName": "ATP 500 - HSBC Championship",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "London, Great Britain",
-          "shortName": "London, Great Britain",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1120,12 +647,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -1135,18 +659,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "teams": [
-        {
-          "name": "ATP 500 - Terra Wortmann Open 2026",
-          "shortName": "ATP 500 - Terra Wortmann Open 2026",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Halle, Germany",
-          "shortName": "Halle, Germany",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1154,12 +666,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -1169,18 +678,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "teams": [
-        {
-          "name": "ATP 500 - Terra Wortmann Open 2026",
-          "shortName": "ATP 500 - Terra Wortmann Open 2026",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-        },
-        {
-          "name": "Halle, Germany",
-          "shortName": "Halle, Germany",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1188,12 +685,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -1203,18 +697,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022367/143088_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Rewa Jaguars",
-          "shortName": "RW",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png"
-        },
-        {
-          "name": "Jabalpur Royal Lions",
-          "shortName": "JRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1222,12 +704,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -1237,18 +716,6 @@
       "status": "UPCOMING",
       "startTime": "16 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Vasteras United",
-          "shortName": "VTU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTU@2x.png"
-        },
-        {
-          "name": "Stockholm City",
-          "shortName": "STY",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STY@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1256,12 +723,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -1271,18 +735,6 @@
       "status": "UPCOMING",
       "startTime": "17 June 2026 01:30 PM",
       "image": "https://images.fancode.com/aig/match/v1781455524834/142968_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Bangladesh",
-          "shortName": "BAN",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-        },
-        {
-          "name": "Australia",
-          "shortName": "AUS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1290,12 +742,9 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -1305,18 +754,6 @@
       "status": "UPCOMING",
       "startTime": "17 June 2026 12:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Malmo Mavericks",
-          "shortName": "MLM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLM@2x.png"
-        },
-        {
-          "name": "Vasteras United",
-          "shortName": "VTU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTU@2x.png"
-        }
-      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1324,12 +761,47 @@
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Firozpur Falcons Vs Moga Mongoose",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143037,
+      "status": "UPCOMING",
+      "startTime": "17 June 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143037_6095_FFA_MMO_fc-app.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhopal Leopards Vs Malwa Stallions",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143089,
+      "status": "UPCOMING",
+      "startTime": "17 June 2026 03:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022399/143089_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     }
   ]
 }
