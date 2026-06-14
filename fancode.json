@@ -3,16 +3,16 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/6/2026, 1:21:27 pm",
+  "updatedAt": "14/6/2026, 5:21:01 pm",
   "_meta": {
-    "source_updated": "01:14:01 PM 14-06-2026"
+    "source_updated": "04:28:09 PM 14-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 38,
-  "live_matches": 2,
+  "total_matches": 40,
+  "live_matches": 6,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -55,38 +55,76 @@
     },
     {
       "category": "Cricket",
-      "title": "Chambal Ghariyals Vs Indore Pink Panthers",
+      "title": "Royal Nimar Eagles Vs Ujjain Falcons",
       "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143083,
+      "match_id": 143084,
       "status": "LIVE",
-      "startTime": "14 June 2026 09:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1780469022421/143083_CASACARDS_SPORTY_APP.png",
+      "startTime": "14 June 2026 02:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png",
       "teams": [
         {
-          "name": "Chambal Ghariyals",
-          "shortName": "CGS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png"
+          "name": "Royal Nimar Eagles",
+          "shortName": "RNG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
         },
         {
-          "name": "Indore Pink Panthers",
-          "shortName": "IPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
+          "name": "Ujjain Falcons",
+          "shortName": "UJF",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
         }
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143083_english_hls_8f4ad2625a37220_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143084_english_hls_b5622624bf9730_1ta-di_h264/index.m3u8"
+        },
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Patiala Panthers Vs Bathinda Bulls",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143032,
+      "status": "LIVE",
+      "startTime": "14 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg",
+      "teams": [
+        {
+          "name": "Patiala Panthers",
+          "shortName": "PPA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPA@2x.png"
+        },
+        {
+          "name": "Bathinda Bulls",
+          "shortName": "BBU",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBU@2x.png"
+        }
+      ],
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8"
         },
         "quality_streams": {}
       }
@@ -161,40 +199,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Amritsar Alligators Vs Ludhiana Lions",
-      "tournament": "Punjab T10 2026",
-      "match_id": 143031,
-      "status": "UPCOMING",
-      "startTime": "14 June 2026 01:50 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg",
-      "teams": [
-        {
-          "name": "Amritsar Alligators",
-          "shortName": "AAL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AAL@2x.png"
-        },
-        {
-          "name": "Ludhiana Lions",
-          "shortName": "LLI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLI@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
       "match_id": 142977,
@@ -229,56 +233,22 @@
     },
     {
       "category": "Cricket",
-      "title": "Royal Nimar Eagles Vs Ujjain Falcons",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143084,
-      "status": "UPCOMING",
-      "startTime": "14 June 2026 02:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Royal Nimar Eagles",
-          "shortName": "RNG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png"
-        },
-        {
-          "name": "Ujjain Falcons",
-          "shortName": "UJF",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Patiala Panthers Vs Bathinda Bulls",
+      "title": "Amritsar Alligators Vs Ludhiana Lions",
       "tournament": "Punjab T10 2026",
-      "match_id": 143032,
+      "match_id": 143031,
       "status": "UPCOMING",
-      "startTime": "14 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg",
+      "startTime": "14 June 2026 01:50 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg",
       "teams": [
         {
-          "name": "Patiala Panthers",
-          "shortName": "PPA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPA@2x.png"
+          "name": "Amritsar Alligators",
+          "shortName": "AAL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AAL@2x.png"
         },
         {
-          "name": "Bathinda Bulls",
-          "shortName": "BBU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBU@2x.png"
+          "name": "Ludhiana Lions",
+          "shortName": "LLI",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLI@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -313,40 +283,6 @@
           "name": "Almería",
           "shortName": "ALM",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143390,
-      "status": "UPCOMING",
-      "startTime": "14 June 2026 01:40 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Spain_barcelona_FC-WEB.jpg",
-      "teams": [
-        {
-          "name": "Race",
-          "shortName": "Race",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png"
-        },
-        {
-          "name": "Circuit de Barcelona-Catalunya",
-          "shortName": "Circuit de Barcelona-Catalunya",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -500,40 +436,6 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Feature Race",
-      "tournament": "F2 BARCELONA 2026",
-      "match_id": 139629,
-      "status": "UPCOMING",
-      "startTime": "14 June 2026 02:55 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
-      "teams": [
-        {
-          "name": "Feature Race",
-          "shortName": "Feature Race",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
-        },
-        {
-          "name": "Barcelona",
-          "shortName": "Barcelona",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Uppsala Tigers Vs Stockholm United",
       "tournament": "Nordic Smash T20 Cup, 2026",
@@ -640,7 +542,7 @@
       "title": "Race",
       "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
       "match_id": 139456,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "14 June 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
       "teams": [
@@ -655,13 +557,81 @@
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
         }
       ],
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139456,
+      "status": "LIVE",
+      "startTime": "14 June 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+      "teams": [
+        {
+          "name": "Race",
+          "shortName": "RC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+        }
+      ],
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139456,
+      "status": "LIVE",
+      "startTime": "14 June 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+      "teams": [
+        {
+          "name": "Race",
+          "shortName": "RC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "Barcelona",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+        }
+      ],
+      "language": "TAMIL",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -841,6 +811,74 @@
     },
     {
       "category": "Cricket",
+      "title": "Jabalpur Royal Lions Vs Bhopal Leopards",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143086,
+      "status": "UPCOMING",
+      "startTime": "15 June 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022419/143086_CASACARDS_SPORTY_APP.png",
+      "teams": [
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortName": "JRL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
+        },
+        {
+          "name": "Bhopal Leopards",
+          "shortName": "BL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Vasteras United Vs Gothenburg Phoenix",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143177,
+      "status": "UPCOMING",
+      "startTime": "15 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+      "teams": [
+        {
+          "name": "Vasteras United",
+          "shortName": "VTU",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTU@2x.png"
+        },
+        {
+          "name": "Gothenburg Phoenix",
+          "shortName": "GTP",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTP@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Ghent Gladiators Vs Antwerp Anchors",
       "tournament": "EUT20 Belgium, 2026",
       "match_id": 143164,
@@ -959,74 +997,6 @@
           "name": "West Indies",
           "shortName": "WI",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jabalpur Royal Lions Vs Bhopal Leopards",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143086,
-      "status": "UPCOMING",
-      "startTime": "15 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022419/143086_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Jabalpur Royal Lions",
-          "shortName": "JRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
-        },
-        {
-          "name": "Bhopal Leopards",
-          "shortName": "BL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Vasteras United Vs Gothenburg Phoenix",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143177,
-      "status": "UPCOMING",
-      "startTime": "15 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-      "teams": [
-        {
-          "name": "Vasteras United",
-          "shortName": "VTU",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTU@2x.png"
-        },
-        {
-          "name": "Gothenburg Phoenix",
-          "shortName": "GTP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTP@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1299,6 +1269,108 @@
           "name": "Bathinda Bulls",
           "shortName": "BBU",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBU@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Uppsala Tigers Vs Malmo Mavericks",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143179,
+      "status": "UPCOMING",
+      "startTime": "16 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+      "teams": [
+        {
+          "name": "Uppsala Tigers",
+          "shortName": "UPP",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPP@2x.png"
+        },
+        {
+          "name": "Malmo Mavericks",
+          "shortName": "MLM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MLM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Netherlands Vs Canada",
+      "tournament": "ICC CWC League 2 Canada, 2026",
+      "match_id": 143200,
+      "status": "UPCOMING",
+      "startTime": "16 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Netherlands",
+          "shortName": "NED",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+        },
+        {
+          "name": "Canada",
+          "shortName": "CAN",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Hsbc Championship",
+      "tournament": "ATP 500 - HSBC Championship 2026",
+      "match_id": 143133,
+      "status": "UPCOMING",
+      "startTime": "16 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+      "teams": [
+        {
+          "name": "ATP 500 - HSBC Championship",
+          "shortName": "ATP 500 - HSBC Championship",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+        },
+        {
+          "name": "London, Great Britain",
+          "shortName": "London, Great Britain",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
