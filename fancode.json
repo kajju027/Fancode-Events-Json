@@ -3,9 +3,9 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/6/2026, 12:08:47 am",
+  "updatedAt": "15/6/2026, 1:26:30 am",
   "_meta": {
-    "source_updated": "11:56:07 PM 14-06-2026"
+    "source_updated": "01:07:05 AM 15-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
@@ -16,39 +16,39 @@
   "upcoming_matches": 32,
   "matches": [
     {
-      "category": "Cricket",
-      "title": "Antwerp Anchors Vs Ghent Gladiators",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143166,
+      "category": "Football",
+      "title": "Málaga Vs Almería",
+      "tournament": "LALIGA Hypermotion 2025-26",
+      "match_id": 143391,
       "status": "LIVE",
-      "startTime": "14 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
+      "startTime": "15 June 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png",
       "teams": [
         {
-          "name": "Antwerp Anchors",
-          "shortName": "AA",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
+          "name": "Málaga",
+          "shortName": "MAG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png"
         },
         {
-          "name": "Ghent Gladiators",
-          "shortName": "GG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
+          "name": "Almería",
+          "shortName": "ALM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png"
         }
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143166_english_hls_1b49cfabd324203_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8"
         },
         "quality_streams": {}
       }
@@ -295,40 +295,6 @@
           "name": "Ludhiana Lions",
           "shortName": "LLI",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLI@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "backup": {},
-        "quality_streams": {}
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Málaga Vs Almería",
-      "tournament": "LALIGA Hypermotion 2025-26",
-      "match_id": 143391,
-      "status": "UPCOMING",
-      "startTime": "15 June 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png",
-      "teams": [
-        {
-          "name": "Málaga",
-          "shortName": "MAG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAG@2x.png"
-        },
-        {
-          "name": "Almería",
-          "shortName": "ALM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALM@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -805,6 +771,40 @@
           "name": "Australia",
           "shortName": "AUS",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "backup": {},
+        "quality_streams": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Antwerp Anchors Vs Ghent Gladiators",
+      "tournament": "EUT20 Belgium, 2026",
+      "match_id": 143166,
+      "status": "UPCOMING",
+      "startTime": "14 June 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
+      "teams": [
+        {
+          "name": "Antwerp Anchors",
+          "shortName": "AA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png"
+        },
+        {
+          "name": "Ghent Gladiators",
+          "shortName": "GG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
