@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/6/2026, 8:04:37 pm",
-  "_src_updated": "07:49:07 PM 16-06-2026",
+  "updatedAt": "16/6/2026, 8:19:52 pm",
+  "_src_updated": "08:14:03 PM 16-06-2026",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -236,19 +236,37 @@
       "title": "Netherlands Vs Canada",
       "tournament": "ICC CWC League 2 Canada, 2026",
       "match_id": 143200,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "16 June 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143200_english_hls_c652f469f689133_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/240p.m3u8?hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/360p.m3u8?hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/480p.m3u8?hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/540p.m3u8?hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/720p.m3u8?hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O"
+          },
+          "cookie": "hdntl=Expires=1781707446~_GO=Generated~acl=/mumbai/143200_english_hls_c652f469f689133_1ta-di_h264/*~Signature=ATZ0w6cEsqLyeTKMjUvWrxJD4ZGdKudRddOpgIsh8nPsADns5TXqnqV16BUIDIZ8o_Zsl4XGf-NHh_JwrP-Vn1Y5p00O",
+          "expires": "1781707446",
+          "expire_date": "Wednesday, June 17, 2026, 8:14:06 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
