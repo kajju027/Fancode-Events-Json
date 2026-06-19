@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/6/2026, 4:07:11 pm",
-  "_src_updated": "04:00:02 PM 19-06-2026",
+  "updatedAt": "19/6/2026, 4:27:33 pm",
+  "_src_updated": "04:14:01 PM 19-06-2026",
   "total_matches": 38,
-  "live_matches": 8,
-  "upcoming_matches": 30,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -45,25 +45,6 @@
           "expire_date": "Saturday, June 20, 2026, 12:49:07 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Stockholm United Vs Vasteras United",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143187,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -255,37 +236,19 @@
       "title": "Day 1 Free Practice 1   Dekra Lausitzring",
       "tournament": "DTM 2026",
       "match_id": 143301,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "19 June 2026 03:05 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/240p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/360p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/480p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/540p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/720p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K"
-          },
-          "cookie": "hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
-          "expires": "1781947809",
-          "expire_date": "Saturday, June 20, 2026, 3:00:09 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -572,13 +535,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "US Open 2026",
-      "match_id": 143294,
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Mysore Warriors",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143416,
       "status": "UPCOMING",
-      "startTime": "19 June 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143294_6121_PGA_LOC_FC-WEB.png",
+      "startTime": "20 June 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438720/143416_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -591,13 +554,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143416,
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "US Open 2026",
+      "match_id": 143294,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438720/143416_CASACARDS_SPORTY_APP.png",
+      "startTime": "19 June 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143294_6121_PGA_LOC_FC-WEB.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -864,6 +827,25 @@
       "status": "UPCOMING",
       "startTime": "21 June 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143417,
+      "status": "UPCOMING",
+      "startTime": "21 June 2026 02:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
