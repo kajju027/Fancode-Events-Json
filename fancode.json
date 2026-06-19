@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/6/2026, 1:44:50 pm",
-  "_src_updated": "01:35:04 PM 19-06-2026",
+  "updatedAt": "19/6/2026, 3:11:17 pm",
+  "_src_updated": "03:00:06 PM 19-06-2026",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -90,7 +90,7 @@
       "match_id": 143041,
       "status": "LIVE",
       "startTime": "19 June 2026 01:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-app.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/143041_english_hls_bb7c93c35391366_1ta-di_h264/index.m3u8",
@@ -117,6 +117,43 @@
           "cookie": "",
           "expires": "1781942703",
           "expire_date": "Saturday, June 20, 2026, 1:35:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jabalpur Royal Lions Vs Chambal Ghariyals",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143093,
+      "status": "LIVE",
+      "startTime": "19 June 2026 03:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022397/143093_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1781947143",
+          "expire_date": "Saturday, June 20, 2026, 2:49:03 PM"
         }
       }
     },
@@ -158,23 +195,41 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Jabalpur Royal Lions Vs Chambal Ghariyals",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143093,
-      "status": "UPCOMING",
+      "category": "Tennis",
+      "title": "Day 5   World Feed",
+      "tournament": "ATP 500 - Terra Wortmann Open 2026",
+      "match_id": 143261,
+      "status": "LIVE",
       "startTime": "19 June 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022397/143093_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1781947145",
+          "expire_date": "Saturday, June 20, 2026, 2:49:05 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -183,7 +238,7 @@
       "match_id": 143042,
       "status": "UPCOMING",
       "startTime": "19 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-app.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -260,6 +315,62 @@
       "status": "UPCOMING",
       "startTime": "19 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143189_6109_GTP_MLM_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Day 1 Free Practice 1   Dekra Lausitzring",
+      "tournament": "DTM 2026",
+      "match_id": 143301,
+      "status": "LIVE",
+      "startTime": "19 June 2026 03:05 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143301_english_hls_263957bfc428868_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/240p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/360p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/480p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/540p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/720p.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K"
+          },
+          "cookie": "hdntl=Expires=1781947809~_GO=Generated~acl=/mumbai/143301_english_hls_263957bfc428868_1ta-di_h264/*~Signature=Afto3p23-tDd0Y1s3DUPqVnLCiUMGqR17-OjqTuG_6yPbgEKHaFUrid365ngamAmnDU--6lnRgddnzH68b8Ldzd2664K",
+          "expires": "1781947809",
+          "expire_date": "Saturday, June 20, 2026, 3:00:09 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5   World Feed",
+      "tournament": "ATP 500 - HSBC Championship 2026",
+      "match_id": 143247,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -367,51 +478,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Day 5   World Feed",
-      "tournament": "ATP 500 - Terra Wortmann Open 2026",
-      "match_id": 143261,
+      "category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "tournament": "Men's T20I Tri series in Namibia 2026",
+      "match_id": 143316,
       "status": "UPCOMING",
-      "startTime": "19 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Day 1 Free Practice 1   Dekra Lausitzring",
-      "tournament": "DTM 2026",
-      "match_id": 143301,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 03:05 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5   World Feed",
-      "tournament": "ATP 500 - HSBC Championship 2026",
-      "match_id": 143247,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+      "startTime": "20 June 2026 05:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -501,25 +574,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "tournament": "Men's T20I Tri series in Namibia 2026",
-      "match_id": 143316,
-      "status": "UPCOMING",
-      "startTime": "20 June 2026 05:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "Punjab T10 2026",
       "match_id": 143045,
@@ -557,13 +611,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Australasia   Race 1",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 143406,
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143192,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 11:05 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
+      "startTime": "20 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -576,13 +630,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143192,
+      "category": "Motorsports",
+      "title": "Australasia   Race 1",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143406,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+      "startTime": "20 June 2026 11:05 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
