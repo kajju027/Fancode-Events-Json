@@ -3,48 +3,30 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/6/2026, 6:04:08 am",
-  "_src_updated": "05:28:05 AM 21-06-2026",
+  "updatedAt": "21/6/2026, 7:05:18 am",
+  "_src_updated": "06:21:01 AM 21-06-2026",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Golf",
       "title": "Day 3",
       "tournament": "US Open 2026",
       "match_id": 143295,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "20 June 2026 09:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/240p.m3u8?hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/360p.m3u8?hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/480p.m3u8?hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/540p.m3u8?hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/720p.m3u8?hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG"
-          },
-          "cookie": "hdntl=Expires=1782086285~_GO=Generated~acl=/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/*~Signature=Afto3p2W9jMe6Q_7gHwW0x6vhiJctDSC9ioX4oHb8JjcWSkPoAemVcmHX5Oj779sLG8JVxktbKG5l2KYM_EBMLsb6WMG",
-          "expires": "1782086285",
-          "expire_date": "Monday, June 22, 2026, 5:28:05 AM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -466,12 +448,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Singapore Vs Uzbekistan",
-      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_id": 143544,
+      "title": "Namibia Vs Hong Kong, China",
+      "tournament": "Men's T20I Tri series in Namibia 2026",
+      "match_id": 143318,
       "status": "UPCOMING",
-      "startTime": "22 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "22 June 2026 05:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780575318052/143318_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -485,12 +467,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Hong Kong, China",
-      "tournament": "Men's T20I Tri series in Namibia 2026",
-      "match_id": 143318,
+      "title": "Singapore Vs Uzbekistan",
+      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
+      "match_id": 143544,
       "status": "UPCOMING",
-      "startTime": "22 June 2026 05:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780575318052/143318_CASACARDS_SPORTY_APP.png",
+      "startTime": "22 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -541,6 +523,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Malwa Stallions Vs Rewa Jaguars",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143098,
+      "status": "UPCOMING",
+      "startTime": "22 June 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022404/143098_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
       "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
@@ -567,25 +568,6 @@
       "status": "UPCOMING",
       "startTime": "22 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Malwa Stallions Vs Rewa Jaguars",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143098,
-      "status": "UPCOMING",
-      "startTime": "22 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022404/143098_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
