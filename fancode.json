@@ -3,12 +3,49 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/6/2026, 12:25:42 pm",
-  "_src_updated": "12:21:03 PM 21-06-2026",
+  "updatedAt": "21/6/2026, 1:06:31 pm",
+  "_src_updated": "12:49:04 PM 21-06-2026",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Vs Australia",
+      "tournament": "Australia tour of Bangladesh, 2026",
+      "match_id": 142970,
+      "status": "LIVE",
+      "startTime": "21 June 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/240p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/360p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/480p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/540p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/720p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ"
+          },
+          "cookie": "hdntl=Expires=1782112742~_GO=Generated~acl=/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/*~Signature=Afto3p035WZUJeFefk_TvE-mjLF5lCX0ESteWyKsr9zSdF98Qta6iUlQ08NIUcEfa6P3ftd6k4Ke9I5LaOBS9EsHIrAJ",
+          "expires": "1782112742",
+          "expire_date": "Monday, June 22, 2026, 12:49:02 PM"
+        }
+      }
+    },
     {
       "category": "Motorsports",
       "title": "Day 3 Qualifying 2   Dekra Lausitzring",
@@ -82,25 +119,6 @@
           "expire_date": "Monday, June 22, 2026, 12:07:03 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142970,
-      "status": "UPCOMING",
-      "startTime": "21 June 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
