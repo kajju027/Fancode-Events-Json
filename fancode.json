@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/6/2026, 3:06:09 pm",
-  "_src_updated": "02:49:03 PM 22-06-2026",
+  "updatedAt": "22/6/2026, 3:16:24 pm",
+  "_src_updated": "03:14:04 PM 22-06-2026",
   "total_matches": 41,
-  "live_matches": 3,
-  "upcoming_matches": 39,
+  "live_matches": 4,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -117,6 +117,43 @@
           "cookie": "hdntl=Expires=1782206343~_GO=Generated~acl=/mumbai/143097_english_hls_8ac0ad689e31608_1ta-di_h264/*~Signature=Afto3p3dyWwDiFZSllCE-hPpsBTcjo5HGwPbPiF1AohctiJ1R5Topvs_eOuG4wZmo6-4pV4nx8yOqvzTjDy_wKIN-AcE",
           "expires": "1782206343",
           "expire_date": "Tuesday, June 23, 2026, 2:49:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 1",
+      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
+      "match_id": 143277,
+      "status": "LIVE",
+      "startTime": "22 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143277_english_hls_6d121c3ae03448_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/240p.m3u8?hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/360p.m3u8?hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/480p.m3u8?hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/540p.m3u8?hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/720p.m3u8?hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB"
+          },
+          "cookie": "hdntl=Expires=1782207843~_GO=Generated~acl=/mumbai/143277_english_hls_6d121c3ae03448_1ta-di_h264/*~Signature=Afto3p3kzw-5qRfsAP3FIXq7CR3f0bCytJwh0F6NaK7hNwHrpDJSelzyJnv-pFTREuUAVKDvftJXyar5ja0TDFUMypwB",
+          "expires": "1782207843",
+          "expire_date": "Tuesday, June 23, 2026, 3:14:03 PM"
         }
       }
     },
@@ -255,12 +292,12 @@
     },
     {
       "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_id": 143277,
+      "title": "Day 2",
+      "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+      "match_id": 143271,
       "status": "UPCOMING",
-      "startTime": "22 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+      "startTime": "22 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -349,13 +386,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-      "match_id": 143271,
+      "category": "Cricket",
+      "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143422,
       "status": "UPCOMING",
-      "startTime": "22 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+      "startTime": "23 June 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -375,25 +412,6 @@
       "status": "UPCOMING",
       "startTime": "21 June 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143422,
-      "status": "UPCOMING",
-      "startTime": "23 June 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
