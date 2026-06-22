@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/6/2026, 12:52:23 am",
-  "_src_updated": "12:42:02 AM 23-06-2026",
+  "updatedAt": "23/6/2026, 3:40:07 am",
+  "_src_updated": "03:21:01 AM 23-06-2026",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Brazil Vs Panama",
-      "tournament": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-      "match_id": 143286,
-      "status": "LIVE",
-      "startTime": "22 June 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143286_6120_BRA_PAN_fc-App_1782137828167.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143286_english_hls_9452f148a049190_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/240p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/360p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/480p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/540p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/720p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P"
-          },
-          "cookie": "hdntl=Expires=1782237063~_GO=Generated~acl=/mumbai/143286_english_hls_9452f148a049190_1ta-di_h264/*~Signature=Afto3p3Clr3Dhlau_VIf7X9ypwHx1K5O6WRPavGsoYYH2mr1EiDD_CT8OUqlCPlTP8piX-Gh2O9xTO0DWMH062rZWi4P",
-          "expires": "1782237063",
-          "expire_date": "Tuesday, June 23, 2026, 11:21:03 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Uzbekistan Vs Indonesia",
@@ -776,6 +739,25 @@
       "status": "UPCOMING",
       "startTime": "26 June 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "F3 Spielberg 2026",
+      "tournament": "F3 AUSTRIA 2026",
+      "match_id": 139725,
+      "status": "UPCOMING",
+      "startTime": "26 June 2026 01:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
