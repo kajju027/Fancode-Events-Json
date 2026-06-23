@@ -3,68 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/6/2026, 11:21:43 pm",
-  "_src_updated": "11:21:02 PM 23-06-2026",
+  "updatedAt": "24/6/2026, 1:03:21 am",
+  "_src_updated": "01:00:02 AM 24-06-2026",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_id": 143278,
-      "status": "LIVE",
-      "startTime": "23 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/240p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/360p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/480p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/540p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/720p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA"
-          },
-          "cookie": "hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA",
-          "expires": "1782317524",
-          "expire_date": "Wednesday, June 24, 2026, 9:42:04 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mysore Warriors Vs Kalyani Bengaluru Blasters",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143422,
-      "status": "UPCOMING",
-      "startTime": "23 June 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Cricket",
       "title": "Coastal Kings Mangaluru Vs Kalyani Bengaluru Blasters",
@@ -776,6 +720,44 @@
       "status": "UPCOMING",
       "startTime": "26 June 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F2 AUSTRIA 2026",
+      "match_id": 139631,
+      "status": "UPCOMING",
+      "startTime": "26 June 2026 07:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 2",
+      "tournament": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
+      "match_id": 139458,
+      "status": "UPCOMING",
+      "startTime": "26 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
