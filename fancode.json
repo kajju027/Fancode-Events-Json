@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/6/2026, 10:21:23 pm",
-  "_src_updated": "07:56:06 PM 24-06-2026",
+  "updatedAt": "24/6/2026, 10:36:40 pm",
+  "_src_updated": "10:28:02 PM 24-06-2026",
   "total_matches": 41,
-  "live_matches": 6,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Panama Vs Bahamas",
-      "tournament": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-      "match_id": 143287,
-      "status": "LIVE",
-      "startTime": "24 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143287_6120_PAN_BAH_fc-App_1782137828261.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/240p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/360p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/480p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/540p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/720p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM"
-          },
-          "cookie": "hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM",
-          "expires": "1782393543",
-          "expire_date": "Thursday, June 25, 2026, 6:49:03 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Shivamogga Yodhas Vs Hubli Tigers",
@@ -233,6 +196,25 @@
     },
     {
       "category": "Cricket",
+      "title": "West Indies Vs Sri Lanka",
+      "tournament": "Sri Lanka tour of West Indies 2026",
+      "match_id": 142978,
+      "status": "UPCOMING",
+      "startTime": "25 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Brazil Vs Belize",
       "tournament": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
       "match_id": 143288,
@@ -258,25 +240,6 @@
       "status": "UPCOMING",
       "startTime": "25 June 2026 11:00 AM",
       "image": "https://images.fancode.com/aig/match/v1782018540422/143547_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "West Indies Vs Sri Lanka",
-      "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142978,
-      "status": "UPCOMING",
-      "startTime": "25 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -328,7 +291,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
+      "title": "Royal Nimar Eagles Vs Rewa Jaguars",
       "tournament": "Madhya Pradesh League T20, 2026",
       "match_id": 143103,
       "status": "UPCOMING",
@@ -423,7 +386,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
+      "title": "Chambal Ghariyals Vs Jabalpur Royal Lions",
       "tournament": "Madhya Pradesh League T20, 2026",
       "match_id": 143104,
       "status": "UPCOMING",
@@ -885,6 +848,25 @@
       "status": "UPCOMING",
       "startTime": "26 June 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Hpca Patna Vs Chinnamasta Lions",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143523,
+      "status": "UPCOMING",
+      "startTime": "27 June 2026 08:45 AM",
+      "image": "https://images.fancode.com/aig/match/v1781869164693/143523_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
