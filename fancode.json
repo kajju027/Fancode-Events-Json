@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/6/2026, 10:53:42 am",
-  "_src_updated": "10:49:04 AM 25-06-2026",
+  "updatedAt": "25/6/2026, 1:05:51 pm",
+  "_src_updated": "12:56:03 PM 25-06-2026",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -48,31 +48,49 @@
     },
     {
       "category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "tournament": "Nigeria tour of Namibia 2026",
+      "match_id": 143320,
+      "status": "LIVE",
+      "startTime": "25 June 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/240p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/360p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/480p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/540p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/720p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O"
+          },
+          "cookie": "hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O",
+          "expires": "1782458763",
+          "expire_date": "Friday, June 26, 2026, 12:56:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
       "match_id": 142978,
       "status": "UPCOMING",
       "startTime": "25 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "tournament": "Nigeria tour of Namibia 2026",
-      "match_id": 143320,
-      "status": "UPCOMING",
-      "startTime": "25 June 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -294,6 +312,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Flying Fire Delhi Chargers Vs Sonipat Kings",
+      "tournament": "Future Star U-15 Championship 2026",
+      "match_id": 143555,
+      "status": "UPCOMING",
+      "startTime": "26 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Day 5",
       "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
@@ -351,44 +388,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 1",
-      "tournament": "Travelers Championship 2026",
-      "match_id": 143297,
-      "status": "UPCOMING",
-      "startTime": "26 June 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Flying Fire Delhi Chargers Vs Sonipat Kings",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143555,
-      "status": "UPCOMING",
-      "startTime": "26 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
@@ -408,13 +407,13 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Day 1",
-      "tournament": "GRAND PRIX OF NETHERLANDS 2026",
-      "match_id": 139954,
+      "category": "Golf",
+      "title": "World Feed   Day 1",
+      "tournament": "Travelers Championship 2026",
+      "match_id": 143297,
       "status": "UPCOMING",
-      "startTime": "26 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
+      "startTime": "26 June 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -453,6 +452,25 @@
       "status": "UPCOMING",
       "startTime": "26 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 1",
+      "tournament": "GRAND PRIX OF NETHERLANDS 2026",
+      "match_id": 139954,
+      "status": "UPCOMING",
+      "startTime": "26 June 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -636,13 +654,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 2",
-      "tournament": "Travelers Championship 2026",
-      "match_id": 143298,
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143571,
       "status": "UPCOMING",
-      "startTime": "27 June 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+      "startTime": "26 June 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -655,13 +673,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143571,
+      "category": "Golf",
+      "title": "World Feed   Day 2",
+      "tournament": "Travelers Championship 2026",
+      "match_id": 143298,
       "status": "UPCOMING",
-      "startTime": "26 June 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "startTime": "27 June 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
