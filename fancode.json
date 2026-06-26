@@ -3,39 +3,57 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/6/2026, 10:43:55 am",
-  "_src_updated": "09:07:12 AM 26-06-2026",
-  "total_matches": 39,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "updatedAt": "26/6/2026, 11:24:33 am",
+  "_src_updated": "10:49:22 AM 26-06-2026",
+  "total_matches": 37,
+  "live_matches": 1,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Indonesia Vs Uzbekistan",
+      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
+      "match_id": 143549,
+      "status": "LIVE",
+      "startTime": "26 June 2026 11:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143549_english_hls_bef7208e2a30504_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/240p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/360p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/480p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/540p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/720p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL"
+          },
+          "cookie": "hdntl=Expires=1782537544~_GO=Generated~acl=/mumbai/143549_english_hls_bef7208e2a30504_1ta-di_h264/*~Signature=ARZJ1WKIufOTmQrPlMK7H7IZhV40E5ctu6iMkaSfhpV9No2JOmP2NMS4UmqoUi7zEfUjvwxnGdyMhtSJtzqwMeREXVAL",
+          "expires": "1782537544",
+          "expire_date": "Saturday, June 27, 2026, 10:49:04 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Rml Sports Vs Kcc",
       "tournament": "KPL Indo Nepal T20 2026",
       "match_id": 143522,
       "status": "UPCOMING",
-      "startTime": "26 June 2026 08:45 AM",
-      "image": "https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Indonesia Vs Uzbekistan",
-      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_id": 143549,
-      "status": "UPCOMING",
-      "startTime": "26 June 2026 11:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png",
+      "startTime": "26 June 2026 12:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -131,6 +149,44 @@
       "status": "UPCOMING",
       "startTime": "27 June 2026 08:45 AM",
       "image": "https://images.fancode.com/aig/match/v1781869164693/143523_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Itahari Super Kings Vs Rml Sports",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143524,
+      "status": "UPCOMING",
+      "startTime": "27 June 2026 12:45 PM",
+      "image": "https://images.fancode.com/aig/match/v1781869172008/143524_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "tournament": "Nigeria tour of Namibia 2026",
+      "match_id": 143321,
+      "status": "UPCOMING",
+      "startTime": "27 June 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -352,44 +408,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Itahari Super Kings Vs Rml Sports",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143524,
-      "status": "UPCOMING",
-      "startTime": "27 June 2026 12:45 PM",
-      "image": "https://images.fancode.com/aig/match/v1781869172008/143524_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "tournament": "Nigeria tour of Namibia 2026",
-      "match_id": 143321,
-      "status": "UPCOMING",
-      "startTime": "27 June 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "World Feed   Day 2",
       "tournament": "Travelers Championship 2026",
@@ -523,13 +541,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F3 AUSTRIA 2026",
-      "match_id": 139727,
+      "category": "Cricket",
+      "title": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
+      "tournament": "Future Star U-15 Championship 2026",
+      "match_id": 143558,
       "status": "UPCOMING",
-      "startTime": "27 June 2026 01:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "startTime": "27 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -542,13 +560,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143558,
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 AUSTRIA 2026",
+      "match_id": 139727,
       "status": "UPCOMING",
-      "startTime": "27 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "startTime": "27 June 2026 01:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -701,44 +719,6 @@
       "status": "UPCOMING",
       "startTime": "27 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "World Feed   Day 3",
-      "tournament": "Travelers Championship 2026",
-      "match_id": 143299,
-      "status": "UPCOMING",
-      "startTime": "27 June 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Chhinnamasta Lions Vs Kcc",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143525,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 08:45 AM",
-      "image": "https://images.fancode.com/aig/match/v1781869164723/143525_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
