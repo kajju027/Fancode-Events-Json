@@ -3,67 +3,48 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/6/2026, 4:27:55 am",
-  "_src_updated": "03:42:08 AM 26-06-2026",
-  "total_matches": 40,
+  "updatedAt": "26/6/2026, 8:36:50 am",
+  "_src_updated": "08:35:49 AM 26-06-2026",
+  "total_matches": 39,
   "live_matches": 1,
-  "upcoming_matches": 39,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka Vs West Indies",
-      "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142978,
-      "status": "LIVE",
-      "startTime": "25 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/240p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/360p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/480p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/540p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/720p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL"
-          },
-          "cookie": "hdntl=Expires=1782509824~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WINeEHeYpViEvVqj5-B-Lyq5tJmJmrCPE8JYBUDIzL8hgTBhxi_HUaT0xHVeJ64wg1Q_x7cx8pxyl0MSvOMoQAL",
-          "expires": "1782509824",
-          "expire_date": "Saturday, June 27, 2026, 3:07:04 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Rml Sports Vs Kcc",
       "tournament": "KPL Indo Nepal T20 2026",
       "match_id": 143522,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "26 June 2026 08:45 AM",
       "image": "https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143522_english_hls_e0bf049e9b13344_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/240p.m3u8?hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/360p.m3u8?hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/480p.m3u8?hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/540p.m3u8?hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/720p.m3u8?hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM"
+          },
+          "cookie": "hdntl=Expires=1782529504~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b13344_1ta-di_h264/*~Signature=ARZJ1WKr8ILlta1mt0CKHn2wYZ1bKp_A93cp9Ngjt4APcd3QJd6WpTMMZos84jvl0AT5Q0KvlIw1ClukFI1HpgI46AsM",
+          "expires": "1782529504",
+          "expire_date": "Saturday, June 27, 2026, 8:35:04 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -149,6 +130,25 @@
       "status": "UPCOMING",
       "startTime": "26 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Mills Cricket Club Vs Hpca Patna",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143523,
+      "status": "UPCOMING",
+      "startTime": "27 June 2026 08:45 AM",
+      "image": "https://images.fancode.com/aig/match/v1781869164693/143523_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -370,25 +370,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Mills Cricket Club Vs Hpca Patna",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143523,
-      "status": "UPCOMING",
-      "startTime": "27 June 2026 08:45 AM",
-      "image": "https://images.fancode.com/aig/match/v1781869164693/143523_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "World Feed   Day 2",
       "tournament": "Travelers Championship 2026",
@@ -396,25 +377,6 @@
       "status": "UPCOMING",
       "startTime": "27 June 2026 01:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Rewa Jaguars Vs Royal Nimar Eagles",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143103,
-      "status": "UPCOMING",
-      "startTime": "25 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -503,13 +465,13 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Netherlands Gp",
-      "tournament": "GRAND PRIX OF NETHERLANDS 2026",
-      "match_id": 139955,
+      "category": "Cricket",
+      "title": "Rewa Jaguars Vs Royal Nimar Eagles",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143103,
       "status": "UPCOMING",
-      "startTime": "27 June 2026 12:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
+      "startTime": "25 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -522,13 +484,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F3 AUSTRIA 2026",
-      "match_id": 139727,
+      "category": "MotoGP",
+      "title": "Netherlands Gp",
+      "tournament": "GRAND PRIX OF NETHERLANDS 2026",
+      "match_id": 139955,
       "status": "UPCOMING",
-      "startTime": "27 June 2026 01:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "startTime": "27 June 2026 12:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -579,6 +541,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 AUSTRIA 2026",
+      "match_id": 139727,
+      "status": "UPCOMING",
+      "startTime": "27 June 2026 01:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
+      "tournament": "Future Star U-15 Championship 2026",
+      "match_id": 143558,
+      "status": "UPCOMING",
+      "startTime": "27 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
       "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
@@ -605,25 +605,6 @@
       "status": "UPCOMING",
       "startTime": "27 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143558,
-      "status": "UPCOMING",
-      "startTime": "27 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
