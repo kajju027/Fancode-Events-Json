@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/6/2026, 9:22:08 am",
-  "_src_updated": "08:42:09 AM 27-06-2026",
+  "updatedAt": "27/6/2026, 9:52:37 am",
+  "_src_updated": "09:49:11 AM 27-06-2026",
   "total_matches": 37,
-  "live_matches": 1,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -43,6 +43,43 @@
           "cookie": "hdntl=Expires=1782616324~_GO=Generated~acl=/mumbai/143523_english_hls_8a2dda769586109_1ta-di_h264/*~Signature=ARZJ1WICbeeGugEPtvXYgXmWh-JHapOuPC0YW4kGDCLR5r8oxpxOJIQp8HjQRkQ42F8vA0-BThYCK-6uxYrFLhOAnNUA",
           "expires": "1782616324",
           "expire_date": "Sunday, June 28, 2026, 8:42:04 AM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Day 1   Japan",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143638,
+      "status": "LIVE",
+      "startTime": "27 June 2026 09:55 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143638_english_hls_15bc3954d393572_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/240p.m3u8?hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/360p.m3u8?hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/480p.m3u8?hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/540p.m3u8?hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/720p.m3u8?hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN"
+          },
+          "cookie": "hdntl=Expires=1782620344~_GO=Generated~acl=/mumbai/143638_english_hls_15bc3954d393572_1ta-di_h264/*~Signature=ARZJ1WLX0mvSRBM8hinoVRoq3HNfVxhseQiOgQcvfB3JpvJvpVJryHt62NImNEAAqFIZ05lRe4RDycPz8YFN321YeKcN",
+          "expires": "1782620344",
+          "expire_date": "Sunday, June 28, 2026, 9:49:04 AM"
         }
       }
     },
@@ -370,6 +407,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Hpca Patna Vs Itahari Super Kings",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143526,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 12:45 PM",
+      "image": "https://images.fancode.com/aig/match/v1781869172008/143526_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 3",
       "tournament": "Travelers Championship 2026",
@@ -408,6 +464,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Coastal Kings Mangaluru",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143429,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 01:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438723/143429_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "World Feed   Day 3",
       "tournament": "Travelers Championship 2026",
@@ -428,50 +503,31 @@
     },
     {
       "category": "Cricket",
-      "title": "Hpca Patna Vs Itahari Super Kings",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143526,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 12:45 PM",
-      "image": "https://images.fancode.com/aig/match/v1781869172008/143526_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Coastal Kings Mangaluru",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143429,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 01:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438723/143429_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Ka Noida Blaze Vs Bahadurgarh Royals",
       "tournament": "Future Star U-15 Championship 2026",
       "match_id": 143559,
       "status": "UPCOMING",
       "startTime": "28 June 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Day 2    Japan",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143639,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 09:55 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -681,44 +737,6 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Gulbarga Mystics Vs Hubli Tigers",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143430,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438727/143430_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Aca Gurugram Vipers Vs Ddh Meerut Spartans",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143561,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
