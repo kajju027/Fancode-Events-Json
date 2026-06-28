@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/6/2026, 2:16:36 pm",
-  "_src_updated": "01:35:14 PM 28-06-2026",
+  "updatedAt": "28/6/2026, 2:57:14 pm",
+  "_src_updated": "02:49:12 PM 28-06-2026",
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -158,6 +158,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Ka Noida Blaze Vs Bahadurgarh Royals",
+      "tournament": "Future Star U-15 Championship 2026",
+      "match_id": 143559,
+      "status": "LIVE",
+      "startTime": "28 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143559_english_hls_783146fb4d13330_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/240p.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/360p.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/480p.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/540p.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/720p.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO"
+          },
+          "cookie": "hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO",
+          "expires": "1782724744",
+          "expire_date": "Monday, June 29, 2026, 2:49:04 PM"
+        }
+      }
+    },
+    {
       "category": "Motorsports",
       "title": "Feature Race",
       "tournament": "F2 AUSTRIA 2026",
@@ -233,25 +270,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Ka Noida Blaze Vs Bahadurgarh Royals",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143559,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Sonipat Kings Vs Karim Capital Chargers",
       "tournament": "Future Star U-15 Championship 2026",
       "match_id": 143560,
@@ -277,6 +295,25 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 08:45 AM",
       "image": "https://images.fancode.com/aig/match/v1781869164717/143527_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143573,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 03:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -365,13 +402,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Race",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143573,
+      "category": "Tennis",
+      "title": "Men's Final",
+      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
+      "match_id": 143654,
       "status": "UPCOMING",
-      "startTime": "28 June 2026 03:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+      "startTime": "28 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -467,25 +504,6 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Men's Final",
-      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_id": 143654,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
