@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/6/2026, 1:36:48 pm",
-  "_src_updated": "12:42:02 PM 30-06-2026",
-  "total_matches": 40,
-  "live_matches": 2,
+  "updatedAt": "30/6/2026, 2:02:14 pm",
+  "_src_updated": "01:49:05 PM 30-06-2026",
+  "total_matches": 41,
+  "live_matches": 4,
   "upcoming_matches": 38,
   "matches": [
     {
@@ -88,19 +88,74 @@
       "title": "Shivamogga Yodhas Vs Gulbarga Mystics",
       "tournament": "Maharaja T20 Trophy, 2026",
       "match_id": 143432,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 June 2026 02:00 PM",
       "image": "https://images.fancode.com/aig/match/v1781841438720/143432_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143432_english_hls_028a82bb8b91389_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/240p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/360p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/480p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/540p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/720p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB"
+          },
+          "cookie": "hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB",
+          "expires": "1782893944",
+          "expire_date": "Wednesday, July 1, 2026, 1:49:04 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Gulbarga Mystics",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143432,
+      "status": "LIVE",
+      "startTime": "30 June 2026 02:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438720/143432_CASACARDS_SPORTY_APP.png",
+      "language": "KANNADA",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "KANNADA": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/240p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/360p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/480p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/540p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/720p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN"
+          },
+          "cookie": "hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN",
+          "expires": "1782893945",
+          "expire_date": "Wednesday, July 1, 2026, 1:49:05 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -218,12 +273,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Amo Sharks Vs Band E Amir Dragons",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143582,
+      "title": "Tbc Vs Tbc",
+      "tournament": "Future Star U-15 Championship 2026",
+      "match_id": 143564,
       "status": "UPCOMING",
-      "startTime": "01 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-App_1782724982761.jpg",
+      "startTime": "01 July 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -237,12 +292,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143564,
+      "title": "Amo Sharks Vs Band E Amir Dragons",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143582,
       "status": "UPCOMING",
-      "startTime": "01 July 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "startTime": "01 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-App_1782724982761.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -351,7 +406,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Boost Defenders Vs Amo Sharks",
+      "title": "Bost Defenders Vs Amo Sharks",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143584,
       "status": "UPCOMING",
