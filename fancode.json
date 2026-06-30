@@ -3,86 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/6/2026, 11:38:02 pm",
-  "_src_updated": "11:21:03 PM 30-06-2026",
-  "total_matches": 41,
-  "live_matches": 2,
+  "updatedAt": "1/7/2026, 12:19:08 am",
+  "_src_updated": "11:56:02 PM 30-06-2026",
+  "total_matches": 40,
+  "live_matches": 0,
   "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143433,
-      "status": "LIVE",
-      "startTime": "30 June 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143433_english_hls_db35e85e453888_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/240p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/360p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/480p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/540p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/720p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I"
-          },
-          "cookie": "hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I",
-          "expires": "1782926768",
-          "expire_date": "Wednesday, July 1, 2026, 10:56:08 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143433,
-      "status": "LIVE",
-      "startTime": "30 June 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png",
-      "language": "KANNADA",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143433_kannada_hls_7662c5097e89315_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "KANNADA": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/240p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/360p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/480p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/540p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/720p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF"
-          },
-          "cookie": "hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF",
-          "expires": "1782926768",
-          "expire_date": "Wednesday, July 1, 2026, 10:56:08 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Mills Cricket Club Vs Rml Sports",
@@ -813,6 +739,25 @@
       "status": "UPCOMING",
       "startTime": "04 July 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143587,
+      "status": "UPCOMING",
+      "startTime": "04 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-App_1782724982781.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
