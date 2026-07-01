@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/7/2026, 10:58:40 pm",
-  "_src_updated": "10:28:06 PM 01-07-2026",
+  "updatedAt": "1/7/2026, 11:39:25 pm",
+  "_src_updated": "11:28:02 PM 01-07-2026",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Karim Capital Chargers Vs Ddh Meerut Spartans",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143564,
-      "status": "LIVE",
-      "startTime": "01 July 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/240p.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/360p.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/480p.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/540p.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/720p.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE"
-          },
-          "cookie": "hdntl=Expires=1783011488~_GO=Generated~acl=/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/*~Signature=Ac2BFenxWR1dr-wj0GeUjkhCbnDDmOySvzy6QXkls8j177GLTv6ahQmsLsHHRogP5X5yFT7hFZYGUyVmrkBhjxgShFcE",
-          "expires": "1783011488",
-          "expire_date": "Thursday, July 2, 2026, 10:28:08 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Itahari Super Kings Vs Kcc",
@@ -776,6 +739,25 @@
       "status": "UPCOMING",
       "startTime": "04 July 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Dtm Race 1   Norisring",
+      "tournament": "DTM 2026",
+      "match_id": 143623,
+      "status": "UPCOMING",
+      "startTime": "04 July 2026 04:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
