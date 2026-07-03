@@ -3,12 +3,49 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 5:17:46 am",
-  "_src_updated": "05:14:02 AM 03-07-2026",
+  "updatedAt": "3/7/2026, 8:56:16 am",
+  "_src_updated": "08:35:04 AM 03-07-2026",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Chhinnamasta Lions Vs Itahari Super Kings",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143535,
+      "status": "LIVE",
+      "startTime": "03 July 2026 08:45 AM",
+      "image": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143535_english_hls_3ce158c10484451_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/240p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/360p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/480p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/540p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/720p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK"
+          },
+          "cookie": "hdntl=Expires=1783134305~_GO=Generated~acl=/mumbai/143535_english_hls_3ce158c10484451_1ta-di_h264/*~Signature=Ac2BFemKoiyGtlXrYECMNPY-5sEgk_mqqjpLJQpGs74uSIlvyz0Qg1J7c8LMnrSYFVCg5iOM41jjXE8PFsw5Nfl2fyEK",
+          "expires": "1783134305",
+          "expire_date": "Saturday, July 4, 2026, 8:35:05 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
@@ -17,25 +54,6 @@
       "status": "UPCOMING",
       "startTime": "03 July 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Chhinnamasta Lions Vs Itahari Super Kings",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143535,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 08:45 AM",
-      "image": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -93,6 +111,25 @@
       "status": "UPCOMING",
       "startTime": "03 July 2026 07:00 PM",
       "image": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143537,
+      "status": "UPCOMING",
+      "startTime": "04 July 2026 08:45 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -238,25 +275,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143537,
-      "status": "UPCOMING",
-      "startTime": "04 July 2026 08:45 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Motorsports",
       "title": "Qualifying Session",
       "tournament": "F2 GREAT BRITAIN 2026",
@@ -352,44 +370,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2   World Feed",
-      "tournament": "John Deere Classic 2026",
-      "match_id": 143666,
-      "status": "UPCOMING",
-      "startTime": "04 July 2026 02:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2   Pm",
-      "tournament": "US Senior Open Championship 2026",
-      "match_id": 143673,
-      "status": "UPCOMING",
-      "startTime": "04 July 2026 03:45 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "KPL Indo Nepal T20 2026",
@@ -409,6 +389,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Day 2   World Feed",
+      "tournament": "John Deere Classic 2026",
+      "match_id": 143666,
+      "status": "UPCOMING",
+      "startTime": "04 July 2026 02:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Namibia Vs Vidarbha",
       "tournament": "Vidarbha Cricket Association tour of Namibia",
@@ -416,6 +415,25 @@
       "status": "UPCOMING",
       "startTime": "04 July 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2   Pm",
+      "tournament": "US Senior Open Championship 2026",
+      "match_id": 143673,
+      "status": "UPCOMING",
+      "startTime": "04 July 2026 03:45 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
