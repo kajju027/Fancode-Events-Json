@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 4:44:41 pm",
-  "_src_updated": "04:42:05 PM 03-07-2026",
+  "updatedAt": "3/7/2026, 5:45:47 pm",
+  "_src_updated": "05:35:03 PM 03-07-2026",
   "total_matches": 39,
   "live_matches": 3,
   "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Kcc Vs Mills Cricket Club",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143536,
-      "status": "LIVE",
-      "startTime": "03 July 2026 12:45 PM",
-      "image": "https://images.fancode.com/aig/match/v1781869172005/143536_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/240p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/360p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/480p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/540p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/720p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG"
-          },
-          "cookie": "hdntl=Expires=1783163527~_GO=Generated~acl=/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/*~Signature=Ac2BFem2T-5WCRmKs6KyGyHDtX4X9QtCs_hDzRL9NLFgfsaeM8hCR8LfRFF04ncLx8NYAdHfO1iZVa_3nIGinJeLzNwG",
-          "expires": "1783163527",
-          "expire_date": "Saturday, July 4, 2026, 4:42:07 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Gulbarga Mystics Vs Mysore Warriors",
@@ -121,6 +84,25 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_id": 139462,
+      "status": "LIVE",
+      "startTime": "03 July 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
@@ -160,7 +142,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
+      "title": "Chinnamasta Lions Vs Itahari Super Kings",
       "tournament": "KPL Indo Nepal T20 2026",
       "match_id": 143537,
       "status": "UPCOMING",
@@ -179,7 +161,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
+      "title": "Kcc Vs Rml Sports",
       "tournament": "KPL Indo Nepal T20 2026",
       "match_id": 143538,
       "status": "UPCOMING",
@@ -204,25 +186,6 @@
       "status": "UPCOMING",
       "startTime": "04 July 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_id": 139462,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -653,13 +616,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "tournament": "F1 Kids 2026",
-      "match_id": 143674,
+      "category": "Golf",
+      "title": "Day 3   World Feed",
+      "tournament": "John Deere Classic 2026",
+      "match_id": 143668,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 04:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "startTime": "04 July 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -672,13 +635,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 3   World Feed",
-      "tournament": "John Deere Classic 2026",
-      "match_id": 143668,
+      "category": "Motorsports",
+      "title": "F1 Kids 2026",
+      "tournament": "F1 Kids 2026",
+      "match_id": 143674,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "startTime": "04 July 2026 04:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -793,6 +756,25 @@
       "status": "UPCOMING",
       "startTime": "05 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Amo Sharks Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143590,
+      "status": "UPCOMING",
+      "startTime": "05 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
