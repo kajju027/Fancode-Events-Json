@@ -3,48 +3,30 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/7/2026, 5:08:52 am",
-  "_src_updated": "04:35:03 AM 04-07-2026",
+  "updatedAt": "4/7/2026, 5:49:32 am",
+  "_src_updated": "05:28:02 AM 04-07-2026",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Golf",
       "title": "Day 2   Pm",
       "tournament": "US Senior Open Championship 2026",
       "match_id": 143673,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 July 2026 03:45 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/240p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/360p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/480p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/540p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/720p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC"
-          },
-          "cookie": "hdntl=Expires=1783202707~_GO=Generated~acl=/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/*~Signature=Ac2BFekOuByN9qQQF2yQSUvhetEmNmmkrOqCsBoG8BrBUYcWmpfjb6I1jReSB3KhsyloGSv4jATiDHTLwKzV_0ip3FEC",
-          "expires": "1783202707",
-          "expire_date": "Sunday, July 5, 2026, 3:35:07 AM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -255,6 +237,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143539,
+      "status": "UPCOMING",
+      "startTime": "05 July 2026 08:45 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Motorsports",
       "title": "Sprint Race",
       "tournament": "F2 GREAT BRITAIN 2026",
@@ -350,25 +351,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143539,
-      "status": "UPCOMING",
-      "startTime": "05 July 2026 08:45 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "Day 3",
       "tournament": "US Senior Open Championship 2026",
@@ -426,13 +408,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "tournament": "F1 Kids 2026",
-      "match_id": 143674,
+      "category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143439,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 04:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "startTime": "05 July 2026 02:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -445,13 +427,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Kalyani Bengaluru Blasters Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143439,
+      "category": "Motorsports",
+      "title": "F1 Kids 2026",
+      "tournament": "F1 Kids 2026",
+      "match_id": 143674,
       "status": "UPCOMING",
-      "startTime": "05 July 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438723/143439_CASACARDS_SPORTY_APP.png",
+      "startTime": "04 July 2026 04:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
