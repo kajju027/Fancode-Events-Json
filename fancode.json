@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/7/2026, 6:33:46 pm",
-  "_src_updated": "06:21:08 PM 06-07-2026",
-  "total_matches": 40,
-  "live_matches": 4,
+  "updatedAt": "6/7/2026, 6:54:31 pm",
+  "_src_updated": "06:45:32 PM 06-07-2026",
+  "total_matches": 41,
+  "live_matches": 6,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -85,6 +85,80 @@
     },
     {
       "category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143442,
+      "status": "LIVE",
+      "startTime": "06 July 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143442_english_hls_2900e7ec8256927_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143442_english_hls_2900e7ec8256927_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783430123",
+          "expire_date": "Tuesday, July 7, 2026, 6:45:23 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143442,
+      "status": "LIVE",
+      "startTime": "06 July 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png",
+      "language": "KANNADA",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "KANNADA": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143442_kannada_hls_e129e4c64b74624_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783430124",
+          "expire_date": "Tuesday, July 7, 2026, 6:45:24 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Amo Sharks Vs Band E Amir Dragons",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143592,
@@ -122,25 +196,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Hubli Tigers Vs Coastal Kings Mangaluru",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143441,
-      "status": "UPCOMING",
-      "startTime": "06 July 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438716/143441_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Sri Lanka Vs West Indies",
       "tournament": "Sri Lanka tour of West Indies 2026",
       "match_id": 142979,
@@ -163,37 +218,18 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/240p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-            "360p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/360p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-            "480p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/480p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-            "540p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/540p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-            "720p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/720p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-            "1080p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD"
+            "240p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/240p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/360p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/480p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/540p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/720p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG"
           },
-          "cookie": "hdntl=Expires=1783428670~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFem6XsrrItWAYCJY6scHB9B6WzAlhUhGGh0jS5Pq0tp5DsH0ac_XwWIU12BQQMDkuKot4bko9AwGZf5jx0bDJxUD",
-          "expires": "1783428670",
-          "expire_date": "Tuesday, July 7, 2026, 6:21:10 PM"
+          "cookie": "hdntl=Expires=1783430134~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d356241_1ta-di_h264/*~Signature=Ac2BFena-vOhJ5xohT0UdBcSgx443bP0-K3Cx2NgZbi9M_-Hvh40xsq-8tFiIyHc5Clp6tetymOVEZljqaCUM_bDHWAG",
+          "expires": "1783430134",
+          "expire_date": "Tuesday, July 7, 2026, 6:45:34 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gulbarga Mystics Vs Kalyani Bengaluru Blasters",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143442,
-      "status": "UPCOMING",
-      "startTime": "06 July 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438713/143442_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -830,6 +866,25 @@
       "status": "UPCOMING",
       "startTime": "11 July 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Mis E Ainak Knights",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143599,
+      "status": "UPCOMING",
+      "startTime": "11 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
