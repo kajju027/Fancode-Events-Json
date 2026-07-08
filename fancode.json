@@ -3,11 +3,48 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/7/2026, 5:18:24 am",
+  "updatedAt": "8/7/2026, 8:52:01 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Live Events",
+      "title": "Day 1",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246584,
+      "status": "LIVE",
+      "startTime": "08 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246584_english_hls_149509dec471303_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/240p.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/360p.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/480p.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/540p.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/720p.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO"
+          },
+          "cookie": "hdntl=Expires=1783567145~_GO=Generated~acl=/mumbai/4246584_english_hls_149509dec471303_1ta-di_h264/*~Signature=Ac2BFen-9Eq9bA7rOBPK7xKMPK-8F61z7FV9Z6QR1cmEpoczmSIjSmQHXksi2TrlUOfjvnaNjsxVxQnqrZGgTtxoYvcO",
+          "expires": "1783567145",
+          "expire_date": "Thursday, July 9, 2026, 8:49:05 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Belgium Vs Gibraltar",
@@ -143,25 +180,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Sri Lanka Vs West Indies",
-      "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142979,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Zimbabwe Vs Bangladesh",
       "tournament": "Bangladesh tour of Zimbabwe, 2026",
       "match_id": 143401,
@@ -199,13 +217,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Day 1",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246584,
+      "category": "Cricket",
+      "title": "Sri Lanka Vs West Indies",
+      "tournament": "Sri Lanka tour of West Indies 2026",
+      "match_id": 142979,
       "status": "UPCOMING",
-      "startTime": "08 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
+      "startTime": "03 July 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -256,13 +274,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Day 2",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246600,
+      "category": "Cricket",
+      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143596,
       "status": "UPCOMING",
-      "startTime": "09 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "startTime": "09 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -275,13 +293,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143596,
+      "category": "Live Events",
+      "title": "Day 2",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246600,
       "status": "UPCOMING",
-      "startTime": "09 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
+      "startTime": "09 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
