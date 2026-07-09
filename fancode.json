@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/7/2026, 5:52:39 pm",
+  "updatedAt": "9/7/2026, 7:08:50 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -50,19 +50,37 @@
       "title": "Estonia Vs Norway",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246566,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/240p.m3u8?hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK",
+            "360p": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/360p.m3u8?hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK",
+            "480p": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/480p.m3u8?hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK",
+            "540p": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/540p.m3u8?hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK",
+            "720p": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/720p.m3u8?hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK",
+            "1080p": "https://in-mc-plive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK"
+          },
+          "cookie": "hdntl=Expires=1783690631~_GO=Generated~acl=/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/*~Signature=AfBeBzhwSLRL8hRxViL2Lf9L_vcQ0zpnXH3sPS68tGCfWGzUJhB6W1o4UoQ4qrGuDFqxDqJGfAghKxCY0Mt0KxVD-3oK",
+          "expires": "1783690631",
+          "expire_date": "Friday, July 10, 2026, 7:07:11 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -123,44 +141,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Vidarbha",
-      "tournament": "Vidarbha Cricket Association tour of Namibia",
-      "match_id": 143632,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143445,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Belgium Vs Serbia",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246563,
@@ -186,6 +166,44 @@
       "status": "UPCOMING",
       "startTime": "10 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Vidarbha",
+      "tournament": "Vidarbha Cricket Association tour of Namibia",
+      "match_id": 143632,
+      "status": "UPCOMING",
+      "startTime": "10 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Mysore Warriors",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143445,
+      "status": "UPCOMING",
+      "startTime": "10 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
