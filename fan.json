@@ -3,32 +3,32 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "11/7/2026, 9:37:29 pm",
+  "updatedAt": "12/7/2026, 3:39:20 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
-      "category": "MotoGP",
-      "title": "Day 2",
-      "tournament": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
-      "match_id": 139958,
-      "status": "UPCOMING",
-      "startTime": "11 July 2026 12:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
-      "title": "West Indies Vs New Zealand",
+      "title": "New Zealand Vs West Indies",
       "tournament": "New Zealand tour of West Indies, 2026",
       "match_id": 143603,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12 July 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143603_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3",
+      "tournament": "ISCO Championship 2026",
+      "match_id": 4246549,
+      "status": "LIVE",
+      "startTime": "12 July 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246549_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -97,17 +97,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 3",
-      "tournament": "ISCO Championship 2026",
-      "match_id": 4246549,
-      "status": "UPCOMING",
-      "startTime": "12 July 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Live Events",
       "title": "Day 5",
       "tournament": "Dream UTT Juniors 2026",
@@ -142,39 +131,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Ireland Women Vs West Indies Women",
-      "tournament": "West Indies Women tour of Ireland, 2026",
-      "match_id": 143143,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Belgium Vs Serbia",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246563,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "tournament": "Bangladesh tour of Zimbabwe, 2026",
-      "match_id": 143402,
-      "status": "UPCOMING",
-      "startTime": "11 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Amo Sharks Vs Bost Defenders",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143601,
@@ -192,6 +148,17 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 05:45 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe Vs Bangladesh",
+      "tournament": "Bangladesh tour of Zimbabwe, 2026",
+      "match_id": 143402,
+      "status": "UPCOMING",
+      "startTime": "11 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -423,6 +390,39 @@
       "status": "UPCOMING",
       "startTime": "15 July 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 8",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246606,
+      "status": "UPCOMING",
+      "startTime": "15 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe Vs Bangladesh",
+      "tournament": "Bangladesh tour of Zimbabwe, 2026",
+      "match_id": 143403,
+      "status": "UPCOMING",
+      "startTime": "15 July 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783780993683.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143696,
+      "status": "UPCOMING",
+      "startTime": "15 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
