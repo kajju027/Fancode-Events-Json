@@ -3,9 +3,9 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/7/2026, 12:47:21 pm",
-  "total_matches": 38,
-  "live_matches": 3,
+  "updatedAt": "11/7/2026, 1:53:50 pm",
+  "total_matches": 39,
+  "live_matches": 5,
   "upcoming_matches": 35,
   "matches": [
     {
@@ -47,6 +47,80 @@
     },
     {
       "category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143447,
+      "status": "LIVE",
+      "startTime": "11 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783844343",
+          "expire_date": "Sunday, July 12, 2026, 1:49:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Coastal Kings Mangaluru Vs Shivamogga Yodhas",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143447,
+      "status": "LIVE",
+      "startTime": "11 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg",
+      "language": "KANNADA",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143447_kannada_hls_98d44a642796169_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "KANNADA": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783844344",
+          "expire_date": "Sunday, July 12, 2026, 1:49:04 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Speen Ghar Tigers Vs Amo Sharks",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143598,
@@ -69,16 +143,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/240p.m3u8?hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/360p.m3u8?hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/480p.m3u8?hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/540p.m3u8?hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/720p.m3u8?hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH"
           },
-          "cookie": "",
-          "expires": "1783829523",
-          "expire_date": "Sunday, July 12, 2026, 9:42:03 AM"
+          "cookie": "hdntl=Expires=1783844348~_GO=Generated~acl=/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/*~Signature=AfBeBzhL8dQYqeIEocMG8BG_w9ZTdPGrsPEiyIUbc8L6VcLoAumDXksKXXXY2lTrIFXYI6Hc9d6ATkew3ITQPJe5UyEH",
+          "expires": "1783844348",
+          "expire_date": "Sunday, July 12, 2026, 1:49:08 PM"
         }
       }
     },
@@ -127,25 +201,6 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Coastal Kings Mangaluru",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143447,
-      "status": "UPCOMING",
-      "startTime": "11 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -216,6 +271,44 @@
     },
     {
       "category": "Cricket",
+      "title": "Gibraltar Vs Serbia",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246574,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Hungary Vs Turkiye",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246575,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Bost Defenders Vs Mis E Ainak Knights",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143599,
@@ -260,44 +353,6 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 01:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Gibraltar Vs Serbia",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246574,
-      "status": "UPCOMING",
-      "startTime": "12 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Hungary Vs Turkiye",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246575,
-      "status": "UPCOMING",
-      "startTime": "12 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
