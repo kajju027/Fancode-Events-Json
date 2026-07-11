@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/7/2026, 9:54:09 am",
+  "updatedAt": "11/7/2026, 12:01:16 pm",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Live Events",
@@ -42,6 +42,80 @@
           "cookie": "hdntl=Expires=1783826342~_GO=Generated~acl=/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/*~Signature=AfBeBzhu_inkaGbIIsU9ayneqvVINtdO3aHo4yCYzJ4cGgzIJqd3Bt2QR8rLj4dRCMCClLRqBzdGugUxubh66fCsCIQJ",
           "expires": "1783826342",
           "expire_date": "Sunday, July 12, 2026, 8:49:02 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Speen Ghar Tigers Vs Amo Sharks",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143598,
+      "status": "LIVE",
+      "startTime": "11 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783829523",
+          "expire_date": "Sunday, July 12, 2026, 9:42:03 AM"
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 2",
+      "tournament": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
+      "match_id": 139958,
+      "status": "LIVE",
+      "startTime": "11 July 2026 12:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/1080p5.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783837805",
+          "expire_date": "Sunday, July 12, 2026, 12:00:05 PM"
         }
       }
     },
@@ -90,7 +164,7 @@
       "match_id": 143447,
       "status": "UPCOMING",
       "startTime": "11 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -101,43 +175,6 @@
         "backup": {}
       },
       "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Speen Ghar Tigers Vs Amo Sharks",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143598,
-      "status": "LIVE",
-      "startTime": "11 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783829523",
-          "expire_date": "Sunday, July 12, 2026, 9:42:03 AM"
-        }
-      }
     },
     {
       "category": "Cricket",
@@ -185,25 +222,6 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "MotoGP",
-      "title": "Day 2",
-      "tournament": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
-      "match_id": 139958,
-      "status": "UPCOMING",
-      "startTime": "11 July 2026 12:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -368,25 +386,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Day 5",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246603,
-      "status": "UPCOMING",
-      "startTime": "12 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Gibraltar Vs Serbia",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
@@ -413,6 +412,25 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 5",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246603,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
