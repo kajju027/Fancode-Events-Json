@@ -3,22 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/7/2026, 5:36:23 pm",
+  "updatedAt": "12/7/2026, 5:51:45 pm",
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Denmark Vs Norway",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246564,
-      "status": "LIVE",
-      "startTime": "12 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246564_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Ireland Women Vs West Indies Women",
@@ -42,15 +31,26 @@
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/139959_eng.sonuxs.m3u8"
     },
     {
+      "category": "Motorsports",
+      "title": "Adac Gt Master Race 2   Nurburgring",
+      "tournament": "DTM 2026",
+      "match_id": 143694,
+      "status": "LIVE",
+      "startTime": "12 July 2026 05:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143694_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Cricket",
       "title": "Amo Sharks Vs Bost Defenders",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143601,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "12 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143601_6148_AM_BOS_fc-web_1782725011575.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143601_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -106,17 +106,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": null,
       "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "Adac Gt Master Race 2   Nurburgring",
-      "tournament": "DTM 2026",
-      "match_id": 143694,
-      "status": "LIVE",
-      "startTime": "12 July 2026 05:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143694_eng.sonuxs.m3u8"
     },
     {
       "category": "Golf",
@@ -181,6 +170,17 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Denmark Vs Norway",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246564,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": null,
       "cnptv_cdn": null
     },
