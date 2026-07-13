@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/7/2026, 8:51:59 am",
+  "updatedAt": "13/7/2026, 9:43:15 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Live Events",
@@ -42,6 +42,43 @@
           "cookie": "hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
           "expires": "1783999145",
           "expire_date": "Tuesday, July 14, 2026, 8:49:05 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Speen Ghar Tigers Vs Band E Amir Dragons",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143697,
+      "status": "LIVE",
+      "startTime": "13 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143697_english_hls_c477d5353832730_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/240p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/360p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/480p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/540p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/720p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF"
+          },
+          "cookie": "hdntl=Expires=1784002325~_GO=Generated~acl=/mumbai/143697_english_hls_c477d5353832730_1ta-di_h264/*~Signature=AfBeBzgMznkChkVE47V49ISugoR_0pWYE64m9CnjBtDg8NvXTTelprwOh4oJ2v6P1YTXid17zYAm68TIjPd8kk-H_gAF",
+          "expires": "1784002325",
+          "expire_date": "Tuesday, July 14, 2026, 9:42:05 AM"
         }
       }
     },
@@ -141,70 +178,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143697,
-      "status": "UPCOMING",
-      "startTime": "13 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - Nordea Open 2026",
-      "match_id": 143483,
-      "status": "UPCOMING",
-      "startTime": "13 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1",
+      "title": "Day 1   World Feed",
       "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
       "match_id": 143490,
       "status": "UPCOMING",
-      "startTime": "13 July 2026 03:00 PM",
+      "startTime": "13 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
-      "match_id": 143497,
-      "status": "UPCOMING",
-      "startTime": "13 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -224,6 +204,44 @@
       "status": "UPCOMING",
       "startTime": "13 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 1   World Feed",
+      "tournament": "ATP 250 - Nordea Open 2026",
+      "match_id": 143483,
+      "status": "UPCOMING",
+      "startTime": "13 July 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 1   World Feed",
+      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
+      "match_id": 143497,
+      "status": "UPCOMING",
+      "startTime": "13 July 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -351,25 +369,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143602,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246579,
@@ -395,6 +394,25 @@
       "status": "UPCOMING",
       "startTime": "14 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143602,
+      "status": "UPCOMING",
+      "startTime": "14 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
