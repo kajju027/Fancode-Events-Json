@@ -3,29 +3,47 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/7/2026, 6:03:18 am",
+  "updatedAt": "13/7/2026, 8:51:59 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
-      "category": "Golf",
-      "title": "Day 4",
-      "tournament": "ISCO Championship 2026",
-      "match_id": 4246550,
-      "status": "UPCOMING",
-      "startTime": "13 July 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
+      "category": "Live Events",
+      "title": "Day 6",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246604,
+      "status": "LIVE",
+      "startTime": "13 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246604_english_hls_757a5c524711563_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/240p.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/360p.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/480p.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/540p.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/720p.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN"
+          },
+          "cookie": "hdntl=Expires=1783999145~_GO=Generated~acl=/mumbai/4246604_english_hls_757a5c524711563_1ta-di_h264/*~Signature=AfBeBzg_C0XyhRHokl88IEbtCcotk1MV_2Th_C2uYlc8c2RcF1eYUYPbTbFR4POFoXCHXlyDGwlMBTiCfO1YYkN-txsN",
+          "expires": "1783999145",
+          "expire_date": "Tuesday, July 14, 2026, 8:49:05 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -85,13 +103,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Day 6",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246604,
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246581,
       "status": "UPCOMING",
-      "startTime": "13 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "startTime": "14 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246582,
+      "status": "UPCOMING",
+      "startTime": "14 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -200,25 +237,6 @@
     },
     {
       "category": "Cricket",
-      "title": "New Zealand Vs West Indies",
-      "tournament": "New Zealand tour of West Indies, 2026",
-      "match_id": 143603,
-      "status": "UPCOMING",
-      "startTime": "12 July 2026 12:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Denmark Vs Norway",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246564,
@@ -301,44 +319,6 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246581,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246582,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -719,6 +699,44 @@
       "status": "UPCOMING",
       "startTime": "16 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "Corales Puntacana Championship 2026",
+      "match_id": 4246623,
+      "status": "UPCOMING",
+      "startTime": "16 July 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies Vs New Zealand",
+      "tournament": "New Zealand tour of West Indies, 2026",
+      "match_id": 143605,
+      "status": "UPCOMING",
+      "startTime": "17 July 2026 12:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
