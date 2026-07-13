@@ -3,47 +3,29 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/7/2026, 5:37:19 am",
+  "updatedAt": "13/7/2026, 6:03:18 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Golf",
       "title": "Day 4",
       "tournament": "ISCO Championship 2026",
       "match_id": 4246550,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "13 July 2026 01:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246550_english_hls_fc920e4a0532824_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/240p.m3u8?hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG",
-            "360p": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/360p.m3u8?hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG",
-            "480p": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/480p.m3u8?hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG",
-            "540p": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/540p.m3u8?hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG",
-            "720p": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/720p.m3u8?hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG",
-            "1080p": "https://in-mc-plive.fancode.com/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG"
-          },
-          "cookie": "hdntl=Expires=1783987510~_GO=Generated~acl=/mumbai/4246550_english_hls_fc920e4a0532824_1ta-di_h264/*~Signature=AfBeBzgJOjIjyLFrckA3tvFaLdwQCjYLszAvzrs7O6roR-dIZDXxkv2cdV3bRTtbB6DIOVQKo_z0H7RpqOql6BpR5wIG",
-          "expires": "1783987510",
-          "expire_date": "Tuesday, July 14, 2026, 5:35:10 AM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
