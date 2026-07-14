@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "14/7/2026, 9:05:11 am",
+  "updatedAt": "14/7/2026, 9:50:53 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Live Events",
@@ -18,6 +18,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246605_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143602,
+      "status": "LIVE",
+      "startTime": "14 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143602_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -65,61 +76,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143602,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Nordea Open 2026",
-      "match_id": 143484,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_id": 143491,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
-      "match_id": 143498,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143695,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Zimbabwe Vs Bangladesh",
       "tournament": "Bangladesh tour of Zimbabwe, 2026",
       "match_id": 143403,
@@ -137,6 +93,50 @@
       "status": "UPCOMING",
       "startTime": "15 July 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
+      "match_id": 143491,
+      "status": "UPCOMING",
+      "startTime": "14 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - Nordea Open 2026",
+      "match_id": 143484,
+      "status": "UPCOMING",
+      "startTime": "14 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143695,
+      "status": "UPCOMING",
+      "startTime": "14 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
+      "match_id": 143498,
+      "status": "UPCOMING",
+      "startTime": "14 July 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
