@@ -3,85 +3,158 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/7/2026, 11:57:58 am",
+  "updatedAt": "14/7/2026, 2:15:16 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143602,
-      "status": "LIVE",
-      "startTime": "14 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/240p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/360p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/480p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/540p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/720p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN"
-          },
-          "cookie": "hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
-          "expires": "1784089145",
-          "expire_date": "Wednesday, July 15, 2026, 9:49:05 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Serbia Vs Estonia",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246581,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "14 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1784103542",
+          "expire_date": "Wednesday, July 15, 2026, 1:49:02 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
       "title": "Belgium Vs Hungary",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246582,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "14 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1784103544",
+          "expire_date": "Wednesday, July 15, 2026, 1:49:04 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
+      "match_id": 143491,
+      "status": "LIVE",
+      "startTime": "14 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1784103545",
+          "expire_date": "Wednesday, July 15, 2026, 1:49:05 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - Nordea Open 2026",
+      "match_id": 143484,
+      "status": "LIVE",
+      "startTime": "14 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143484_english_hls_ce9011c07f27534_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1784105046",
+          "expire_date": "Wednesday, July 15, 2026, 2:14:06 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -148,44 +221,6 @@
       "status": "UPCOMING",
       "startTime": "15 July 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2   World Feed",
-      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_id": 143491,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2   World Feed",
-      "tournament": "ATP 250 - Nordea Open 2026",
-      "match_id": 143484,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -413,7 +448,7 @@
       "match_id": 4246808,
       "status": "UPCOMING",
       "startTime": "16 July 2026 11:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -565,7 +600,7 @@
       "match_id": 4246809,
       "status": "UPCOMING",
       "startTime": "17 July 2026 11:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -775,6 +810,25 @@
       "status": "UPCOMING",
       "startTime": "17 July 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143608,
+      "status": "UPCOMING",
+      "startTime": "17 July 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
