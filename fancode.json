@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/7/2026, 9:05:11 am",
+  "updatedAt": "14/7/2026, 10:06:11 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Live Events",
@@ -42,6 +42,43 @@
           "cookie": "hdntl=Expires=1784085545~_GO=Generated~acl=/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/*~Signature=AfBeBzh7W6_2qrTAPgF26Nl8s0hv-00UllXzYLkxtb_S1n1k1Zc-AwX5keJdbIuohmSdHXw0_XKYtaDNqmk6LltmSUcC",
           "expires": "1784085545",
           "expire_date": "Wednesday, July 15, 2026, 8:49:05 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143602,
+      "status": "LIVE",
+      "startTime": "14 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/240p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/360p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/480p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/540p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/720p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN"
+          },
+          "cookie": "hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN",
+          "expires": "1784089145",
+          "expire_date": "Wednesday, July 15, 2026, 9:49:05 AM"
         }
       }
     },
@@ -123,12 +160,31 @@
     },
     {
       "category": "Cricket",
-      "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143602,
+      "title": "Zimbabwe Vs Bangladesh",
+      "tournament": "Bangladesh tour of Zimbabwe, 2026",
+      "match_id": 143403,
       "status": "UPCOMING",
-      "startTime": "14 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg",
+      "startTime": "15 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Ireland Women Vs West Indies Women",
+      "tournament": "West Indies Women tour of Ireland, 2026",
+      "match_id": 143145,
+      "status": "UPCOMING",
+      "startTime": "15 July 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -142,30 +198,11 @@
     },
     {
       "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Nordea Open 2026",
-      "match_id": 143484,
-      "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
+      "title": "Day 2   World Feed",
       "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
       "match_id": 143491,
       "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
+      "startTime": "14 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -180,12 +217,12 @@
     },
     {
       "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
-      "match_id": 143498,
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - Nordea Open 2026",
+      "match_id": 143484,
       "status": "UPCOMING",
-      "startTime": "14 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
+      "startTime": "14 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -217,32 +254,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "tournament": "Bangladesh tour of Zimbabwe, 2026",
-      "match_id": 143403,
+      "category": "Tennis",
+      "title": "Day 2   World Feed",
+      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
+      "match_id": 143498,
       "status": "UPCOMING",
-      "startTime": "15 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Ireland Women Vs West Indies Women",
-      "tournament": "West Indies Women tour of Ireland, 2026",
-      "match_id": 143145,
-      "status": "UPCOMING",
-      "startTime": "15 July 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
+      "startTime": "14 July 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
