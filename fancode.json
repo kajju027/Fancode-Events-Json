@@ -3,30 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/7/2026, 12:55:18 pm",
+  "updatedAt": "15/7/2026, 2:02:19 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Live Events",
-      "title": "Day 8",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246606,
-      "status": "UPCOMING",
-      "startTime": "15 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Cricket",
       "title": "Speen Ghar Tigers Vs Amo Sharks",
@@ -65,6 +46,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Day 3   World Feed",
+      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
+      "match_id": 143492,
+      "status": "LIVE",
+      "startTime": "15 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143492_english_hls_e8b311a5c314827_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/240p.m3u8?hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/360p.m3u8?hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/480p.m3u8?hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/540p.m3u8?hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/720p.m3u8?hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB"
+          },
+          "cookie": "hdntl=Expires=1784189945~_GO=Generated~acl=/mumbai/143492_english_hls_e8b311a5c314827_1ta-di_h264/*~Signature=AfBeBzjK9g4w573Lwv8RuEDnZzdPJAxaXrs6ajUtnzagXLXqyWtm2EIv5kngEtBTrhhjiW9tl1rZDxApC4xJ9hkLGOEB",
+          "expires": "1784189945",
+          "expire_date": "Thursday, July 16, 2026, 1:49:05 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Ireland Women Vs West Indies Women",
       "tournament": "West Indies Women tour of Ireland, 2026",
@@ -91,25 +109,6 @@
       "status": "UPCOMING",
       "startTime": "15 July 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 3   World Feed",
-      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_id": 143492,
-      "status": "UPCOMING",
-      "startTime": "15 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -583,7 +582,7 @@
       "tournament": "F2 BELGIUM 2026",
       "match_id": 139639,
       "status": "UPCOMING",
-      "startTime": "17 July 2026 07:25 PM",
+      "startTime": "17 July 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -775,6 +774,25 @@
       "status": "UPCOMING",
       "startTime": "18 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 6",
+      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
+      "match_id": 143502,
+      "status": "UPCOMING",
+      "startTime": "18 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
