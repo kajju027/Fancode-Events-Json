@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/7/2026, 8:51:20 am",
+  "updatedAt": "15/7/2026, 10:22:48 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Live Events",
@@ -88,19 +88,37 @@
       "title": "Amo Sharks Vs Speen Ghar Tigers",
       "tournament": "Shpageeza Cricket League, 2026",
       "match_id": 143696,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "15 July 2026 10:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143696_english_hls_d6e8d9316b43073_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/240p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/360p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/480p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/540p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/720p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF"
+          },
+          "cookie": "hdntl=Expires=1784177045~_GO=Generated~acl=/mumbai/143696_english_hls_d6e8d9316b43073_1ta-di_h264/*~Signature=AfBeBzgdXjby9W9Q1me_7u8qyKmnR_HIRq1SMhGTqDQN633oPdj8t52eZFyK7xY6_La9MmI31U27NA_NDCwRLo--VfoF",
+          "expires": "1784177045",
+          "expire_date": "Thursday, July 16, 2026, 10:14:05 AM"
+        }
+      }
     },
     {
       "category": "Tennis",
