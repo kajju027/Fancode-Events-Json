@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "17/7/2026, 12:47:13 pm",
+  "updatedAt": "17/7/2026, 1:22:48 pm",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Golf",
@@ -18,6 +18,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246809_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F3 BELGIUM 2026",
+      "match_id": 139729,
+      "status": "LIVE",
+      "startTime": "17 July 2026 01:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/139729_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -42,13 +53,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F3 BELGIUM 2026",
-      "match_id": 139729,
+      "category": "Tennis",
+      "title": "Day 5   World Feed",
+      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
+      "match_id": 143494,
       "status": "UPCOMING",
-      "startTime": "17 July 2026 01:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "startTime": "17 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -60,17 +71,6 @@
       "status": "UPCOMING",
       "startTime": "18 July 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762377/4246709_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5   World Feed",
-      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_id": 143494,
-      "status": "UPCOMING",
-      "startTime": "17 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -175,23 +175,23 @@
     },
     {
       "category": "Cricket",
-      "title": "West Indies Vs New Zealand",
-      "tournament": "New Zealand tour of West Indies, 2026",
-      "match_id": 143605,
-      "status": "UPCOMING",
-      "startTime": "17 July 2026 12:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Galle Gallants Vs Colombo Kaps",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246711,
       "status": "UPCOMING",
       "startTime": "18 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies Vs New Zealand",
+      "tournament": "New Zealand tour of West Indies, 2026",
+      "match_id": 143605,
+      "status": "UPCOMING",
+      "startTime": "17 July 2026 12:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
       "language": null,
       "cnptv_cdn": null
     },
