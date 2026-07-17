@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/7/2026, 1:33:00 pm",
+  "updatedAt": "17/7/2026, 1:53:23 pm",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Golf",
@@ -83,6 +83,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Day 5   World Feed",
+      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
+      "match_id": 143494,
+      "status": "LIVE",
+      "startTime": "17 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/240p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/360p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/480p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/540p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/720p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N"
+          },
+          "cookie": "hdntl=Expires=1784362745~_GO=Generated~acl=/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/*~Signature=AeRM5cXzqnkDZyH7Y7-AK21Q4t76PW_T9wIM8RiKci0VBe92GjFRUc-NepZaregwBwFh8z3SaVd8TRew7N9KwlKCUg8N",
+          "expires": "1784362745",
+          "expire_date": "Saturday, July 18, 2026, 1:49:05 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Zimbabwe Vs Bangladesh",
       "tournament": "Bangladesh tour of Zimbabwe, 2026",
@@ -109,25 +146,6 @@
       "status": "UPCOMING",
       "startTime": "17 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762377/4246710_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5   World Feed",
-      "tournament": "ATP 250 - EFG Swiss Open Gstaad 2026",
-      "match_id": 143494,
-      "status": "UPCOMING",
-      "startTime": "17 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -204,6 +222,25 @@
       "status": "UPCOMING",
       "startTime": "17 July 2026 05:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Galle Gallants Vs Colombo Kaps",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246711,
+      "status": "UPCOMING",
+      "startTime": "18 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -318,25 +355,6 @@
       "status": "UPCOMING",
       "startTime": "17 July 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Galle Gallants Vs Colombo Kaps",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246711,
-      "status": "UPCOMING",
-      "startTime": "18 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
