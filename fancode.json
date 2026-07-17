@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/7/2026, 6:58:35 pm",
+  "updatedAt": "17/7/2026, 7:39:19 pm",
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -194,76 +194,39 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
-      "match_id": 139467,
-      "status": "LIVE",
-      "startTime": "17 July 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-        "fancode_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-        "fancode_bd_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-        "fancode_np_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-        "fancode_lk_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/ad-h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "1080p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__1080p50.m3u8",
-            "240p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__240p.m3u8",
-            "360p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__360p.m3u8",
-            "480p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__480p.m3u8",
-            "540p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__540p.m3u8",
-            "720p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index__720p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1784373543",
-          "expire_date": "Saturday, July 18, 2026, 4:49:03 PM"
-        }
-      }
-    },
-    {
       "category": "Motorsports",
       "title": "Qualifying Session",
-      "tournament": "F3 BELGIUM 2026",
-      "match_id": 139730,
+      "tournament": "F2 BELGIUM 2026",
+      "match_id": 139639,
       "status": "LIVE",
-      "startTime": "17 July 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+      "startTime": "17 July 2026 07:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139730_english_hls_b20eada73e14997_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/240p.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/360p.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/480p.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/540p.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/720p.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/240p.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/360p.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/480p.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/540p.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/720p.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD"
           },
-          "cookie": "hdntl=Expires=1784379065~_GO=Generated~acl=/mumbai/139730_english_hls_b20eada73e14997_1ta-di_h264/*~Signature=AeRM5cX0TiRfvPKGLpyAgTFZoJPa518uFMTUX-H3fePxA8_wKs7v4gnttXdJHVoewG0U_KM2wdK5hjDVmiuQPKbHyMQH",
-          "expires": "1784379065",
-          "expire_date": "Saturday, July 18, 2026, 6:21:05 PM"
+          "cookie": "hdntl=Expires=1784382665~_GO=Generated~acl=/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/*~Signature=AeRM5cVDJqBAUShMYlZrVFgwZsUYblTjjnYsZMNaIzEdZ0MOYbcIv_DoLZgDfgzv0xnhyT3Svvqp1KN1hzOLwZ_hhxAD",
+          "expires": "1784382665",
+          "expire_date": "Saturday, July 18, 2026, 7:21:05 PM"
         }
       }
     },
@@ -294,25 +257,6 @@
       "status": "UPCOMING",
       "startTime": "18 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F2 BELGIUM 2026",
-      "match_id": 139639,
-      "status": "UPCOMING",
-      "startTime": "17 July 2026 07:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -845,6 +789,44 @@
       "status": "UPCOMING",
       "startTime": "19 July 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Europe   Race 2",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143701,
+      "status": "UPCOMING",
+      "startTime": "19 July 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+      "match_id": 139471,
+      "status": "UPCOMING",
+      "startTime": "19 July 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
