@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/7/2026, 3:49:56 pm",
+  "updatedAt": "18/7/2026, 4:05:14 pm",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -120,6 +120,43 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Practice 3",
+      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+      "match_id": 139469,
+      "status": "LIVE",
+      "startTime": "18 July 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/240p.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/360p.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/480p.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/540p.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/720p.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E"
+          },
+          "cookie": "hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E",
+          "expires": "1784456765",
+          "expire_date": "Sunday, July 19, 2026, 3:56:05 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Galle Gallants Vs Colombo Kaps",
       "tournament": "Lanka Premier League, 2026",
@@ -165,25 +202,6 @@
       "status": "UPCOMING",
       "startTime": "19 July 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 3",
-      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
-      "match_id": 139469,
-      "status": "UPCOMING",
-      "startTime": "18 July 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
