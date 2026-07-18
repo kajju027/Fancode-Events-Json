@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/7/2026, 5:41:47 pm",
+  "updatedAt": "18/7/2026, 6:02:12 pm",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -157,6 +157,80 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F2 BELGIUM 2026",
+      "match_id": 139640,
+      "status": "LIVE",
+      "startTime": "18 July 2026 05:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/240p.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/360p.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/480p.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/540p.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/720p.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N"
+          },
+          "cookie": "hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N",
+          "expires": "1784463125",
+          "expire_date": "Sunday, July 19, 2026, 5:42:05 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Europe   Race 1",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143700,
+      "status": "LIVE",
+      "startTime": "18 July 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/240p.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/360p.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/480p.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/540p.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/720p.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG"
+          },
+          "cookie": "hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG",
+          "expires": "1784463968",
+          "expire_date": "Sunday, July 19, 2026, 5:56:08 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Galle Gallants Vs Colombo Kaps",
       "tournament": "Lanka Premier League, 2026",
@@ -202,44 +276,6 @@
       "status": "UPCOMING",
       "startTime": "19 July 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F2 BELGIUM 2026",
-      "match_id": 139640,
-      "status": "UPCOMING",
-      "startTime": "18 July 2026 05:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Europe   Race 1",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 143700,
-      "status": "UPCOMING",
-      "startTime": "18 July 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
