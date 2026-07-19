@@ -3,11 +3,48 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/7/2026, 1:35:16 am",
+  "updatedAt": "19/7/2026, 8:57:29 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Live Events",
+      "title": "Final",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246610,
+      "status": "LIVE",
+      "startTime": "19 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/240p.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/360p.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/480p.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/540p.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/720p.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM"
+          },
+          "cookie": "hdntl=Expires=1784517546~_GO=Generated~acl=/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/*~Signature=AeRM5cW_UK4RnvQv5cq74agTGPt6JYI9WZBhn-9nzSmqC_F1wWkB8T5k4aBDa5kZeyxs-UlGL8DAGBnxqLv-h3Fe9aYM",
+          "expires": "1784517546",
+          "expire_date": "Monday, July 20, 2026, 8:49:06 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Dambulla Sixers Vs Jaffna Kings",
@@ -73,25 +110,6 @@
       "status": "UPCOMING",
       "startTime": "19 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Live Events",
-      "title": "Final",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246610,
-      "status": "UPCOMING",
-      "startTime": "19 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -237,44 +255,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Dambulla Sixers Vs Kandy Royals",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246709,
-      "status": "UPCOMING",
-      "startTime": "18 July 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762377/4246709_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246711,
-      "status": "UPCOMING",
-      "startTime": "18 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Formula 1",
       "title": "Race",
       "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
@@ -301,6 +281,44 @@
       "status": "UPCOMING",
       "startTime": "19 July 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Dambulla Sixers Vs Kandy Royals",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246709,
+      "status": "UPCOMING",
+      "startTime": "18 July 2026 03:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762377/4246709_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246711,
+      "status": "UPCOMING",
+      "startTime": "18 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
