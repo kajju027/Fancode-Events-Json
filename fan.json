@@ -3,21 +3,32 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "21/7/2026, 1:45:50 pm",
+  "updatedAt": "21/7/2026, 2:16:18 pm",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
       "title": "Nepal Vs Namibia",
       "tournament": "ICC CWC League 2 Netherlands, 2026",
       "match_id": 4246703,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "21 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246703_52990_NEP_NAM_fc-App.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246703_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2",
+      "tournament": "ATP 250 - Generali Open 2026",
+      "match_id": 143504,
+      "status": "LIVE",
+      "startTime": "21 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143504_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -64,28 +75,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Generali Open 2026",
-      "match_id": 143504,
-      "status": "UPCOMING",
-      "startTime": "21 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 250   Millenium Estoril Open 2026",
-      "tournament": "ATP 250 - Millenium Estoril Open 2026",
-      "match_id": 143510,
-      "status": "UPCOMING",
-      "startTime": "21 July 2026 04:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Dambulla Sixers Vs Galle Gallants",
       "tournament": "Lanka Premier League, 2026",
@@ -93,6 +82,17 @@
       "status": "UPCOMING",
       "startTime": "22 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2",
+      "tournament": "ATP 250 - Millenium Estoril Open 2026",
+      "match_id": 143510,
+      "status": "UPCOMING",
+      "startTime": "21 July 2026 04:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
       "language": null,
       "cnptv_cdn": null
     },
