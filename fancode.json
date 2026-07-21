@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/7/2026, 2:21:24 pm",
+  "updatedAt": "21/7/2026, 4:38:53 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -122,25 +122,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_id": 4247196,
-      "status": "UPCOMING",
-      "startTime": "22 July 2026 07:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Jaffna Kings Vs Colombo Kaps",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246715,
@@ -160,12 +141,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Dambulla Sixers Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246714,
+      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247196,
       "status": "UPCOMING",
-      "startTime": "22 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
+      "startTime": "22 July 2026 07:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -182,9 +163,46 @@
       "title": "Day 2",
       "tournament": "ATP 250 - Millenium Estoril Open 2026",
       "match_id": 143510,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "21 July 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/240p.m3u8?hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/360p.m3u8?hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/480p.m3u8?hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/540p.m3u8?hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/720p.m3u8?hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ"
+          },
+          "cookie": "hdntl=Expires=1784717042~_GO=Generated~acl=/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/*~Signature=AeouRp7_y8wiXfLZOGb9SWo9yWtNjV2Zf9bDwY_ymESezAcvYdwq0VjA2nZ7g_1jbFU-d1YmYQa95ef5F1gHAR1NkeUJ",
+          "expires": "1784717042",
+          "expire_date": "Wednesday, July 22, 2026, 4:14:02 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Dambulla Sixers Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246714,
+      "status": "UPCOMING",
+      "startTime": "22 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -768,12 +786,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Dambulla Sixers Vs Colombo Kaps",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246721,
+      "title": "West Indies Vs Pakistan",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143633,
       "status": "UPCOMING",
       "startTime": "25 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -787,12 +805,12 @@
     },
     {
       "category": "Cricket",
-      "title": "West Indies Vs Pakistan",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143633,
+      "title": "Dambulla Sixers Vs Colombo Kaps",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246721,
       "status": "UPCOMING",
       "startTime": "25 July 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old.png",
+      "image": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
