@@ -3,29 +3,84 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/7/2026, 11:39:22 am",
+  "updatedAt": "22/7/2026, 2:37:19 pm",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
       "title": "Jaffna Kings Vs Colombo Kaps",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246715,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "22 July 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762383/4246715_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/240p.m3u8?hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/360p.m3u8?hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/480p.m3u8?hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/540p.m3u8?hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/720p.m3u8?hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID"
+          },
+          "cookie": "hdntl=Expires=1784797503~_GO=Generated~acl=/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/*~Signature=AeouRp6tJ2lrnOBzyMezsD505fZlenBSpLcuq6BA9FhdWjqs-8SHGOESFBwhL4umWEgLTfrBOAC2TTuABy13A3wmw1ID",
+          "expires": "1784797503",
+          "expire_date": "Thursday, July 23, 2026, 2:35:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 3",
+      "tournament": "ATP 250 - Generali Open 2026",
+      "match_id": 143505,
+      "status": "LIVE",
+      "startTime": "22 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/240p.m3u8?hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/360p.m3u8?hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/480p.m3u8?hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/540p.m3u8?hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/720p.m3u8?hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE"
+          },
+          "cookie": "hdntl=Expires=1784797504~_GO=Generated~acl=/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/*~Signature=AeouRp6SjGUUBUYiJOyRRYouD_7T2Mfr8Zugl9yCvg8Amk9ht-DjtutUtGU2bJJOMJYpae5ZTc1Wg1sYFcH6nC9qp3oE",
+          "expires": "1784797504",
+          "expire_date": "Thursday, July 23, 2026, 2:35:04 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -123,13 +178,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Day 3",
-      "tournament": "ATP 250 - Generali Open 2026",
-      "match_id": 143505,
+      "category": "Cricket",
+      "title": "Galle Gallants Vs Jaffna Kings",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246716,
       "status": "UPCOMING",
-      "startTime": "22 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
+      "startTime": "23 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762377/4246716_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Lahore Qalandars Vs Perth Scorchers Xi",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247434,
+      "status": "UPCOMING",
+      "startTime": "23 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -206,44 +280,6 @@
       "status": "UPCOMING",
       "startTime": "22 July 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Galle Gallants Vs Jaffna Kings",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246716,
-      "status": "UPCOMING",
-      "startTime": "23 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762377/4246716_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Lahore Qalandars Vs Perth Scorchers Xi",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247434,
-      "status": "UPCOMING",
-      "startTime": "23 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784653587316/4247434_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -389,13 +425,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2   World Feed",
-      "tournament": "ISPS Handa Women's Scottish Open 2026",
-      "match_id": 4247418,
+      "category": "Cricket",
+      "title": "Lahore Qalandars Vs Desert Vipers",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247438,
       "status": "UPCOMING",
-      "startTime": "24 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
+      "startTime": "24 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -408,13 +444,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Lahore Qalandars Vs Desert Vipers",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247438,
+      "category": "Golf",
+      "title": "Day 2   World Feed",
+      "tournament": "ISPS Handa Women's Scottish Open 2026",
+      "match_id": 4247418,
       "status": "UPCOMING",
-      "startTime": "24 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png",
+      "startTime": "24 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -452,7 +488,7 @@
       "match_id": 139642,
       "status": "UPCOMING",
       "startTime": "24 July 2026 02:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -509,7 +545,7 @@
       "match_id": 139472,
       "status": "UPCOMING",
       "startTime": "24 July 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -585,7 +621,7 @@
       "match_id": 139643,
       "status": "UPCOMING",
       "startTime": "24 July 2026 07:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -604,7 +640,7 @@
       "match_id": 139473,
       "status": "UPCOMING",
       "startTime": "24 July 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -618,7 +654,7 @@
     },
     {
       "category": "Motorsports",
-      "title": "Porsche Mobil 1 Supercup 2026",
+      "title": "Practice Session",
       "tournament": "Porsche Mobil 1 Supercup 2026",
       "match_id": 143611,
       "status": "UPCOMING",
@@ -751,7 +787,7 @@
     },
     {
       "category": "Motorsports",
-      "title": "Ferrari Challenge Series 2026",
+      "title": "Japan   Race 1",
       "tournament": "Ferrari Challenge Series 2026",
       "match_id": 143794,
       "status": "UPCOMING",
