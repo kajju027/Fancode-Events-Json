@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/7/2026, 9:42:28 am",
+  "updatedAt": "23/7/2026, 1:56:42 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -42,6 +42,43 @@
           "cookie": "hdntl=Expires=1784866322~_GO=Generated~acl=/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/*~Signature=AeouRp4jLBA6RJZpCVt7AqZ_aJSnloZoVh100aF5sk_4wyp_xfZIa0eR97hOWOiyoSHyhOIqzRvoX3nx_0kndh9Nl7AH",
           "expires": "1784866322",
           "expire_date": "Friday, July 24, 2026, 9:42:02 AM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1   World Feed",
+      "tournament": "ISPS Handa Women's Scottish Open 2026",
+      "match_id": 4247416,
+      "status": "LIVE",
+      "startTime": "23 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/240p.m3u8?hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/360p.m3u8?hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/480p.m3u8?hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/540p.m3u8?hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/720p.m3u8?hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC"
+          },
+          "cookie": "hdntl=Expires=1784881143~_GO=Generated~acl=/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/*~Signature=AeouRp4pKU4mwy4QqPBwhjG5PalcuHu1XyAHml2zm1HXGrLWw_2CHPmQNRLBNF-QOwLCLPhG3EzgMnGFaAWWnZmdA9gC",
+          "expires": "1784881143",
+          "expire_date": "Friday, July 24, 2026, 1:49:03 PM"
         }
       }
     },
@@ -179,31 +216,12 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 1   World Feed",
-      "tournament": "ISPS Handa Women's Scottish Open 2026",
-      "match_id": 4247416,
-      "status": "UPCOMING",
-      "startTime": "23 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "Day 4",
       "tournament": "ATP 250 - Generali Open 2026",
       "match_id": 143506,
       "status": "UPCOMING",
-      "startTime": "23 July 2026 03:00 PM",
+      "startTime": "23 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -222,8 +240,27 @@
       "tournament": "ATP 250 - Millenium Estoril Open 2026",
       "match_id": 143512,
       "status": "UPCOMING",
-      "startTime": "23 July 2026 03:00 PM",
+      "startTime": "23 July 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Lahore Qalandars Vs Desert Vipers",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247438,
+      "status": "UPCOMING",
+      "startTime": "24 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -300,25 +337,6 @@
       "status": "UPCOMING",
       "startTime": "22 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Lahore Qalandars Vs Desert Vipers",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247438,
-      "status": "UPCOMING",
-      "startTime": "24 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -465,25 +483,6 @@
     },
     {
       "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F3 HUNGARY 2026",
-      "match_id": 139733,
-      "status": "UPCOMING",
-      "startTime": "24 July 2026 01:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
       "title": "Free Practice 2",
       "tournament": "DTM 2026",
       "match_id": 143797,
@@ -509,6 +508,25 @@
       "status": "UPCOMING",
       "startTime": "24 July 2026 07:25 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F3 HUNGARY 2026",
+      "match_id": 139733,
+      "status": "UPCOMING",
+      "startTime": "24 July 2026 01:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -578,13 +596,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2   World Feed",
-      "tournament": "3M Open 2026",
-      "match_id": 4246802,
+      "category": "Cricket",
+      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247198,
       "status": "UPCOMING",
-      "startTime": "25 July 2026 02:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+      "startTime": "25 July 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -597,13 +615,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_id": 4247198,
+      "category": "Golf",
+      "title": "Day 2   World Feed",
+      "tournament": "3M Open 2026",
+      "match_id": 4246802,
       "status": "UPCOMING",
-      "startTime": "25 July 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+      "startTime": "25 July 2026 02:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
