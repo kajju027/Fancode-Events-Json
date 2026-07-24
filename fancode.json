@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/7/2026, 5:16:47 pm",
-  "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "updatedAt": "24/7/2026, 6:02:55 pm",
+  "total_matches": 38,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Golf",
@@ -157,6 +157,43 @@
       }
     },
     {
+      "category": "Golf",
+      "title": "Day 2   Main Feed",
+      "tournament": "3M Open 2026",
+      "match_id": 4246801,
+      "status": "LIVE",
+      "startTime": "24 July 2026 06:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/240p.m3u8?hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/360p.m3u8?hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/480p.m3u8?hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/540p.m3u8?hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/720p.m3u8?hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN"
+          },
+          "cookie": "hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
+          "expires": "1784982605",
+          "expire_date": "Saturday, July 25, 2026, 6:00:05 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Lahore Qalandars Vs Desert Vipers",
       "tournament": "Global Super League, 2026",
@@ -278,25 +315,6 @@
       "status": "UPCOMING",
       "startTime": "25 July 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2   Main Feed",
-      "tournament": "3M Open 2026",
-      "match_id": 4246801,
-      "status": "UPCOMING",
-      "startTime": "24 July 2026 06:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -791,44 +809,6 @@
       "status": "UPCOMING",
       "startTime": "25 July 2026 06:35 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 AWS HUNGARIAN GRAND PRIX 2026",
-      "match_id": 139475,
-      "status": "UPCOMING",
-      "startTime": "25 July 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Desert Vipers",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247437,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 04:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
