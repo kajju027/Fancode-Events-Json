@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/7/2026, 8:10:56 pm",
+  "updatedAt": "24/7/2026, 8:26:10 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -116,6 +116,43 @@
           "cookie": "hdntl=Expires=1784982605~_GO=Generated~acl=/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/*~Signature=AeouRp4FzphpSEbCA-aFoCPZ7jtgWlfg91nNQA48-7HPXsDp15CQfsry_EpE7YNogGFkwLBRJqInrk9Rh_GhW86pADoN",
           "expires": "1784982605",
           "expire_date": "Saturday, July 25, 2026, 6:00:05 PM"
+        }
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 2",
+      "tournament": "F1 AWS HUNGARIAN GRAND PRIX 2026",
+      "match_id": 139473,
+      "status": "LIVE",
+      "startTime": "24 July 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/240p.m3u8?hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/360p.m3u8?hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/480p.m3u8?hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/540p.m3u8?hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/720p.m3u8?hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG"
+          },
+          "cookie": "hdntl=Expires=1784991063~_GO=Generated~acl=/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/*~Signature=AeouRp7shVrFZaDRtfAiKwaYP5LEZGaGYWkJM5QahiwmldrpkfC_74OxOwB7bBkZtGHkpam7HB67ebreTV_Kb-nmnxIG",
+          "expires": "1784991063",
+          "expire_date": "Saturday, July 25, 2026, 8:21:03 PM"
         }
       }
     },
@@ -272,25 +309,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 2",
-      "tournament": "F1 AWS HUNGARIAN GRAND PRIX 2026",
-      "match_id": 139473,
-      "status": "UPCOMING",
-      "startTime": "24 July 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Motorsports",
       "title": "Practice Session",
       "tournament": "Porsche Mobil 1 Supercup 2026",
@@ -336,6 +354,25 @@
       "status": "UPCOMING",
       "startTime": "25 July 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying 1",
+      "tournament": "DTM 2026",
+      "match_id": 143798,
+      "status": "UPCOMING",
+      "startTime": "25 July 2026 01:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -412,25 +449,6 @@
       "status": "UPCOMING",
       "startTime": "24 July 2026 04:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784653587314/4247439_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying 1",
-      "tournament": "DTM 2026",
-      "match_id": 143798,
-      "status": "UPCOMING",
-      "startTime": "25 July 2026 01:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -576,13 +594,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F2 HUNGARY 2026",
-      "match_id": 139644,
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors Vs Desert Vipers",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247437,
       "status": "UPCOMING",
-      "startTime": "25 July 2026 05:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
+      "startTime": "26 July 2026 04:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -595,13 +613,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Desert Vipers",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247437,
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F2 HUNGARY 2026",
+      "match_id": 139644,
       "status": "UPCOMING",
-      "startTime": "26 July 2026 04:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
+      "startTime": "25 July 2026 05:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
