@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/7/2026, 5:33:12 am",
+  "updatedAt": "24/7/2026, 7:24:59 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -47,31 +47,49 @@
     },
     {
       "category": "Cricket",
+      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247197,
+      "status": "LIVE",
+      "startTime": "24 July 2026 07:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/240p.m3u8?hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/360p.m3u8?hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/480p.m3u8?hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/540p.m3u8?hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/720p.m3u8?hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ"
+          },
+          "cookie": "hdntl=Expires=1784944263~_GO=Generated~acl=/mumbai/4247197_english_hls_d1238c121b82626_1ta-di_h264/*~Signature=AeouRp7Gd1KYzEBEVxrv2HS4T2fWQDGWAPgGMA7PC6y19wrxm2IBue7Ykm23tldysRnAoCE51r8-88Ree67uWtxIIMMJ",
+          "expires": "1784944263",
+          "expire_date": "Saturday, July 25, 2026, 7:21:03 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Lahore Qalandars Vs Desert Vipers",
       "tournament": "Global Super League, 2026",
       "match_id": 4247438,
       "status": "UPCOMING",
       "startTime": "24 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_id": 4247197,
-      "status": "UPCOMING",
-      "startTime": "24 July 2026 07:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -464,6 +482,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Namibia Vs Netherlands",
+      "tournament": "ICC CWC League 2 Netherlands, 2026",
+      "match_id": 4246705,
+      "status": "UPCOMING",
+      "startTime": "25 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Day 2   World Feed",
       "tournament": "3M Open 2026",
@@ -484,50 +521,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Netherlands",
-      "tournament": "ICC CWC League 2 Netherlands, 2026",
-      "match_id": 4246705,
-      "status": "UPCOMING",
-      "startTime": "25 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Galle Gallants Vs Kandy Royals",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246722,
       "status": "UPCOMING",
       "startTime": "25 July 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F3 HUNGARY 2026",
-      "match_id": 139733,
-      "status": "UPCOMING",
-      "startTime": "24 July 2026 01:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -560,11 +559,11 @@
     },
     {
       "category": "Motorsports",
-      "title": "Qualifying Session",
+      "title": "Practice Session",
       "tournament": "F3 HUNGARY 2026",
-      "match_id": 139734,
+      "match_id": 139733,
       "status": "UPCOMING",
-      "startTime": "24 July 2026 06:30 PM",
+      "startTime": "24 July 2026 01:25 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -585,6 +584,25 @@
       "status": "UPCOMING",
       "startTime": "25 July 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F3 HUNGARY 2026",
+      "match_id": 139734,
+      "status": "UPCOMING",
+      "startTime": "24 July 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
