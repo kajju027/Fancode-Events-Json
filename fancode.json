@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/7/2026, 3:10:56 pm",
+  "updatedAt": "25/7/2026, 3:41:30 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -194,43 +194,6 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143612,
-      "status": "LIVE",
-      "startTime": "25 July 2026 02:50 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/240p.m3u8?hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/360p.m3u8?hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/480p.m3u8?hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/540p.m3u8?hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/720p.m3u8?hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N"
-          },
-          "cookie": "hdntl=Expires=1785057543~_GO=Generated~acl=/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/*~Signature=AeouRp5NuegPs92oXJm1UbkULOSjkgHq8CzV5wOXuqovyGyCIEV562c4p5C83fvkinVXqPlbsXm2gsUOGhrED5NeBS4N",
-          "expires": "1785057543",
-          "expire_date": "Sunday, July 26, 2026, 2:49:03 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Zimbabwe Vs India",
       "tournament": "India tour of Zimbabwe, 2026",
@@ -345,44 +308,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Galle Gallants Vs Dambulla Sixers",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246713,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "San Francisco Unicorns Vs Perth Scorchers Xi",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247431,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Formula 1",
       "title": "Practice 3",
       "tournament": "F1 AWS HUNGARIAN GRAND PRIX 2026",
@@ -409,6 +334,44 @@
       "status": "UPCOMING",
       "startTime": "25 July 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Galle Gallants Vs Dambulla Sixers",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246713,
+      "status": "UPCOMING",
+      "startTime": "26 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "San Francisco Unicorns Vs Perth Scorchers Xi",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247431,
+      "status": "UPCOMING",
+      "startTime": "26 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -862,6 +825,25 @@
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
       "match_id": 143641,
+      "status": "UPCOMING",
+      "startTime": "27 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Mubadala Dc Open 2026",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143640,
       "status": "UPCOMING",
       "startTime": "27 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
