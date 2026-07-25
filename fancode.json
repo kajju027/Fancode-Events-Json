@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/7/2026, 1:59:31 pm",
+  "updatedAt": "25/7/2026, 2:30:03 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -42,6 +42,43 @@
           "cookie": "hdntl=Expires=1785039123~_GO=Generated~acl=/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/*~Signature=AeouRp5MFd5Zsen1P44VWcHGUH7tIeaqPeY4Su0AfujQn3wOVwXe2PKEGPsu1Cpmq0dqczOSQGJa_IGX2qWukLBszIIM",
           "expires": "1785039123",
           "expire_date": "Sunday, July 26, 2026, 9:42:03 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Netherlands Vs Namibia",
+      "tournament": "ICC CWC League 2 Netherlands, 2026",
+      "match_id": 4246705,
+      "status": "LIVE",
+      "startTime": "25 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "Unavailable",
+        "fancode_bd_cdn": "Unavailable",
+        "fancode_np_cdn": "Unavailable",
+        "fancode_lk_cdn": "Unavailable",
+        "backup": {
+          "fancode_cdn": "Unavailable",
+          "fancode_cdn_v1": "Unavailable",
+          "fancode_dai_cdn": "Unavailable"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90/240p.m3u8",
+            "360p": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90/360p.m3u8",
+            "480p": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90/480p.m3u8",
+            "540p": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90/540p.m3u8",
+            "720p": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90/720p.m3u8",
+            "1080p": "https://in-ak-flive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90/1080p.m3u8"
+          },
+          "cookie": "hdntl=exp=1785055863~acl=%2f*~id=323743885_70574e4f-0102-44~data=hdntl~hmac=753b67cc5e269d8a1918ceae7bd2327ae20bf3f97d8d3ac807fe5a2491db6f90",
+          "expires": "1785055863",
+          "expire_date": "Sunday, July 26, 2026, 2:21:03 PM"
         }
       }
     },
@@ -158,25 +195,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Netherlands",
-      "tournament": "ICC CWC League 2 Netherlands, 2026",
-      "match_id": 4246705,
-      "status": "UPCOMING",
-      "startTime": "25 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Galle Gallants Vs Kandy Royals",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246722,
@@ -290,6 +308,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143612,
+      "status": "UPCOMING",
+      "startTime": "25 July 2026 02:50 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Zimbabwe Vs India",
       "tournament": "India tour of Zimbabwe, 2026",
@@ -309,13 +346,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143612,
+      "category": "Cricket",
+      "title": "Galle Gallants Vs Dambulla Sixers",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246713,
       "status": "UPCOMING",
-      "startTime": "25 July 2026 02:50 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg",
+      "startTime": "26 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "San Francisco Unicorns Vs Perth Scorchers Xi",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247431,
+      "status": "UPCOMING",
+      "startTime": "26 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -392,44 +448,6 @@
       "status": "UPCOMING",
       "startTime": "25 July 2026 05:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Galle Gallants Vs Dambulla Sixers",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246713,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "San Francisco Unicorns Vs Perth Scorchers Xi",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247431,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
