@@ -3,84 +3,29 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/7/2026, 4:01:32 am",
-  "total_matches": 40,
-  "live_matches": 2,
+  "updatedAt": "26/7/2026, 8:36:02 am",
+  "total_matches": 39,
+  "live_matches": 0,
   "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Desert Vipers",
+      "title": "Desert Vipers Vs Guyana Amazon Warriors",
       "tournament": "Global Super League, 2026",
       "match_id": 4247437,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "26 July 2026 04:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/240p.m3u8?hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/360p.m3u8?hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/480p.m3u8?hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/540p.m3u8?hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/720p.m3u8?hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK"
-          },
-          "cookie": "hdntl=Expires=1785104957~_GO=Generated~acl=/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/*~Signature=AeouRp5Tw-yHoOH8DUcC-72qB_wZK44N_RmsiLpYH2mwimc6aSHgHsIctl81JakHMsmiBME0LeJAJWm5kj75050mGcAK",
-          "expires": "1785104957",
-          "expire_date": "Monday, July 27, 2026, 3:59:17 AM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "West Indies Vs Pakistan",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143633,
-      "status": "LIVE",
-      "startTime": "25 July 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/240p.m3u8?hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/360p.m3u8?hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/480p.m3u8?hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/540p.m3u8?hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/720p.m3u8?hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK"
-          },
-          "cookie": "hdntl=Expires=1785092057~_GO=Generated~acl=/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/*~Signature=AeouRp7VvNizXBcRSH3Paaziy8AZJk7lmsCRrjNZ2IvB0RSAOVQlcLDNBFpTxMQql4WZMikJKC_ohZLZmoUvojJ2QHUK",
-          "expires": "1785092057",
-          "expire_date": "Monday, July 27, 2026, 12:24:17 AM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -388,6 +333,44 @@
     },
     {
       "category": "Cricket",
+      "title": "Namibia Vs Nepal",
+      "tournament": "ICC CWC League 2 Netherlands, 2026",
+      "match_id": 4246707,
+      "status": "UPCOMING",
+      "startTime": "27 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4   World Feed",
+      "tournament": "3M Open 2026",
+      "match_id": 4246806,
+      "status": "UPCOMING",
+      "startTime": "26 July 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Pakistan Women Vs Sri Lanka Women",
       "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
       "match_id": 4247426,
@@ -482,44 +465,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 4   World Feed",
-      "tournament": "3M Open 2026",
-      "match_id": 4246806,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Nepal",
-      "tournament": "ICC CWC League 2 Netherlands, 2026",
-      "match_id": 4246707,
-      "status": "UPCOMING",
-      "startTime": "27 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -558,13 +503,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp 250   Mifel Tennis Open By Telcel Oppo 2026",
-      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-      "match_id": 143516,
+      "category": "Cricket",
+      "title": "San Francisco Unicorns Vs Desert Vipers",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247440,
       "status": "UPCOMING",
-      "startTime": "27 July 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
+      "startTime": "28 July 2026 04:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1784653587294/4247440_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -577,13 +522,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "San Francisco Unicorns Vs Desert Vipers",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247440,
+      "category": "Tennis",
+      "title": "Atp 250   Mifel Tennis Open By Telcel Oppo 2026",
+      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+      "match_id": 143516,
       "status": "UPCOMING",
-      "startTime": "28 July 2026 04:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784653587294/4247440_CASACARDS_SPORTY_APP.png",
+      "startTime": "27 July 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
