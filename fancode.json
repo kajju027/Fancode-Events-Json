@@ -3,14 +3,14 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/7/2026, 2:37:04 pm",
+  "updatedAt": "26/7/2026, 2:52:20 pm",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Kandy Royals Vs Jaffna Kings",
+      "title": "Jaffna Kings Vs Kandy Royals",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246728,
       "status": "LIVE",
@@ -42,6 +42,43 @@
           "cookie": "hdntl=Expires=1785143103~_GO=Generated~acl=/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/*~Signature=AeouRp6__HndGzvYRj-odnBNykQY89aBxkzqurjrx0RIh8K5E1CTSsjZ5MAb5by52O4hOVQPYzH_r_JFI8DfkbrudvYF",
           "expires": "1785143103",
           "expire_date": "Monday, July 27, 2026, 2:35:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race",
+      "tournament": "F2 HUNGARY 2026",
+      "match_id": 139645,
+      "status": "LIVE",
+      "startTime": "26 July 2026 02:55 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/240p.m3u8?hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/360p.m3u8?hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/480p.m3u8?hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/540p.m3u8?hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/720p.m3u8?hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N"
+          },
+          "cookie": "hdntl=Expires=1785143943~_GO=Generated~acl=/mumbai/139645_english_hls_2bc7ee1abc73702_1ta-di_h264/*~Signature=AeouRp7tIb7ZKHpncNvCy9biZj4BJzbh0gATLeWHOF5CjPe2pUDpqC0zxu4bthbe1WWw3Pfjv9k5vEe-JYCHUNamit8N",
+          "expires": "1785143943",
+          "expire_date": "Monday, July 27, 2026, 2:49:03 PM"
         }
       }
     },
@@ -129,25 +166,6 @@
       "status": "UPCOMING",
       "startTime": "27 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race",
-      "tournament": "F2 HUNGARY 2026",
-      "match_id": 139645,
-      "status": "UPCOMING",
-      "startTime": "26 July 2026 02:55 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
