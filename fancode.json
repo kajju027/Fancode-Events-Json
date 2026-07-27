@@ -3,67 +3,47 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/7/2026, 10:33:00 am",
-  "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 40,
+  "updatedAt": "27/7/2026, 2:54:18 pm",
+  "total_matches": 39,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Lahore Qalandars",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247433,
-      "status": "LIVE",
-      "startTime": "27 July 2026 04:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784653587317/4247433_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "West Indies Vs Pakistan",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143633,
-      "status": "LIVE",
-      "startTime": "25 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Cricket",
       "title": "Namibia Vs Nepal",
       "tournament": "ICC CWC League 2 Netherlands, 2026",
       "match_id": 4246707,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "27 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/240p.m3u8?hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/360p.m3u8?hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/480p.m3u8?hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/540p.m3u8?hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/720p.m3u8?hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB"
+          },
+          "cookie": "hdntl=Expires=1785229507~_GO=Generated~acl=/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/*~Signature=AeouRp7HDH_EVZnLo2Yn8GWEYQSLkNNxGf3ZXAt50NdKf0Rhdx49-qiUSqLGPK4x_lkWGB4wZUvbCfkZWiE1rV8CEVYB",
+          "expires": "1785229507",
+          "expire_date": "Tuesday, July 28, 2026, 2:35:07 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -123,6 +103,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Chelsea Vs Western Sydney Wanderers",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248011,
+      "status": "UPCOMING",
+      "startTime": "28 July 2026 03:15 PM",
+      "image": "https://images.fancode.com/aig/match/v1785058710768/4248011_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Jaffna Kings",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246727,
+      "status": "UPCOMING",
+      "startTime": "28 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "World Feed   Day 1",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -130,6 +148,25 @@
       "status": "UPCOMING",
       "startTime": "27 July 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 1",
+      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+      "match_id": 143516,
+      "status": "UPCOMING",
+      "startTime": "28 July 2026 06:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -218,51 +255,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Chelsea Vs Western Sydney Wanderers",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248011,
-      "status": "UPCOMING",
-      "startTime": "28 July 2026 03:15 PM",
-      "image": "https://images.fancode.com/aig/match/v1785058710768/4248011_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-      "match_id": 143516,
-      "status": "UPCOMING",
-      "startTime": "28 July 2026 06:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
-      "title": "Colombo Kaps Vs Jaffna Kings",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246727,
+      "title": "Guyana Amazon Warriors Vs Lahore Qalandars",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247433,
       "status": "UPCOMING",
-      "startTime": "28 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png",
+      "startTime": "27 July 2026 04:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1784653587317/4247433_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -585,7 +584,26 @@
       "match_id": 4248044,
       "status": "UPCOMING",
       "startTime": "30 July 2026 04:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "World Feed   Day 1",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248043,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -605,25 +623,6 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "World Feed   Day 1",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248043,
-      "status": "UPCOMING",
-      "startTime": "31 July 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -737,7 +736,7 @@
       "match_id": 4248046,
       "status": "UPCOMING",
       "startTime": "31 July 2026 04:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
