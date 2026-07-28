@@ -3,30 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/7/2026, 2:10:59 am",
+  "updatedAt": "29/7/2026, 3:32:46 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "West Indies Vs Pakistan",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143633,
-      "status": "UPCOMING",
-      "startTime": "25 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Tennis",
       "title": "World Feed 1",
@@ -61,6 +42,43 @@
           "cookie": "hdntl=Expires=1785356766~_GO=Generated~acl=/mumbai/143641_english_hls_172b098b4923302_1ta-di_h264/*~Signature=Aej9sTWatZ0XnIJhm-8B2Siz3IY28jMA5ti_44NKCtnpEDTs-6HXVK-eKDZc3x4i3wr1ND9ZbhfGU2D1ajJBiyTlmsEI",
           "expires": "1785356766",
           "expire_date": "Thursday, July 30, 2026, 1:56:06 AM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed 2",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143643,
+      "status": "LIVE",
+      "startTime": "29 July 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/240p.m3u8?hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/360p.m3u8?hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/480p.m3u8?hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/540p.m3u8?hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/720p.m3u8?hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN"
+          },
+          "cookie": "hdntl=Expires=1785362285~_GO=Generated~acl=/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/*~Signature=Aej9sTXR8R8wNltx_Q47uU4WcNmUpdtWmrVFiP4Nudi8KA9YTr7FVXxE_f7ZQ7VRumFVs_g4mv08aKML_p6o29pEh4kN",
+          "expires": "1785362285",
+          "expire_date": "Thursday, July 30, 2026, 3:28:05 AM"
         }
       }
     },
@@ -236,13 +254,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed 2",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143643,
+      "category": "Cricket",
+      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247200,
       "status": "UPCOMING",
-      "startTime": "29 July 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "startTime": "30 July 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies Vs Pakistan",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143633,
+      "status": "UPCOMING",
+      "startTime": "25 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -300,25 +337,6 @@
       "status": "UPCOMING",
       "startTime": "28 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762380/4246727_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_id": 4247200,
-      "status": "UPCOMING",
-      "startTime": "30 July 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
