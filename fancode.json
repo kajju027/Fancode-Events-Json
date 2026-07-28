@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/7/2026, 3:32:46 am",
+  "updatedAt": "29/7/2026, 4:13:26 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Tennis",
@@ -87,19 +87,37 @@
       "title": "Desert Vipers Vs Perth Scorchers Xi",
       "tournament": "Global Super League, 2026",
       "match_id": 4247435,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 July 2026 04:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/240p.m3u8?hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/360p.m3u8?hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/480p.m3u8?hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/540p.m3u8?hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/720p.m3u8?hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM"
+          },
+          "cookie": "hdntl=Expires=1785364206~_GO=Generated~acl=/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/*~Signature=Aej9sTW1S9-tmfSga-AiEuaSKaKmzYVhHa9OVPuMYZ9nHLf31PPKx0OPOOVzHvdcW2GvZJ4VLNi3PwHC1u_N4H7TJAcM",
+          "expires": "1785364206",
+          "expire_date": "Thursday, July 30, 2026, 4:00:06 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -216,6 +234,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247200,
+      "status": "UPCOMING",
+      "startTime": "30 July 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -242,25 +279,6 @@
       "status": "UPCOMING",
       "startTime": "29 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_id": 4247200,
-      "status": "UPCOMING",
-      "startTime": "30 July 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
