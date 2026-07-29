@@ -1,29 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/7/2026, 10:39:30 pm",
+  "updatedAt": "29/7/2026, 10:49:41 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Netherlands Vs Nepal",
-      "tournament": "ICC CWC League 2 Netherlands, 2026",
-      "match_id": 4246708,
-      "status": "UPCOMING",
-      "startTime": "29 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Cricket",
       "title": "Dambulla Sixers Vs Colombo Kaps",
@@ -58,43 +39,6 @@
           "cookie": "hdntl=Expires=1785418205~_GO=Generated~acl=/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/*~Signature=Aej9sTVtMwiYCEOtdmL43eqo75r4S3BcavXQusshxkgobXl6mG_mm6GBgX-njDCNgfD74Gm_Qhk1ZF0EhNmivK2WRFYK",
           "expires": "1785418205",
           "expire_date": "Thursday, July 30, 2026, 7:00:05 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Lahore Qalandars Vs San Francisco Unicorns",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247436,
-      "status": "LIVE",
-      "startTime": "29 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784653587315/4247436_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/240p.m3u8?hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/360p.m3u8?hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/480p.m3u8?hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/540p.m3u8?hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/720p.m3u8?hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K"
-          },
-          "cookie": "hdntl=Expires=1785418207~_GO=Generated~acl=/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/*~Signature=Aej9sTXqDyt4nDmnESfgujABqvHcfsi6k2e1ThwhMc02dgsX20NCPqNtR4uSynrFnT7IAm7YOEzs7mD52P2WInqDlf8K",
-          "expires": "1785418207",
-          "expire_date": "Thursday, July 30, 2026, 7:00:07 PM"
         }
       }
     },
@@ -171,6 +115,25 @@
           "expire_date": "Thursday, July 30, 2026, 10:21:07 PM"
         }
       }
+    },
+    {
+      "category": "Cricket",
+      "title": "Lahore Qalandars Vs San Francisco Unicorns",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247436,
+      "status": "UPCOMING",
+      "startTime": "29 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784653587315/4247436_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -351,6 +314,25 @@
       "status": "UPCOMING",
       "startTime": "29 July 2026 04:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Netherlands Vs Nepal",
+      "tournament": "ICC CWC League 2 Netherlands, 2026",
+      "match_id": 4246708,
+      "status": "UPCOMING",
+      "startTime": "29 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
