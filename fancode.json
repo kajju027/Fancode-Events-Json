@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/7/2026, 10:03:39 pm",
+  "updatedAt": "29/7/2026, 10:19:06 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -154,6 +154,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143645,
+      "status": "LIVE",
+      "startTime": "29 July 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/240p.m3u8?hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/360p.m3u8?hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/480p.m3u8?hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/540p.m3u8?hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/720p.m3u8?hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC"
+          },
+          "cookie": "hdntl=Expires=1785343778~_GO=Generated~acl=/mumbai/143645_english_hls_60a8617b1f20903_1ta-di_h264/*~Signature=Aej9sTXWs4OdWSRdBmAQ1J8CGYWb-TAK-Kp6-XF-ymhTLI5q9AeawnuAzL741scT4lt0UaAPF3HkJDAdrET_rkZ-mcEC",
+          "expires": "1785343778",
+          "expire_date": "Wednesday, July 29, 2026, 10:19:38 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Guyana Amazon Warriors Vs Perth Scorchers Xi",
       "tournament": "Global Super League, 2026",
@@ -218,25 +255,6 @@
       "status": "UPCOMING",
       "startTime": "30 July 2026 07:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143645,
-      "status": "UPCOMING",
-      "startTime": "29 July 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
