@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/7/2026, 4:17:04 pm",
+  "updatedAt": "30/7/2026, 7:11:57 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -43,6 +43,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Jaffna Kings Vs Kandy Royals",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246720,
+      "status": "LIVE",
+      "startTime": "30 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/240p.m3u8?hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/360p.m3u8?hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/480p.m3u8?hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/540p.m3u8?hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/720p.m3u8?hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF"
+          },
+          "cookie": "hdntl=Expires=1785505026~_GO=Generated~acl=/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/*~Signature=Aej9sTWF7c0PIpzvHI3Ey1FPZNMAzR1UN1Am73pym2yt9EdvumnuJiPrjVVXd0hFZhDqDPf6BOLWDvYMOWV6xGYqeWcF",
+          "expires": "1785505026",
+          "expire_date": "Friday, July 31, 2026, 7:07:06 PM"
+        }
+      }
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 1",
       "tournament": "Rocket Classic 2026",
@@ -78,25 +115,6 @@
           "expire_date": "Friday, July 31, 2026, 4:14:05 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jaffna Kings Vs Kandy Royals",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246720,
-      "status": "UPCOMING",
-      "startTime": "30 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -271,25 +289,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Galle Gallants Vs Kandy Royals",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246726,
-      "status": "UPCOMING",
-      "startTime": "29 July 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Dambulla Sixers Vs Colombo Kaps",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246718,
@@ -384,13 +383,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Main Feed   Day 2",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248046,
+      "category": "Football",
+      "title": "Birmingham City F.c. Vs Fc Barcelona",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248218,
       "status": "UPCOMING",
-      "startTime": "31 July 2026 04:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "startTime": "01 August 2026 12:15 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -403,13 +402,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Birmingham City F.c. Vs Fc Barcelona",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248218,
+      "category": "Golf",
+      "title": "Main Feed   Day 2",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248046,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 12:15 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
+      "startTime": "31 July 2026 04:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +789,25 @@
       "status": "UPCOMING",
       "startTime": "02 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 6",
+      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+      "match_id": 143521,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 08:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
