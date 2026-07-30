@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/7/2026, 9:15:24 pm",
+  "updatedAt": "30/7/2026, 10:32:18 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Sri Lankan Lions Vs Afghanistan Pathans",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248200,
-      "status": "LIVE",
-      "startTime": "30 July 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/240p.m3u8?hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/360p.m3u8?hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/480p.m3u8?hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/540p.m3u8?hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/720p.m3u8?hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO"
-          },
-          "cookie": "hdntl=Expires=1785508626~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTWu1ryV6Q7x024sRjJ8hwMUD5Hfb3-rl0EoMlLH5X4zy7pC1eCsRcaumxEj1da_p4Mo_Lmy6yk9t8zv54hgopsO",
-          "expires": "1785508626",
-          "expire_date": "Friday, July 31, 2026, 8:07:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Jaffna Kings Vs Kandy Royals",
@@ -249,6 +212,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Birmingham City F.c. Vs Fc Barcelona",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248218,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 12:15 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "World Feed   Day 1",
       "tournament": "Rocket Classic 2026",
@@ -287,13 +269,51 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Birmingham City F.c. Vs Fc Barcelona",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248218,
+      "category": "Cricket",
+      "title": "Desert Vipers Vs San Francisco Unicorns",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247441,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 12:15 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
+      "startTime": "01 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Mubadala Dc Open 2026",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143649,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Mubadala Dc Open 2026",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143648,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -382,51 +402,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp 500   Mubadala Dc Open 2026",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143649,
-      "status": "UPCOMING",
-      "startTime": "31 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 500   Mubadala Dc Open 2026",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143648,
-      "status": "UPCOMING",
-      "startTime": "31 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
-      "title": "Desert Vipers Vs San Francisco Unicorns",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247441,
+      "title": "Sri Lankan Lions Vs Afghanistan Pathans",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248200,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg",
+      "startTime": "30 July 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
