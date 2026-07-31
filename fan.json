@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/7/2026, 1:49:37 pm",
+  "updatedAt": "31/7/2026, 2:15:03 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -21,22 +21,11 @@
       "title": "Netherlands Vs Namibia",
       "tournament": "ICC CWC League 2 Netherlands, 2026",
       "match_id": 4246706,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "31 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Pakistan Women Vs Sri Lanka Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247428,
-      "status": "UPCOMING",
-      "startTime": "31 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246706_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -138,6 +127,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246729,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 2",
       "tournament": "Rocket Classic 2026",
@@ -149,13 +149,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246729,
+      "category": "Football",
+      "title": "Manchester City Vs Internazionale",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248014,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -182,17 +182,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Manchester City Vs Internazionale",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248014,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Sri Lankan Lions Vs Afghanistan Pathans",
       "tournament": "Asian Legends League, 2026",
@@ -211,6 +200,17 @@
       "status": "UPCOMING",
       "startTime": "30 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan Women Vs Sri Lanka Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247428,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
       "language": null,
       "cnptv_cdn": null
     },
