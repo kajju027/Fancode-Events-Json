@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 4:17:17 pm",
+  "updatedAt": "31/7/2026, 4:47:51 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -66,19 +66,74 @@
       "title": "Indian Royals Vs Bangladesh Tigers",
       "tournament": "Asian Legends League, 2026",
       "match_id": 4248192,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "31 July 2026 05:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "Unavailable",
+        "fancode_bd_cdn": "Unavailable",
+        "fancode_np_cdn": "Unavailable",
+        "fancode_lk_cdn": "Unavailable",
+        "backup": {
+          "fancode_cdn": "Unavailable",
+          "fancode_cdn_v1": "Unavailable",
+          "fancode_dai_cdn": "Unavailable"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2/240p.m3u8",
+            "360p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2/360p.m3u8",
+            "480p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2/480p.m3u8",
+            "540p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2/540p.m3u8",
+            "720p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2/720p.m3u8",
+            "1080p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2/1080p.m3u8"
+          },
+          "cookie": "hdntl=exp=1785582726~acl=%2f*~id=323743885_d011fd5c-6a5f-43~data=hdntl~hmac=8570c0635fbfac883204a6f58394b2684a1a46a6e5fdeb1dc39e9994f96233c2",
+          "expires": "1785582726",
+          "expire_date": "Saturday, August 1, 2026, 4:42:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Main Feed   Day 2",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248046,
+      "status": "LIVE",
+      "startTime": "31 July 2026 04:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "Unavailable",
+        "fancode_bd_cdn": "Unavailable",
+        "fancode_np_cdn": "Unavailable",
+        "fancode_lk_cdn": "Unavailable",
+        "backup": {
+          "fancode_cdn": "Unavailable",
+          "fancode_cdn_v1": "Unavailable",
+          "fancode_dai_cdn": "Unavailable"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/240p.m3u8",
+            "360p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/360p.m3u8",
+            "480p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/480p.m3u8",
+            "540p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/540p.m3u8",
+            "720p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/720p.m3u8",
+            "1080p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/1080p.m3u8"
+          },
+          "cookie": "hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e",
+          "expires": "1785581045",
+          "expire_date": "Saturday, August 1, 2026, 4:14:05 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -193,43 +248,6 @@
         "backup": {}
       },
       "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed   Day 2",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248046,
-      "status": "LIVE",
-      "startTime": "31 July 2026 04:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "Unavailable",
-        "fancode_bd_cdn": "Unavailable",
-        "fancode_np_cdn": "Unavailable",
-        "fancode_lk_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "Unavailable",
-          "fancode_cdn_v1": "Unavailable",
-          "fancode_dai_cdn": "Unavailable"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/240p.m3u8",
-            "360p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/360p.m3u8",
-            "480p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/480p.m3u8",
-            "540p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/540p.m3u8",
-            "720p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/720p.m3u8",
-            "1080p": "https://in-ak-flive.akamaized.net/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e/1080p.m3u8"
-          },
-          "cookie": "hdntl=exp=1785581045~acl=%2f*~id=323743885_2bc6f364-5ab2-40~data=hdntl~hmac=e1e532686f5f46261a44e906713b2842d0be7930d98197534d76ab036bc2e32e",
-          "expires": "1785581045",
-          "expire_date": "Saturday, August 1, 2026, 4:14:05 PM"
-        }
-      }
     },
     {
       "category": "Cricket",
