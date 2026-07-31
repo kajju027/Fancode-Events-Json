@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/7/2026, 8:19:00 am",
+  "updatedAt": "31/7/2026, 9:50:32 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Pakistan Women Vs Sri Lanka Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247428,
+      "status": "LIVE",
+      "startTime": "31 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247428_eng.sonuxs.m3u8"
+    },
     {
       "category": "Tennis",
       "title": "Day 4",
@@ -15,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143519_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka Women Vs Pakistan Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247428,
-      "status": "UPCOMING",
-      "startTime": "31 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -193,17 +193,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Day 5",
-      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-      "match_id": 143520,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 08:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Chelsea Vs Tottenham Hotspur",
       "tournament": "Club Friendlies 2026",
@@ -211,6 +200,17 @@
       "status": "UPCOMING",
       "startTime": "01 August 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5",
+      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+      "match_id": 143520,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 08:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
