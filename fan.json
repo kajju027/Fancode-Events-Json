@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/7/2026, 12:43:29 pm",
+  "updatedAt": "31/7/2026, 1:49:37 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Pakistan Women Vs Sri Lanka Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247428,
-      "status": "LIVE",
-      "startTime": "31 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247428_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Pakistan Panthers Vs Asian Stars",
@@ -35,6 +24,17 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan Women Vs Sri Lanka Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247428,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -127,6 +127,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "West Delhi Lions Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247967,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 2",
       "tournament": "Rocket Classic 2026",
@@ -138,8 +149,19 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246729,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
-      "title": "Atp 500   Mubadala Dc Open 2026",
+      "title": "World Feed",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
       "match_id": 143648,
       "status": "UPCOMING",
@@ -160,24 +182,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "West Delhi Lions Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247967,
+      "category": "Football",
+      "title": "Manchester City Vs Internazionale",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248014,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246729,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -200,17 +211,6 @@
       "status": "UPCOMING",
       "startTime": "30 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Manchester City Vs Internazionale",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248014,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
       "language": null,
       "cnptv_cdn": null
     },

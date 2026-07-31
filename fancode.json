@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 12:43:29 pm",
+  "updatedAt": "31/7/2026, 1:49:37 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Pakistan Women Vs Sri Lanka Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247428,
-      "status": "LIVE",
-      "startTime": "31 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/240p.m3u8?hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/360p.m3u8?hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/480p.m3u8?hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/540p.m3u8?hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/720p.m3u8?hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM"
-          },
-          "cookie": "hdntl=Expires=1785557943~_GO=Generated~acl=/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/*~Signature=Aej9sTVqbjHMmn-58BtVsJSmv9QUWAsmfzVRNv4RzlPg_qFZG8_M0UyWujHhr6ecV3my0J6bUzVIVoim64IWrf_A8JcM",
-          "expires": "1785557943",
-          "expire_date": "Saturday, August 1, 2026, 9:49:03 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Pakistan Panthers Vs Asian Stars",
@@ -69,6 +32,25 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan Women Vs Sri Lanka Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247428,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -233,6 +215,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "West Delhi Lions Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247967,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 2",
       "tournament": "Rocket Classic 2026",
@@ -252,8 +253,27 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246729,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
-      "title": "Atp 500   Mubadala Dc Open 2026",
+      "title": "World Feed",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
       "match_id": 143648,
       "status": "UPCOMING",
@@ -290,32 +310,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "West Delhi Lions Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247967,
+      "category": "Football",
+      "title": "Manchester City Vs Internazionale",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248014,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246729,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -354,25 +355,6 @@
       "status": "UPCOMING",
       "startTime": "30 July 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Manchester City Vs Internazionale",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248014,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
