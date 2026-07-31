@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 9:42:59 pm",
+  "updatedAt": "31/7/2026, 9:53:12 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Indian Royals Vs Bangladesh Tigers",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248192,
-      "status": "LIVE",
-      "startTime": "31 July 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "Unavailable",
-        "fancode_bd_cdn": "Unavailable",
-        "fancode_np_cdn": "Unavailable",
-        "fancode_lk_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "Unavailable",
-          "fancode_cdn_v1": "Unavailable",
-          "fancode_dai_cdn": "Unavailable"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058/240p.m3u8",
-            "360p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058/360p.m3u8",
-            "480p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058/480p.m3u8",
-            "540p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058/540p.m3u8",
-            "720p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058/720p.m3u8",
-            "1080p": "https://in-ak-flive.akamaized.net/mumbai/4248192_english_hls_4f347bd4c216779_1ta-di_h264/hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058/1080p.m3u8"
-          },
-          "cookie": "hdntl=exp=1785600728~acl=%2f*~id=26301734ad95c0a7e59610f8197f3df8_1b63e93a-a41a-4b~data=hdntl~hmac=603a3211e677c7c07fce57c9fd3dbdaaadbacdd080dd49d892e23769a899b058",
-          "expires": "1785600728",
-          "expire_date": "Saturday, August 1, 2026, 9:42:08 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Purani Dilli 6 Vs Central Delhi Kings",
@@ -231,13 +194,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Birmingham City F.c. Vs Fc Barcelona",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248218,
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246729,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 12:15 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
+      "startTime": "01 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -250,13 +213,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246729,
+      "category": "Football",
+      "title": "Birmingham City F.c. Vs Fc Barcelona",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248218,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 August 2026 12:15 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -421,6 +384,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors Vs Tbc",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247442,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -447,25 +429,6 @@
       "status": "UPCOMING",
       "startTime": "01 August 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Tbc",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247442,
-      "status": "UPCOMING",
-      "startTime": "02 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -542,6 +505,25 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248191_53019_PP_AS_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Indian Royals Vs Bangladesh Tigers",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248192,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
