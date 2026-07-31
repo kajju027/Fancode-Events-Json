@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 11:50:12 pm",
+  "updatedAt": "1/8/2026, 12:15:40 am",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -150,6 +150,43 @@
           "cookie": "hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
           "expires": "1785606668",
           "expire_date": "Saturday, August 1, 2026, 11:21:08 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "World Feed   Day 2",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248045,
+      "status": "LIVE",
+      "startTime": "01 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/240p.m3u8?hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/360p.m3u8?hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/480p.m3u8?hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/540p.m3u8?hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/720p.m3u8?hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML"
+          },
+          "cookie": "hdntl=Expires=1785609847~_GO=Generated~acl=/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/*~Signature=Aej9sTV8gYYo94Gts-incVXXT8r2ubKkoF0dpeWPNa-DADvpy54NEXfOnc3vuk60w-ZHX32PaXDUDUYUGoRr2QMkrBML",
+          "expires": "1785609847",
+          "expire_date": "Sunday, August 2, 2026, 12:14:07 AM"
         }
       }
     },
@@ -325,25 +362,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 2",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248045,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Real Madrid Vs Fiorentina",
       "tournament": "Club Friendlies 2026",
@@ -458,6 +476,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Main Feed   Day 3",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248048,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Pakistan Women Vs Sri Lanka Women",
       "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
@@ -522,25 +559,6 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 05:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed   Day 3",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248048,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
