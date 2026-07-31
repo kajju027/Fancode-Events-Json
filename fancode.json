@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 9:53:12 pm",
+  "updatedAt": "31/7/2026, 11:29:49 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -80,23 +80,41 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Netherlands Vs Namibia",
-      "tournament": "ICC CWC League 2 Netherlands, 2026",
-      "match_id": 4246706,
-      "status": "UPCOMING",
-      "startTime": "31 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png",
-      "language": "BLOODY_SWEET",
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143648,
+      "status": "LIVE",
+      "startTime": "31 July 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/240p.m3u8?hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/360p.m3u8?hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/480p.m3u8?hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/540p.m3u8?hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/720p.m3u8?hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF"
+          },
+          "cookie": "hdntl=Expires=1785606668~_GO=Generated~acl=/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/*~Signature=Aej9sTUrFRCr69OXUoC5TFZ7K1slih7g1mzKtPx-ih9ii5srmzE6-E3OcGIlodQ_x4nwy8bPtjHG4Y0SX3vI7tnWW7AF",
+          "expires": "1785606668",
+          "expire_date": "Saturday, August 1, 2026, 11:21:08 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -156,6 +174,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Birmingham City F.c. Vs Fc Barcelona",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248218,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 12:15 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Sri Lankan Lions Vs Bangladesh Tigers",
       "tournament": "Asian Legends League, 2026",
@@ -201,25 +238,6 @@
       "status": "UPCOMING",
       "startTime": "01 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Birmingham City F.c. Vs Fc Barcelona",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248218,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 12:15 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Barca.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -327,13 +345,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143648,
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors Vs Tbc",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247442,
       "status": "UPCOMING",
-      "startTime": "31 July 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "startTime": "02 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -384,25 +402,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Tbc",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247442,
-      "status": "UPCOMING",
-      "startTime": "02 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -429,25 +428,6 @@
       "status": "UPCOMING",
       "startTime": "01 August 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lankan Lions Vs Afghanistan Pathans",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248200,
-      "status": "UPCOMING",
-      "startTime": "30 July 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -505,6 +485,25 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248191_53019_PP_AS_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Netherlands Vs Namibia",
+      "tournament": "ICC CWC League 2 Netherlands, 2026",
+      "match_id": 4246706,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +789,25 @@
       "status": "UPCOMING",
       "startTime": "03 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248058,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
