@@ -1,29 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 4:47:51 pm",
+  "updatedAt": "31/7/2026, 5:08:15 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Asian Stars Vs Pakistan Panthers",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248191,
-      "status": "LIVE",
-      "startTime": "31 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248191_53019_PP_AS_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-ak-flive.akamaized.net/mumbai/4248191_english_dash_1079_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "Unavailable",
-        "fancode_bd_cdn": "Unavailable",
-        "fancode_np_cdn": "Unavailable",
-        "fancode_lk_cdn": "Unavailable",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Cricket",
       "title": "Netherlands Vs Namibia",
@@ -269,13 +250,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Chelsea Vs Tottenham Hotspur",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248013,
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Galle Gallants",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246729,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+      "startTime": "01 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -288,13 +269,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Galle Gallants",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246729,
+      "category": "Football",
+      "title": "Chelsea Vs Tottenham Hotspur",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248013,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784105762372/4246729_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -447,6 +428,25 @@
       "status": "UPCOMING",
       "startTime": "31 July 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Asian Stars Vs Pakistan Panthers",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248191,
+      "status": "UPCOMING",
+      "startTime": "31 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248191_53019_PP_AS_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
