@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/7/2026, 6:42:22 am",
+  "updatedAt": "31/7/2026, 8:19:00 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143646,
-      "status": "LIVE",
-      "startTime": "30 July 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/240p.m3u8?hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/360p.m3u8?hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/480p.m3u8?hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/540p.m3u8?hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/720p.m3u8?hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P"
-          },
-          "cookie": "hdntl=Expires=1785540369~_GO=Generated~acl=/mumbai/143646_english_hls_e40a35098075978_1ta-di_h264/*~Signature=Aej9sTVQO7cjtp6fH1vshvv96XqIKRL11S5gVsF0o5EX2Kx_t71MTnGL_V6abWSi9TwxRLOLHmElxQTmd4qrmEq9s34P",
-          "expires": "1785540369",
-          "expire_date": "Saturday, August 1, 2026, 4:56:09 AM"
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 4",
@@ -213,6 +176,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Afghanistan Pathans Vs Asian Stars",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248189,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Vs East Delhi Riders",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247964,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -270,51 +271,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Afghanistan Pathans Vs Asian Stars",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248189,
+      "category": "Golf",
+      "title": "World Feed   Day 2",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248045,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Vs East Delhi Riders",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247964,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Perth Scorchers Xi Vs Guyana Amazon Warriors",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247432,
-      "status": "UPCOMING",
-      "startTime": "30 July 2026 04:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784653587318/4247432_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -365,13 +328,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 2",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248045,
+      "category": "Cricket",
+      "title": "Sri Lankan Lions Vs Bangladesh Tigers",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248193,
       "status": "UPCOMING",
-      "startTime": "01 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "startTime": "01 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -391,25 +354,6 @@
       "status": "UPCOMING",
       "startTime": "01 August 2026 08:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lankan Lions Vs Bangladesh Tigers",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248193,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +734,44 @@
       "status": "UPCOMING",
       "startTime": "02 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762375/4246719_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Mubadala Dc Open 2026",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143653,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Mubadala Dc Open 2026",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143652,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
