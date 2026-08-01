@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "1/8/2026, 1:25:09 pm",
+  "updatedAt": "1/8/2026, 3:12:06 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -18,7 +18,7 @@
     },
     {
       "category": "Cricket",
-      "title": "South Delhi Superstarz Vs East Delhi Riders",
+      "title": "East Delhi Riders Vs South Delhi Superstarz",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247964,
       "status": "LIVE",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247964_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea Vs Tottenham Hotspur",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248013,
+      "status": "LIVE",
+      "startTime": "01 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248013_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -67,7 +78,7 @@
       "match_id": 4247442,
       "status": "UPCOMING",
       "startTime": "02 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://images.fancode.com/aig/match/v1785570592517/4247442_CASACARDS_SPORTY_APP.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -79,17 +90,6 @@
       "status": "UPCOMING",
       "startTime": "02 August 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea Vs Tottenham Hotspur",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248013,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -171,17 +171,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Atp 500   Mubadala Dc Open 2026",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143650,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "East Delhi Riders Vs New Delhi Tigers",
       "tournament": "Delhi Premier League, 2026",
@@ -189,28 +178,6 @@
       "status": "UPCOMING",
       "startTime": "02 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed   Day 3",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248048,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Golf",
-      "title": "World Feed   Day 3",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248047,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -237,13 +204,35 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Pakistan Women Vs Sri Lanka Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247428,
+      "category": "Golf",
+      "title": "Main Feed   Day 3",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248048,
       "status": "UPCOMING",
-      "startTime": "31 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+      "startTime": "01 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "World Feed   Day 3",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248047,
+      "status": "UPCOMING",
+      "startTime": "01 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Mubadala Dc Open 2026",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143650,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 04:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "03 August 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 2",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248222,
+      "status": "UPCOMING",
+      "startTime": "03 August 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
