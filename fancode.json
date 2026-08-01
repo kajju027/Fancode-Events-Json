@@ -1,10 +1,47 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/8/2026, 3:53:13 am",
+  "updatedAt": "2/8/2026, 4:03:26 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors Vs San Francisco Unicorns",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247442,
+      "status": "LIVE",
+      "startTime": "02 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Guyana-Amazon-Warriors-vs-San-Francisco-Unicorns_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/240p.m3u8?hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/360p.m3u8?hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/480p.m3u8?hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/540p.m3u8?hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/720p.m3u8?hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D"
+          },
+          "cookie": "hdntl=Expires=1785709806~_GO=Generated~acl=/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/*~Signature=Aej9sTWN40orugH1NsNdmmOVk8WCIjalbt8r2nlFO2mwl337FXokEG0g0dRjlFvUVox4e-f2d1dJPipH6eG_oPUL-00D",
+          "expires": "1785709806",
+          "expire_date": "Monday, August 3, 2026, 4:00:06 AM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
@@ -41,25 +78,6 @@
           "expire_date": "Monday, August 3, 2026, 3:49:07 AM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs San Francisco Unicorns",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247442,
-      "status": "UPCOMING",
-      "startTime": "02 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Guyana-Amazon-Warriors-vs-San-Francisco-Unicorns_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
