@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/8/2026, 3:36:28 pm",
+  "updatedAt": "2/8/2026, 4:17:40 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Pakistan Women Vs Sri Lanka Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247430,
-      "status": "LIVE",
-      "startTime": "02 August 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/240p.m3u8?hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/360p.m3u8?hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/480p.m3u8?hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/540p.m3u8?hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/720p.m3u8?hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA"
-          },
-          "cookie": "hdntl=Expires=1785751504~_GO=Generated~acl=/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/*~Signature=Aej9sTWk0VSZX-SlBtzWN0DWH9zQ8BBlwPHW34HyHY1Vj9uaADXBbhoQO73fUIb1NE5Bcrrbus_KNytdD964hQk83dIA",
-          "expires": "1785751504",
-          "expire_date": "Monday, August 3, 2026, 3:35:04 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Outer Delhi Warriors Vs Central Delhi Kings",
@@ -193,13 +156,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Liverpool Vs Leeds United",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248017,
+      "category": "Cricket",
+      "title": "West Delhi Lions Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247968,
       "status": "UPCOMING",
-      "startTime": "03 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
+      "startTime": "03 August 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -212,13 +175,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "West Delhi Lions Vs Purani Dilli 6",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247968,
+      "category": "Football",
+      "title": "Liverpool Vs Leeds United",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248017,
       "status": "UPCOMING",
-      "startTime": "03 August 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "startTime": "03 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -504,6 +467,25 @@
       "status": "UPCOMING",
       "startTime": "02 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Guyana-Amazon-Warriors-vs-San-Francisco-Unicorns_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan Women Vs Sri Lanka Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247430,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
