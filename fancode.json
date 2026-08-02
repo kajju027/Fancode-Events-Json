@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/8/2026, 1:18:33 pm",
+  "updatedAt": "2/8/2026, 2:50:20 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -84,19 +84,37 @@
       "title": "Indian Royals Vs Pakistan Panthers",
       "tournament": "Asian Legends League, 2026",
       "match_id": 4248197,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "02 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248197_53019_INR_PP_fc-web.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/240p.m3u8?hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/360p.m3u8?hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/480p.m3u8?hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/540p.m3u8?hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/720p.m3u8?hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD"
+          },
+          "cookie": "hdntl=Expires=1785748323~_GO=Generated~acl=/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/*~Signature=Aej9sTUWxS8QjKEn0_KSbT9o8e3rwKBcOseD9Q5M3lk0kqIAsmqwyknXlVhWF7km0P4tm5CWE5wB_MfA9ujESamCXUYD",
+          "expires": "1785748323",
+          "expire_date": "Monday, August 3, 2026, 2:42:03 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -213,25 +231,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp 500   Mubadala Dc Open 2026",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143651,
-      "status": "UPCOMING",
-      "startTime": "01 August 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Scotland Vs United Arab Emirates",
       "tournament": "ICC CWC League 2 Scotland, 2026",
@@ -270,25 +269,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Main Feed   Day 4",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248050,
-      "status": "UPCOMING",
-      "startTime": "02 August 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Central Delhi Kings Vs North Delhi Strikers",
       "tournament": "Delhi Premier League, 2026",
@@ -308,13 +288,32 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Main Feed   Day 4",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248050,
+      "status": "UPCOMING",
+      "startTime": "02 August 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248058,
       "status": "UPCOMING",
       "startTime": "02 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -333,7 +332,7 @@
       "match_id": 4248059,
       "status": "UPCOMING",
       "startTime": "02 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -352,7 +351,7 @@
       "match_id": 4248060,
       "status": "UPCOMING",
       "startTime": "02 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -371,7 +370,7 @@
       "match_id": 4248061,
       "status": "UPCOMING",
       "startTime": "02 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -542,7 +541,7 @@
       "match_id": 4248062,
       "status": "UPCOMING",
       "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -561,7 +560,7 @@
       "match_id": 4248063,
       "status": "UPCOMING",
       "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -580,7 +579,7 @@
       "match_id": 4248064,
       "status": "UPCOMING",
       "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -599,7 +598,7 @@
       "match_id": 4248065,
       "status": "UPCOMING",
       "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -713,7 +712,7 @@
       "match_id": 4248066,
       "status": "UPCOMING",
       "startTime": "04 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -732,7 +731,7 @@
       "match_id": 4248067,
       "status": "UPCOMING",
       "startTime": "04 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -751,7 +750,7 @@
       "match_id": 4248068,
       "status": "UPCOMING",
       "startTime": "04 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -770,7 +769,7 @@
       "match_id": 4248069,
       "status": "UPCOMING",
       "startTime": "04 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +789,25 @@
       "status": "UPCOMING",
       "startTime": "05 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246730,
+      "status": "UPCOMING",
+      "startTime": "05 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
