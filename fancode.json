@@ -1,66 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/8/2026, 4:01:21 am",
+  "updatedAt": "3/8/2026, 4:11:33 am",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "West Indies Vs Pakistan",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143634,
-      "status": "LIVE",
-      "startTime": "02 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/240p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/360p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/480p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/540p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/720p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP"
-          },
-          "cookie": "hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
-          "expires": "1785782646",
-          "expire_date": "Tuesday, August 4, 2026, 12:14:06 AM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed   Day 4",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248050,
-      "status": "UPCOMING",
-      "startTime": "02 August 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
     {
       "category": "Tennis",
       "title": "World Feed",
@@ -210,43 +154,6 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 4",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248049,
-      "status": "LIVE",
-      "startTime": "02 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/240p.m3u8?hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/360p.m3u8?hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/480p.m3u8?hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/540p.m3u8?hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/720p.m3u8?hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB"
-          },
-          "cookie": "hdntl=Expires=1785794289~_GO=Generated~acl=/mumbai/4248049_english_hls_1cab793ab337472_1ta-di_h264/*~Signature=Aej9sTVkkIOt-zVxmo2WT-xSmpc-E3EXyhSJ971sQIPCo6pv4PiKGjUSSfbCw43zbGiU8kI6mkKzG3zU9oVoT3HsGREB",
-          "expires": "1785794289",
-          "expire_date": "Tuesday, August 4, 2026, 3:28:09 AM"
-        }
-      }
-    },
-    {
       "category": "Tennis",
       "title": "Atp 500   Mubadala Dc Open 2026",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -280,6 +187,43 @@
           "cookie": "hdntl=Expires=1785781147~_GO=Generated~acl=/mumbai/143652_english_hls_7a1c598aca21462_1ta-di_h264/*~Signature=Aej9sTVwFQZdMc-zUUGiLL2jyMsYfORTvq9ZUxoTAYpqQEZxzvpeee8X2gelGdbkYQUahAtbtgU1lfp6Dji-vyfzk_YH",
           "expires": "1785781147",
           "expire_date": "Monday, August 3, 2026, 11:49:07 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies Vs Pakistan",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143634,
+      "status": "LIVE",
+      "startTime": "02 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/240p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/360p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/480p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/540p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/720p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP"
+          },
+          "cookie": "hdntl=Expires=1785782646~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/*~Signature=Aej9sTUyfj0X30bwMmj6X_JXaaYlGdXYg1U8TYNNxrz9WNGlmO_UeY7mQuQcnG90lNnQ-uXuCRK4iiF-dDsl6rh4pPYP",
+          "expires": "1785782646",
+          "expire_date": "Tuesday, August 4, 2026, 12:14:06 AM"
         }
       }
     },
@@ -880,6 +824,44 @@
       "status": "UPCOMING",
       "startTime": "05 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal Vs Real Betis",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248019,
+      "status": "UPCOMING",
+      "startTime": "06 August 2026 12:15 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Real-Betis_fc-web_1785450262855.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248070,
+      "status": "UPCOMING",
+      "startTime": "05 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
