@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/8/2026, 1:16:00 pm",
+  "updatedAt": "3/8/2026, 3:23:31 pm",
   "total_matches": 39,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -84,19 +84,37 @@
       "title": "Scotland Vs United Arab Emirates",
       "tournament": "ICC CWC League 2 Scotland, 2026",
       "match_id": 4248212,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03 August 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248212_53013_SCO_UAE_fc-Web-.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/240p.m3u8?hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/360p.m3u8?hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/480p.m3u8?hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/540p.m3u8?hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/720p.m3u8?hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA"
+          },
+          "cookie": "hdntl=Expires=1785750999~_GO=Generated~acl=/mumbai/4248212_english_hls_a82378278715666_1ta-di_h264/*~Signature=AYCJ36RScKr5CeZY4peeSXoo5GDw4RGtN2wZQ_fVRJGxCh3ddm2VLFJKXuRBO2_KBhwV0Ku4AY5VTJ0mIjcpPc7aLmIA",
+          "expires": "1785750999",
+          "expire_date": "Monday, August 3, 2026, 3:26:39 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -314,7 +332,7 @@
       "match_id": 4248249,
       "status": "UPCOMING",
       "startTime": "03 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "image": "https://images.fancode.com/aig/match/v1785743069832/4248249_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
