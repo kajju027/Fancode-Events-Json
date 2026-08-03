@@ -1,46 +1,28 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/8/2026, 4:50:30 pm",
-  "total_matches": 39,
+  "updatedAt": "3/8/2026, 5:47:10 pm",
+  "total_matches": 40,
   "live_matches": 4,
-  "upcoming_matches": 34,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
       "title": "Afghanistan Pathans Vs Bangladesh Tigers",
       "tournament": "Asian Legends League, 2026",
       "match_id": 4248196,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "03 August 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248196_53019_AFP_BAT_fc-web.jpg",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/240p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/360p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/480p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/540p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/720p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F"
-          },
-          "cookie": "hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
-          "expires": "1785827525",
-          "expire_date": "Tuesday, August 4, 2026, 12:42:05 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -150,6 +132,43 @@
           "cookie": "hdntl=Expires=1785842347~_GO=Generated~acl=/mumbai/4248195_english_hls_cb68ac446465541_1ta-di_h264/*~Signature=AYCJ36Rk3SWd5F-URr7WYUwqruMnVStU3Rdkn01GkdLy0YiQbzUnOgzi018cGEtvldK9p2HkibwcIxwcPwCyMwGIOo8B",
           "expires": "1785842347",
           "expire_date": "Tuesday, August 4, 2026, 4:49:07 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies Vs Pakistan",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143634,
+      "status": "LIVE",
+      "startTime": "03 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/240p.m3u8?hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/360p.m3u8?hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/480p.m3u8?hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/540p.m3u8?hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/720p.m3u8?hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO"
+          },
+          "cookie": "hdntl=Expires=1785844685~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/*~Signature=AYCJ36TylulJd1bPGzG9Ak0qv2Jlr_hKj-y7UITT4q6cQ8sIGaD4ipaevfopFgV4zdWxDVTG5UK1mhSLcjSzV5dXC-wO",
+          "expires": "1785844685",
+          "expire_date": "Tuesday, August 4, 2026, 5:28:05 PM"
         }
       }
     },
