@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/8/2026, 8:32:22 pm",
+  "updatedAt": "3/8/2026, 9:19:10 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -265,6 +265,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Rogers Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248249,
+      "status": "LIVE",
+      "startTime": "03 August 2026 09:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785743069832/4248249_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/240p.m3u8?hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/360p.m3u8?hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/480p.m3u8?hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/540p.m3u8?hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/720p.m3u8?hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO"
+          },
+          "cookie": "hdntl=Expires=1785772182~_GO=Generated~acl=/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/*~Signature=AYCJ36QhZ3VDg7SwgDzi6XeIt8wbJJCXTLAIMHASWi1GNQP6_BqYURY4RZ-noU4pV0fbnbJrA9ZuYsSWxN3suIYNOgEO",
+          "expires": "1785772182",
+          "expire_date": "Monday, August 3, 2026, 9:19:42 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Sri Lanka Women Vs Pakistan Women",
       "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
@@ -361,50 +398,12 @@
     },
     {
       "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248249,
-      "status": "UPCOMING",
-      "startTime": "03 August 2026 09:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785743069832/4248249_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
       "title": "Final",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
       "match_id": 143820,
       "status": "UPCOMING",
       "startTime": "03 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Indian Royals Vs Pakistan Panthers",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248197,
-      "status": "UPCOMING",
-      "startTime": "02 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248197_53019_INR_PP_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -880,6 +879,25 @@
       "status": "UPCOMING",
       "startTime": "06 August 2026 05:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248201_53019_INR_AFP_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "New Delhi Tigers Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247979,
+      "status": "UPCOMING",
+      "startTime": "06 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
