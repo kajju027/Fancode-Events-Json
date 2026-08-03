@@ -1,28 +1,46 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/8/2026, 6:59:31 am",
+  "updatedAt": "3/8/2026, 12:45:22 pm",
   "total_matches": 39,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
       "title": "Afghanistan Pathans Vs Bangladesh Tigers",
       "tournament": "Asian Legends League, 2026",
       "match_id": 4248196,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03 August 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248196_53019_AFP_BAT_fc-web.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/240p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/360p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/480p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/540p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/720p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F"
+          },
+          "cookie": "hdntl=Expires=1785827525~_GO=Generated~acl=/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/*~Signature=Aej9sTVdWqwesgJDWH4DGMwTCyDQFSgHaRyAesb_6_-SFtgsWX6XJTM_pENmbVzwV9w1h3oIOe2rQQj4MCLh5Qdqz28F",
+          "expires": "1785827525",
+          "expire_date": "Tuesday, August 4, 2026, 12:42:05 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -139,82 +157,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248062,
-      "status": "UPCOMING",
-      "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248063,
-      "status": "UPCOMING",
-      "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248064,
-      "status": "UPCOMING",
-      "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248065,
-      "status": "UPCOMING",
-      "startTime": "03 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "New Delhi Tigers Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
@@ -235,12 +177,126 @@
     },
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs San Francisco Unicorns",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247442,
+      "title": "Sri Lankan Lions Vs Asian Stars",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248203,
       "status": "UPCOMING",
-      "startTime": "02 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Guyana-Amazon-Warriors-vs-San-Francisco-Unicorns_fc-web.jpg",
+      "startTime": "04 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248203_53019_SLO_AS_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Center Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248062,
+      "status": "UPCOMING",
+      "startTime": "03 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248063,
+      "status": "UPCOMING",
+      "startTime": "03 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Court 5",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248064,
+      "status": "UPCOMING",
+      "startTime": "03 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Court 9",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248065,
+      "status": "UPCOMING",
+      "startTime": "03 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Final",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143820,
+      "status": "UPCOMING",
+      "startTime": "03 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Vs West Delhi Lions",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247978,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -336,44 +392,6 @@
       "status": "UPCOMING",
       "startTime": "02 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784105762375/4246719_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lankan Lions Vs Asian Stars",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248203,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248203_53019_SLO_AS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Vs West Delhi Lions",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247978,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
