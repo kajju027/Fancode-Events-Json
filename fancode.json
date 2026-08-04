@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/8/2026, 8:50:51 pm",
+  "updatedAt": "4/8/2026, 9:16:18 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -191,6 +191,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Center Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248069,
+      "status": "LIVE",
+      "startTime": "04 August 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/240p.m3u8?hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/360p.m3u8?hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/480p.m3u8?hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/540p.m3u8?hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/720p.m3u8?hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG"
+          },
+          "cookie": "hdntl=Expires=1785858582~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36Try942uKb42Ngyv7pqv01pSV4ps2dISgfHVYVm24YdCYs3LWreJTIos0D0YMRIJdpKvKJiRyGuJsL8XNrt-BUG",
+          "expires": "1785858582",
+          "expire_date": "Tuesday, August 4, 2026, 9:19:42 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Purani Dilli 6 Vs Central Delhi Kings",
       "tournament": "Delhi Premier League, 2026",
@@ -324,25 +361,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Center Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248069,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Arsenal Vs Real Betis",
       "tournament": "Club Friendlies 2026",
@@ -350,25 +368,6 @@
       "status": "UPCOMING",
       "startTime": "06 August 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Real-Betis_fc-web_1785450262855.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Indian Royals Vs Sri Lankan Lions",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248195,
-      "status": "UPCOMING",
-      "startTime": "03 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248195_53019_INR_SLO_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -844,6 +843,25 @@
       "status": "UPCOMING",
       "startTime": "07 August 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Middlesbrough F.c. Vs Wrexham A.f.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248169,
+      "status": "UPCOMING",
+      "startTime": "08 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149849967/4248169_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
