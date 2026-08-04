@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/8/2026, 9:53:59 am",
+  "updatedAt": "4/8/2026, 1:17:24 pm",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -44,60 +44,40 @@
     },
     {
       "category": "Cricket",
-      "title": "Pakistan Panthers Vs Afghanistan Pathans",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248199,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248199_53019_PP_AFP_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "New Delhi Tigers Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247970,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": "BLOODY_SWEET",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lankan Lions Vs Asian Stars",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248203,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248203_53019_SLO_AS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/240p.m3u8?hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/360p.m3u8?hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/480p.m3u8?hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/540p.m3u8?hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/720p.m3u8?hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD"
+          },
+          "cookie": "hdntl=Expires=1785915845~_GO=Generated~acl=/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/*~Signature=AYCJ36RLrN4CsEKg83Sd2nBgrLF4pLX0q_Uasoe6p0Ouzg4BmAnML86vg5olfp7ufyZhvNDtqQH3ESw7jvgJDhDO0NAD",
+          "expires": "1785915845",
+          "expire_date": "Wednesday, August 5, 2026, 1:14:05 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -106,7 +86,7 @@
       "match_id": 4247978,
       "status": "UPCOMING",
       "startTime": "04 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -125,7 +105,7 @@
       "match_id": 4247969,
       "status": "UPCOMING",
       "startTime": "05 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -145,25 +125,6 @@
       "status": "UPCOMING",
       "startTime": "05 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Asian Stars Vs Indian Royals",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248190,
-      "status": "UPCOMING",
-      "startTime": "05 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248190_53019_AS_INR_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -214,12 +175,50 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "East Delhi Riders Vs North Delhi Strikers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247976,
+      "status": "UPCOMING",
+      "startTime": "05 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
+      "title": "World Feed",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248066,
       "status": "UPCOMING",
-      "startTime": "04 August 2026 10:00 PM",
+      "startTime": "04 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Center Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248069,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 09:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -271,13 +270,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248069,
+      "category": "Cricket",
+      "title": "Colombo Kaps Vs Kandy Royals",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246725,
       "status": "UPCOMING",
-      "startTime": "04 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "startTime": "05 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -315,7 +314,7 @@
       "match_id": 4247968,
       "status": "UPCOMING",
       "startTime": "03 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -372,45 +371,7 @@
       "match_id": 4247974,
       "status": "UPCOMING",
       "startTime": "03 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs North Delhi Strikers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247976,
-      "status": "UPCOMING",
-      "startTime": "05 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Colombo Kaps Vs Kandy Royals",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246725,
-      "status": "UPCOMING",
-      "startTime": "05 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -538,50 +499,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Pakistan Panthers Vs Bangladesh Tigers",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248198,
-      "status": "UPCOMING",
-      "startTime": "06 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248198_53019_PP_BAT_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "South Delhi Superstarz Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247975,
       "status": "UPCOMING",
       "startTime": "06 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Indian Royals Vs Afghanistan Pathans",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248201,
-      "status": "UPCOMING",
-      "startTime": "06 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248201_53019_INR_AFP_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -600,7 +523,7 @@
       "match_id": 4247979,
       "status": "UPCOMING",
       "startTime": "06 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -747,12 +670,107 @@
     },
     {
       "category": "Cricket",
-      "title": "Pakistan Panthers Vs Sri Lankan Lions",
-      "tournament": "Asian Legends League, 2026",
-      "match_id": 4248194,
+      "title": "East Delhi Riders Vs West Delhi Lions",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247973,
       "status": "UPCOMING",
-      "startTime": "07 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248194_53019_PP_SLO_fc-web.jpg",
+      "startTime": "07 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Ireland Vs Afghanistan",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248052,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Scotland Vs Canada",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248214,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-App.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Outer Delhi Warriors Vs North Delhi Strikers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247972,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246731,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Fc Bayern München Vs Aston Villa",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248025,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bayern-Munich-vs-Aston-Villa_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
