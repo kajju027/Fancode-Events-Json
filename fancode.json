@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/8/2026, 1:17:24 pm",
+  "updatedAt": "4/8/2026, 1:36:36 pm",
   "total_matches": 39,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka Women Vs Pakistan Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247429,
-      "status": "LIVE",
-      "startTime": "04 August 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/240p.m3u8?hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/360p.m3u8?hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/480p.m3u8?hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/540p.m3u8?hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/720p.m3u8?hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K"
-          },
-          "cookie": "hdntl=Expires=1785903543~_GO=Generated~acl=/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/*~Signature=AYCJ36SGs-Fasq-eHcYaQL7keNESo5yncSgqC6Vtg6qAE8kzt-Akn8nOT5t-d1Vevnw_pZYOKlh9bDZBR82gDsoV3C4K",
-          "expires": "1785903543",
-          "expire_date": "Wednesday, August 5, 2026, 9:49:03 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "New Delhi Tigers Vs Outer Delhi Warriors",
@@ -214,49 +177,49 @@
     },
     {
       "category": "Tennis",
+      "title": "Rogers Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248067,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Court 5",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248068,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
       "title": "Center Court",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248069,
       "status": "UPCOMING",
       "startTime": "04 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248067,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248068,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -277,6 +240,25 @@
       "status": "UPCOMING",
       "startTime": "05 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea Vs Juventus",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248018,
+      "status": "UPCOMING",
+      "startTime": "05 August 2026 05:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -384,13 +366,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Chelsea Vs Juventus",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248018,
+      "category": "Cricket",
+      "title": "Sri Lanka Women Vs Pakistan Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247429,
       "status": "UPCOMING",
-      "startTime": "05 August 2026 05:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
+      "startTime": "04 August 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
