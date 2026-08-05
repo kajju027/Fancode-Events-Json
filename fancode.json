@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/8/2026, 11:49:33 pm",
+  "updatedAt": "6/8/2026, 12:11:35 am",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs North Delhi Strikers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247976,
-      "status": "LIVE",
-      "startTime": "05 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247976_53005_EDR_NDS_fc-Web_1785835769220.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/240p.m3u8?hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/360p.m3u8?hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/480p.m3u8?hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/540p.m3u8?hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/720p.m3u8?hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB"
-          },
-          "cookie": "hdntl=Expires=1786023428~_GO=Generated~acl=/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/*~Signature=AYCJ36Q0fEb5n5IvNuum_MwA3eYkwQdFWb8l4TbTpZwmGae0D4qR9OlLfdIO7XJOKuBcwNlYU6Dfr5bFuL59lnVCu_IB",
-          "expires": "1786023428",
-          "expire_date": "Thursday, August 6, 2026, 7:07:08 PM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Arsenal Vs Real Betis",
@@ -286,25 +249,6 @@
     },
     {
       "category": "Cricket",
-      "title": "South Delhi Superstarz Vs West Delhi Lions",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247978,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Purani Dilli 6 Vs Central Delhi Kings",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247969,
@@ -368,6 +312,25 @@
       "status": "UPCOMING",
       "startTime": "05 August 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "East Delhi Riders Vs North Delhi Strikers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247976,
+      "status": "UPCOMING",
+      "startTime": "05 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247976_53005_EDR_NDS_fc-Web_1785835769220.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -862,6 +825,25 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247988,
+      "status": "UPCOMING",
+      "startTime": "08 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
