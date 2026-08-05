@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/8/2026, 3:22:53 pm",
+  "updatedAt": "5/8/2026, 4:46:31 pm",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -154,6 +154,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Chelsea Vs Juventus",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248018,
+      "status": "LIVE",
+      "startTime": "05 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/240p.m3u8?hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/360p.m3u8?hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/480p.m3u8?hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/540p.m3u8?hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/720p.m3u8?hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF"
+          },
+          "cookie": "hdntl=Expires=1785928667~_GO=Generated~acl=/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/*~Signature=AYCJ36TkPHGPmsYATb2Bm_dPJ6qmRwSQ7pcwpfYmQs-erspmGgew3bdEd0B8A98xNoH6Hcoqw5wJGYQ0DwaQW-SNnCQF",
+          "expires": "1785928667",
+          "expire_date": "Wednesday, August 5, 2026, 4:47:47 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "East Delhi Riders Vs North Delhi Strikers",
       "tournament": "Delhi Premier League, 2026",
@@ -192,13 +229,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Chelsea Vs Juventus",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248018,
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247975,
       "status": "UPCOMING",
-      "startTime": "05 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png",
+      "startTime": "06 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -218,25 +255,6 @@
       "status": "UPCOMING",
       "startTime": "06 August 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Real-Betis_fc-web_1785450262855.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247975,
-      "status": "UPCOMING",
-      "startTime": "06 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -634,7 +652,7 @@
       "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
       "match_id": 139960,
       "status": "UPCOMING",
-      "startTime": "07 August 2026 02:30 PM",
+      "startTime": "07 August 2026 02:25 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -801,12 +819,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Purani Dilli 6 Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247977,
+      "title": "Tanzania Vs Uganda",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248250,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
+      "startTime": "08 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
