@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/8/2026, 3:37:48 am",
+  "updatedAt": "5/8/2026, 5:36:49 am",
   "total_matches": 40,
   "live_matches": 5,
   "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "West Indies Vs Pakistan",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143634,
-      "status": "LIVE",
-      "startTime": "03 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/240p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/360p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/480p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/540p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/720p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN"
-          },
-          "cookie": "hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
-          "expires": "1785967507",
-          "expire_date": "Thursday, August 6, 2026, 3:35:07 AM"
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "World Feed",
@@ -187,6 +150,43 @@
           "cookie": "hdntl=Expires=1785963064~_GO=Generated~acl=/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/*~Signature=AYCJ36QsgTwUjwDe8gVpoiwFOrLSB9mN9f-a6PC_ID7phw-VHYDEjKV7Ug9u3ltoXGRilf0y7JNyPHtYC8wN_IUjFtsO",
           "expires": "1785963064",
           "expire_date": "Thursday, August 6, 2026, 2:21:04 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies Vs Pakistan",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143634,
+      "status": "LIVE",
+      "startTime": "03 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/240p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/360p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/480p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/540p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/720p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN"
+          },
+          "cookie": "hdntl=Expires=1785967507~_GO=Generated~acl=/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/*~Signature=AYCJ36TzIyTCdsKn_7k8ZeiCLrkLHx0cnE9o77hsLY7t0bqgdkJlUfOOt3P3BRhfYSNJwSCLBANvyq8qTOpnQpxNlKIN",
+          "expires": "1785967507",
+          "expire_date": "Thursday, August 6, 2026, 3:35:07 AM"
         }
       }
     },
@@ -343,63 +343,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sri Lanka Women Vs Pakistan Women",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247429,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "New Delhi Tigers Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247970,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247970_53005_NDT_ODW_fc-Web_1785835769882.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Vs West Delhi Lions",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247978,
-      "status": "UPCOMING",
-      "startTime": "04 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "Atp Masters Omnium Banque National 2026",
       "tournament": "ATP Masters Omnium Banque National 2026",
@@ -464,6 +407,63 @@
       "status": "UPCOMING",
       "startTime": "05 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Sri Lanka Women Vs Pakistan Women",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247429,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "New Delhi Tigers Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247970,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247970_53005_NDT_ODW_fc-Web_1785835769882.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Vs West Delhi Lions",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247978,
+      "status": "UPCOMING",
+      "startTime": "04 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
