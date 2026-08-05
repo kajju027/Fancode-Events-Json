@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/8/2026, 2:37:00 pm",
+  "updatedAt": "5/8/2026, 2:59:35 pm",
   "total_matches": 39,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -84,19 +84,37 @@
       "title": "Ireland Vs Afghanistan",
       "tournament": "Afghanistan tour of Ireland, 2026",
       "match_id": 4248054,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05 August 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/240p.m3u8?hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/360p.m3u8?hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/480p.m3u8?hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/540p.m3u8?hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/720p.m3u8?hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D"
+          },
+          "cookie": "hdntl=Expires=1786008364~_GO=Generated~acl=/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/*~Signature=AYCJ36RBkKa9suXDt3v_dBrYV76a2_n2HGxw1ulUTe4iL7cevkpSQZHJeuXe8-hAxt2OfXJ1dFiK-ZmcUoyQm8od_W0D",
+          "expires": "1786008364",
+          "expire_date": "Thursday, August 6, 2026, 2:56:04 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
