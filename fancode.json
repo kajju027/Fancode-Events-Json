@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/8/2026, 1:17:51 pm",
+  "updatedAt": "5/8/2026, 2:37:00 pm",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -47,19 +47,37 @@
       "title": "Jaffna Kings Vs Galle Gallants",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246730,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/240p.m3u8?hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/360p.m3u8?hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/480p.m3u8?hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/540p.m3u8?hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/720p.m3u8?hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK"
+          },
+          "cookie": "hdntl=Expires=1786007105~_GO=Generated~acl=/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/*~Signature=AYCJ36TXhd8O-SJ2k02kXqnP87gS9NwHzLUr_lWVc7WCUCbMXlkqFcHiEWPcEY3Dt_gW_PuvJ69UOnIYK0R5kQL8DGEK",
+          "expires": "1786007105",
+          "expire_date": "Thursday, August 6, 2026, 2:35:05 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
