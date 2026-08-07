@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/8/2026, 4:08:53 am",
+  "updatedAt": "8/8/2026, 4:39:23 am",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Tennis",
@@ -113,43 +113,6 @@
           "cookie": "hdntl=Expires=1786224369~_GO=Generated~acl=/mumbai/4248081_english_hls_adccfc310756874_1ta-di_h264/*~Signature=AYCJ36T4oATkvKm0gvqQxNg3yeTH4Ehs7lZQ8LRLt30NuNvCy3CYH7_2wfiwm2w06hS7eJDSYzI5xNQFsWROie62dfAM",
           "expires": "1786224369",
           "expire_date": "Sunday, August 9, 2026, 2:56:09 AM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2   World Feed",
-      "tournament": "Wyndham Championship 2026",
-      "match_id": 4248182,
-      "status": "LIVE",
-      "startTime": "08 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/240p.m3u8?hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/360p.m3u8?hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/480p.m3u8?hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/540p.m3u8?hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/720p.m3u8?hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG"
-          },
-          "cookie": "hdntl=Expires=1786215066~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36TXgVIn7HWKMLnruBCWIIpk5qGg1rjA4wpO6af-4z9y7ITw45bko-CDtUa5qaGJ9ARr_bxDL3A2hnmQb-g6BqAG",
-          "expires": "1786215066",
-          "expire_date": "Sunday, August 9, 2026, 12:21:06 AM"
         }
       }
     },
@@ -742,25 +705,6 @@
     },
     {
       "category": "Cricket",
-      "title": "St Kitts And Nevis Patriots Vs Trinbago Knight Riders",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248279,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Bahrain Vs Italy",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248251,
@@ -786,6 +730,25 @@
       "status": "UPCOMING",
       "startTime": "09 August 2026 11:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "St Kitts And Nevis Patriots Vs Trinbago Knight Riders",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248279,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -862,6 +825,25 @@
       "status": "UPCOMING",
       "startTime": "09 August 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal Vs Borussia Dortmund",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248392,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-Cup-Final--old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
