@@ -1,84 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "7/8/2026, 11:28:10 pm",
+  "updatedAt": "7/8/2026, 11:59:42 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Afghanistan Vs Ireland",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248052,
-      "status": "LIVE",
-      "startTime": "07 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/240p.m3u8?hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/360p.m3u8?hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/480p.m3u8?hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/540p.m3u8?hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/720p.m3u8?hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL"
-          },
-          "cookie": "hdntl=Expires=1786199168~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36SBBzIHJRpnSY_dzIHocJoWjeuawkXg_xwp0jisVTtk5ujxVzdnIfsY7aQVr4XTHnxL6iTKI5PIcFZ328uzKPYL",
-          "expires": "1786199168",
-          "expire_date": "Saturday, August 8, 2026, 7:56:08 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland Vs Canada",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248214,
-      "status": "LIVE",
-      "startTime": "07 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/240p.m3u8?hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/360p.m3u8?hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/480p.m3u8?hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/540p.m3u8?hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/720p.m3u8?hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC"
-          },
-          "cookie": "hdntl=Expires=1786200254~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36RYUJhhDrQSl2wzXdmvATZDCFEI2FIvmewxsqq_0rxwVuNuFwp_838WSK5CcLcreJccLCvDPW2CxvUVEVoeVOQC",
-          "expires": "1786200254",
-          "expire_date": "Saturday, August 8, 2026, 8:14:14 PM"
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Day 2   Main Feed",
@@ -266,12 +192,50 @@
     },
     {
       "category": "Cricket",
+      "title": "Afghanistan Vs Ireland",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248052,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Purani Dilli 6 Vs South Delhi Superstarz",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247977,
       "status": "UPCOMING",
       "startTime": "08 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Middlesbrough F.c. Vs Wrexham A.f.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248169,
+      "status": "UPCOMING",
+      "startTime": "08 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149849967/4248169_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -310,25 +274,6 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Middlesbrough F.c. Vs Wrexham A.f.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248169,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1785149849967/4248169_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -455,6 +400,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Day 2   World Feed",
+      "tournament": "Wyndham Championship 2026",
+      "match_id": 4248182,
+      "status": "UPCOMING",
+      "startTime": "08 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Paris Saint Germain Vs Manchester United",
       "tournament": "Club Friendlies 2026",
@@ -481,25 +445,6 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 10:00 PM",
       "image": "https://images.fancode.com/aig/match/v1785149849989/4248174_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2   World Feed",
-      "tournament": "Wyndham Championship 2026",
-      "match_id": 4248182,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -614,6 +559,25 @@
       "status": "UPCOMING",
       "startTime": "07 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247973_53005_EDR_WDL_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Scotland Vs Canada",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248214,
+      "status": "UPCOMING",
+      "startTime": "07 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
