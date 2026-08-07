@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "7/8/2026, 5:07:36 pm",
+  "updatedAt": "7/8/2026, 5:17:49 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248214_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Fc Bayern München Vs Aston Villa",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248025,
+      "status": "LIVE",
+      "startTime": "07 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bayern-Munich-vs-Aston-Villa_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248025_eng.sonuxs.m3u8"
     },
     {
       "category": "MotoGP",
@@ -68,17 +79,6 @@
       "status": "UPCOMING",
       "startTime": "07 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/LPL_2026_GG_vs_CK_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Fc Bayern München Vs Aston Villa",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248025,
-      "status": "UPCOMING",
-      "startTime": "07 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bayern-Munich-vs-Aston-Villa_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -325,17 +325,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Live Events",
-      "title": "Semifinal 1",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248226,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Colchester United Vs Southampton F.c.",
       "tournament": "Carabao Cup 2026-27",
@@ -343,6 +332,17 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 10:00 PM",
       "image": "https://images.fancode.com/aig/match/v1785149849989/4248174_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Live Events",
+      "title": "Semifinal 1",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248226,
+      "status": "UPCOMING",
+      "startTime": "08 August 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
