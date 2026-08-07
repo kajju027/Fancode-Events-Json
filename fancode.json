@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "7/8/2026, 6:44:17 pm",
+  "updatedAt": "7/8/2026, 7:04:37 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -113,6 +113,43 @@
           "cookie": "hdntl=Expires=1786194729~_GO=Generated~acl=/mumbai/4247972_english_hls_b261962e065698_1ta-di_h264/*~Signature=AYCJ36QAVph9hTFFs53LIF9UR6EBeeRmADBLs4HDitaIc2wcCKoneQFjJNegy7-2ZldVM5UlyVnTN5RZpeZZfWzU7RcG",
           "expires": "1786194729",
           "expire_date": "Saturday, August 8, 2026, 6:42:09 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Galle Gallants Vs Colombo Kaps",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246731,
+      "status": "LIVE",
+      "startTime": "07 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/LPL_2026_GG_vs_CK_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/240p.m3u8?hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/360p.m3u8?hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/480p.m3u8?hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/540p.m3u8?hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/720p.m3u8?hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O"
+          },
+          "cookie": "hdntl=Expires=1786195820~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36Twq9nOGXtyDTd0Oq9_WQ56JRipY0ctZuJd9UyZnQYP26y_D01J1W-s4oMkRzGPx_6Wo6pIdhwygs7gfXpUC20O",
+          "expires": "1786195820",
+          "expire_date": "Saturday, August 8, 2026, 7:00:20 PM"
         }
       }
     },
@@ -263,25 +300,6 @@
           "expire_date": "Saturday, August 8, 2026, 6:07:07 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Galle Gallants Vs Colombo Kaps",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246731,
-      "status": "UPCOMING",
-      "startTime": "07 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/LPL_2026_GG_vs_CK_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
