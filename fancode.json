@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "7/8/2026, 1:22:29 pm",
+  "updatedAt": "7/8/2026, 2:14:30 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -39,6 +39,43 @@
           "cookie": "hdntl=Expires=1786175466~_GO=Generated~acl=/mumbai/4247973_english_hls_f38b335ba477974_1ta-di_h264/*~Signature=AYCJ36ScRRixYhe7T1ABG3defnc5e2noHE-Cz2h9SBprtKU_wjiAHrID8XZjMjRslXAbId1Gw5RF2Yr6ZY3-W21dp6QK",
           "expires": "1786175466",
           "expire_date": "Saturday, August 8, 2026, 1:21:06 PM"
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Great Britain Gp",
+      "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
+      "match_id": 139960,
+      "status": "LIVE",
+      "startTime": "07 August 2026 02:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/240p.m3u8?hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/360p.m3u8?hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/480p.m3u8?hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/540p.m3u8?hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/720p.m3u8?hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA"
+          },
+          "cookie": "hdntl=Expires=1786178645~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36TuGnSXPe21zWrYaVsQYTyf8jcowB6Xod7cjFWYMY8qsNO9J6q083V6abs2E4M0aykOGsZiJG1Viq2Lv-XmdksA",
+          "expires": "1786178645",
+          "expire_date": "Saturday, August 8, 2026, 2:14:05 PM"
         }
       }
     },
@@ -195,13 +232,13 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Great Britain Gp",
-      "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
-      "match_id": 139960,
+      "category": "Cricket",
+      "title": "Central Delhi Kings Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247988,
       "status": "UPCOMING",
-      "startTime": "07 August 2026 02:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
+      "startTime": "08 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -215,12 +252,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Central Delhi Kings Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247988,
+      "title": "Tbc Vs Tbc",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246732,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
+      "startTime": "08 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -366,13 +403,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246732,
+      "category": "Tennis",
+      "title": "World Feed 2",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248080,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "08 August 2026 03:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -385,13 +422,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed 2",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248080,
+      "category": "Football",
+      "title": "Chelsea Vs Ac Milan",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248021,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "startTime": "08 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -449,25 +486,6 @@
       "status": "UPCOMING",
       "startTime": "06 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247979_53005_NDT_PD_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea Vs Ac Milan",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248021,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
