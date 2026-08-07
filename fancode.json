@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "7/8/2026, 3:15:36 pm",
+  "updatedAt": "7/8/2026, 4:11:36 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -80,6 +80,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Scotland Vs Canada",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248214,
+      "status": "LIVE",
+      "startTime": "07 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/240p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/360p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/480p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/540p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/720p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG"
+          },
+          "cookie": "hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
+          "expires": "1786182246",
+          "expire_date": "Saturday, August 8, 2026, 3:14:06 PM"
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Great Britain Gp",
       "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
@@ -117,39 +154,39 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Scotland Vs Canada",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248214,
+      "category": "Golf",
+      "title": "Day 2   Main Feed",
+      "tournament": "Wyndham Championship 2026",
+      "match_id": 4248186,
       "status": "LIVE",
-      "startTime": "07 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",
+      "startTime": "07 August 2026 04:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/240p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/360p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/480p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/540p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/720p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/240p.m3u8?hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/360p.m3u8?hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/480p.m3u8?hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/540p.m3u8?hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/720p.m3u8?hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB"
           },
-          "cookie": "hdntl=Expires=1786182246~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TCSMesoXuQ4wFasyZJED0P2O1mbGNeBXiIthIgLgBskSCiP312qdw5qK4wLLAOwzkzXvnCsHWKLQDT0F4mE9YG",
-          "expires": "1786182246",
-          "expire_date": "Saturday, August 8, 2026, 3:14:06 PM"
+          "cookie": "hdntl=Expires=1786185425~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36RKkEdD34hahDHJGP023Dk1IGS4fVjV1Cwnojm1B25aQ9u1f58Pv5S5XQyGO_sFdw8yt4cCbaXrG2wNNI8PBjcB",
+          "expires": "1786185425",
+          "expire_date": "Saturday, August 8, 2026, 4:07:05 PM"
         }
       }
     },
@@ -192,6 +229,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Purani Dilli 6 Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247977,
+      "status": "UPCOMING",
+      "startTime": "08 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Fc Bayern München Vs Aston Villa",
       "tournament": "Club Friendlies 2026",
@@ -218,25 +274,6 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1785149849967/4248169_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Purani Dilli 6 Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247977,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -325,13 +362,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2   Main Feed",
-      "tournament": "Wyndham Championship 2026",
-      "match_id": 4248186,
+      "category": "Football",
+      "title": "Queens Park Rangers F.c. Vs Millwall F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248170,
       "status": "UPCOMING",
-      "startTime": "07 August 2026 04:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "startTime": "08 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248170_53016_QPR_MLW_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -497,63 +534,6 @@
     },
     {
       "category": "Football",
-      "title": "Queens Park Rangers F.c. Vs Millwall F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248170,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248170_53016_QPR_MLW_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Outer Delhi Warriors Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247975,
-      "status": "UPCOMING",
-      "startTime": "06 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Purani Dilli 6 Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247979,
-      "status": "UPCOMING",
-      "startTime": "06 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247979_53005_NDT_PD_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
       "title": "Derby County Football Club Vs Lincoln City F.c.",
       "tournament": "Carabao Cup 2026-27",
       "match_id": 4248171,
@@ -598,6 +578,44 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1785149849990/4248173_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Outer Delhi Warriors Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247975,
+      "status": "UPCOMING",
+      "startTime": "06 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Purani Dilli 6 Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247979,
+      "status": "UPCOMING",
+      "startTime": "06 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247979_53005_NDT_PD_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
