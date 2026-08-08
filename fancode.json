@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/8/2026, 12:14:39 am",
+  "updatedAt": "9/8/2026, 12:24:49 am",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -39,43 +39,6 @@
           "cookie": "hdntl=Expires=1786299545~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36TK-mcyjY1FjP0Kbnb6KRiXU_eCe0RgH_ql_QMmGEmesCrQW9cXMsoqLJ47qFwITSNM0RYHw_pGE-fdlkm51M4C",
           "expires": "1786299545",
           "expire_date": "Sunday, August 9, 2026, 11:49:05 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Colchester United Vs Southampton F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248174,
-      "status": "LIVE",
-      "startTime": "08 August 2026 10:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248174_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/240p.m3u8?hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/360p.m3u8?hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/480p.m3u8?hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/540p.m3u8?hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/720p.m3u8?hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA"
-          },
-          "cookie": "hdntl=Expires=1786292347~_GO=Generated~acl=/mumbai/4248174_english_hls_7356322ddd70333_1ta-di_h264/*~Signature=AYCJ36S9ZEdJcFwfStC91JMcSoc9Mj1zLIrZLw9g_KgP0QgP_Z6h-oIwgh2u2W95ecxXLtK4KVplRv_8oRQcP38SmfEA",
-          "expires": "1786292347",
-          "expire_date": "Sunday, August 9, 2026, 9:49:07 PM"
         }
       }
     },
@@ -493,13 +456,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Purani Dilli 6 Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247977,
+      "category": "Golf",
+      "title": "Day 4   Main Feed",
+      "tournament": "Wyndham Championship 2026",
+      "match_id": 4248188,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
+      "startTime": "09 August 2026 05:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -512,13 +475,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 4   Main Feed",
-      "tournament": "Wyndham Championship 2026",
-      "match_id": 4248188,
+      "category": "Cricket",
+      "title": "Purani Dilli 6 Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247977,
       "status": "UPCOMING",
-      "startTime": "09 August 2026 05:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "startTime": "08 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -880,6 +843,25 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 11:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247982,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
