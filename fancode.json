@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/8/2026, 5:17:24 pm",
+  "updatedAt": "8/8/2026, 6:17:07 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -76,6 +76,43 @@
           "cookie": "hdntl=Expires=1786275845~_GO=Generated~acl=/mumbai/4248021_english_hls_b43d61239e85207_1ta-di_h264/*~Signature=AYCJ36SlhHfp7sZHtFe2y0bIlMNm4w_wZNAc7DJDw0VR2TQR63WhH20tEUliSFAlzCUXpAL0Jy_PkqCgnKNArc0CXuUG",
           "expires": "1786275845",
           "expire_date": "Sunday, August 9, 2026, 5:14:05 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Queens Park Rangers F.c. Vs Millwall F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248170,
+      "status": "LIVE",
+      "startTime": "08 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248170_53016_QPR_MLW_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/240p.m3u8?hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/360p.m3u8?hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/480p.m3u8?hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/540p.m3u8?hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/720p.m3u8?hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN"
+          },
+          "cookie": "hdntl=Expires=1786279449~_GO=Generated~acl=/mumbai/4248170_english_hls_e643dd14e953956_1ta-di_h264/*~Signature=AYCJ36T4fyuQyyK-vg5oRKn5pvX40j5L-PJlIT_sfkBI1z7nlREIR7729LV9sJq4ebp6qRiD5sxvRIzzpRF_GC0TY9wN",
+          "expires": "1786279449",
+          "expire_date": "Sunday, August 9, 2026, 6:14:09 PM"
         }
       }
     },
@@ -253,7 +290,7 @@
       "match_id": 4246732,
       "status": "UPCOMING",
       "startTime": "08 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Jaffna-Kings-vs-Galle-Gallants_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -285,13 +322,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Queens Park Rangers F.c. Vs Millwall F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248170,
+      "category": "Cricket",
+      "title": "Scotland Vs United Arab Emirates",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248215,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248170_53016_QPR_MLW_fc-web.jpg",
+      "startTime": "09 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -387,25 +424,6 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 10:00 PM",
       "image": "https://images.fancode.com/aig/match/v1785149849989/4248174_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland Vs United Arab Emirates",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248215,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -532,6 +550,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Mansfield Town Vs Sheffield United F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248175,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 08:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785149849989/4248175_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Court 5",
       "tournament": "ATP Masters Omnium Banque National 2026",
@@ -646,25 +683,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Mansfield Town Vs Sheffield United F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248175,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 08:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248175_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Afghanistan Vs Ireland",
       "tournament": "Afghanistan tour of Ireland, 2026",
@@ -760,25 +778,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Third Place",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248228,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "MotoGP",
       "title": "Great Britain Gp",
       "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
@@ -786,25 +785,6 @@
       "status": "UPCOMING",
       "startTime": "09 August 2026 03:45 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Live Events",
-      "title": "Final",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248229,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -859,6 +839,44 @@
       "title": "Atp Masters Omnium Banque National 2026",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248086,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248087,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248088,
       "status": "UPCOMING",
       "startTime": "09 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
