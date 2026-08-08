@@ -1,10 +1,47 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/8/2026, 6:28:01 pm",
+  "updatedAt": "8/8/2026, 6:43:52 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 9,
+  "upcoming_matches": 31,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247988,
+      "status": "LIVE",
+      "startTime": "08 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/240p.m3u8?hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/360p.m3u8?hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/480p.m3u8?hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/540p.m3u8?hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/720p.m3u8?hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA"
+          },
+          "cookie": "hdntl=Expires=1786281126~_GO=Generated~acl=/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/*~Signature=AYCJ36Q7cO6KDAbNI22C7gpn9Qoxy2XFzXrTqXIwZ3R7o7CLtyW7TY63Y_ZJDV0SUffhd4ihYyYndZwKNyZLVuZf2yoA",
+          "expires": "1786281126",
+          "expire_date": "Sunday, August 9, 2026, 6:42:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Jaffna Kings Vs Galle Gallants",
@@ -302,63 +339,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Central Delhi Kings Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247988,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247986,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247986_53005_NDS_NDT_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland Vs United Arab Emirates",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248215,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Derby County Football Club Vs Lincoln City F.c.",
       "tournament": "Carabao Cup 2026-27",
@@ -404,6 +384,44 @@
       "status": "UPCOMING",
       "startTime": "08 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1785149849990/4248173_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247986,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247986_53005_NDS_NDT_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Scotland Vs United Arab Emirates",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248215,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
