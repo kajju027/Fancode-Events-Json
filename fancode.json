@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/8/2026, 3:35:37 pm",
+  "updatedAt": "8/8/2026, 4:16:19 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -117,6 +117,43 @@
       }
     },
     {
+      "category": "Golf",
+      "title": "Day 3   Main Feed",
+      "tournament": "Wyndham Championship 2026",
+      "match_id": 4248187,
+      "status": "LIVE",
+      "startTime": "08 August 2026 04:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/240p.m3u8?hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/360p.m3u8?hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/480p.m3u8?hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/540p.m3u8?hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/720p.m3u8?hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ"
+          },
+          "cookie": "hdntl=Expires=1786272248~_GO=Generated~acl=/mumbai/4248187_english_hls_0094d4e29731691_1ta-di_h264/*~Signature=AYCJ36Tsz8QA0W5gYQnDTEwMjEwzssBl_PIcbssc9zB1zaUOKROWiqmZ_71mjqIglmZGkPxX4NUuum1Kwlxc_09XYlQJ",
+          "expires": "1786272248",
+          "expire_date": "Sunday, August 9, 2026, 4:14:08 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Central Delhi Kings Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
@@ -142,7 +179,26 @@
       "match_id": 4246732,
       "status": "UPCOMING",
       "startTime": "08 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247986,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247986_53005_NDS_NDT_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -289,25 +345,6 @@
     },
     {
       "category": "Cricket",
-      "title": "North Delhi Strikers Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247986,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247986_53005_NDS_NDT_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Scotland Vs United Arab Emirates",
       "tournament": "ICC CWC League 2 Scotland, 2026",
       "match_id": 4248215,
@@ -364,13 +401,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 3   Main Feed",
-      "tournament": "Wyndham Championship 2026",
-      "match_id": 4248187,
+      "category": "Live Events",
+      "title": "Semifinal 2",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248227,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 04:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "startTime": "08 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -421,13 +458,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Semifinal 2",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248227,
+      "category": "Football",
+      "title": "Arsenal Vs Borussia Dortmund",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248392,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "startTime": "09 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-Cup-Final--old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -536,12 +573,12 @@
     },
     {
       "category": "Football",
-      "title": "Arsenal Vs Borussia Dortmund",
+      "title": "Liverpool Vs Monaco",
       "tournament": "Club Friendlies 2026",
-      "match_id": 4248392,
+      "match_id": 4248022,
       "status": "UPCOMING",
-      "startTime": "09 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-Cup-Final--old.png",
+      "startTime": "09 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-AS-Monaco_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -580,25 +617,6 @@
       "status": "UPCOMING",
       "startTime": "09 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Liverpool Vs Monaco",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248022,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-AS-Monaco_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
