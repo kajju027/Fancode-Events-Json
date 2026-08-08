@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/8/2026, 7:10:48 pm",
+  "updatedAt": "8/8/2026, 7:16:12 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 11,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -191,6 +191,117 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Derby County Football Club Vs Lincoln City F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248171,
+      "status": "LIVE",
+      "startTime": "08 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248171_53016_DER_LNC_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/240p.m3u8?hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/360p.m3u8?hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/480p.m3u8?hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/540p.m3u8?hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/720p.m3u8?hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE"
+          },
+          "cookie": "hdntl=Expires=1786283045~_GO=Generated~acl=/mumbai/4248171_english_hls_3bd7412ab951698_1ta-di_h264/*~Signature=AYCJ36S_X6XiG8ZCaE6nCNNeJbAoGUny8hPnMyxIUkGn2fvUhnbhUXGK-W-xbpkx208PpZzDoY415EiF-Ft0RP_1j4EE",
+          "expires": "1786283045",
+          "expire_date": "Sunday, August 9, 2026, 7:14:05 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Swansea City A.f.c. Vs Birmingham City F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248172,
+      "status": "LIVE",
+      "startTime": "08 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785149849988/4248172_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/240p.m3u8?hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/360p.m3u8?hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/480p.m3u8?hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/540p.m3u8?hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/720p.m3u8?hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F"
+          },
+          "cookie": "hdntl=Expires=1786196977~_GO=Generated~acl=/mumbai/4248172_english_hls_c9c75adddf840_1ta-di_h264/*~Signature=AYCJ36Rc0fwWmHs1sfwh_Ve5xriyUpj5rZbGYnwgtWsoEOjYgFvbZ7Gd7eqcHC7mF4la5OhhDIw6aJM985iqSZ-roV0F",
+          "expires": "1786196977",
+          "expire_date": "Saturday, August 8, 2026, 7:19:37 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "West Ham United Vs Portsmouth F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248173,
+      "status": "LIVE",
+      "startTime": "08 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785149849990/4248173_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/240p.m3u8?hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/360p.m3u8?hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/480p.m3u8?hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/540p.m3u8?hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/720p.m3u8?hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF"
+          },
+          "cookie": "hdntl=Expires=1786196979~_GO=Generated~acl=/mumbai/4248173_english_hls_3924f1b6e556412_1ta-di_h264/*~Signature=AYCJ36THlci-C8PatojQHtu3yQ5QZX6qwnsyl-B98gsIFPPvwGM7VdpF87MVt4QkufIJGQpAuZJSj28CY1VXTfITzWoF",
+          "expires": "1786196979",
+          "expire_date": "Saturday, August 8, 2026, 7:19:39 PM"
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Great Britain Gp",
       "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
@@ -300,63 +411,6 @@
           "expire_date": "Sunday, August 9, 2026, 5:14:06 PM"
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Derby County Football Club Vs Lincoln City F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248171,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248171_53016_DER_LNC_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Swansea City A.f.c. Vs Birmingham City F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248172,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149849988/4248172_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "West Ham United Vs Portsmouth F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248173,
-      "status": "UPCOMING",
-      "startTime": "08 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149849990/4248173_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
