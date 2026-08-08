@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/8/2026, 4:16:19 pm",
+  "updatedAt": "8/8/2026, 4:51:15 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -154,6 +154,43 @@
       }
     },
     {
+      "category": "Live Events",
+      "title": "Semifinal 2",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248227,
+      "status": "LIVE",
+      "startTime": "08 August 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/240p.m3u8?hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/360p.m3u8?hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/480p.m3u8?hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/540p.m3u8?hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/720p.m3u8?hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH"
+          },
+          "cookie": "hdntl=Expires=1786274345~_GO=Generated~acl=/mumbai/4248227_english_hls_9a7bc7e38783225_1ta-di_h264/*~Signature=AYCJ36S1XHQVxvkVNsTijId7Hn_2TW-D4mkdddMmhEJOKaF5V_nzBTKgqU03GJaTyxBoMwRFW9HRE9u3Kci58843RtUH",
+          "expires": "1786274345",
+          "expire_date": "Sunday, August 9, 2026, 4:49:05 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Central Delhi Kings Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
@@ -192,13 +229,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247986,
+      "category": "Football",
+      "title": "Chelsea Vs Ac Milan",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248021,
       "status": "UPCOMING",
-      "startTime": "09 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247986_53005_NDS_NDT_fc-Web.png",
+      "startTime": "08 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -211,13 +248,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Chelsea Vs Ac Milan",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248021,
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247986,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_Web-match-card.png",
+      "startTime": "09 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247986_53005_NDS_NDT_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -401,13 +438,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Semifinal 2",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248227,
+      "category": "Golf",
+      "title": "Day 3",
+      "tournament": "PIF London Championship 2026",
+      "match_id": 4248210,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "startTime": "08 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -477,13 +514,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 3",
-      "tournament": "PIF London Championship 2026",
-      "match_id": 4248210,
+      "category": "Football",
+      "title": "Liverpool Vs Monaco",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248022,
       "status": "UPCOMING",
-      "startTime": "08 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
+      "startTime": "09 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-AS-Monaco_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -572,25 +609,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Liverpool Vs Monaco",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248022,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-AS-Monaco_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "World Feed 2",
       "tournament": "ATP Masters Omnium Banque National 2026",
@@ -617,6 +635,25 @@
       "status": "UPCOMING",
       "startTime": "09 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Mansfield Town Vs Sheffield United F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248175,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 08:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785149849989/4248175_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -712,25 +749,6 @@
       "status": "UPCOMING",
       "startTime": "07 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/LPL_2026_GG_vs_CK_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Mansfield Town Vs Sheffield United F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248175,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 08:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248175_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
