@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/8/2026, 9:26:00 pm",
+  "updatedAt": "9/8/2026, 9:36:14 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -150,43 +150,6 @@
           "cookie": "hdntl=Expires=1786377063~_GO=Generated~acl=/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/*~Signature=AYCJ36TT0ahCI0s1ddcca_iBQCLUMTXJKaeR5dYl9MvxKHzm0lwcwAC-jauS-HEWXLYnlLwJJkjkbChUh3aUWV1u8vMC",
           "expires": "1786377063",
           "expire_date": "Monday, August 10, 2026, 9:21:03 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4",
-      "tournament": "PIF London Championship 2026",
-      "match_id": 4248211,
-      "status": "LIVE",
-      "startTime": "09 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/240p.m3u8?hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/360p.m3u8?hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/480p.m3u8?hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/540p.m3u8?hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/720p.m3u8?hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE"
-          },
-          "cookie": "hdntl=Expires=1786362248~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36TSL1F0iWi5462SG6-b5sfwMU6E1eDnfXmCykc3kLUXmCHrR139GqNAbRsTeQcSWHddklzuRoWjdNoBl3ceJnYE",
-          "expires": "1786362248",
-          "expire_date": "Monday, August 10, 2026, 5:14:08 PM"
         }
       }
     },
@@ -841,6 +804,25 @@
       "title": "Atp Masters Omnium Banque National 2026",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248098,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248099,
       "status": "UPCOMING",
       "startTime": "12 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
