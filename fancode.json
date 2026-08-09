@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/8/2026, 9:51:30 pm",
+  "updatedAt": "9/8/2026, 10:16:59 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -252,9 +252,46 @@
       "title": "Day 4   World Feed",
       "tournament": "Wyndham Championship 2026",
       "match_id": 4248184,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/240p.m3u8?hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/360p.m3u8?hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/480p.m3u8?hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/540p.m3u8?hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/720p.m3u8?hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD"
+          },
+          "cookie": "hdntl=Expires=1786380245~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36QxrKuOEidNs-Z4S59Cg1kTp2r5lJCd5xvpcMS-r-kkd63SfBWNoSJncGd1uuEA5Ol5DN_pTQqO9uFWFPH3MJgD",
+          "expires": "1786380245",
+          "expire_date": "Monday, August 10, 2026, 10:14:05 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Plymouth Argyle Vs Exeter City",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248176,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -312,25 +349,6 @@
       "status": "UPCOMING",
       "startTime": "10 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248280_53026_ABF_SLK_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Plymouth Argyle Vs Exeter City",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248176,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
