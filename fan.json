@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/8/2026, 10:16:59 pm",
+  "updatedAt": "9/8/2026, 10:38:38 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -28,17 +28,6 @@
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247981_eng.sonuxs.m3u8"
     },
     {
-      "category": "Football",
-      "title": "Mansfield Town Vs Sheffield United F.c.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248175,
-      "status": "LIVE",
-      "startTime": "09 August 2026 08:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248175_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248175_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Golf",
       "title": "Day 4   Main Feed",
       "tournament": "Wyndham Championship 2026",
@@ -59,6 +48,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248088_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4   World Feed",
+      "tournament": "Wyndham Championship 2026",
+      "match_id": 4248184,
+      "status": "LIVE",
+      "startTime": "09 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248184_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -94,15 +94,15 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 4   World Feed",
-      "tournament": "Wyndham Championship 2026",
-      "match_id": 4248184,
-      "status": "LIVE",
-      "startTime": "09 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248184_eng.sonuxs.m3u8"
+      "category": "Tennis",
+      "title": "Rogers Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248089,
+      "status": "UPCOMING",
+      "startTime": "09 August 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Football",
@@ -112,17 +112,6 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248089,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248098,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     }
