@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/8/2026, 7:59:14 pm",
+  "updatedAt": "10/8/2026, 11:23:46 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Ireland Vs Afghanistan",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248055,
-      "status": "LIVE",
-      "startTime": "10 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/240p.m3u8?hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/360p.m3u8?hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/480p.m3u8?hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/540p.m3u8?hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/720p.m3u8?hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN"
-          },
-          "cookie": "hdntl=Expires=1786458368~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTVCJBOs-2XOKe7RhwjX-rDQ0Ex4k5WP0NhWnaapgQBW4Kt4hEyuGJbHc3_VKztjuxf2t2weGIt6YQzPayw7fzwN",
-          "expires": "1786458368",
-          "expire_date": "Tuesday, August 11, 2026, 7:56:08 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Outer Delhi Warriors Vs Purani Dilli 6",
@@ -118,6 +81,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Ireland Vs Afghanistan",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248055,
+      "status": "UPCOMING",
+      "startTime": "10 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Central Delhi Kings Vs New Delhi Tigers",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247982,
@@ -155,13 +137,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Plymouth Argyle Vs Exeter City",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248176,
+      "category": "Cricket",
+      "title": "West Delhi Lions Vs North Delhi Strikers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247989,
       "status": "UPCOMING",
-      "startTime": "11 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
+      "startTime": "11 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247989_53005_WDL_NDS_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -174,13 +156,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "West Delhi Lions Vs North Delhi Strikers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247989,
+      "category": "Football",
+      "title": "Plymouth Argyle Vs Exeter City",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248176,
       "status": "UPCOMING",
-      "startTime": "11 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247989_53005_WDL_NDS_fc-Web.png",
+      "startTime": "11 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -269,6 +251,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Live Events",
+      "title": "Third Place",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248228,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "United Arab Emirates Vs Scotland",
       "tournament": "ICC CWC League 2 Scotland, 2026",
@@ -314,25 +315,6 @@
       "status": "UPCOMING",
       "startTime": "10 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Live Events",
-      "title": "Third Place",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248228,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",

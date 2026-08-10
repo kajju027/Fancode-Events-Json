@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/8/2026, 7:59:14 pm",
+  "updatedAt": "10/8/2026, 11:23:46 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Ireland Vs Afghanistan",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248055,
-      "status": "LIVE",
-      "startTime": "10 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248055_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Outer Delhi Warriors Vs Purani Dilli 6",
@@ -40,6 +29,17 @@
     },
     {
       "category": "Cricket",
+      "title": "Ireland Vs Afghanistan",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248055,
+      "status": "UPCOMING",
+      "startTime": "10 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Central Delhi Kings Vs New Delhi Tigers",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247982,
@@ -61,17 +61,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Plymouth Argyle Vs Exeter City",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248176,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "West Delhi Lions Vs North Delhi Strikers",
       "tournament": "Delhi Premier League, 2026",
@@ -79,6 +68,17 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247989_53005_WDL_NDS_fc-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Plymouth Argyle Vs Exeter City",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248176,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -127,6 +127,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Live Events",
+      "title": "Third Place",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248228,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "United Arab Emirates Vs Scotland",
       "tournament": "ICC CWC League 2 Scotland, 2026",
@@ -156,17 +167,6 @@
       "status": "UPCOMING",
       "startTime": "10 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Live Events",
-      "title": "Third Place",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248228,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
