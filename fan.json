@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "11/8/2026, 2:46:27 am",
+  "updatedAt": "11/8/2026, 3:16:55 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Tennis",
@@ -76,11 +76,11 @@
       "title": "World Feed",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248090,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11 August 2026 03:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248090_eng.sonuxs.m3u8"
     },
     {
       "category": "Live Events",
@@ -101,6 +101,17 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 05:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Oman Vs Goa",
+      "tournament": "Goa tour of Oman 2026",
+      "match_id": 4248363,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -134,17 +145,6 @@
       "status": "UPCOMING",
       "startTime": "10 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman Vs Goa",
-      "tournament": "Goa tour of Oman 2026",
-      "match_id": 4248363,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png",
       "language": null,
       "cnptv_cdn": null
     },
