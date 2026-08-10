@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/8/2026, 1:23:19 am",
+  "updatedAt": "11/8/2026, 1:25:03 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Football",
@@ -39,6 +39,43 @@
           "cookie": "hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
           "expires": "1786473844",
           "expire_date": "Wednesday, August 12, 2026, 12:14:04 AM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Rogers Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248092,
+      "status": "LIVE",
+      "startTime": "11 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/240p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/360p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/480p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/540p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/720p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N"
+          },
+          "cookie": "hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
+          "expires": "1786477864",
+          "expire_date": "Wednesday, August 12, 2026, 1:21:04 AM"
         }
       }
     },
@@ -139,30 +176,11 @@
     },
     {
       "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248092,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248090,
       "status": "UPCOMING",
-      "startTime": "11 August 2026 02:30 AM",
+      "startTime": "11 August 2026 03:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -202,25 +220,6 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 05:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "United Arab Emirates Vs Scotland",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248215,
-      "status": "UPCOMING",
-      "startTime": "09 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -769,6 +768,25 @@
       "title": "Atp Masters Omnium Banque National 2026",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248102,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248103,
       "status": "UPCOMING",
       "startTime": "13 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
