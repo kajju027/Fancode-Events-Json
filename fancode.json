@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/8/2026, 6:27:34 pm",
+  "updatedAt": "10/8/2026, 6:42:51 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -84,19 +84,37 @@
       "title": "Purani Dilli 6 Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247980,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/240p.m3u8?hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/360p.m3u8?hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/480p.m3u8?hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/540p.m3u8?hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/720p.m3u8?hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I"
+          },
+          "cookie": "hdntl=Expires=1786367858~_GO=Generated~acl=/mumbai/4247980_english_hls_a5f3c836c346902_1ta-di_h264/*~Signature=AVMBkTU-3E2P5FIdBTMxIGNhO90YWit8K-Bv83_h28wUBGpPbT_5rW2Nmwqv_gp38CqqW2TvLMhcXnf2F2-AaHozJH8I",
+          "expires": "1786367858",
+          "expire_date": "Monday, August 10, 2026, 6:47:38 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
