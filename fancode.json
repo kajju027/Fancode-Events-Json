@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/8/2026, 6:53:03 pm",
+  "updatedAt": "10/8/2026, 7:28:39 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs West Delhi Lions",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247985,
-      "status": "LIVE",
-      "startTime": "10 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "Unavailable",
-        "fancode_bd_cdn": "Unavailable",
-        "fancode_np_cdn": "Unavailable",
-        "fancode_lk_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "Unavailable",
-          "fancode_cdn_v1": "Unavailable",
-          "fancode_dai_cdn": "Unavailable"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f/240p.m3u8",
-            "360p": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f/360p.m3u8",
-            "480p": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f/480p.m3u8",
-            "540p": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f/540p.m3u8",
-            "720p": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f/720p.m3u8",
-            "1080p": "https://in-ak-flive.akamaized.net/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f/1080p.m3u8"
-          },
-          "cookie": "hdntl=exp=1786452671~acl=%2f*~id=180ac8b2527bfe05_03bcfbc9-4419-48~data=hdntl~hmac=f6e2b29f52dfab42c2bf59b3c9ed482e0ee153af1a30a82a366a4f8fbef80b6f",
-          "expires": "1786452671",
-          "expire_date": "Tuesday, August 11, 2026, 6:21:11 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Ireland Vs Afghanistan",
@@ -326,6 +289,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "East Delhi Riders Vs West Delhi Lions",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247985,
+      "status": "UPCOMING",
+      "startTime": "10 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Live Events",
       "title": "Third Place",
       "tournament": "Asian University Basketball League 2026",
@@ -465,7 +447,7 @@
       "match_id": 4248287,
       "status": "UPCOMING",
       "startTime": "12 August 2026 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -674,7 +656,7 @@
       "match_id": 4248282,
       "status": "UPCOMING",
       "startTime": "13 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248282_53026_SLK_SKN_FC-Web.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248282_53026_SLK_SKN_FC-Web_1786367986983.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
