@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/8/2026, 5:09:04 am",
+  "updatedAt": "10/8/2026, 7:44:49 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed 2",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248087,
-      "status": "LIVE",
-      "startTime": "10 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/240p.m3u8?hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/360p.m3u8?hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/480p.m3u8?hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/540p.m3u8?hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/720p.m3u8?hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O"
-          },
-          "cookie": "hdntl=Expires=1786399085~_GO=Generated~acl=/mumbai/4248087_english_hls_136bb0de1247382_1ta-di_h264/*~Signature=AYCJ36TlliQW8cqsjkpfUBuMeCPezjdsOH0bK2ijTVr5zso8soOab3GNMO_yW4v4NlCtj82Ty_dhJUspErb9gWYKS38O",
-          "expires": "1786399085",
-          "expire_date": "Tuesday, August 11, 2026, 3:28:05 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Saint Lucia Kings Vs Antigua & Barbuda Falcons",
@@ -156,6 +119,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Central Delhi Kings Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247982,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Atp Masters Omnium Banque National 2026",
       "tournament": "ATP Masters Omnium Banque National 2026",
@@ -233,6 +215,44 @@
     },
     {
       "category": "Cricket",
+      "title": "Tanzania Vs Hong Kong, China",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248253,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Italy Vs Uganda",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248254,
+      "status": "UPCOMING",
+      "startTime": "11 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "New Delhi Tigers Vs North Delhi Strikers",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247986,
@@ -277,63 +297,6 @@
       "status": "UPCOMING",
       "startTime": "09 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247981_53005_SDS_CDK_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Central Delhi Kings Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247982,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tanzania Vs Hong Kong, China",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248253,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Italy Vs Uganda",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248254,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +753,25 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248217_53013_SCO_CAN_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247983,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247983_53005_NDS_PD_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
