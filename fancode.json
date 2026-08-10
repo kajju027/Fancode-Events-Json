@@ -1,10 +1,47 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/8/2026, 2:42:50 am",
+  "updatedAt": "11/8/2026, 2:43:44 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Plymouth Argyle Vs Exeter City",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248176,
+      "status": "LIVE",
+      "startTime": "11 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149849989/4248176_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/240p.m3u8?hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/360p.m3u8?hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/480p.m3u8?hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/540p.m3u8?hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/720p.m3u8?hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL"
+          },
+          "cookie": "hdntl=Expires=1786473844~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTW3_AvdRJkMwg92BULReUy2LMYJ0qkemYwsGXz4WelZED1Rp67jYYSMXeVOvPJM3on20jevSZX5YS5fCoh8wnoL",
+          "expires": "1786473844",
+          "expire_date": "Wednesday, August 12, 2026, 12:14:04 AM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "Rogers Court",
@@ -348,6 +385,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Jamaica Kingsmen Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248287,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Bahrain Vs Singapore",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248255,
@@ -373,25 +429,6 @@
       "status": "UPCOMING",
       "startTime": "12 August 2026 11:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248287,
-      "status": "UPCOMING",
-      "startTime": "12 August 2026 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -750,25 +787,6 @@
       "title": "Atp Masters Omnium Banque National 2026",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248103,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Omnium Banque National 2026",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248104,
       "status": "UPCOMING",
       "startTime": "13 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
