@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/8/2026, 1:27:44 pm",
+  "updatedAt": "11/8/2026, 3:24:40 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -39,6 +39,43 @@
           "cookie": "hdntl=Expires=1786521064~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTXJjWLIeHOaA7M-c-F08H2-nUEsDj98GuJhChBK11_6feav03LpeYgoXSHO7uy85UbRj02lHdVjYNw011vxnskL",
           "expires": "1786521064",
           "expire_date": "Wednesday, August 12, 2026, 1:21:04 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "United Arab Emirates Vs Canada",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248216,
+      "status": "LIVE",
+      "startTime": "11 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248216_53013_UAE_CAN_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/240p.m3u8?hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/360p.m3u8?hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/480p.m3u8?hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/540p.m3u8?hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/720p.m3u8?hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE"
+          },
+          "cookie": "hdntl=Expires=1786528265~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXyP6uTGY279OBJdiHIZ00w-Pfq1JjEsHfciGZgUtb1XROjnTMhjYNXXe4ncpkpFWvP4kOPI1rIJx4Qw8tKqYgE",
+          "expires": "1786528265",
+          "expire_date": "Wednesday, August 12, 2026, 3:21:05 PM"
         }
       }
     },
@@ -152,25 +189,6 @@
           "expire_date": "Wednesday, August 12, 2026, 12:49:03 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "United Arab Emirates Vs Canada",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248216,
-      "status": "UPCOMING",
-      "startTime": "11 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248216_53013_UAE_CAN_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -382,6 +400,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "East Bengal Fc Vs Al Arabi",
+      "tournament": "AFC Champions League Two Qualifier 2026",
+      "match_id": 4248401,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1786115087654/4248401_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "East Delhi Riders Vs West Delhi Lions",
       "tournament": "Delhi Premier League, 2026",
@@ -427,25 +464,6 @@
       "status": "UPCOMING",
       "startTime": "10 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "East Bengal Fc Vs Al Arabi",
-      "tournament": "AFC Champions League Two Qualifier 2026",
-      "match_id": 4248401,
-      "status": "UPCOMING",
-      "startTime": "12 August 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1786115087654/4248401_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
