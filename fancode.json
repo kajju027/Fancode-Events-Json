@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/8/2026, 3:16:55 am",
+  "updatedAt": "11/8/2026, 6:14:47 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248092,
-      "status": "LIVE",
-      "startTime": "11 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/240p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/360p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/480p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/540p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/720p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N"
-          },
-          "cookie": "hdntl=Expires=1786477864~_GO=Generated~acl=/mumbai/4248092_english_hls_5c26b1672531401_1ta-di_h264/*~Signature=AVMBkTW8TCWdmqSTz3As_LSTk1xLzPdnf20-BhTq9k7gmPcHuBKcgYdN9-FD9YRGtVHyVDGbGUAowwUT4AZV2XzmLF8N",
-          "expires": "1786477864",
-          "expire_date": "Wednesday, August 12, 2026, 1:21:04 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Central Delhi Kings Vs New Delhi Tigers",
@@ -138,43 +101,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248090,
-      "status": "LIVE",
-      "startTime": "11 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/240p.m3u8?hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/360p.m3u8?hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/480p.m3u8?hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/540p.m3u8?hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/720p.m3u8?hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ"
-          },
-          "cookie": "hdntl=Expires=1786484646~_GO=Generated~acl=/mumbai/4248090_english_hls_3f7fb2c88f29032_1ta-di_h264/*~Signature=AVMBkTXNHsFV2JdH9Z6Pt9YXDvIYF5xyq4l7poFm4CP1xne5PeMXggo07sdD3TbzDNYU6toaFVR_zkLh_kgwaDoSazcJ",
-          "expires": "1786484646",
-          "expire_date": "Wednesday, August 12, 2026, 3:14:06 AM"
-        }
-      }
-    },
-    {
       "category": "Live Events",
       "title": "Third Place",
       "tournament": "Asian University Basketball League 2026",
@@ -220,63 +146,6 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 08:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs West Delhi Lions",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247985,
-      "status": "UPCOMING",
-      "startTime": "10 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Ireland Vs Afghanistan",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248055,
-      "status": "UPCOMING",
-      "startTime": "10 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Outer Delhi Warriors Vs Purani Dilli 6",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247980,
-      "status": "UPCOMING",
-      "startTime": "10 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -366,6 +235,63 @@
     },
     {
       "category": "Cricket",
+      "title": "East Delhi Riders Vs West Delhi Lions",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247985,
+      "status": "UPCOMING",
+      "startTime": "10 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Ireland Vs Afghanistan",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248055,
+      "status": "UPCOMING",
+      "startTime": "10 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Outer Delhi Warriors Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247980,
+      "status": "UPCOMING",
+      "startTime": "10 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Bahrain Vs Singapore",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248255,
@@ -404,12 +330,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248287,
+      "title": "Ireland Vs Afghanistan",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248053,
       "status": "UPCOMING",
-      "startTime": "12 August 2026 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
+      "startTime": "12 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -423,12 +349,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Ireland Vs Afghanistan",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248053,
+      "title": "Jamaica Kingsmen Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248287,
       "status": "UPCOMING",
-      "startTime": "12 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "startTime": "12 August 2026 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +716,44 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Omnium Banque National 2026",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248105,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Cincinnati Open 2026",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248106,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
