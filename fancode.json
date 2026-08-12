@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/8/2026, 11:43:19 pm",
+  "updatedAt": "12/8/2026, 11:53:31 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Afghanistan Vs Ireland",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248053,
-      "status": "LIVE",
-      "startTime": "12 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/240p.m3u8?hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/360p.m3u8?hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/480p.m3u8?hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/540p.m3u8?hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/720p.m3u8?hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK"
-          },
-          "cookie": "hdntl=Expires=1786631825~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVPkD7xGF14IGGAenmqsFX54lx8mY7uwu6CZit8kVNGXqWHCFHtc0DLiAdABuYNOwmVdm-Hj6F7EBaIPsf_g_sK",
-          "expires": "1786631825",
-          "expire_date": "Thursday, August 13, 2026, 8:07:05 PM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Manchester United Vs Leeds United",
@@ -66,18 +29,37 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/240p.m3u8?hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/360p.m3u8?hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/480p.m3u8?hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/540p.m3u8?hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/720p.m3u8?hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/240p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/360p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/480p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/540p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/720p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ"
           },
-          "cookie": "hdntl=Expires=1786558657~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTWf-z_gwO1uzY8cOX-DnBS2Tt4DWSdGgOvUSa0VjALdTVnHg4vBZvLNsw4zRWqOj-bSBhXEK6KwK8dUwmM32kgB",
-          "expires": "1786558657",
-          "expire_date": "Wednesday, August 12, 2026, 11:47:37 PM"
+          "cookie": "hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
+          "expires": "1786645148",
+          "expire_date": "Thursday, August 13, 2026, 11:49:08 PM"
         }
       }
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan Vs Ireland",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248053,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
