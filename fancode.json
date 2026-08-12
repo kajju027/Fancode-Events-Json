@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/8/2026, 2:51:27 am",
+  "updatedAt": "13/8/2026, 3:11:48 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248098,
-      "status": "LIVE",
-      "startTime": "13 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/240p.m3u8?hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/360p.m3u8?hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/480p.m3u8?hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/540p.m3u8?hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/720p.m3u8?hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK"
-          },
-          "cookie": "hdntl=Expires=1786650668~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTVg63KT5YQxvdWK6JvOj1PT-m7ps4lc0y4lsEWM7SenyGPfD2B0MCI4x2zEgz9kv8u5F7pg6cJFFOw0bnCmHbIK",
-          "expires": "1786650668",
-          "expire_date": "Friday, August 14, 2026, 1:21:08 AM"
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Center Court",
@@ -174,25 +137,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Jodar Vs Nakashima",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248101,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Al Shabab Fc Vs Al Quadisiya",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -219,6 +163,25 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248266_53025_DIR_AAS_FC-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Jodar Vs Nakashima",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248101,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 03:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -612,6 +575,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Kashi Rudras Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248334,
+      "status": "UPCOMING",
+      "startTime": "14 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Czechia Vs Germany",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
       "match_id": 4248371,
@@ -637,25 +619,6 @@
       "status": "UPCOMING",
       "startTime": "14 August 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248377_53031_IOM_LUX_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kashi Rudras Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248334,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -805,6 +768,25 @@
       "title": "Atp Masters Cincinnati Open 2026",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248110,
+      "status": "UPCOMING",
+      "startTime": "14 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Cincinnati Open 2026",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248111,
       "status": "UPCOMING",
       "startTime": "14 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
