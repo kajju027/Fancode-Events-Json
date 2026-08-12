@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/8/2026, 11:53:31 pm",
+  "updatedAt": "13/8/2026, 1:14:50 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Football",
@@ -17,15 +17,26 @@
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248024_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Afghanistan Vs Ireland",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248053,
-      "status": "UPCOMING",
-      "startTime": "12 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": null,
-      "cnptv_cdn": null
+      "category": "Tennis",
+      "title": "Rogers Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248098,
+      "status": "LIVE",
+      "startTime": "13 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248098_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Center Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248100,
+      "status": "LIVE",
+      "startTime": "13 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248100_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -84,28 +95,6 @@
     },
     {
       "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248098,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Center Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248100,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
       "title": "Jodar Vs Nakashima",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248101,
@@ -138,17 +127,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247987,
-      "status": "UPCOMING",
-      "startTime": "12 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Golf",
       "title": "Main Feed   Day 1",
       "tournament": "FedEx St. Jude Championship 2026",
@@ -156,6 +134,28 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 05:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan Vs Ireland",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248053,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "East Delhi Riders Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247987,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },

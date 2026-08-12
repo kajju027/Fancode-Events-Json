@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/8/2026, 11:53:31 pm",
+  "updatedAt": "13/8/2026, 1:14:50 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Football",
@@ -43,23 +43,78 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Afghanistan Vs Ireland",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248053,
-      "status": "UPCOMING",
-      "startTime": "12 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "BLOODY_SWEET",
+      "category": "Tennis",
+      "title": "Rogers Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248098,
+      "status": "LIVE",
+      "startTime": "13 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/240p.m3u8?hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/360p.m3u8?hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/480p.m3u8?hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/540p.m3u8?hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/720p.m3u8?hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI"
+          },
+          "cookie": "hdntl=Expires=1786564178~_GO=Generated~acl=/mumbai/4248098_english_hls_dacaebcbaf28897_1ta-di_h264/*~Signature=AVMBkTWvV1kCYEaxRB12rUuwhObotqkEwza_8MgElQcjuFBQIiW86e759-mHa9axyfu2ZeKRdKmrPQE0VZ5xsJwgV1MI",
+          "expires": "1786564178",
+          "expire_date": "Thursday, August 13, 2026, 1:19:38 AM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Center Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248100,
+      "status": "LIVE",
+      "startTime": "13 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/240p.m3u8?hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/360p.m3u8?hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/480p.m3u8?hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/540p.m3u8?hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/720p.m3u8?hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG"
+          },
+          "cookie": "hdntl=Expires=1786564180~_GO=Generated~acl=/mumbai/4248100_english_hls_54bf90550b44358_1ta-di_h264/*~Signature=AVMBkTXxpZilFugl-nlwBIGwMmjQmkn7wESvJqto2y0PhHs9ZhSX7qDU6yAtCUjaRgnbg5IiQbMQAem2nFNqgRIpx8kG",
+          "expires": "1786564180",
+          "expire_date": "Thursday, August 13, 2026, 1:19:40 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -158,44 +213,6 @@
     },
     {
       "category": "Tennis",
-      "title": "Rogers Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248098,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Center Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248100,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
       "title": "Jodar Vs Nakashima",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248101,
@@ -252,13 +269,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247987,
+      "category": "Golf",
+      "title": "Main Feed   Day 1",
+      "tournament": "FedEx St. Jude Championship 2026",
+      "match_id": 4248406,
       "status": "UPCOMING",
-      "startTime": "12 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
+      "startTime": "13 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -271,13 +288,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Main Feed   Day 1",
-      "tournament": "FedEx St. Jude Championship 2026",
-      "match_id": 4248406,
+      "category": "Cricket",
+      "title": "Afghanistan Vs Ireland",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248053,
       "status": "UPCOMING",
-      "startTime": "13 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
+      "startTime": "12 August 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "East Delhi Riders Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247987,
+      "status": "UPCOMING",
+      "startTime": "12 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
