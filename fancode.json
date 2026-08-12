@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/8/2026, 11:25:08 am",
+  "updatedAt": "12/8/2026, 3:03:43 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -49,7 +49,7 @@
       "match_id": 4248256,
       "status": "LIVE",
       "startTime": "12 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4248256_english_hls_350141a51478572_1ta-di_h264/index.m3u8",
@@ -84,19 +84,37 @@
       "title": "Ireland Vs Afghanistan",
       "tournament": "Afghanistan tour of Ireland, 2026",
       "match_id": 4248053,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12 August 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/240p.m3u8?hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/360p.m3u8?hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/480p.m3u8?hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/540p.m3u8?hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/720p.m3u8?hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF"
+          },
+          "cookie": "hdntl=Expires=1786527093~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTWQPka_JGu6_GFqf-xYnQhfQW3PpDAOIxw_NOt7m7uqSLIpHXm7yHEP7LzFMCKKrdS4HVPvAzcwDN4UtcrPevkF",
+          "expires": "1786527093",
+          "expire_date": "Wednesday, August 12, 2026, 3:01:33 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -194,6 +212,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247983,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247983_53005_NDS_PD_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Rogers Court",
       "tournament": "ATP Masters Omnium Banque National 2026",
@@ -214,12 +251,50 @@
     },
     {
       "category": "Tennis",
-      "title": "World Feed",
+      "title": "Center Court",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248100,
       "status": "UPCOMING",
       "startTime": "13 August 2026 01:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248101,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 03:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Saint Lucia Kings Vs St Kitts And Nevis Patriots",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248282,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248282_53026_SLK_SKN_FC-Web_1786367986983.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -277,44 +352,6 @@
       "status": "UPCOMING",
       "startTime": "11 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247989_53005_WDL_NDS_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Saint Lucia Kings Vs St Kitts And Nevis Patriots",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248282,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248282_53026_SLK_SKN_FC-Web_1786367986983.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Purani Dilli 6",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247983,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247983_53005_NDS_PD_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -637,7 +674,7 @@
       "match_id": 4248258,
       "status": "UPCOMING",
       "startTime": "14 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -732,7 +769,7 @@
       "match_id": 4248334,
       "status": "UPCOMING",
       "startTime": "14 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -771,25 +808,6 @@
       "status": "UPCOMING",
       "startTime": "14 August 2026 05:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "VP Bank Swiss Ladies Open 2026",
-      "match_id": 4248321,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-2026-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
