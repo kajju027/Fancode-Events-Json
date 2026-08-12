@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/8/2026, 1:25:02 am",
+  "updatedAt": "13/8/2026, 2:46:21 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Manchester United Vs Leeds United",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248024,
-      "status": "LIVE",
-      "startTime": "13 August 2026 12:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/240p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/360p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/480p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/540p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/720p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ"
-          },
-          "cookie": "hdntl=Expires=1786645148~_GO=Generated~acl=/mumbai/4248024_english_hls_db7c95ab7837199_1ta-di_h264/*~Signature=AVMBkTUkgC5B1zTcQX6yKDgUKGDQHibAbmzCOU-3twWNeae_vgTptcAD_x5ngzAscMsFEIKWfrhcBVFYdy-osUoKdiMJ",
-          "expires": "1786645148",
-          "expire_date": "Thursday, August 13, 2026, 11:49:08 PM"
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Rogers Court",
@@ -136,6 +99,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Manchester United Vs Leeds United",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248024,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 12:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Scotland Vs Canada",
       "tournament": "ICC CWC League 2 Scotland, 2026",
@@ -174,6 +156,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Tennis",
+      "title": "Jodar Vs Nakashima",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248101,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 03:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Al Shabab Fc Vs Al Quadisiya",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -200,25 +201,6 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248266_53025_DIR_AAS_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Jodar Vs Nakashima",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248101,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -288,6 +270,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "VP Bank Swiss Ladies Open 2026",
+      "match_id": 4248320,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Afghanistan Vs Ireland",
       "tournament": "Afghanistan tour of Ireland, 2026",
@@ -314,25 +315,6 @@
       "status": "UPCOMING",
       "startTime": "12 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "VP Bank Swiss Ladies Open 2026",
-      "match_id": 4248320,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -517,25 +499,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Guyana Amazon Warriors",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248283,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Bahrain Vs Hong Kong, China",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248257,
@@ -561,6 +524,25 @@
       "status": "UPCOMING",
       "startTime": "14 August 2026 11:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Jamaica Kingsmen Vs Guyana Amazon Warriors",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248283,
+      "status": "UPCOMING",
+      "startTime": "14 August 2026 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",

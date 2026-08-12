@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "13/8/2026, 1:25:02 am",
+  "updatedAt": "13/8/2026, 2:46:21 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Manchester United Vs Leeds United",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248024,
-      "status": "LIVE",
-      "startTime": "13 August 2026 12:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248024_eng.sonuxs.m3u8"
-    },
     {
       "category": "Tennis",
       "title": "Rogers Court",
@@ -50,6 +39,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Manchester United Vs Leeds United",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248024,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 12:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Leeds--old-Match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Scotland Vs Canada",
       "tournament": "ICC CWC League 2 Scotland, 2026",
@@ -72,6 +72,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Tennis",
+      "title": "Jodar Vs Nakashima",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248101,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 03:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Al Shabab Fc Vs Al Quadisiya",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -90,17 +101,6 @@
       "status": "UPCOMING",
       "startTime": "13 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248266_53025_DIR_AAS_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Jodar Vs Nakashima",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248101,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters_SNakashima-vs-Jodar_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -138,6 +138,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "VP Bank Swiss Ladies Open 2026",
+      "match_id": 4248320,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Afghanistan Vs Ireland",
       "tournament": "Afghanistan tour of Ireland, 2026",
@@ -156,17 +167,6 @@
       "status": "UPCOMING",
       "startTime": "12 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "VP Bank Swiss Ladies Open 2026",
-      "match_id": 4248320,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -271,17 +271,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Guyana Amazon Warriors",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248283,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Bahrain Vs Hong Kong, China",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248257,
@@ -299,6 +288,17 @@
       "status": "UPCOMING",
       "startTime": "14 August 2026 11:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Jamaica Kingsmen Vs Guyana Amazon Warriors",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248283,
+      "status": "UPCOMING",
+      "startTime": "14 August 2026 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
       "language": null,
       "cnptv_cdn": null
     },
