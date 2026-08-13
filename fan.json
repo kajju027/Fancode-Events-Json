@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "13/8/2026, 3:18:27 pm",
+  "updatedAt": "13/8/2026, 3:29:17 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -21,11 +21,11 @@
       "title": "Scotland Vs Canada",
       "tournament": "ICC CWC League 2 Scotland, 2026",
       "match_id": 4248217,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "13 August 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248217_53013_SCO_CAN_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248217_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -171,17 +171,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Center Court",
-      "tournament": "ATP Masters Omnium Banque National 2026",
-      "match_id": 4248103,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 03:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Czechia Vs Germany",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
@@ -205,6 +194,17 @@
     },
     {
       "category": "Tennis",
+      "title": "Center Court",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248103,
+      "status": "UPCOMING",
+      "startTime": "14 August 2026 03:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
       "title": "Shelton Vs Nakashima",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248104,
@@ -222,17 +222,6 @@
       "status": "UPCOMING",
       "startTime": "14 August 2026 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan Vs Ireland",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248053,
-      "status": "UPCOMING",
-      "startTime": "12 August 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248368_53031_IOM_ESP_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Czechia Vs Greece",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248370,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
