@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/8/2026, 1:29:32 pm",
+  "updatedAt": "14/8/2026, 2:51:11 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -154,6 +154,43 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Free Practice 1",
+      "tournament": "DTM 2026",
+      "match_id": 143812,
+      "status": "LIVE",
+      "startTime": "14 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/240p.m3u8?hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/360p.m3u8?hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/480p.m3u8?hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/540p.m3u8?hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/720p.m3u8?hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH"
+          },
+          "cookie": "hdntl=Expires=1786699476~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWLW-bhwzvYC-wMGhLJFZC_6lJGTQwVsDz4doDWaz-NhnRuKsttIjdiFMMknLXpaAW4whiajbQg_OilbUGvaLcH",
+          "expires": "1786699476",
+          "expire_date": "Friday, August 14, 2026, 2:54:36 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Meerut Mavericks",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -249,25 +286,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Real Sociedad B Vs Castellón",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248177,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 12:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1785156035695/4248177_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Noida Kings Vs Kanpur Superstars",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -294,6 +312,25 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Real Sociedad B Vs Castellón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248177,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 12:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1785156035695/4248177_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -401,13 +438,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Free Practice 1",
-      "tournament": "DTM 2026",
-      "match_id": 143812,
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248336,
       "status": "UPCOMING",
-      "startTime": "14 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "startTime": "15 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -573,88 +610,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Lucknow Falcons Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248336,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Saint Lucia Kings Vs Antigua & Barbuda Falcons",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248288,
       "status": "UPCOMING",
       "startTime": "15 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "West Delhi Lions Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247984,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 01:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1786609269341/4247984_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland Vs Canada",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248217,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248217_53013_SCO_CAN_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Purani Dilli 6",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247983,
-      "status": "UPCOMING",
-      "startTime": "13 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247983_53005_NDS_PD_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -693,6 +654,44 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248376_53031_GER_POR_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Scotland Vs Canada",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248217,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248217_53013_SCO_CAN_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247983,
+      "status": "UPCOMING",
+      "startTime": "13 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247983_53005_NDS_PD_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -800,6 +799,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Sheffield United F.c. Vs Birmingham City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247469,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 10:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183100/4247469_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Oman Vs Goa",
       "tournament": "Goa tour of Oman 2026",
@@ -820,12 +838,12 @@
     },
     {
       "category": "Football",
-      "title": "Sheffield United F.c. Vs Birmingham City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247469,
+      "title": "Deportivo Alaves Vs Getafe Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247576,
       "status": "UPCOMING",
-      "startTime": "15 August 2026 10:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183100/4247469_CASACARDS_SPORTY_APP.png",
+      "startTime": "15 August 2026 11:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
