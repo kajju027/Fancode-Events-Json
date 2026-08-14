@@ -1,10 +1,84 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/8/2026, 10:51:01 am",
+  "updatedAt": "14/8/2026, 11:23:01 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Hong Kong, China Vs Bahrain",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248257,
+      "status": "LIVE",
+      "startTime": "14 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/240p.m3u8?hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/360p.m3u8?hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/480p.m3u8?hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/540p.m3u8?hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/720p.m3u8?hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG"
+          },
+          "cookie": "hdntl=Expires=1786686995~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWzHsD9jjAXgiXbr90B3dK7ai7Awb5SsMr2f47BETviUT4HHTN23pmeTrOHdXV3Fih1ug0QAMWn60mFg0Yke9UG",
+          "expires": "1786686995",
+          "expire_date": "Friday, August 14, 2026, 11:26:35 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Singapore Vs Italy",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248258,
+      "status": "LIVE",
+      "startTime": "14 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/240p.m3u8?hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/360p.m3u8?hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/480p.m3u8?hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/540p.m3u8?hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/720p.m3u8?hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM"
+          },
+          "cookie": "hdntl=Expires=1786686996~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTW1DrFlKPaHsN_PAX8qCv8byCOaNHGqhkvv9546UXYADjCR3r1-42FqyLWAq_uDhoAmKu-qagWXaNsGQ2yTjwgM",
+          "expires": "1786686996",
+          "expire_date": "Friday, August 14, 2026, 11:26:36 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Meerut Mavericks",
@@ -13,44 +87,6 @@
       "status": "UPCOMING",
       "startTime": "14 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bahrain Vs Hong Kong, China",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248257,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Italy Vs Singapore",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248258,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -164,7 +200,7 @@
       "match_id": 4247467,
       "status": "UPCOMING",
       "startTime": "15 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247467_52993_WOL_BLK_fc-web_1786638657515.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247467_52993_WOL_BLK_fc-web_1786657253007.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -184,6 +220,25 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 12:00 AM",
       "image": "https://images.fancode.com/aig/match/v1785156035695/4248177_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Noida Kings Vs Kanpur Superstars",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248335,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248335_53029_NOI_KAN_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -222,25 +277,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 11:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Kanpur Superstars",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248335,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248335_53029_NOI_KAN_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -652,13 +688,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying 1",
-      "tournament": "DTM 2026",
-      "match_id": 143814,
+      "category": "Football",
+      "title": "Middlesbrough F.c. Vs Lincoln City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247468,
       "status": "UPCOMING",
-      "startTime": "15 August 2026 01:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "startTime": "15 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183082/4247468_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -671,13 +707,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Middlesbrough F.c. Vs Lincoln City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247468,
+      "category": "Motorsports",
+      "title": "Qualifying 1",
+      "tournament": "DTM 2026",
+      "match_id": 143814,
       "status": "UPCOMING",
-      "startTime": "15 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183082/4247468_CASACARDS_SPORTY_APP.png",
+      "startTime": "15 August 2026 01:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
