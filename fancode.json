@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/8/2026, 7:01:13 pm",
+  "updatedAt": "14/8/2026, 7:21:41 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -150,6 +150,43 @@
           "cookie": "hdntl=Expires=1786800367~_GO=Generated~acl=/mumbai/4248321_english_hls_5d3e67be2c48356_1ta-di_h264/*~Signature=AVMBkTXBBUJ_Xk70S234itAkruKTZ-AO_8lOeT131uF_UWZqjwntT9yrHSnAvjjfKH8DMttB0hDaRBFok1imFG93l4MN",
           "expires": "1786800367",
           "expire_date": "Saturday, August 15, 2026, 6:56:07 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Free Practice 2",
+      "tournament": "DTM 2026",
+      "match_id": 143813,
+      "status": "LIVE",
+      "startTime": "14 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/240p.m3u8?hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/360p.m3u8?hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/480p.m3u8?hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/540p.m3u8?hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/720p.m3u8?hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG"
+          },
+          "cookie": "hdntl=Expires=1786715798~_GO=Generated~acl=/mumbai/143813_english_hls_e42934484397663_1ta-di_h264/*~Signature=AVMBkTUd0SMAmogrWhMnVb7HNF43wUPgvxANZ983gyvhxOQgWwUJ2Fd0G6w8qhcgn9JBcgOBtJXnfuVM-E_bx9t0AOoG",
+          "expires": "1786715798",
+          "expire_date": "Friday, August 14, 2026, 7:26:38 PM"
         }
       }
     },
@@ -382,25 +419,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Free Practice 2",
-      "tournament": "DTM 2026",
-      "match_id": 143813,
-      "status": "UPCOMING",
-      "startTime": "14 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Finland Vs Bulgaria",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
@@ -484,6 +502,25 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 08:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "York City Vs Bristol Rovers",
+      "tournament": "League Two 2026-27",
+      "match_id": 4248162,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785149878958/4248162_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -591,44 +628,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Saint Lucia Kings Vs Antigua & Barbuda Falcons",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248288,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "York City Vs Bristol Rovers",
-      "tournament": "League Two 2026-27",
-      "match_id": 4248162,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785149878958/4248162_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Sheffield United F.c. Vs Birmingham City F.c.",
       "tournament": "EFL Championship 2026-27",
@@ -649,12 +648,12 @@
     },
     {
       "category": "Cricket",
-      "title": "North Delhi Strikers Vs Purani Dilli 6",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247983,
+      "title": "Saint Lucia Kings Vs Antigua & Barbuda Falcons",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248288,
       "status": "UPCOMING",
-      "startTime": "13 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247983_53005_NDS_PD_fc-Web.png",
+      "startTime": "15 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -674,25 +673,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 11:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying 1",
-      "tournament": "DTM 2026",
-      "match_id": 143814,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 01:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -743,6 +723,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Motorsports",
+      "title": "Qualifying 1",
+      "tournament": "DTM 2026",
+      "match_id": 143814,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 01:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Real Oviedo Vs Granada",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248178,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 10:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785156035724/4248178_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Oman Vs Goa",
       "tournament": "Goa tour of Oman 2026",
@@ -763,12 +781,12 @@
     },
     {
       "category": "Football",
-      "title": "Real Oviedo Vs Granada",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248178,
+      "title": "Sevilla Fc Vs Rayo Vallecano",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247568,
       "status": "UPCOMING",
-      "startTime": "15 August 2026 10:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785156035724/4248178_CASACARDS_SPORTY_APP.png",
+      "startTime": "16 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
