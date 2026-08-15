@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/8/2026, 10:58:40 pm",
+  "updatedAt": "15/8/2026, 11:00:18 pm",
   "total_matches": 41,
-  "live_matches": 15,
-  "upcoming_matches": 27,
+  "live_matches": 14,
+  "upcoming_matches": 28,
   "matches": [
     {
       "category": "Cricket",
@@ -150,43 +150,6 @@
           "cookie": "hdntl=Expires=1786815119~_GO=Generated~acl=/mumbai/4248336_bhojpuri_hls_96ea5995ac56362_1ta-di_h264/*~Signature=AVMBkTXBPg_d21O95vYo-WMABB9528nVS73_MGk7j-ymSt_wH3upCT-YwfL5m9M1tThVHtGGjSJ_XfEhVep2crDEqs0C",
           "expires": "1786815119",
           "expire_date": "Saturday, August 15, 2026, 11:01:59 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United Vs Ac Milan",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248219,
-      "status": "LIVE",
-      "startTime": "15 August 2026 08:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/240p.m3u8?hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/360p.m3u8?hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/480p.m3u8?hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/540p.m3u8?hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/720p.m3u8?hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB"
-          },
-          "cookie": "hdntl=Expires=1786891452~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTUMqWOJa4yo5GHWiES1tOAbrDNRtZ6-q8n7jmp2vhWkn9oaXGrRZfX2rjHQI9E6g9Bpy_Av0KBOuV7N5vxYVkMB",
-          "expires": "1786891452",
-          "expire_date": "Sunday, August 16, 2026, 8:14:12 PM"
         }
       }
     },
@@ -1025,6 +988,25 @@
       "status": "UPCOMING",
       "startTime": "17 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "New Delhi Tigers Vs East Delhi Riders",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247996,
+      "status": "UPCOMING",
+      "startTime": "17 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
