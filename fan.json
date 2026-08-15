@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "15/8/2026, 9:48:10 pm",
+  "updatedAt": "15/8/2026, 9:52:05 pm",
   "total_matches": 41,
-  "live_matches": 13,
-  "upcoming_matches": 29,
+  "live_matches": 12,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -76,11 +76,11 @@
       "title": "Middlesbrough F.c. Vs Lincoln City F.c.",
       "tournament": "EFL Championship 2026-27",
       "match_id": 4247468,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "15 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784709183082/4247468_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247468_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Football",
@@ -95,14 +95,25 @@
     },
     {
       "category": "Football",
+      "title": "Sheffield United F.c. Vs Birmingham City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247469,
+      "status": "LIVE",
+      "startTime": "15 August 2026 10:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183100/4247469_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247469_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
       "title": "York City Vs Bristol Rovers",
       "tournament": "League Two 2026-27",
       "match_id": 4248162,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "15 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248162_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -156,17 +167,6 @@
       "status": "UPCOMING",
       "startTime": "16 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Sheffield United F.c. Vs Birmingham City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247469,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 10:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183100/4247469_CASACARDS_SPORTY_APP.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -237,17 +237,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Sevilla Fc Vs Rayo Vallecano",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247568,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Gaur Gorakhpur Lions Vs Meerut Mavericks",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -255,6 +244,17 @@
       "status": "UPCOMING",
       "startTime": "16 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Sevilla Fc Vs Rayo Vallecano",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247568,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
