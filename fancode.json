@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/8/2026, 9:55:57 am",
+  "updatedAt": "15/8/2026, 9:56:59 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Antigua & Barbuda Falcons Vs Saint Lucia Kings",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248288,
-      "status": "LIVE",
-      "startTime": "15 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/240p.m3u8?hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/360p.m3u8?hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/480p.m3u8?hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/540p.m3u8?hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/720p.m3u8?hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID"
-          },
-          "cookie": "hdntl=Expires=1786767882~_GO=Generated~acl=/mumbai/4248288_english_hls_f302461a2f66250_1ta-di_h264/*~Signature=AVMBkTV2qgfmUFhxFvdpA6qkO7jHXy3ANmqxYtmxv_2lNpQsPZcPUyyueEwATgAUhh7SGb2z9rIk5KZY1goE_WomRRID",
-          "expires": "1786767882",
-          "expire_date": "Saturday, August 15, 2026, 9:54:42 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Noida Kings Vs Kanpur Superstars",
@@ -772,6 +735,25 @@
       "status": "UPCOMING",
       "startTime": "16 August 2026 12:40 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Burnley Vs West Ham United",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247471,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 08:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183084/4247471_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
