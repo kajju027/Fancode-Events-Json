@@ -1,10 +1,32 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "15/8/2026, 9:56:59 am",
+  "updatedAt": "15/8/2026, 11:23:10 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Singapore Vs Uganda",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248259,
+      "status": "LIVE",
+      "startTime": "15 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248259_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bahrain Vs Tanzania",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248260,
+      "status": "LIVE",
+      "startTime": "15 August 2026 11:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248260_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Noida Kings Vs Kanpur Superstars",
@@ -46,28 +68,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Singapore Vs Uganda",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248259,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Tanzania Vs Bahrain",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248260,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -315,22 +315,22 @@
     },
     {
       "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248114,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
+      "title": "World Feed",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248115,
       "status": "UPCOMING",
-      "startTime": "15 August 2026 10:00 PM",
+      "startTime": "15 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Court 8",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248116,
+      "status": "UPCOMING",
+      "startTime": "15 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": null,
       "cnptv_cdn": null
@@ -339,7 +339,7 @@
       "category": "Tennis",
       "title": "Atp Masters Cincinnati Open 2026",
       "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248116,
+      "match_id": 4248114,
       "status": "UPCOMING",
       "startTime": "15 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
