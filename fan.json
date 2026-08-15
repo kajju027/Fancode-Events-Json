@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "15/8/2026, 8:10:53 pm",
+  "updatedAt": "15/8/2026, 8:11:35 pm",
   "total_matches": 41,
-  "live_matches": 12,
-  "upcoming_matches": 30,
+  "live_matches": 13,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -84,6 +84,17 @@
     },
     {
       "category": "Football",
+      "title": "Manchester United Vs Ac Milan",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248219,
+      "status": "LIVE",
+      "startTime": "15 August 2026 08:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248219_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
       "title": "York City Vs Bristol Rovers",
       "tournament": "League Two 2026-27",
       "match_id": 4248162,
@@ -136,17 +147,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143818_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United Vs Ac Milan",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248219,
-      "status": "UPCOMING",
-      "startTime": "15 August 2026 08:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -325,6 +325,28 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Rcd Espanyol Vs Levante",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247573,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Liverpool Vs Como",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248027,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "Court 8",
       "tournament": "ATP Masters Cincinnati Open 2026",
@@ -354,28 +376,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 11:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Rcd Espanyol Vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247573,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Liverpool Vs Como",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248027,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
       "language": null,
       "cnptv_cdn": null
     },
