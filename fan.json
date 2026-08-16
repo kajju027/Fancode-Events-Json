@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "16/8/2026, 12:31:35 pm",
+  "updatedAt": "16/8/2026, 12:44:04 pm",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Motorsports",
+      "title": "Race 2",
+      "tournament": "DTM 2026",
+      "match_id": 143816,
+      "status": "LIVE",
+      "startTime": "16 August 2026 12:40 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143816_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "North Delhi Strikers Vs Central Delhi Kings",
@@ -134,17 +145,6 @@
       "status": "UPCOMING",
       "startTime": "16 August 2026 10:30 PM",
       "image": "https://images.fancode.com/aig/match/v1785156035723/4248179_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race 2",
-      "tournament": "DTM 2026",
-      "match_id": 143816,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 12:40 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": null,
       "cnptv_cdn": null
     },
