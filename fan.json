@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "16/8/2026, 12:44:04 pm",
+  "updatedAt": "16/8/2026, 1:25:30 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Central Delhi Kings",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247990,
+      "status": "LIVE",
+      "startTime": "16 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4247990_eng.sonuxs.m3u8"
+    },
     {
       "category": "Motorsports",
       "title": "Race 2",
@@ -15,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143816_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Central Delhi Kings",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247990,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -122,7 +122,7 @@
       "match_id": 4248027,
       "status": "UPCOMING",
       "startTime": "16 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Como_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -193,6 +193,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "West Delhi Lions Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247993,
+      "status": "UPCOMING",
+      "startTime": "17 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Motorsports",
       "title": "Dtm 2026",
       "tournament": "DTM 2026",
@@ -226,6 +237,28 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Tennis",
+      "title": "P&g Stadium Court",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248118,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248120,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Golf",
       "title": "World Feed   Day 4",
       "tournament": "FedEx St. Jude Championship 2026",
@@ -238,40 +271,18 @@
     },
     {
       "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248118,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
+      "title": "Tony Trabert Stadium 3",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248119,
       "status": "UPCOMING",
-      "startTime": "16 August 2026 10:00 PM",
+      "startTime": "16 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": null,
       "cnptv_cdn": null
     },
     {
       "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248120,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
+      "title": "Grandstand",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248121,
       "status": "UPCOMING",
@@ -282,12 +293,12 @@
     },
     {
       "category": "Cricket",
-      "title": "West Delhi Lions Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247993,
+      "title": "Noida Kings Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248333,
       "status": "UPCOMING",
-      "startTime": "17 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+      "startTime": "17 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -343,17 +354,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248333,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
       "language": null,
       "cnptv_cdn": null
     },

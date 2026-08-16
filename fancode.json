@@ -1,10 +1,47 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/8/2026, 12:44:04 pm",
+  "updatedAt": "16/8/2026, 1:25:30 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Central Delhi Kings",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247990,
+      "status": "LIVE",
+      "startTime": "16 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/240p.m3u8?hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/360p.m3u8?hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/480p.m3u8?hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/540p.m3u8?hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/720p.m3u8?hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB"
+          },
+          "cookie": "hdntl=Expires=1786867209~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTXg7ZkTBgj2xqsZvGfjvpmx2gLLFAMfNUK1wQbuY5n7WYzX2KhOTXsl7rY3Av-PGx3POeo1h3zoOELTM1oLXGoB",
+          "expires": "1786867209",
+          "expire_date": "Sunday, August 16, 2026, 1:30:09 PM"
+        }
+      }
+    },
     {
       "category": "Motorsports",
       "title": "Race 2",
@@ -29,37 +66,18 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/240p.m3u8?hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/360p.m3u8?hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/480p.m3u8?hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/540p.m3u8?hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/720p.m3u8?hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/240p.m3u8?hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/360p.m3u8?hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/480p.m3u8?hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/540p.m3u8?hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/720p.m3u8?hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED"
           },
-          "cookie": "hdntl=Expires=1786864507~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXKM6rpA8zAZBqVnVzOb7RMXhqXdiHuGMzdnIudigVWa8U08TZ2_9VIQVUyZqMKTo1bcQTdJZdMAvrah5OMpsEF",
-          "expires": "1786864507",
-          "expire_date": "Sunday, August 16, 2026, 12:45:07 PM"
+          "cookie": "hdntl=Expires=1786951178~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXBT1DiCwvEyWZBMBygskgR1ogu0Qb5RKAcRK2YiFkGfyQPlG64t_pHU-1LOa3c8n33tacEPHXi8iNUUDScMlED",
+          "expires": "1786951178",
+          "expire_date": "Monday, August 17, 2026, 12:49:38 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Central Delhi Kings",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247990,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -220,7 +238,7 @@
       "match_id": 4248027,
       "status": "UPCOMING",
       "startTime": "16 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Como_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -347,6 +365,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "West Delhi Lions Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247993,
+      "status": "UPCOMING",
+      "startTime": "17 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Motorsports",
       "title": "Dtm 2026",
       "tournament": "DTM 2026",
@@ -404,6 +441,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Tennis",
+      "title": "P&g Stadium Court",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248118,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248120,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "World Feed   Day 4",
       "tournament": "FedEx St. Jude Championship 2026",
@@ -424,30 +499,11 @@
     },
     {
       "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248118,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
+      "title": "Tony Trabert Stadium 3",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248119,
       "status": "UPCOMING",
-      "startTime": "16 August 2026 10:00 PM",
+      "startTime": "16 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -462,26 +518,7 @@
     },
     {
       "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248120,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
+      "title": "Grandstand",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248121,
       "status": "UPCOMING",
@@ -500,12 +537,12 @@
     },
     {
       "category": "Cricket",
-      "title": "West Delhi Lions Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247993,
+      "title": "Noida Kings Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248333,
       "status": "UPCOMING",
-      "startTime": "17 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+      "startTime": "17 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -601,25 +638,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248333,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
