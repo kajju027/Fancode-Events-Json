@@ -1,10 +1,84 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/8/2026, 11:50:44 pm",
-  "total_matches": 40,
-  "live_matches": 9,
+  "updatedAt": "16/8/2026, 11:53:19 pm",
+  "total_matches": 41,
+  "live_matches": 11,
   "upcoming_matches": 31,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248337,
+      "status": "LIVE",
+      "startTime": "16 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/240p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/360p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/480p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/540p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/720p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ"
+          },
+          "cookie": "hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTUtqlfimbcOhx58GCCn4z85HHoo4_oLZ6ssQCPw1zSlNWpZ5W2g5p9ms2lRAGdM3BD_A2p7xKh4xRlJTZptTwIJ",
+          "expires": "1786904408",
+          "expire_date": "Sunday, August 16, 2026, 11:50:08 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248337,
+      "status": "LIVE",
+      "startTime": "16 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
+      "language": "BHOJPURI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/240p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/360p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/480p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/540p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/720p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ"
+          },
+          "cookie": "hdntl=Expires=1786904408~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTXGfCff--ZlINiwEFCoNOQOXF1AUtzBVGbDmLDIzuT50C_RwBS9_06OnxiWE8pjzcbmh7pTEuXLaDYQtXCd_BEJ",
+          "expires": "1786904408",
+          "expire_date": "Sunday, August 16, 2026, 11:50:08 PM"
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Rcd Espanyol Vs Levante",
@@ -650,25 +724,6 @@
       "status": "UPCOMING",
       "startTime": "16 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248337,
-      "status": "UPCOMING",
-      "startTime": "16 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
