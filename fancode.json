@@ -1,10 +1,121 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/8/2026, 10:26:10 pm",
-  "total_matches": 38,
-  "live_matches": 12,
-  "upcoming_matches": 24,
+  "updatedAt": "16/8/2026, 10:29:50 pm",
+  "total_matches": 41,
+  "live_matches": 15,
+  "upcoming_matches": 27,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Outer Delhi Warriors Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247998,
+      "status": "LIVE",
+      "startTime": "16 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/240p.m3u8?hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/360p.m3u8?hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/480p.m3u8?hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/540p.m3u8?hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/720p.m3u8?hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM"
+          },
+          "cookie": "hdntl=Expires=1786899821~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTXaZsLl6eefVtQL5mG2qHLEq2X0J3SmEtL_Ya1aUq_Mcr--OwOUIRk_hCXNDwc8PosDw2UP17wT6Y-_HqF0hVkM",
+          "expires": "1786899821",
+          "expire_date": "Sunday, August 16, 2026, 10:33:41 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248337,
+      "status": "LIVE",
+      "startTime": "16 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/240p.m3u8?hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/360p.m3u8?hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/480p.m3u8?hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/540p.m3u8?hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/720p.m3u8?hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA"
+          },
+          "cookie": "hdntl=Expires=1786899827~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWqcg8GU-hMO-QqcD98sp-Nzj1_tuQwT4yrQ_ci4p5fnJ9j0fe9NkKoVSvvpTl8hZvyqUCtt7Xn0VMn54LyUQIA",
+          "expires": "1786899827",
+          "expire_date": "Sunday, August 16, 2026, 10:33:47 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248337,
+      "status": "LIVE",
+      "startTime": "16 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
+      "language": "BHOJPURI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/240p.m3u8?hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/360p.m3u8?hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/480p.m3u8?hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/540p.m3u8?hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/720p.m3u8?hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO"
+          },
+          "cookie": "hdntl=Expires=1786899828~_GO=Generated~acl=/mumbai/4248337_bhojpuri_hls_975e624d2712455_1ta-di_h264/*~Signature=AVMBkTVDBruKPkraZmVQPxgsLB45PfSy6MOGrHr42Hbjzaz0JzCXtMR55r3OaFrGQApJQ0lr0h5ydxHCStI3BmznU-wO",
+          "expires": "1786899828",
+          "expire_date": "Sunday, August 16, 2026, 10:33:48 PM"
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Burnley Vs West Ham United",
