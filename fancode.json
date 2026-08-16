@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/8/2026, 10:01:19 am",
+  "updatedAt": "16/8/2026, 12:00:53 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Tennis",
@@ -39,43 +39,6 @@
           "cookie": "hdntl=Expires=1786936475~_GO=Generated~acl=/mumbai/4248115_english_hls_cd4923856285672_1ta-di_h264/*~Signature=AVMBkTUXwqV6Zn70Y_awk66QQOsHaGZOO4uv30k8Uq88eoBp0Jq3M0G8WCT5LfC65IRDX3d472VGXuwFKk2CYJGFfDQP",
           "expires": "1786936475",
           "expire_date": "Monday, August 17, 2026, 8:44:35 AM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Trinbago Knight Riders Vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248289,
-      "status": "LIVE",
-      "startTime": "16 August 2026 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248289_53026_JK_TKR_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/240p.m3u8?hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/360p.m3u8?hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/480p.m3u8?hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/540p.m3u8?hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/720p.m3u8?hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN"
-          },
-          "cookie": "hdntl=Expires=1786854911~_GO=Generated~acl=/mumbai/4248289_english_hls_12dc98c77a84611_1ta-di_h264/*~Signature=AVMBkTVET_G7T7XNpOKmGJR31E8fVvL-uvEc9HZnY-fUGxeIt5Mag6umLvPNCet3BEj2Cce4NsdJAKtFt3X6uaws0aQN",
-          "expires": "1786854911",
-          "expire_date": "Sunday, August 16, 2026, 10:05:11 AM"
         }
       }
     },
@@ -308,6 +271,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Motorsports",
+      "title": "Race 2",
+      "tournament": "DTM 2026",
+      "match_id": 143816,
+      "status": "UPCOMING",
+      "startTime": "16 August 2026 12:40 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Hong Kong, China Vs Italy",
       "tournament": "ICC CWC Challenge League B 2026",
@@ -346,13 +328,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Race 2",
-      "tournament": "DTM 2026",
-      "match_id": 143816,
+      "category": "Cricket",
+      "title": "Germany Vs Israel",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248367,
       "status": "UPCOMING",
-      "startTime": "16 August 2026 12:40 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "startTime": "17 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248367_53031_GER_ISR_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bulgaria Vs Isle Of Man",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248384,
+      "status": "UPCOMING",
+      "startTime": "17 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248384_53031_BUL_IOM_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -518,31 +519,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Germany Vs Israel",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248367,
+      "title": "Saint Lucia Kings Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248284,
       "status": "UPCOMING",
-      "startTime": "17 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248367_53031_GER_ISR_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bulgaria Vs Isle Of Man",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248384,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248384_53031_BUL_IOM_fc-web.jpg",
+      "startTime": "17 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -619,25 +601,6 @@
       "status": "UPCOMING",
       "startTime": "15 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Saint Lucia Kings Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248284,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +753,25 @@
       "status": "UPCOMING",
       "startTime": "18 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp Masters Cincinnati Open 2026",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248122,
+      "status": "UPCOMING",
+      "startTime": "17 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
