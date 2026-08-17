@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/8/2026, 6:00:19 pm",
+  "updatedAt": "17/8/2026, 6:04:12 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Hong Kong, China Vs Italy",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248261,
-      "status": "LIVE",
-      "startTime": "17 August 2026 11:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/240p.m3u8?hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/360p.m3u8?hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/480p.m3u8?hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/540p.m3u8?hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/720p.m3u8?hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD"
-          },
-          "cookie": "hdntl=Expires=1787055130~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=ARceAWM1EqQ1ODYCWBNrmuxrh9E1R6mecIwUUmW8-hmXU1ZXl_OxqlW8kIA667fvvSgST7Fc_x5XEK3qZdpSsPtzkesD",
-          "expires": "1787055130",
-          "expire_date": "Tuesday, August 18, 2026, 5:42:10 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Oman Vs Goa",
@@ -790,6 +753,25 @@
       "status": "UPCOMING",
       "startTime": "20 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248378_53031_CZE_POR_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bulgaria Vs Luxembourg",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248381,
+      "status": "UPCOMING",
+      "startTime": "20 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248381_53031_BUL_LUX_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
