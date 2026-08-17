@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "17/8/2026, 10:00:41 am",
+  "updatedAt": "17/8/2026, 10:00:59 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents Vs Saint Lucia Kings",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248284,
+      "status": "LIVE",
+      "startTime": "17 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248284_53026_SLK_BT_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248284_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "New Delhi Tigers Vs East Delhi Riders",
@@ -431,17 +442,6 @@
       "status": "UPCOMING",
       "startTime": "20 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248130,
-      "status": "UPCOMING",
-      "startTime": "19 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": null,
       "cnptv_cdn": null
     }
