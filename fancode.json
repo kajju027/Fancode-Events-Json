@@ -1,10 +1,47 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/8/2026, 12:48:45 pm",
+  "updatedAt": "17/8/2026, 1:23:00 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "East Delhi Riders Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247996,
+      "status": "LIVE",
+      "startTime": "17 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/240p.m3u8?hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/360p.m3u8?hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/480p.m3u8?hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/540p.m3u8?hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/720p.m3u8?hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL"
+          },
+          "cookie": "hdntl=Expires=1786953396~_GO=Generated~acl=/mumbai/4247996_english_hls_53b379b7914499_1ta-di_h264/*~Signature=AVMBkTUoyR_Zu7j_17t1fiOUJQklDUQuD-KLqOH2p5BOwvZyWa8V9-GYix7_N1iTXkVnZ4WeaT9ysX8fL6JqvAPy84IL",
+          "expires": "1786953396",
+          "expire_date": "Monday, August 17, 2026, 1:26:36 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Hong Kong, China Vs Italy",
@@ -81,22 +118,114 @@
     },
     {
       "category": "Cricket",
-      "title": "New Delhi Tigers Vs East Delhi Riders",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247996,
-      "status": "UPCOMING",
+      "title": "Israel Vs Germany",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248367,
+      "status": "LIVE",
       "startTime": "17 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247996_53005_NDT_EDR_fc-Web.png",
-      "language": "BLOODY_SWEET",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248367_53031_GER_ISR_fc-web.jpg",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/240p.m3u8?hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/360p.m3u8?hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/480p.m3u8?hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/540p.m3u8?hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/720p.m3u8?hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP"
+          },
+          "cookie": "hdntl=Expires=1786953398~_GO=Generated~acl=/mumbai/4248367_english_hls_f6f26aab1384293_1ta-di_h264/*~Signature=AVMBkTUXh7l7NxoGwZ6Q8401bhWGn6-EGtxCo8H8ompkWWepREiR8RbaZTVMzN8dL0bajbHmnmbmcZTuZuZs3W7VzVYP",
+          "expires": "1786953398",
+          "expire_date": "Monday, August 17, 2026, 1:26:38 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Isle Of Man Vs Bulgaria",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248384,
+      "status": "LIVE",
+      "startTime": "17 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248384_53031_BUL_IOM_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/240p.m3u8?hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/360p.m3u8?hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/480p.m3u8?hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/540p.m3u8?hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/720p.m3u8?hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG"
+          },
+          "cookie": "hdntl=Expires=1786953409~_GO=Generated~acl=/mumbai/4248384_english_hls_c738f56bcd84234_1ta-di_h264/*~Signature=AVMBkTUlZ5Vc8gUqHGLqbKFFkjeZrG1bNMHHtQ1nLEKiSbbaOsFGIDGEUomx9NRXF3PqA2JrfdlpG4dx6pmg-BSwUpEG",
+          "expires": "1786953409",
+          "expire_date": "Monday, August 17, 2026, 1:26:49 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "East Bengal Fc Women Vs Rajshahi Stars Fc Women",
+      "tournament": "AFC Women's Champions League Qualifier 2026-27",
+      "match_id": 4248494,
+      "status": "LIVE",
+      "startTime": "17 August 2026 01:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1786951996547/4248494_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/240p.m3u8?hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/360p.m3u8?hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/480p.m3u8?hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/540p.m3u8?hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/720p.m3u8?hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF"
+          },
+          "cookie": "hdntl=Expires=1786953411~_GO=Generated~acl=/mumbai/4248494_english_hls_fb0151743a94541_1ta-di_h264/*~Signature=AVMBkTXDFaaErBBqL5cSv_VlEepdBh-g1kBAd0-RmudZFpEKcre8K_wT8HTy2Xs6Xpa4ZIIiJWzQDQmYfiCtOGx5yiUF",
+          "expires": "1786953411",
+          "expire_date": "Monday, August 17, 2026, 1:26:51 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -125,44 +254,6 @@
       "status": "UPCOMING",
       "startTime": "17 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Germany Vs Israel",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248367,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248367_53031_GER_ISR_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bulgaria Vs Isle Of Man",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248384,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248384_53031_BUL_IOM_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -366,6 +457,25 @@
     },
     {
       "category": "Cricket",
+      "title": "East Delhi Riders Vs Central Delhi Kings",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247992,
+      "status": "UPCOMING",
+      "startTime": "18 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Oman Vs Goa",
       "tournament": "Goa tour of Oman 2026",
       "match_id": 4248366,
@@ -429,25 +539,6 @@
       "status": "UPCOMING",
       "startTime": "17 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders Vs Central Delhi Kings",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247992,
-      "status": "UPCOMING",
-      "startTime": "18 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -768,25 +859,6 @@
       "title": "Atp Masters Cincinnati Open 2026",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248130,
-      "status": "UPCOMING",
-      "startTime": "19 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248131,
       "status": "UPCOMING",
       "startTime": "19 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
