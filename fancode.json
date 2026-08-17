@@ -1,10 +1,84 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/8/2026, 6:04:12 pm",
+  "updatedAt": "17/8/2026, 6:24:40 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Spain Vs Luxembourg",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248383,
+      "status": "LIVE",
+      "startTime": "17 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/240p.m3u8?hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/360p.m3u8?hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/480p.m3u8?hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/540p.m3u8?hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/720p.m3u8?hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH"
+          },
+          "cookie": "hdntl=Expires=1786971400~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNKKM1EjyTklPHJiKfkAg1DYaYAmmlAy4GH51GATatVnTdDsgR_09Nc644gpB9oTCrDzfP9VxjFjld-TNk8TMMH",
+          "expires": "1786971400",
+          "expire_date": "Monday, August 17, 2026, 6:26:40 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Greece Vs Portugal",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248385,
+      "status": "LIVE",
+      "startTime": "17 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/240p.m3u8?hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/360p.m3u8?hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/480p.m3u8?hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/540p.m3u8?hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/720p.m3u8?hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA"
+          },
+          "cookie": "hdntl=Expires=1786971403~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWMkjXn_DbeDe5Cgi_ch1Az6jQkmZ9oXlMLejqxaiZEZvYv_jCo5Jm836rmW-H_UE40a9BhmCw9K83i1Y2DkLZQA",
+          "expires": "1786971403",
+          "expire_date": "Monday, August 17, 2026, 6:26:43 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Oman Vs Goa",
@@ -69,44 +143,6 @@
       "status": "UPCOMING",
       "startTime": "17 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Luxembourg Vs Spain",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248383,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Greece Vs Portugal",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248385,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -214,25 +250,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Sporting De Gijón Vs Ce Sabadell",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248180,
-      "status": "UPCOMING",
-      "startTime": "17 August 2026 10:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1785156035724/4248180_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Germany Vs Greece",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
@@ -278,6 +295,25 @@
       "status": "UPCOMING",
       "startTime": "18 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Sporting De Gijón Vs Ce Sabadell",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248180,
+      "status": "UPCOMING",
+      "startTime": "17 August 2026 10:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1785156035724/4248180_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
