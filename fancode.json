@@ -1,47 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/8/2026, 6:09:46 pm",
+  "updatedAt": "18/8/2026, 6:15:19 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Purani Dilli 6 Vs North Delhi Strikers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247994,
-      "status": "LIVE",
-      "startTime": "18 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/240p.m3u8?hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/360p.m3u8?hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/480p.m3u8?hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/540p.m3u8?hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/720p.m3u8?hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL"
-          },
-          "cookie": "hdntl=Expires=1787056957~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWP5rR040bPXCbuopBV5M2bdfXuDULDr0VshPc3OB82dCNAiZ5B_6t6_nQqCN6UbGGZw965bOXJDG_W5YATaCyUL",
-          "expires": "1787056957",
-          "expire_date": "Tuesday, August 18, 2026, 6:12:37 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Uganda Vs Bahrain",
@@ -81,6 +44,80 @@
     },
     {
       "category": "Cricket",
+      "title": "Czechia Vs Israel",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248374,
+      "status": "LIVE",
+      "startTime": "18 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/240p.m3u8?hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/360p.m3u8?hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/480p.m3u8?hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/540p.m3u8?hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/720p.m3u8?hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L"
+          },
+          "cookie": "hdntl=Expires=1787057387~_GO=Generated~acl=/mumbai/4248374_english_hls_0ec061421911467_1ta-di_h264/*~Signature=ARceAWNRho5pLJAdtHWqNYTUoazw2W4ykwwZnWLLYtfqBh-BPLFzG_KwSKO_KmHlmreWKHV2TF-E-_8C4MQ3ftxc3o0L",
+          "expires": "1787057387",
+          "expire_date": "Tuesday, August 18, 2026, 6:19:47 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bulgaria Vs Spain",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248382,
+      "status": "LIVE",
+      "startTime": "18 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/240p.m3u8?hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/360p.m3u8?hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/480p.m3u8?hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/540p.m3u8?hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/720p.m3u8?hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP"
+          },
+          "cookie": "hdntl=Expires=1787057389~_GO=Generated~acl=/mumbai/4248382_english_hls_2bd01a9bab57683_1ta-di_h264/*~Signature=ARceAWORPUg5BY7_dTmKhGmqa7Xf-w-ZQtkUqlwEdbGWX5JpOvsBz3AN4sFvBsM82c3upDVavrkTjVF6U4-8jBYYvlwP",
+          "expires": "1787057389",
+          "expire_date": "Tuesday, August 18, 2026, 6:19:49 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "East Delhi Riders Vs Central Delhi Kings",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247992,
@@ -106,44 +143,6 @@
       "status": "UPCOMING",
       "startTime": "18 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Czechia Vs Israel",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248374,
-      "status": "UPCOMING",
-      "startTime": "18 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bulgaria Vs Spain",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248382,
-      "status": "UPCOMING",
-      "startTime": "18 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -296,6 +295,25 @@
       "status": "UPCOMING",
       "startTime": "17 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Purani Dilli 6 Vs North Delhi Strikers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247994,
+      "status": "UPCOMING",
+      "startTime": "18 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
