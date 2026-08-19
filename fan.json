@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "19/8/2026, 8:52:44 am",
+  "updatedAt": "19/8/2026, 8:52:52 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248127,
+      "status": "LIVE",
+      "startTime": "18 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4248127_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Jamaica Kingsmen Vs St Kitts And Nevis Patriots",
@@ -61,17 +72,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Gaur Gorakhpur Lions Vs Noida Kings",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248331,
-      "status": "UPCOMING",
-      "startTime": "20 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Tennis",
       "title": "Atp Masters Cincinnati Open 2026",
       "tournament": "ATP Masters Cincinnati Open 2026",
@@ -112,6 +112,17 @@
       "status": "UPCOMING",
       "startTime": "19 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Gaur Gorakhpur Lions Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248331,
+      "status": "UPCOMING",
+      "startTime": "20 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -431,17 +442,6 @@
       "status": "UPCOMING",
       "startTime": "21 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Northern Territory Strike Vs Nepal",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248426,
-      "status": "UPCOMING",
-      "startTime": "21 August 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
