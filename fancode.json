@@ -1,28 +1,46 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/8/2026, 6:11:43 pm",
+  "updatedAt": "19/8/2026, 6:42:56 pm",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
       "title": "New Delhi Tigers Vs West Delhi Lions",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247991,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "19 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247991_53005_NDT_WDL_fc-Web_1786618029951.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/240p.m3u8?hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/360p.m3u8?hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/480p.m3u8?hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/540p.m3u8?hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/720p.m3u8?hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL"
+          },
+          "cookie": "hdntl=Expires=1787145458~_GO=Generated~acl=/mumbai/4247991_english_hls_fba5142be369803_1ta-di_h264/*~Signature=ARceAWNWbJMjXQlwpl9P5RJUsNcxKjHqX0VVtYIuZ_cKlY3V49H7grkrcDoZQVla-DBftCF9-j-GYPuGjNCQfdpKK5kL",
+          "expires": "1787145458",
+          "expire_date": "Wednesday, August 19, 2026, 6:47:38 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -367,13 +385,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Main Feed   Day 1",
-      "tournament": "BMW Championship 2026",
-      "match_id": 4248414,
+      "category": "Football",
+      "title": "Sheffield Wednesday F.c. Vs Bradford City",
+      "tournament": "League One 2026-27",
+      "match_id": 4248158,
       "status": "UPCOMING",
-      "startTime": "20 August 2026 07:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "startTime": "21 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1785149864236/4248158_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -386,13 +404,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Sheffield Wednesday F.c. Vs Bradford City",
-      "tournament": "League One 2026-27",
-      "match_id": 4248158,
+      "category": "Golf",
+      "title": "Main Feed   Day 1",
+      "tournament": "BMW Championship 2026",
+      "match_id": 4248414,
       "status": "UPCOMING",
-      "startTime": "21 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1785149864236/4248158_CASACARDS_SPORTY_APP.png",
+      "startTime": "20 August 2026 07:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
