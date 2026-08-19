@@ -1,46 +1,28 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/8/2026, 1:17:01 pm",
+  "updatedAt": "19/8/2026, 1:18:14 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
     {
       "category": "Cricket",
       "title": "North Delhi Strikers Vs South Delhi Superstarz",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247997,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "19 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247997_53005_NDS_SDS_fc-Web.png",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/240p.m3u8?hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/360p.m3u8?hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/480p.m3u8?hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/540p.m3u8?hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/720p.m3u8?hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH"
-          },
-          "cookie": "hdntl=Expires=1787125775~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWNmZvDClbhUfkDWYouwZYcVJZmbkbatJfGK84ByJtvYV3MWpsaRjjGjyqCQWiNlHnkHWCbv-1EfuV5a0SkGVMIH",
-          "expires": "1787125775",
-          "expire_date": "Wednesday, August 19, 2026, 1:19:35 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -87,7 +69,7 @@
       "match_id": 4247577,
       "status": "UPCOMING",
       "startTime": "20 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web_1787121237407.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247577_53004_ATM_MAG_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -107,6 +89,44 @@
       "status": "UPCOMING",
       "startTime": "20 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248131,
+      "status": "UPCOMING",
+      "startTime": "19 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Tony Trabert Stadium 3",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248132,
+      "status": "UPCOMING",
+      "startTime": "19 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -176,82 +196,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248131,
-      "status": "UPCOMING",
-      "startTime": "19 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Tony Trabert Stadium 3",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248132,
-      "status": "UPCOMING",
-      "startTime": "19 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Kashi Rudras",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248339,
-      "status": "UPCOMING",
-      "startTime": "20 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Saint Lucia Kings Vs Guyana Amazon Warriors",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248285,
-      "status": "UPCOMING",
-      "startTime": "20 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Purani Dilli 6 Vs North Delhi Strikers",
       "tournament": "Delhi Premier League, 2026",
@@ -297,6 +241,44 @@
       "status": "UPCOMING",
       "startTime": "18 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Saint Lucia Kings Vs Guyana Amazon Warriors",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248285,
+      "status": "UPCOMING",
+      "startTime": "20 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Kashi Rudras",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248339,
+      "status": "UPCOMING",
+      "startTime": "20 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -372,26 +354,7 @@
       "match_id": 4247559,
       "status": "UPCOMING",
       "startTime": "20 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247559_53003_SDS-W_CDQ_FC-Web_1787120909809.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Rayo Vallecano Vs Deportivo Alaves",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247586,
-      "status": "UPCOMING",
-      "startTime": "21 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -411,6 +374,25 @@
       "status": "UPCOMING",
       "startTime": "20 August 2026 07:45 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Rayo Vallecano Vs Deportivo Alaves",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247586,
+      "status": "UPCOMING",
+      "startTime": "21 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -638,7 +620,7 @@
       "match_id": 4248428,
       "status": "UPCOMING",
       "startTime": "21 August 2026 11:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -695,7 +677,7 @@
       "match_id": 4247558,
       "status": "UPCOMING",
       "startTime": "21 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247558_53003_NDS-W_EDR-W_FC-Web_1787120909825.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Minatchard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -714,7 +696,7 @@
       "match_id": 4248426,
       "status": "UPCOMING",
       "startTime": "21 August 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
