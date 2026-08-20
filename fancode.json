@@ -1,66 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/8/2026, 1:55:05 am",
+  "updatedAt": "21/8/2026, 3:01:40 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Rayo Vallecano Vs Deportivo Alaves",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247586,
-      "status": "LIVE",
-      "startTime": "21 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1787128434490/4247586_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247586_english_dash_5328_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247586_english_dash_5328_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247586_english_dash_5328_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247586_english_dash_5328_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247586_english_dash_5328_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Sheffield Wednesday F.c. Vs Bradford City",
-      "tournament": "League One 2026-27",
-      "match_id": 4248158,
-      "status": "LIVE",
-      "startTime": "21 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1785149864236/4248158_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/240p.m3u8?hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/360p.m3u8?hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/480p.m3u8?hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/540p.m3u8?hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/720p.m3u8?hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J"
-          },
-          "cookie": "hdntl=Expires=1787338688~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPfKWBeafEP6Nv90ucB8EGe5AdJ49A_9UjYv7z0J-4SxAqfoOO7NNSHDEwio6WpS-6ejKTBAHQYwCG_3XtimA8J",
-          "expires": "1787338688",
-          "expire_date": "Saturday, August 22, 2026, 12:28:08 AM"
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Main Feed   Day 1",
@@ -534,6 +478,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Main Feed   Day 2",
+      "tournament": "BMW Championship 2026",
+      "match_id": 4248415,
+      "status": "UPCOMING",
+      "startTime": "21 August 2026 07:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Gaur Gorakhpur Lions Vs Noida Kings",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -560,25 +523,6 @@
       "status": "UPCOMING",
       "startTime": "20 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed   Day 2",
-      "tournament": "BMW Championship 2026",
-      "match_id": 4248415,
-      "status": "UPCOMING",
-      "startTime": "21 August 2026 07:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -826,6 +770,44 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 04:30 PM",
       "image": "https://images.fancode.com/aig/match/v1787136554688/4248529_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings Vs West Delhi Lions",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248000,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Lincoln City F.c. Vs Portsmouth F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247473,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 05:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183087/4247473_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
