@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/8/2026, 2:44:49 pm",
-  "total_matches": 40,
-  "live_matches": 4,
+  "updatedAt": "21/8/2026, 2:46:47 pm",
+  "total_matches": 41,
+  "live_matches": 6,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -23,6 +23,80 @@
         "backup": {}
       },
       "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248332,
+      "status": "LIVE",
+      "startTime": "21 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/240p.m3u8?hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/360p.m3u8?hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/480p.m3u8?hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/540p.m3u8?hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/720p.m3u8?hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM"
+          },
+          "cookie": "hdntl=Expires=1787303856~_GO=Generated~acl=/mumbai/4248332_hindi_hls_8057d27d4281568_1ta-di_h264/*~Signature=ARceAWOqdFPzDB6W0XmRsSff5PVvaJD1hOy2pJA3vPFs2fXVTgjA_C0Dyk_2DD6myM0fuNe2tpIQ_sP1IlO5922mS0YM",
+          "expires": "1787303856",
+          "expire_date": "Friday, August 21, 2026, 2:47:36 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248332,
+      "status": "LIVE",
+      "startTime": "21 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png",
+      "language": "BHOJPURI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/240p.m3u8?hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/360p.m3u8?hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/480p.m3u8?hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/540p.m3u8?hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/720p.m3u8?hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO"
+          },
+          "cookie": "hdntl=Expires=1787303857~_GO=Generated~acl=/mumbai/4248332_bhojpuri_hls_2c5a113bd071862_1ta-di_h264/*~Signature=ARceAWO7LhqCJunmZwQXtFpYfg1ekc7OlAWUb1LiuqsMpNpJ0BqRkKKCZibQKeNqyYyBsLfm3KWtL6t9kgESL8QQP6UO",
+          "expires": "1787303857",
+          "expire_date": "Friday, August 21, 2026, 2:47:37 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -100,25 +174,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Australian Capital Territory Vs Hyderabad Kingsmen",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248428,
-      "status": "UPCOMING",
-      "startTime": "21 August 2026 11:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232576/4248428_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "East Delhi Riders Women Vs North Delhi Strikers Women",
       "tournament": "Women's Delhi Premier League, 2026",
       "match_id": 4247558,
@@ -190,25 +245,6 @@
           "expire_date": "Saturday, August 22, 2026, 2:14:09 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Noida Kings",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248332,
-      "status": "UPCOMING",
-      "startTime": "21 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248332_53029_MER_NOI_FC-Web_1786702851563.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -705,6 +741,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "West Ham United Vs Charlton Athletic F.c",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247474,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183084/4247474_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Hyderabad Kingsmen Vs Victoria Academy",
       "tournament": "Top End T20 Series, 2026",
@@ -725,12 +780,12 @@
     },
     {
       "category": "Football",
-      "title": "West Ham United Vs Charlton Athletic F.c",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247474,
+      "title": "Athletic Club Vs Sevilla Fc",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247583,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183084/4247474_CASACARDS_SPORTY_APP.png",
+      "startTime": "22 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247583_53004_ATH_SEV_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -750,25 +805,6 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 12:50 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Athletic Club Vs Sevilla Fc",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247583,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247583_53004_ATH_SEV_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -826,6 +862,25 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 02:00 PM",
       "image": "https://images.fancode.com/aig/match/v1787120232577/4248432_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Al Fateh Sc Vs Al Ettifaq",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248273,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 09:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248273_53025_AFF_ETT_FC-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
