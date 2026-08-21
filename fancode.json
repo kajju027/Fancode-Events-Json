@@ -1,84 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/8/2026, 9:25:38 am",
+  "updatedAt": "21/8/2026, 9:26:59 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248290,
-      "status": "LIVE",
-      "startTime": "21 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/240p.m3u8?hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/360p.m3u8?hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/480p.m3u8?hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/540p.m3u8?hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/720p.m3u8?hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N"
-          },
-          "cookie": "hdntl=Expires=1787284181~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWNQ0BhYnnxigA0QxcYksKE-d9EPlrs6b9oVIPY-UtlNIRTekkN9vR2MzlY6HwXPzWhQWbOlBzRJMKDIb6ZXxe0N",
-          "expires": "1787284181",
-          "expire_date": "Friday, August 21, 2026, 9:19:41 AM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Academy Vs Victoria Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248427,
-      "status": "LIVE",
-      "startTime": "21 August 2026 06:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC-WebTVBG_fc-web-1.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/240p.m3u8?hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/360p.m3u8?hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/480p.m3u8?hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/540p.m3u8?hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/720p.m3u8?hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II"
-          },
-          "cookie": "hdntl=Expires=1787358369~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWM1adgunpm1RXSucOg2lSNySbbsxkiaBvkXuJKOmOvm0KTCkwswOfO7xg4-uKey-Bh-PVwbqrhZSZolsaosb_II",
-          "expires": "1787358369",
-          "expire_date": "Saturday, August 22, 2026, 5:56:09 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Meerut Mavericks Vs Noida Kings",
@@ -290,6 +216,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248330,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Australian Capital Territory Vs Hyderabad Kingsmen",
       "tournament": "Top End T20 Series, 2026",
       "match_id": 4248428,
@@ -334,25 +279,6 @@
       "status": "UPCOMING",
       "startTime": "21 August 2026 02:00 PM",
       "image": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248330,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -790,6 +716,44 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 01:45 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Hp Xi Vs Nepal",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248432,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 02:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1787120232577/4248432_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "West Ham United Vs Charlton Athletic F.c",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247474,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183084/4247474_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
