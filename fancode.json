@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/8/2026, 12:15:16 am",
+  "updatedAt": "22/8/2026, 12:15:49 am",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Lucknow Falcons Vs Kanpur Superstars",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248328,
-      "status": "LIVE",
-      "startTime": "21 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/240p.m3u8?hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/360p.m3u8?hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/480p.m3u8?hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/540p.m3u8?hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/720p.m3u8?hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M"
-          },
-          "cookie": "hdntl=Expires=1787422327~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWNL6O8I8hR6g1_xLizOIcQBGOsujmR4Z7zD0Ef_EQLPxDWO9-sHbUUk0f1qvc6yQJn20xYQjYtX3xGhCVUNIz8M",
-          "expires": "1787422327",
-          "expire_date": "Saturday, August 22, 2026, 11:42:07 PM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Al Qadisiyah Vs Al Ittihad",
@@ -695,6 +662,25 @@
       "status": "UPCOMING",
       "startTime": "21 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247999_53005_ODW_EDR_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Kanpur Superstars",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248328,
+      "status": "UPCOMING",
+      "startTime": "21 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
