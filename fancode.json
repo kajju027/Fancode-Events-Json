@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/8/2026, 12:04:32 am",
+  "updatedAt": "22/8/2026, 12:05:03 am",
   "total_matches": 40,
   "live_matches": 6,
   "upcoming_matches": 34,
@@ -40,6 +40,39 @@
     },
     {
       "category": "Football",
+      "title": "Al Riyadh Sc Vs Al Nassr Fc",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248271,
+      "status": "LIVE",
+      "startTime": "21 August 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248271_53025_ALR_ANF_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/240p.m3u8?hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/360p.m3u8?hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/480p.m3u8?hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/540p.m3u8?hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/720p.m3u8?hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC"
+          },
+          "cookie": "hdntl=Expires=1787414293~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWM-1zZf-qmE91Nl6-YWkrIOwfjGIqQJYMlFEJjgd2eofTB34bT6kpo77B5G_zwZQ9y4k5OyuAU2tRKXUy4HAYAC",
+          "expires": "1787414293",
+          "expire_date": "Saturday, August 22, 2026, 9:28:13 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
       "title": "Al Qadisiyah Vs Al Ittihad",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": 4248272,
@@ -70,25 +103,6 @@
           "expire_date": "Saturday, August 22, 2026, 11:28:09 PM"
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Real Betis Vs Real Sociedad",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247580,
-      "status": "LIVE",
-      "startTime": "22 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247580_53004_RB_RS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247580_english_dash_62729_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247580_english_dash_62729_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247580_english_dash_62729_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247580_english_dash_62729_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247580_english_dash_62729_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -201,6 +215,25 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Real Betis Vs Real Sociedad",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247580,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247580_53004_RB_RS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -346,25 +379,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Athletic Club Vs Sevilla Fc",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247583,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247583_53004_ATH_SEV_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP Masters Cincinnati Open 2026",
@@ -391,6 +405,25 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Athletic Club Vs Sevilla Fc",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247583,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247583_53004_ATH_SEV_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -806,25 +839,6 @@
       "title": "Atp Masters Cincinnati Open 2026",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248144,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp Masters Cincinnati Open 2026",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248145,
       "status": "UPCOMING",
       "startTime": "22 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
