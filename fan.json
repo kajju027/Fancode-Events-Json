@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "22/8/2026, 8:53:07 am",
+  "updatedAt": "22/8/2026, 8:56:15 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Saint Lucia Kings",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248291,
-      "status": "LIVE",
-      "startTime": "22 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248291_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Adelaide Strikers Academy Vs New Zealand A",
@@ -183,6 +172,17 @@
     },
     {
       "category": "Cricket",
+      "title": "Jamaica Kingsmen Vs Saint Lucia Kings",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248291,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Hyderabad Kingsmen Vs Victoria Academy",
       "tournament": "Top End T20 Series, 2026",
       "match_id": 4248437,
@@ -270,17 +270,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "First Race",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143616,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Lucknow Falcons Vs Noida Kings",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -288,6 +277,17 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
+      "title": "First Race",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143616,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": null,
       "cnptv_cdn": null
     },
