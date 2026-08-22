@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "22/8/2026, 9:17:40 pm",
-  "total_matches": 41,
-  "live_matches": 10,
-  "upcoming_matches": 32,
+  "updatedAt": "22/8/2026, 9:22:46 pm",
+  "total_matches": 40,
+  "live_matches": 11,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -24,19 +24,8 @@
       "status": "LIVE",
       "startTime": "22 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
-      "language": "HINDI",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248343_hin.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248343,
-      "status": "LIVE",
-      "startTime": "22 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
-      "language": "BHOJPURI",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248343_bho.sonuxs.m3u8"
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248343_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -70,6 +59,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248273_53025_AFF_ETT_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248273_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Sv Eintracht Trier 05 Vs Rb Leipzig",
+      "tournament": "DFB Pokal 2026-27",
+      "match_id": 4248530,
+      "status": "LIVE",
+      "startTime": "22 August 2026 09:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1787136554669/4248530_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248530_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -116,15 +116,15 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248527_eng.sonuxs.m3u8"
     },
     {
-      "category": "Football",
-      "title": "Sv Eintracht Trier 05 Vs Rb Leipzig",
-      "tournament": "DFB Pokal 2026-27",
-      "match_id": 4248530,
-      "status": "UPCOMING",
+      "category": "Motorsports",
+      "title": "First Race",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143616,
+      "status": "LIVE",
       "startTime": "22 August 2026 09:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1787136554669/4248530_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/143616_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -134,6 +134,17 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248002,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -167,17 +178,6 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248002,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -233,17 +233,6 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 06:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "First Race",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143616,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": null,
       "cnptv_cdn": null
     },
