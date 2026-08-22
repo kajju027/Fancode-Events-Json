@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "22/8/2026, 1:38:43 pm",
+  "updatedAt": "22/8/2026, 1:42:40 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -17,17 +17,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248509_eng.sonuxs.m3u8"
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F1 ACADEMY NETHERLANDS 2026",
-      "match_id": 139693,
-      "status": "LIVE",
-      "startTime": "22 August 2026 12:50 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139693_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Cricket",
       "title": "North Delhi Strikers Women Vs South Delhi Superstarz Women",
       "tournament": "Women's Delhi Premier League, 2026",
@@ -37,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247555_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143615,
+      "status": "LIVE",
+      "startTime": "22 August 2026 01:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/143615_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -193,17 +193,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143615,
-      "status": "LIVE",
-      "startTime": "22 August 2026 01:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/143615_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Cricket",
       "title": "Bangladesh Hp Xi Vs Nepal",
       "tournament": "Top End T20 Series, 2026",
@@ -314,6 +303,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248348,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Motorsports",
       "title": "First Race",
       "tournament": "Porsche Mobil 1 Supercup 2026",
@@ -336,28 +336,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "World Feed 1",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248142,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248348,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "West Bromwich Albion F.c. Vs Burnley",
       "tournament": "EFL Championship 2026-27",
@@ -365,6 +343,17 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 04:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784709183100/4247475_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed 1",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248142,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 11:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "21 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Baragaddi Kings Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248511,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
