@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/8/2026, 5:59:11 pm",
+  "updatedAt": "22/8/2026, 6:03:30 pm",
   "total_matches": 43,
-  "live_matches": 8,
-  "upcoming_matches": 38,
+  "live_matches": 7,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -142,33 +142,19 @@
       "title": "Rawain Royals Vs Someshwar Warriors",
       "tournament": "Uttarkashi T20 League 2026",
       "match_id": 4248509,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "22 August 2026 05:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248509_53041_RR_SW_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/index.m3u8",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/240p.m3u8?hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/360p.m3u8?hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/480p.m3u8?hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/540p.m3u8?hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/720p.m3u8?hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE"
-          },
-          "cookie": "hdntl=Expires=1787401907~_GO=Generated~acl=/mumbai/4248509_english_hls_9af8ea613a1054_1ta-di_h264/*~Signature=ARceAWOJt4f53goEhTh7DcbJhghmbqs0jNjk3_G87nqNymKpL-aW3jOHGijORQHmAUDPARRA2ox6zcFAEjA6jVmrgWsE",
-          "expires": "1787401907",
-          "expire_date": "Saturday, August 22, 2026, 6:01:47 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Football",
@@ -517,13 +503,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Main Feed   Day 3",
-      "tournament": "BMW Championship 2026",
-      "match_id": 4248416,
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248348,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "startTime": "23 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -536,13 +522,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248348,
+      "category": "Golf",
+      "title": "Main Feed   Day 3",
+      "tournament": "BMW Championship 2026",
+      "match_id": 4248416,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
+      "startTime": "22 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -612,6 +598,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Atletico De Madrid Vs Villarreal Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247578,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Formula 1",
       "title": "Qualifying",
       "tournament": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
@@ -657,25 +662,6 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Atletico De Madrid Vs Villarreal Cf",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247578,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
