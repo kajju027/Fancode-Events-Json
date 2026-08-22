@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 2:58:02 am",
+  "updatedAt": "23/8/2026, 3:18:26 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Football",
@@ -233,19 +233,33 @@
       "title": "World Feed 2",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248143,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "23 August 2026 03:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/240p.m3u8?hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/360p.m3u8?hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/480p.m3u8?hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/540p.m3u8?hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/720p.m3u8?hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK"
+          },
+          "cookie": "hdntl=Expires=1787435378~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWOM0yACgYfTiG9t9HMaUzJ3rQ1BSuuHw5rj5NbwwHPqvOLlilR1XwAyljuRkm79SJ4uGx4PcYe4hBlMsyxl2hcK",
+          "expires": "1787435378",
+          "expire_date": "Sunday, August 23, 2026, 3:19:38 AM"
+        }
+      }
     },
     {
       "category": "Football",
