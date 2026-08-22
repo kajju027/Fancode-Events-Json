@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 5:00:42 am",
+  "updatedAt": "23/8/2026, 5:05:26 am",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
@@ -48,14 +48,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/240p.m3u8?hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/360p.m3u8?hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/480p.m3u8?hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/540p.m3u8?hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/720p.m3u8?hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F"
+          },
+          "cookie": "hdntl=Expires=1787441740~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWNOKuuVEFV6O92O10WfDTSncqA0yDr8wh4MLow2e338F_IwD0hURAyDvr02uH4nouWO01a9lpKiObdlizBTdR0F",
+          "expires": "1787441740",
+          "expire_date": "Sunday, August 23, 2026, 5:05:40 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -248,13 +262,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Eibar Vs Real Valladolid",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248394,
+      "category": "Cricket",
+      "title": "Australian Capital Territory Vs New Zealand A",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248431,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
+      "startTime": "23 August 2026 06:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -267,13 +281,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Australian Capital Territory Vs New Zealand A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248431,
+      "category": "Football",
+      "title": "Eibar Vs Real Valladolid",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248394,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_SPORTY_APP.png",
+      "startTime": "23 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
