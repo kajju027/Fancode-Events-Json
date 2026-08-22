@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 2:16:51 am",
+  "updatedAt": "23/8/2026, 2:32:12 am",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Football",
@@ -23,39 +23,6 @@
         "backup": {}
       },
       "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed   Day 3",
-      "tournament": "BMW Championship 2026",
-      "match_id": 4248416,
-      "status": "LIVE",
-      "startTime": "22 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/240p.m3u8?hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/360p.m3u8?hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/480p.m3u8?hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/540p.m3u8?hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/720p.m3u8?hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC"
-          },
-          "cookie": "hdntl=Expires=1787507471~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWMMGYZcb4qQXI0zLUxnKuH8ZGNHvTdX47jy6ejlQr9COYWNF_Gw9DZuNneBQ3JMa7FYKy138oFNkXr-j521UAUC",
-          "expires": "1787507471",
-          "expire_date": "Sunday, August 23, 2026, 11:21:11 PM"
-        }
-      }
     },
     {
       "category": "Golf",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Hp Xi Vs Victoria Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248429,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
