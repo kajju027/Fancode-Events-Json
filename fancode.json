@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 12:10:51 am",
+  "updatedAt": "23/8/2026, 12:39:08 am",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Football",
@@ -56,6 +56,25 @@
           "expire_date": "Sunday, August 23, 2026, 11:21:09 PM"
         }
       }
+    },
+    {
+      "category": "Football",
+      "title": "Rcd Espanyol Vs Real Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247582,
+      "status": "LIVE",
+      "startTime": "23 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247582_english_dash_26457_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247582_english_dash_26457_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247582_english_dash_26457_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247582_english_dash_26457_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247582_english_dash_26457_1drmta-di_h264/index.mpd",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -230,25 +249,6 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Rcd Espanyol Vs Real Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247582,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
