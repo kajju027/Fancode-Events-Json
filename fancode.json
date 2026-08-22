@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/8/2026, 8:58:16 am",
+  "updatedAt": "22/8/2026, 9:15:11 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Adelaide Strikers Academy Vs New Zealand A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248435,
-      "status": "LIVE",
-      "startTime": "22 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232579/4248435_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/240p.m3u8?hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/360p.m3u8?hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/480p.m3u8?hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/540p.m3u8?hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/720p.m3u8?hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN"
-          },
-          "cookie": "hdntl=Expires=1787444766~_GO=Generated~acl=/mumbai/4248435_english_hls_89abeaffb541195_1ta-di_h264/*~Signature=ARceAWPiM6Az3HtHAQrhJJRWhja74CyIfmo9bW5Q06laCXyBqhHfFIe2ejs5d-t-Ii9Sr1P11_vIxvx4wzbYEi4WD-oN",
-          "expires": "1787444766",
-          "expire_date": "Sunday, August 23, 2026, 5:56:06 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
@@ -306,25 +273,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Saint Lucia Kings",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248291,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Hyderabad Kingsmen Vs Victoria Academy",
       "tournament": "Top End T20 Series, 2026",
       "match_id": 4248437,
@@ -438,6 +386,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248342,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 3",
       "tournament": "BMW Championship 2026",
@@ -464,25 +431,6 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Lucknow Falcons Vs Noida Kings",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248342,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -768,6 +716,44 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 04:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784709183100/4247475_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248002,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248348,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
