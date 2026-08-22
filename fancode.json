@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/8/2026, 8:56:19 am",
+  "updatedAt": "22/8/2026, 8:58:16 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs Saint Lucia Kings",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248291,
-      "status": "LIVE",
-      "startTime": "22 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/240p.m3u8?hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/360p.m3u8?hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/480p.m3u8?hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/540p.m3u8?hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/720p.m3u8?hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO"
-          },
-          "cookie": "hdntl=Expires=1787369082~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWMCWJFIaLkZfOM4FZfAlqiFUhko7fUit7dWUzUzyKB90TWAVJf-Nw_DiWlPS3gtzzQ9578s721XEgFQKVUMlowO",
-          "expires": "1787369082",
-          "expire_date": "Saturday, August 22, 2026, 8:54:42 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Adelaide Strikers Academy Vs New Zealand A",
@@ -339,6 +306,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Jamaica Kingsmen Vs Saint Lucia Kings",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248291,
+      "status": "UPCOMING",
+      "startTime": "22 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Hyderabad Kingsmen Vs Victoria Academy",
       "tournament": "Top End T20 Series, 2026",
       "match_id": 4248437,
@@ -490,13 +476,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "First Race",
-      "tournament": "Porsche Mobil 1 Supercup 2026",
-      "match_id": 143616,
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248342,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "startTime": "23 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -509,13 +495,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Lucknow Falcons Vs Noida Kings",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248342,
+      "category": "Motorsports",
+      "title": "First Race",
+      "tournament": "Porsche Mobil 1 Supercup 2026",
+      "match_id": 143616,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
+      "startTime": "22 August 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
