@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 4:34:38 am",
+  "updatedAt": "23/8/2026, 4:39:47 am",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
@@ -48,14 +48,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/240p.m3u8?hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/360p.m3u8?hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/480p.m3u8?hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/540p.m3u8?hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/720p.m3u8?hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB"
+          },
+          "cookie": "hdntl=Expires=1787440240~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWM5k1lPStY4DP8uvR-Jz2BXMpEGBln3lzkDuKlw5wHyM4s_z_i0vx_iVZr0a_r_WUEpbuHfZ_rngXhZ0A8ojcUB",
+          "expires": "1787440240",
+          "expire_date": "Sunday, August 23, 2026, 4:40:40 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -438,6 +452,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "World Feed   Day 4",
+      "tournament": "BMW Championship 2026",
+      "match_id": 4248413,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -483,25 +516,6 @@
       "status": "UPCOMING",
       "startTime": "22 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "World Feed   Day 4",
-      "tournament": "BMW Championship 2026",
-      "match_id": 4248413,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 09:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
