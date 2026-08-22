@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 12:45:09 am",
+  "updatedAt": "23/8/2026, 1:25:46 am",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Football",
@@ -110,25 +110,6 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "Grandstand",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248144,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "Day 1",
       "tournament": "US Women’s Senior Open 2026",
@@ -191,39 +172,6 @@
           "cookie": "hdntl=Expires=1787504294~_GO=Generated~acl=/mumbai/4248412_english_hls_c45730650a72558_1ta-di_h264/*~Signature=ARceAWN-xzywiE8UoC0lVHnxbjvFW1uuSw0lC_QGJnP8eOCoIOATrvoAa3cB58az_rCv6EXc57Afhm3qG9H4Q_JDT5YO",
           "expires": "1787504294",
           "expire_date": "Sunday, August 23, 2026, 10:28:14 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed 1",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248142,
-      "status": "LIVE",
-      "startTime": "22 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/240p.m3u8?hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/360p.m3u8?hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/480p.m3u8?hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/540p.m3u8?hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/720p.m3u8?hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB"
-          },
-          "cookie": "hdntl=Expires=1787505989~_GO=Generated~acl=/mumbai/4248142_english_hls_a78338804065258_1ta-di_h264/*~Signature=ARceAWOlHBRSI5DN6Ak9Q7NLjIxYRyjchjgewNrVBy8p8zvGwHt72shsyhUTvm-1kFkV4HKGr77em4ivrsnMYIEKBwAB",
-          "expires": "1787505989",
-          "expire_date": "Sunday, August 23, 2026, 10:56:29 PM"
         }
       }
     },
@@ -824,6 +772,44 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 01:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248299,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248430,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 06:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
