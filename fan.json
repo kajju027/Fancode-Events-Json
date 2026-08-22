@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "22/8/2026, 9:27:51 pm",
-  "total_matches": 40,
-  "live_matches": 11,
-  "upcoming_matches": 29,
+  "updatedAt": "22/8/2026, 9:32:59 pm",
+  "total_matches": 41,
+  "live_matches": 12,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -24,8 +24,19 @@
       "status": "LIVE",
       "startTime": "22 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248343_eng.sonuxs.m3u8"
+      "language": "HINDI",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248343_hin.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248343,
+      "status": "LIVE",
+      "startTime": "22 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248343_53029_MER_KAN_FC-Web_1786702851559.png",
+      "language": "BHOJPURI",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248343_bho.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -336,17 +347,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Bangladesh Hp Xi Vs Hobart Hurricanes Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248436,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Elche Cf Vs Fc Barcelona",
       "tournament": "LALIGA 2026-27",
@@ -354,6 +354,17 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Hp Xi Vs Hobart Hurricanes Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248436,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg",
       "language": null,
       "cnptv_cdn": null
     },
