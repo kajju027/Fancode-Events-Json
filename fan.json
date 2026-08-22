@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "22/8/2026, 9:18:40 am",
+  "updatedAt": "22/8/2026, 9:57:27 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Hyderabad Kingsmen Vs Victoria Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248437,
+      "status": "LIVE",
+      "startTime": "22 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248437_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
@@ -161,12 +172,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Hyderabad Kingsmen Vs Victoria Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248437,
+      "title": "Lucknow Falcons Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248342,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+      "startTime": "23 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -226,23 +237,12 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Lucknow Falcons Vs Noida Kings",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248342,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Golf",
       "title": "Main Feed   Day 3",
       "tournament": "BMW Championship 2026",
       "match_id": 4248416,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 06:45 PM",
+      "startTime": "22 August 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
       "language": null,
       "cnptv_cdn": null
@@ -325,6 +325,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Taknor Tigers Vs Baukh Night Riders",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248510,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Golf",
       "title": "Day 1",
       "tournament": "US Women’s Senior Open 2026",
@@ -370,17 +381,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Taknor Tigers Vs Baukh Night Riders",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248510,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Antigua & Barbuda Falcons Vs Trinbago Knight Riders",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248293,
@@ -413,17 +413,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "West Bromwich Albion F.c. Vs Burnley",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247475,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 04:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183100/4247475_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "North Delhi Strikers Vs Outer Delhi Warriors",
       "tournament": "Delhi Premier League, 2026",
@@ -431,6 +420,17 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "West Bromwich Albion F.c. Vs Burnley",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247475,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 04:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183100/4247475_CASACARDS_SPORTY_APP.png",
       "language": null,
       "cnptv_cdn": null
     },

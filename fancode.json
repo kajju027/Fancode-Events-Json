@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/8/2026, 9:18:40 am",
+  "updatedAt": "22/8/2026, 9:57:27 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Hyderabad Kingsmen Vs Victoria Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248437,
+      "status": "LIVE",
+      "startTime": "22 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/240p.m3u8?hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/360p.m3u8?hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/480p.m3u8?hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/540p.m3u8?hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/720p.m3u8?hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F"
+          },
+          "cookie": "hdntl=Expires=1787373097~_GO=Generated~acl=/mumbai/4248437_english_hls_324318297a99597_1ta-di_h264/*~Signature=ARceAWMYpiNMcV2u3uAZ9QotqCRRvH5ovMUw2l95zuhzTbR-2vohqqfBmlAWW2B5NHHI-3cTyx2V3_mK6oMa0uPW120F",
+          "expires": "1787373097",
+          "expire_date": "Saturday, August 22, 2026, 10:01:37 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
@@ -273,12 +306,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Hyderabad Kingsmen Vs Victoria Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248437,
+      "title": "Lucknow Falcons Vs Noida Kings",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248342,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+      "startTime": "23 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -386,31 +419,12 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Lucknow Falcons Vs Noida Kings",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248342,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "Main Feed   Day 3",
       "tournament": "BMW Championship 2026",
       "match_id": 4248416,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 06:45 PM",
+      "startTime": "22 August 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
       "language": "ENGLISH",
       "streams": {
@@ -557,6 +571,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Taknor Tigers Vs Baukh Night Riders",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248510,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Day 1",
       "tournament": "US Women’s Senior Open 2026",
@@ -634,25 +667,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Taknor Tigers Vs Baukh Night Riders",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248510,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Antigua & Barbuda Falcons Vs Trinbago Knight Riders",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248293,
@@ -709,13 +723,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "West Bromwich Albion F.c. Vs Burnley",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247475,
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248002,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 04:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183100/4247475_CASACARDS_SPORTY_APP.png",
+      "startTime": "23 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -728,13 +742,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248002,
+      "category": "Football",
+      "title": "West Bromwich Albion F.c. Vs Burnley",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247475,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+      "startTime": "23 August 2026 04:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183100/4247475_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
