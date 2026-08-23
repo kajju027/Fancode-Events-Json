@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 1:29:26 pm",
+  "updatedAt": "23/8/2026, 1:29:59 pm",
   "total_matches": 40,
   "live_matches": 3,
   "upcoming_matches": 37,
@@ -15,28 +15,14 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/index.m3u8",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/240p.m3u8?hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/360p.m3u8?hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/480p.m3u8?hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/540p.m3u8?hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/720p.m3u8?hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE"
-          },
-          "cookie": "hdntl=Expires=1787472213~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWMm8UBvN09h635MgFhdRlU39Mc2_waHZBjA_c9i0BubzVWzP41bMn27F_NhB9_7PvNMTLcQo13BvrL3gsYDbbIE",
-          "expires": "1787472213",
-          "expire_date": "Sunday, August 23, 2026, 1:33:33 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -295,13 +281,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Kashi Rudras Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248352,
+      "category": "Motorsports",
+      "title": "Feature Race",
+      "tournament": "F1 ACADEMY NETHERLANDS 2026",
+      "match_id": 139695,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+      "startTime": "23 August 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -314,13 +300,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Feature Race",
-      "tournament": "F1 ACADEMY NETHERLANDS 2026",
-      "match_id": 139695,
+      "category": "Cricket",
+      "title": "Kashi Rudras Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248352,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Dutch_web.jpg",
+      "startTime": "24 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -523,13 +509,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248353,
+      "category": "Tennis",
+      "title": "Men's Finals",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248149,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
+      "startTime": "24 August 2026 02:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -542,13 +528,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Men's Finals",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248149,
+      "category": "Cricket",
+      "title": "Noida Kings Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248353,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 02:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "startTime": "24 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
