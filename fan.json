@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/8/2026, 11:29:46 pm",
+  "updatedAt": "23/8/2026, 11:43:49 pm",
   "total_matches": 41,
-  "live_matches": 8,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248002,
-      "status": "LIVE",
-      "startTime": "23 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248002_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Gaur Gorakhpur Lions Vs Meerut Mavericks",
@@ -160,6 +149,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248150,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Neom Sc Vs Al Qadisiyah",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -200,17 +200,6 @@
       "status": "UPCOMING",
       "startTime": "25 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248150,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -270,17 +259,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Academy Vs Nepal",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248444,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Granada Vs Rcd Mallorca",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -293,12 +271,34 @@
     },
     {
       "category": "Cricket",
+      "title": "Hobart Hurricanes Academy Vs Nepal",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248444,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Noida Kings Vs Lucknow Falcons",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": 4248342,
       "status": "UPCOMING",
       "startTime": "23 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Vs Outer Delhi Warriors",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248002,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
