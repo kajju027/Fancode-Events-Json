@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/8/2026, 12:36:43 am",
+  "updatedAt": "24/8/2026, 12:39:55 am",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Football",
@@ -20,25 +20,6 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247584_english_dash_12088_1drmta-di_h264/index.mpd",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247584_english_dash_12088_1drmta-di_h264/index.mpd",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247584_english_dash_12088_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Elche Cf Vs Fc Barcelona",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247581,
-      "status": "LIVE",
-      "startTime": "24 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
         "backup": {}
       },
       "auto_streams": {}
@@ -216,6 +197,25 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Elche Cf Vs Fc Barcelona",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247581,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
