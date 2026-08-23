@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/8/2026, 8:14:51 pm",
+  "updatedAt": "23/8/2026, 8:16:03 pm",
   "total_matches": 43,
-  "live_matches": 11,
-  "upcoming_matches": 35,
+  "live_matches": 10,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -48,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248511_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Atletico De Madrid Vs Villarreal Cf",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247578,
-      "status": "LIVE",
-      "startTime": "23 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247578_eng.sonuxs.m3u8"
     },
     {
       "category": "Formula 1",
@@ -116,6 +105,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248534_eng.sonuxs.m3u8"
     },
     {
+      "category": "Football",
+      "title": "Atletico De Madrid Vs Villarreal Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247578,
+      "status": "LIVE",
+      "startTime": "23 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247578_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Lucknow Falcons",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -131,11 +131,11 @@
       "title": "Eibar Vs Real Valladolid",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": 4248394,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "23 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248394_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Football",
@@ -281,17 +281,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Ca Osasuna Vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247579,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
       "tournament": "Top End T20 Series, 2026",
@@ -304,12 +293,12 @@
     },
     {
       "category": "Football",
-      "title": "Al Ittihad Vs Al Hazem Fc",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248276,
+      "title": "Ca Osasuna Vs Levante",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247579,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
+      "startTime": "24 August 2026 11:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -321,6 +310,17 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 10:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Al Ittihad Vs Al Hazem Fc",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248276,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
