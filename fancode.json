@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/8/2026, 3:43:32 am",
+  "updatedAt": "24/8/2026, 3:43:58 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Golf",
+      "title": "World Feed   Day 4",
+      "tournament": "BMW Championship 2026",
+      "match_id": 4248413,
+      "status": "LIVE",
+      "startTime": "23 August 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/240p.m3u8?hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/360p.m3u8?hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/480p.m3u8?hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/540p.m3u8?hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/720p.m3u8?hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD"
+          },
+          "cookie": "hdntl=Expires=1787605505~_GO=Generated~acl=/mumbai/4248413_english_hls_34d823adf835301_1ta-di_h264/*~Signature=ARceAWMiWXIM8sh1eF1qU5lkNeqSmePAf4dXISBkB2HQHOtZ-uprRXrYHU5IMdvmXsKd5_G_x8oQsLD-fTO0mpuMomgD",
+          "expires": "1787605505",
+          "expire_date": "Tuesday, August 25, 2026, 2:35:05 AM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "World Feed",
@@ -70,6 +103,25 @@
           "expire_date": "Tuesday, August 25, 2026, 2:14:05 AM"
         }
       }
+    },
+    {
+      "category": "Football",
+      "title": "Elche Cf Vs Fc Barcelona",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247581,
+      "status": "LIVE",
+      "startTime": "24 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247581_english_dash_38495_1drmta-di_h264/index.mpd",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -744,44 +796,6 @@
       "status": "UPCOMING",
       "startTime": "26 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247572_53004_VAL_RB_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Birmingham City F.c. Vs Brentford",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248502,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1787223454513/4248502_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Nottingham Forest Vs Leeds United",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248503,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1787223454512/4248503_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
