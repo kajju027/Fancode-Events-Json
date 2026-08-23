@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 2:52:08 pm",
+  "updatedAt": "23/8/2026, 3:11:35 pm",
   "total_matches": 41,
-  "live_matches": 5,
-  "upcoming_matches": 37,
+  "live_matches": 6,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -365,19 +365,33 @@
       "title": "Second Race",
       "tournament": "Porsche Mobil 1 Supercup 2026",
       "match_id": 143617,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "23 August 2026 03:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/240p.m3u8?hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/360p.m3u8?hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/480p.m3u8?hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/540p.m3u8?hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/720p.m3u8?hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO"
+          },
+          "cookie": "hdntl=Expires=1787478155~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP1O1LPlrsHcRAM1PfTMcfvMF69zi9QV0lRMBLjAXo2vhCEZqD5OmO6Sar39o_47xVEiDKaYyAH2k2IAEKIkwQO",
+          "expires": "1787478155",
+          "expire_date": "Sunday, August 23, 2026, 3:12:35 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -513,6 +527,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Rawain Royals Vs Taknor Tigers",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248513,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Doubles Finals",
       "tournament": "ATP Masters Cincinnati Open 2026",
@@ -590,25 +623,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Rawain Royals Vs Taknor Tigers",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248513,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248299,
@@ -634,25 +648,6 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 06:00 AM",
       "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kashi Rudras Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248330,
-      "status": "UPCOMING",
-      "startTime": "22 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -843,6 +838,25 @@
       "status": "UPCOMING",
       "startTime": "25 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Winston Salem Open 2026",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248151,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
