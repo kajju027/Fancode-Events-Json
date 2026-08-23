@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 5:14:35 pm",
+  "updatedAt": "23/8/2026, 5:16:08 pm",
   "total_matches": 43,
-  "live_matches": 9,
-  "upcoming_matches": 37,
+  "live_matches": 8,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -266,6 +266,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "East Bengal Fc Women Vs Sabah Fa Women",
+      "tournament": "AFC Women's Champions League Qualifier 2026-27",
+      "match_id": 4248496,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 05:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1786951996567/4248496_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Baragaddi Kings Vs Bhagirathi Giants",
       "tournament": "Uttarkashi T20 League 2026",
@@ -286,64 +305,12 @@
     },
     {
       "category": "Football",
-      "title": "East Bengal Fc Women Vs Sabah Fa Women",
-      "tournament": "AFC Women's Champions League Qualifier 2026-27",
-      "match_id": 4248496,
-      "status": "LIVE",
-      "startTime": "23 August 2026 05:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1786951996567/4248496_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/240p.m3u8?hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/360p.m3u8?hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/480p.m3u8?hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/540p.m3u8?hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/720p.m3u8?hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE"
-          },
-          "cookie": "hdntl=Expires=1787485775~_GO=Generated~acl=/mumbai/4248496_english_hls_35a37c14f569430_1ta-di_h264/*~Signature=ARceAWMT8LTAJh1rYQwqv8_5nPKQLcgZN1Z2EBpLQxcXlbH98fh8Pv9X09OaJWTJNmp2zJAlQ9FT3WGXs-WzhR731SIE",
-          "expires": "1787485775",
-          "expire_date": "Sunday, August 23, 2026, 5:19:35 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "Atletico De Madrid Vs Villarreal Cf",
       "tournament": "LALIGA 2026-27",
       "match_id": 4247578,
       "status": "UPCOMING",
       "startTime": "23 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kashi Rudras Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248352,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -382,6 +349,25 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kashi Rudras Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248352,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -717,13 +703,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Neom Sc Vs Al Qadisiyah",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248275,
+      "category": "Cricket",
+      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247553,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 10:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
+      "startTime": "24 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -736,13 +722,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247553,
+      "category": "Football",
+      "title": "Neom Sc Vs Al Qadisiyah",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248275,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+      "startTime": "24 August 2026 10:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
