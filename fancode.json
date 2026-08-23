@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 6:58:05 am",
+  "updatedAt": "23/8/2026, 7:07:56 am",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
@@ -15,28 +15,14 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/240p.m3u8?hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/360p.m3u8?hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/480p.m3u8?hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/540p.m3u8?hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/720p.m3u8?hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM"
-          },
-          "cookie": "hdntl=Expires=1787448696~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMcd2guhUAk3NeCkFT69tQy4zJnFjAi3wIzQy6oyGsrw4bFPpSVz6uglZuJlfxj6a8Sk_DrzZs1leNOxzi3xrIM",
-          "expires": "1787448696",
-          "expire_date": "Sunday, August 23, 2026, 7:01:36 AM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -662,12 +648,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248430,
+      "title": "Someshwar Warriors Vs Baragaddi Kings",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248512,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
+      "startTime": "24 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -681,12 +667,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Someshwar Warriors Vs Baragaddi Kings",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248512,
+      "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248430,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg",
+      "startTime": "24 August 2026 06:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
