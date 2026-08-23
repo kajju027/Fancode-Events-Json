@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 5:46:38 am",
+  "updatedAt": "23/8/2026, 5:51:28 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Tennis",
@@ -48,26 +48,45 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Australian Capital Territory Vs New Zealand A",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248431,
+      "status": "LIVE",
+      "startTime": "23 August 2026 06:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/index.m3u8",
         "backup": {}
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/240p.m3u8?hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/360p.m3u8?hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/480p.m3u8?hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/540p.m3u8?hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/720p.m3u8?hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/240p.m3u8?hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/360p.m3u8?hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/480p.m3u8?hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/540p.m3u8?hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/720p.m3u8?hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD"
           },
-          "cookie": "hdntl=Expires=1787444260~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWOe-5ZDNt6kv55U0DkSk43ImfkBbZK9j-wPoHe58__F7r9kpyJd4YcznNeicEgRCAoWpU8wwqFVgcfWO6xXhKgJ",
-          "expires": "1787444260",
-          "expire_date": "Sunday, August 23, 2026, 5:47:40 AM"
+          "cookie": "hdntl=Expires=1787444682~_GO=Generated~acl=/mumbai/4248431_english_hls_82f3207be412942_1ta-di_h264/*~Signature=ARceAWPoQRlHlBltEkw1k1y68QZkoPwg_yGWxmZIOYtU2djBBPFAU2LBbqGVKs2JvN2QETZfLzuNduN_ytlEk1E43QgD",
+          "expires": "1787444682",
+          "expire_date": "Sunday, August 23, 2026, 5:54:42 AM"
         }
       }
     },
@@ -250,25 +269,6 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Australian Capital Territory Vs New Zealand A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248431,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232577/4248431_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
