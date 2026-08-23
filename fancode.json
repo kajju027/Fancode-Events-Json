@@ -1,76 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 6:50:48 pm",
-  "total_matches": 43,
-  "live_matches": 10,
+  "updatedAt": "23/8/2026, 7:16:38 pm",
+  "total_matches": 42,
+  "live_matches": 8,
   "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248342,
-      "status": "LIVE",
-      "startTime": "23 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-      "language": "HINDI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/240p.m3u8?hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/360p.m3u8?hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/480p.m3u8?hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/540p.m3u8?hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/720p.m3u8?hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM"
-          },
-          "cookie": "hdntl=Expires=1787563145~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWNVbFQG-O2bg9B2jUP9t6SsOV3rGLlT-qtyoY283x2iFYpejUK-AnUByLyO_2jnGSFsd7QKjSPFkttq-LD0kLEM",
-          "expires": "1787563145",
-          "expire_date": "Monday, August 24, 2026, 2:49:05 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248342,
-      "status": "LIVE",
-      "startTime": "23 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-      "language": "BHOJPURI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "BHOJPURI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/240p.m3u8?hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/360p.m3u8?hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/480p.m3u8?hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/540p.m3u8?hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/720p.m3u8?hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH"
-          },
-          "cookie": "hdntl=Expires=1787563146~_GO=Generated~acl=/mumbai/4248342_bhojpuri_hls_df59e0635861729_1ta-di_h264/*~Signature=ARceAWMLiJ4v0JOwB30dN0oZb5hbpr8rvdtyXB9Qhe7nw944axqiHljr69_2vn4VSIJzNeIKgiv0dYj3waW6LTM7iRgH",
-          "expires": "1787563146",
-          "expire_date": "Monday, August 24, 2026, 2:49:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "North Delhi Strikers Vs Outer Delhi Warriors",
@@ -413,13 +347,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Eibar Vs Real Valladolid",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248394,
+      "category": "Cricket",
+      "title": "Noida Kings Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248353,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
+      "startTime": "24 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -432,13 +366,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248353,
+      "category": "Football",
+      "title": "Eibar Vs Real Valladolid",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248394,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
+      "startTime": "23 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -641,13 +575,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Central Delhi Kings Vs West Delhi Lions",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248000,
+      "category": "Football",
+      "title": "Ca Osasuna Vs Levante",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247579,
       "status": "UPCOMING",
-      "startTime": "22 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248000_53005_CDK_WDL_fc-Web_1786618030036.png",
+      "startTime": "24 August 2026 11:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -679,32 +613,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Ca Osasuna Vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247579,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
-      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247553,
+      "title": "Noida Kings Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248342,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+      "startTime": "23 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -724,6 +639,25 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247553,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -895,6 +829,25 @@
       "status": "UPCOMING",
       "startTime": "25 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Kashi Rudras",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248354,
+      "status": "UPCOMING",
+      "startTime": "25 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
