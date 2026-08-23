@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 6:25:46 pm",
+  "updatedAt": "23/8/2026, 6:30:53 pm",
   "total_matches": 43,
-  "live_matches": 11,
-  "upcoming_matches": 35,
+  "live_matches": 10,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -171,39 +171,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "East Delhi Riders Women Vs Central Delhi Queens",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247552,
-      "status": "LIVE",
-      "startTime": "23 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/240p.m3u8?hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/360p.m3u8?hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/480p.m3u8?hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/540p.m3u8?hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/720p.m3u8?hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC"
-          },
-          "cookie": "hdntl=Expires=1787562737~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWMMm8Bi9cjRwZF1OgOt21XF9uZpIjPaR-ssZXeWl1E7Mo6ewQvs5XikOf5mG7vKptkUfn21RLxn4DdEYD2_mecC",
-          "expires": "1787562737",
-          "expire_date": "Monday, August 24, 2026, 2:42:17 PM"
-        }
-      }
-    },
-    {
       "category": "Formula 1",
       "title": "Race",
       "tournament": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
@@ -292,6 +259,25 @@
           "expire_date": "Monday, August 24, 2026, 6:21:07 PM"
         }
       }
+    },
+    {
+      "category": "Motorsports",
+      "title": "F1 Kids   Race",
+      "tournament": "F1 Kids 2026",
+      "match_id": 4248534,
+      "status": "LIVE",
+      "startTime": "23 August 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -427,13 +413,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Eibar Vs Real Valladolid",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248394,
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Vs New Delhi Tigers",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248003,
       "status": "UPCOMING",
-      "startTime": "23 August 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
+      "startTime": "24 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -446,13 +432,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Vs New Delhi Tigers",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248003,
+      "category": "Football",
+      "title": "Eibar Vs Real Valladolid",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248394,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
+      "startTime": "23 August 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248394_53017_EIB_VLD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -484,20 +470,20 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "F1 Kids   Race",
-      "tournament": "F1 Kids 2026",
-      "match_id": 4248534,
-      "status": "LIVE",
-      "startTime": "23 August 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "category": "Cricket",
+      "title": "East Delhi Riders Women Vs Central Delhi Queens",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247552,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
       "auto_streams": {}
@@ -655,13 +641,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Bangladesh Hp Xi Vs Victoria Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248429,
+      "category": "Football",
+      "title": "Neom Sc Vs Al Qadisiyah",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248275,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+      "startTime": "24 August 2026 10:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -674,13 +660,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Neom Sc Vs Al Qadisiyah",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248275,
+      "category": "Cricket",
+      "title": "Bangladesh Hp Xi Vs Victoria Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248429,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 10:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
+      "startTime": "24 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -731,13 +717,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247553,
+      "category": "Football",
+      "title": "Ca Osasuna Vs Levante",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247579,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+      "startTime": "24 August 2026 11:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -750,13 +736,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Ca Osasuna Vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247579,
+      "category": "Cricket",
+      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247553,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
+      "startTime": "24 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
