@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 6:37:23 am",
+  "updatedAt": "23/8/2026, 6:42:28 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed 2",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248143,
-      "status": "LIVE",
-      "startTime": "23 August 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/240p.m3u8?hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/360p.m3u8?hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/480p.m3u8?hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/540p.m3u8?hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/720p.m3u8?hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM"
-          },
-          "cookie": "hdntl=Expires=1787521869~_GO=Generated~acl=/mumbai/4248143_english_hls_8b218635c279483_1ta-di_h264/*~Signature=ARceAWMRXMwNInnekKAvC8H221eEcnFOwnPed-BibrI9LNIGoXfPQIyoA00bcdhKda1ySq0_L7YzJc6kUw-uU52smvkM",
-          "expires": "1787521869",
-          "expire_date": "Monday, August 24, 2026, 3:21:09 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Trinbago Knight Riders Vs Antigua & Barbuda Falcons",
@@ -48,14 +15,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/240p.m3u8?hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/360p.m3u8?hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/480p.m3u8?hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/540p.m3u8?hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/720p.m3u8?hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD"
+          },
+          "cookie": "hdntl=Expires=1787447855~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWMlgG0mvsayAr_AhtEDt4SZffiRv30r8KhzOayuYLRTiB2WbCgatCPxIJuzSFIB6tXUDDc5gGK3E2hUvlcConUD",
+          "expires": "1787447855",
+          "expire_date": "Sunday, August 23, 2026, 6:47:35 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -643,12 +624,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248299,
+      "title": "Kashi Rudras Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248352,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
+      "startTime": "24 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -662,12 +643,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Kashi Rudras Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248352,
+      "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248299,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+      "startTime": "24 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -782,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 06:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247553,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
