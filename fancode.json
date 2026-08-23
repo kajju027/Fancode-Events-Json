@@ -1,76 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 11:43:49 pm",
-  "total_matches": 41,
-  "live_matches": 7,
+  "updatedAt": "24/8/2026, 12:16:19 am",
+  "total_matches": 40,
+  "live_matches": 5,
   "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Gaur Gorakhpur Lions Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248348,
-      "status": "LIVE",
-      "startTime": "23 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-      "language": "HINDI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/240p.m3u8?hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/360p.m3u8?hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/480p.m3u8?hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/540p.m3u8?hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/720p.m3u8?hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI"
-          },
-          "cookie": "hdntl=Expires=1787579890~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPw5YGxdj75wTEX0tbmde84C9tXuwXQ2FB3C1Co2cDQFXfmWRHCJcRIJV-erjhxaQ3z4N2mwJnSB7hcFZSh-bYI",
-          "expires": "1787579890",
-          "expire_date": "Monday, August 24, 2026, 7:28:10 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gaur Gorakhpur Lions Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248348,
-      "status": "LIVE",
-      "startTime": "23 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-      "language": "BHOJPURI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "BHOJPURI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/240p.m3u8?hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/360p.m3u8?hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/480p.m3u8?hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/540p.m3u8?hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/720p.m3u8?hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B"
-          },
-          "cookie": "hdntl=Expires=1787579891~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNZMEjFe6zS4srPAuotHuhive6z-FWrPKm65LEQfoPE2OawAmlyIk1JwsUWHN8gFJp2fbMfXY799HkGyM7iAV4B",
-          "expires": "1787579891",
-          "expire_date": "Monday, August 24, 2026, 7:28:11 PM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Getafe Cf Vs Racing Club De Santander",
@@ -242,6 +176,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Elche Cf Vs Fc Barcelona",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247581,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "South Delhi Superstarz Vs New Delhi Tigers",
       "tournament": "Delhi Premier League, 2026",
@@ -268,25 +221,6 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Elche Cf Vs Fc Barcelona",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247581,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -508,13 +442,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247553,
+      "category": "Football",
+      "title": "Granada Vs Rcd Mallorca",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248395,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
+      "startTime": "25 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -527,13 +461,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Granada Vs Rcd Mallorca",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248395,
+      "category": "Cricket",
+      "title": "Central Delhi Queens Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247553,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+      "startTime": "24 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787120909652.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -591,6 +525,25 @@
       "status": "UPCOMING",
       "startTime": "23 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Gaur Gorakhpur Lions Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248348,
+      "status": "UPCOMING",
+      "startTime": "23 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
