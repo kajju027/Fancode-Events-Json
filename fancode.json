@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/8/2026, 7:23:43 pm",
-  "total_matches": 42,
-  "live_matches": 8,
+  "updatedAt": "23/8/2026, 7:25:49 pm",
+  "total_matches": 43,
+  "live_matches": 10,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -35,6 +35,72 @@
           "cookie": "hdntl=Expires=1787577548~_GO=Generated~acl=/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/*~Signature=ARceAWOcNZi4i-6aI8yjNzI-XLixzdKc3yHvWY7jRxLUjjKGHsyvEOhOrLwbC7TJ8ZYwCPjWmZEIfC-_6YOHFK42JkIJ",
           "expires": "1787577548",
           "expire_date": "Monday, August 24, 2026, 6:49:08 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248348,
+      "status": "LIVE",
+      "startTime": "23 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/240p.m3u8?hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/360p.m3u8?hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/480p.m3u8?hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/540p.m3u8?hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/720p.m3u8?hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F"
+          },
+          "cookie": "hdntl=Expires=1787493396~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWOyJ9kvZjro42piA68js6bxEAxG9jdKGJjfiBLnsQnA8kH-QclUbUrxCF-vNnKFhYNOeamF9OKRDhmlfVee2L8F",
+          "expires": "1787493396",
+          "expire_date": "Sunday, August 23, 2026, 7:26:36 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248348,
+      "status": "LIVE",
+      "startTime": "23 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
+      "language": "BHOJPURI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/240p.m3u8?hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/360p.m3u8?hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/480p.m3u8?hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/540p.m3u8?hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/720p.m3u8?hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M"
+          },
+          "cookie": "hdntl=Expires=1787493398~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWOgLhFyWMrtnFOJbGnalBf3jJLOcHsdgk728UuX5h4RW_QMaQ76HLVI3m_BGpZuaDdrMxCgREiQsowcOqw0J34M",
+          "expires": "1787493398",
+          "expire_date": "Sunday, August 23, 2026, 7:26:38 PM"
         }
       }
     },
@@ -209,25 +275,6 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248534_english_dash_1886_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248348,
-      "status": "UPCOMING",
-      "startTime": "23 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
         "backup": {}
       },
       "auto_streams": {}
@@ -518,13 +565,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248430,
+      "category": "Football",
+      "title": "Neom Sc Vs Al Qadisiyah",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248275,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
+      "startTime": "24 August 2026 10:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -537,13 +584,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Neom Sc Vs Al Qadisiyah",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248275,
+      "category": "Cricket",
+      "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248430,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 10:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
+      "startTime": "24 August 2026 06:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
