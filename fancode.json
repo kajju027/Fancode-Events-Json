@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/8/2026, 8:44:59 am",
+  "updatedAt": "24/8/2026, 9:35:53 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Northern Territory Strike Vs Hyderabad Kingsmen",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248430,
-      "status": "LIVE",
-      "startTime": "24 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/240p.m3u8?hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/360p.m3u8?hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/480p.m3u8?hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/540p.m3u8?hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/720p.m3u8?hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE"
-          },
-          "cookie": "hdntl=Expires=1787618226~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWPo25AQsHIhaTr8fddbHF3O8mCCOj1YSXWhBiFDX2PNtzKls8Fwek5uC8apY8c__UVDvJdMwXq2J47DDCPr9xUE",
-          "expires": "1787618226",
-          "expire_date": "Tuesday, August 25, 2026, 6:07:06 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Kashi Rudras Vs Lucknow Falcons",
@@ -210,6 +177,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Bangladesh Hp Xi Vs Victoria Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248429,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Granada Vs Rcd Mallorca",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -230,12 +216,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Bangladesh Hp Xi Vs Victoria Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248429,
+      "title": "Kanpur Superstars Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248355,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+      "startTime": "25 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -306,12 +292,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Kanpur Superstars Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248355,
+      "title": "Baukh Night Riders Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248514,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
+      "startTime": "25 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -382,25 +368,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Baukh Night Riders Vs Bhagirathi Giants",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248514,
-      "status": "UPCOMING",
-      "startTime": "25 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Northern Territory Strike Vs Australian Capital Territory",
       "tournament": "Top End T20 Series, 2026",
       "match_id": 4248434,
@@ -439,12 +406,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Hyderabad Kingsmen Vs New Zealand A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248440,
+      "title": "Lucknow Falcons Vs Kashi Rudras",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248354,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+      "startTime": "25 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -458,12 +425,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Lucknow Falcons Vs Kashi Rudras",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248354,
+      "title": "Hyderabad Kingsmen Vs New Zealand A",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248440,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
+      "startTime": "25 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -768,6 +735,25 @@
       "status": "UPCOMING",
       "startTime": "26 August 2026 06:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248001,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
