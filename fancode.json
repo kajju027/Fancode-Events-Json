@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/8/2026, 10:35:53 pm",
+  "updatedAt": "24/8/2026, 11:21:49 pm",
   "total_matches": 41,
-  "live_matches": 5,
-  "upcoming_matches": 37,
+  "live_matches": 7,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -161,19 +161,66 @@
       "title": "Al Ittihad Vs Al Hazem Fc",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": 4248276,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "24 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/240p.m3u8?hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/360p.m3u8?hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/480p.m3u8?hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/540p.m3u8?hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/720p.m3u8?hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP"
+          },
+          "cookie": "hdntl=Expires=1787594197~_GO=Generated~acl=/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/*~Signature=ARB3KG0CSI4JXNOl6PkkSbmOrKK_3AGzseGvnoRXcC6n8jtjS0DBIhxUT9-7LhWRSA5kDsZIlJBx59pqke-T3ESpiHoP",
+          "expires": "1787594197",
+          "expire_date": "Monday, August 24, 2026, 11:26:37 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248151,
+      "status": "LIVE",
+      "startTime": "24 August 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/240p.m3u8?hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/360p.m3u8?hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/480p.m3u8?hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/540p.m3u8?hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/720p.m3u8?hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB"
+          },
+          "cookie": "hdntl=Expires=1787594199~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1_SgBxwCeLKcskPyeATI-6H3nHWDjyOO2uP3keWyF88dASa5NkETzhErzqim25XZkkVcyo7sc42m33nBua0LcB",
+          "expires": "1787594199",
+          "expire_date": "Monday, August 24, 2026, 11:26:39 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -271,25 +318,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Granada Vs Rcd Mallorca",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248395,
-      "status": "UPCOMING",
-      "startTime": "25 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Rawain Royals Vs Baragaddi Kings",
       "tournament": "Uttarkashi T20 League 2026",
@@ -309,13 +337,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248151,
+      "category": "Football",
+      "title": "Granada Vs Rcd Mallorca",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248395,
       "status": "UPCOMING",
-      "startTime": "24 August 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "startTime": "25 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
