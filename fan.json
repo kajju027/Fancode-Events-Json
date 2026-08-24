@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "25/8/2026, 12:33:11 am",
+  "updatedAt": "25/8/2026, 12:36:04 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "New Delhi Tigers Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248003,
-      "status": "LIVE",
-      "startTime": "24 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248003_eng.sonuxs.m3u8"
-    },
     {
       "category": "Football",
       "title": "Ca Osasuna Vs Levante",
@@ -288,6 +277,17 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "New Delhi Tigers Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248003,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
