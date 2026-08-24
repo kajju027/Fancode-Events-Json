@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/8/2026, 6:11:23 am",
+  "updatedAt": "24/8/2026, 7:49:17 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248150,
-      "status": "LIVE",
-      "startTime": "24 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/240p.m3u8?hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/360p.m3u8?hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/480p.m3u8?hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/540p.m3u8?hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/720p.m3u8?hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB"
-          },
-          "cookie": "hdntl=Expires=1787616307~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWOdB8_ZqnMIKNvAmsiEbJJIbYnGNpc7oKSXECGzJZpuF-abc-rNMNtTd0dvBAYv-ZGKoqevpsctXo7y4H9UhMMB",
-          "expires": "1787616307",
-          "expire_date": "Tuesday, August 25, 2026, 5:35:07 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
@@ -448,12 +415,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Northern Territory Strike Vs Australian Capital Territory",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248434,
+      "title": "Baukh Night Riders Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248514,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 06:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg",
+      "startTime": "25 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -467,12 +434,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Baukh Night Riders Vs Bhagirathi Giants",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248514,
+      "title": "Northern Territory Strike Vs Australian Capital Territory",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248434,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
+      "startTime": "25 August 2026 06:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "25 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248295,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
