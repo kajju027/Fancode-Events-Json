@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 12:38:00 am",
+  "updatedAt": "25/8/2026, 12:38:18 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "New Delhi Tigers Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248003,
-      "status": "LIVE",
-      "startTime": "24 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/240p.m3u8?hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/360p.m3u8?hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/480p.m3u8?hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/540p.m3u8?hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/720p.m3u8?hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E"
-          },
-          "cookie": "hdntl=Expires=1787682370~_GO=Generated~acl=/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/*~Signature=ARB3KG1ViCi7nEYFtFA4L-VODVvCrtq-puXO5BRqH0-4P3UO-LnrPB9AfKAnIk8U9vCSE5UcExuwMsO3fPO7qskKl-8E",
-          "expires": "1787682370",
-          "expire_date": "Tuesday, August 25, 2026, 11:56:10 PM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Ca Osasuna Vs Levante",
@@ -530,6 +497,25 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "New Delhi Tigers Vs South Delhi Superstarz",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248003,
+      "status": "UPCOMING",
+      "startTime": "24 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
