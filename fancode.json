@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 1:24:05 am",
+  "updatedAt": "25/8/2026, 1:25:29 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Football",
@@ -122,25 +122,6 @@
           "expire_date": "Tuesday, August 25, 2026, 11:28:12 PM"
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Ca Osasuna Vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247579,
-      "status": "LIVE",
-      "startTime": "24 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247579_english_dash_10964_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_dash_10964_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247579_english_dash_10964_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247579_english_dash_10964_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247579_english_dash_10964_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -796,6 +777,25 @@
       "status": "UPCOMING",
       "startTime": "27 August 2026 12:15 AM",
       "image": "https://images.fancode.com/aig/match/v1787223454516/4248505_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid Vs Real Sociedad",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247571,
+      "status": "UPCOMING",
+      "startTime": "27 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247571_53004_RM_RS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
