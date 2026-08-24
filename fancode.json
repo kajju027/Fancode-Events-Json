@@ -1,10 +1,62 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 3:36:19 am",
+  "updatedAt": "25/8/2026, 3:39:21 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Málaga Vs Deportivo De La Coruna",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247587,
+      "status": "LIVE",
+      "startTime": "25 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247587_english_dash_21805_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247587_english_dash_21805_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247587_english_dash_21805_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247587_english_dash_21805_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247587_english_dash_21805_1drmta-di_h264/index.mpd",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Granada Vs Rcd Mallorca",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248395,
+      "status": "LIVE",
+      "startTime": "25 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/240p.m3u8?hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/360p.m3u8?hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/480p.m3u8?hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/540p.m3u8?hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/720p.m3u8?hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB"
+          },
+          "cookie": "hdntl=Expires=1787685970~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG25WMNyy_BgrBTwyxSuwDAkWJy7GD3D6h6CEwzYSc40mZP3wbNXh_GUt0mpkCjGVwOYKaCGUM06t3VOPcjV3uoB",
+          "expires": "1787685970",
+          "expire_date": "Wednesday, August 26, 2026, 12:56:10 AM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "World Feed",
@@ -477,12 +529,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248001,
+      "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248295,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "26 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -496,12 +548,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248295,
+      "title": "Tbc Vs Tbc",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248001,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
+      "startTime": "26 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -730,44 +782,6 @@
       "status": "UPCOMING",
       "startTime": "27 August 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1787223454513/4248506_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 250   Winston Salem Open 2026",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248153,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Trinbago Knight Riders Vs Saint Lucia Kings",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248298,
-      "status": "UPCOMING",
-      "startTime": "27 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
