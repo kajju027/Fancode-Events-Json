@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/8/2026, 11:21:49 pm",
+  "updatedAt": "24/8/2026, 11:24:27 pm",
   "total_matches": 41,
-  "live_matches": 7,
-  "upcoming_matches": 35,
+  "live_matches": 5,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -65,22 +65,11 @@
       "title": "Al Ittihad Vs Al Hazem Fc",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": 4248276,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "24 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248276_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248151,
-      "status": "LIVE",
-      "startTime": "24 August 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248151_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -138,6 +127,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Granada Vs Rcd Mallorca",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248395,
+      "status": "UPCOMING",
+      "startTime": "25 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Rawain Royals Vs Baragaddi Kings",
       "tournament": "Uttarkashi T20 League 2026",
@@ -149,13 +149,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Granada Vs Rcd Mallorca",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248395,
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248151,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248395_53017_GRD_MRC_FC-Web.png",
+      "startTime": "24 August 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": null,
       "cnptv_cdn": null
     },
