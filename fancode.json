@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/8/2026, 9:52:53 pm",
+  "updatedAt": "24/8/2026, 10:00:13 pm",
   "total_matches": 41,
-  "live_matches": 3,
-  "upcoming_matches": 39,
+  "live_matches": 4,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -105,42 +105,37 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Rawain Royals Vs Taknor Tigers",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248513,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Neom Sc Vs Al Qadisiyah",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": 4248275,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "24 August 2026 10:10 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/240p.m3u8?hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/360p.m3u8?hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/480p.m3u8?hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/540p.m3u8?hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/720p.m3u8?hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA"
+          },
+          "cookie": "hdntl=Expires=1787589096~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG0E5__48UlGyygujXaXziQYyCVmSxZ4jTSnsyF5tONITORHQiPwTp0s36OqYSQpKc5P_6z3gyrOhjjcimMjhwIA",
+          "expires": "1787589096",
+          "expire_date": "Monday, August 24, 2026, 10:01:36 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -181,6 +176,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Kashi Rudras",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248354,
+      "status": "UPCOMING",
+      "startTime": "25 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Ca Osasuna Vs Levante",
       "tournament": "LALIGA 2026-27",
@@ -207,25 +221,6 @@
       "status": "UPCOMING",
       "startTime": "24 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Lucknow Falcons Vs Kashi Rudras",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248354,
-      "status": "UPCOMING",
-      "startTime": "25 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -815,6 +810,25 @@
       "status": "UPCOMING",
       "startTime": "26 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Newcastle United Vs West Bromwich Albion F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248504,
+      "status": "UPCOMING",
+      "startTime": "27 August 2026 12:15 AM",
+      "image": "https://images.fancode.com/aig/match/v1787223454512/4248504_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
