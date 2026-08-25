@@ -1,10 +1,128 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/8/2026, 2:29:05 am",
+  "updatedAt": "26/8/2026, 2:29:25 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Ipswich Town F.c. Vs Leicester City F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248497,
+      "status": "LIVE",
+      "startTime": "26 August 2026 12:15 AM",
+      "image": "https://images.fancode.com/aig/match/v1787223454513/4248497_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/240p.m3u8?hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/360p.m3u8?hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/480p.m3u8?hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/540p.m3u8?hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/720p.m3u8?hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM"
+          },
+          "cookie": "hdntl=Expires=1787769436~_GO=Generated~acl=/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/*~Signature=ARB3KG1GYaTpDS4sF7_eHD2cww5vfb4sahZTTTJNO6u29OhIK5uqXu2kwQVjt8u3RBzjB-jEt4Sb3pvGapZ7_V1cKukM",
+          "expires": "1787769436",
+          "expire_date": "Thursday, August 27, 2026, 12:07:16 AM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Plymouth Argyle Vs Coventry City F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248498,
+      "status": "LIVE",
+      "startTime": "26 August 2026 12:15 AM",
+      "image": "https://images.fancode.com/aig/match/v1787223454516/4248498_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/240p.m3u8?hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/360p.m3u8?hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/480p.m3u8?hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/540p.m3u8?hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/720p.m3u8?hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J"
+          },
+          "cookie": "hdntl=Expires=1787769445~_GO=Generated~acl=/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/*~Signature=ARB3KG06XXs9dJ5K0rKcLY4fiN1Vj6nlW8z5BniU1-LwjTC_N-GjCyEzDyRrM6UlYDPx0NkvXK7igrdLwt1OZrdMLJ4J",
+          "expires": "1787769445",
+          "expire_date": "Thursday, August 27, 2026, 12:07:25 AM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Sheffield Wednesday F.c. Vs Wolverhampton Wanderers F.c.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248499,
+      "status": "LIVE",
+      "startTime": "26 August 2026 12:15 AM",
+      "image": "https://images.fancode.com/aig/match/v1787223454513/4248499_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/240p.m3u8?hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/360p.m3u8?hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/480p.m3u8?hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/540p.m3u8?hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/720p.m3u8?hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP"
+          },
+          "cookie": "hdntl=Expires=1787769106~_GO=Generated~acl=/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/*~Signature=ARB3KG0VHQOkHr6cbpFbpF1h0n2s0PG1RTr0VfVIGTO3CdVUm-wsPIEp4HmyT-bJIKLBm8lvhCnAKgRMKyl0IwNC0VIP",
+          "expires": "1787769106",
+          "expire_date": "Thursday, August 27, 2026, 12:01:46 AM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Southampton F.c. Vs West Ham United",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248500,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 12:15 AM",
+      "image": "https://images.fancode.com/aig/match/v1787223454494/4248500_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
     {
       "category": "Football",
       "title": "Stoke City F.c. Vs Hull City",
@@ -734,82 +852,6 @@
       "status": "UPCOMING",
       "startTime": "27 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 250   Winston Salem Open 2026",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248154,
-      "status": "UPCOMING",
-      "startTime": "27 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "World Feed   Day 1",
-      "tournament": "TOUR Championship 2026",
-      "match_id": 4248418,
-      "status": "UPCOMING",
-      "startTime": "27 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Australian Capital Territory Vs Hobart Hurricanes Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248446,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 06:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248446_53036_ACT_HHA_fc-web_1787393618578.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248292,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
