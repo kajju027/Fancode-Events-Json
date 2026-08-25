@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 10:27:17 am",
+  "updatedAt": "25/8/2026, 1:21:42 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Baukh Night Riders Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248514,
+      "status": "LIVE",
+      "startTime": "25 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/240p.m3u8?hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/360p.m3u8?hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/480p.m3u8?hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/540p.m3u8?hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/720p.m3u8?hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF"
+          },
+          "cookie": "hdntl=Expires=1787644594~_GO=Generated~acl=/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/*~Signature=ARB3KG3Lf4FRol0zBZZWfwRSubZEOQD7GLE4ob9DOwhm26pr1YrgQWtTqkE9l8q99aIZNSeVlKtBrW2oKr-1NziN6XYF",
+          "expires": "1787644594",
+          "expire_date": "Tuesday, August 25, 2026, 1:26:34 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Hyderabad Kingsmen Academy Vs New Zealand A",
@@ -35,6 +68,39 @@
           "cookie": "hdntl=Expires=1787719872~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG17_EHR0mKdfnXHiR3F1eo2-0hRpLyBhNYnjqMYfCeF4cEMxwpniGT9bwVmYzrVy3JHq8MtJwGBfOImNvhAaGML",
           "expires": "1787719872",
           "expire_date": "Wednesday, August 26, 2026, 10:21:12 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "East Delhi Riders Women Vs North Delhi Strikers Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247554,
+      "status": "LIVE",
+      "startTime": "25 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/240p.m3u8?hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/360p.m3u8?hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/480p.m3u8?hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/540p.m3u8?hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/720p.m3u8?hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC"
+          },
+          "cookie": "hdntl=Expires=1787644596~_GO=Generated~acl=/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/*~Signature=ARB3KG01Si2sTDwiiBU2a1roCq7SKBj-dWd4rV6HB23biTL7XBO30oqB0hmPnXz_oFXWPXU4ZCOEM7JwCgEBY3_3EMkC",
+          "expires": "1787644596",
+          "expire_date": "Tuesday, August 25, 2026, 1:26:36 PM"
         }
       }
     },
@@ -84,25 +150,6 @@
       "status": "UPCOMING",
       "startTime": "25 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Baukh Night Riders Vs Bhagirathi Giants",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248514,
-      "status": "UPCOMING",
-      "startTime": "25 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -363,12 +410,31 @@
     },
     {
       "category": "Cricket",
-      "title": "East Delhi Riders Women Vs North Delhi Strikers Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247554,
+      "title": "Taknor Tigers Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248516,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png",
+      "startTime": "26 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248005,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -400,13 +466,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Taknor Tigers Vs Bhagirathi Giants",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248516,
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248152,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+      "startTime": "25 August 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -419,13 +485,51 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp 250   Winston Salem Open 2026",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248152,
+      "category": "Cricket",
+      "title": "Noida Kings Vs Kashi Rudras",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248356,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "startTime": "26 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248295,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "New Zealand A Vs Victoria Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248441,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 06:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -496,69 +600,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248295,
+      "title": "Someshwar Warriors Vs Baukh Night Riders",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248517,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248295_53026_ABF_BT_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "New Zealand A Vs Victoria Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248441,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 06:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248005,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Kashi Rudras",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248356,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+      "startTime": "26 August 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -578,25 +625,6 @@
       "status": "UPCOMING",
       "startTime": "26 August 2026 10:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Someshwar Warriors Vs Baukh Night Riders",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248517,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
