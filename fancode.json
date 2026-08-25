@@ -1,76 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 3:03:06 pm",
-  "total_matches": 41,
-  "live_matches": 5,
-  "upcoming_matches": 37,
+  "updatedAt": "25/8/2026, 3:03:53 pm",
+  "total_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248355,
-      "status": "LIVE",
-      "startTime": "25 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-      "language": "HINDI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/240p.m3u8?hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/360p.m3u8?hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/480p.m3u8?hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/540p.m3u8?hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/720p.m3u8?hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P"
-          },
-          "cookie": "hdntl=Expires=1787736638~_GO=Generated~acl=/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/*~Signature=ARB3KG2mxn0L_IinB3_UzLT-8DpVTeaG90UAqX57p5uptTOmwqG-OBkDKp6nEqxpG24n3ZMdlpuCPYFDr-EHo2R5Sd0P",
-          "expires": "1787736638",
-          "expire_date": "Wednesday, August 26, 2026, 3:00:38 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248355,
-      "status": "LIVE",
-      "startTime": "25 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
-      "language": "BHOJPURI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "BHOJPURI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/240p.m3u8?hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/360p.m3u8?hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/480p.m3u8?hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/540p.m3u8?hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/720p.m3u8?hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG"
-          },
-          "cookie": "hdntl=Expires=1787736646~_GO=Generated~acl=/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/*~Signature=ARB3KG1tdAuLv3Q0E1iCNpa8vzFJVD4VHENB9JpNJIR-vhUcyd1X9Ud7CzzRthjqjeQ-exFI1bIAX__DKzfEY71D4QIG",
-          "expires": "1787736646",
-          "expire_date": "Wednesday, August 26, 2026, 3:00:46 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Baukh Night Riders Vs Bhagirathi Giants",
@@ -139,19 +73,19 @@
     },
     {
       "category": "Cricket",
-      "title": "Bangladesh Hp Xi Vs Adelaide Strikers Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248433,
-      "status": "LIVE",
+      "title": "Kanpur Superstars Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248355,
+      "status": "UPCOMING",
       "startTime": "25 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
       "auto_streams": {}
@@ -443,6 +377,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Adelaide Strikers Academy Vs Bangladesh Hp Xi",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248433,
+      "status": "UPCOMING",
+      "startTime": "25 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Taknor Tigers Vs Bhagirathi Giants",
       "tournament": "Uttarkashi T20 League 2026",
       "match_id": 4248516,
@@ -519,25 +472,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Someshwar Warriors Vs Baukh Night Riders",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248517,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248295,
@@ -563,6 +497,25 @@
       "status": "UPCOMING",
       "startTime": "26 August 2026 06:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Someshwar Warriors Vs Baukh Night Riders",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248517,
+      "status": "UPCOMING",
+      "startTime": "26 August 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
