@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/8/2026, 2:44:50 am",
+  "updatedAt": "26/8/2026, 2:46:18 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Nottingham Forest Vs Leeds United",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": 4248503,
+      "status": "LIVE",
+      "startTime": "26 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1787223454512/4248503_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/240p.m3u8?hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/360p.m3u8?hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/480p.m3u8?hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/540p.m3u8?hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/720p.m3u8?hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B"
+          },
+          "cookie": "hdntl=Expires=1787770272~_GO=Generated~acl=/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/*~Signature=ARB3KG3pbbglppmbs8LYgPHaHeIWHKaGjVp-QYis1cqoaJQEnYB4r0DOWrUSv-SshVF-L1faY5s-Hyl2Py-tq6D7K34B",
+          "expires": "1787770272",
+          "expire_date": "Thursday, August 27, 2026, 12:21:12 AM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "World Feed",
@@ -749,25 +782,6 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Rawain Royals Vs Baukh Night Riders",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248520,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248520_53041_RR_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
