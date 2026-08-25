@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 6:59:01 pm",
+  "updatedAt": "25/8/2026, 7:08:33 pm",
   "total_matches": 41,
-  "live_matches": 5,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -136,25 +136,6 @@
           "expire_date": "Wednesday, August 26, 2026, 5:56:10 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Adelaide Strikers Academy Vs Bangladesh Hp Xi",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248433,
-      "status": "LIVE",
-      "startTime": "25 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -480,6 +461,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Adelaide Strikers Academy Vs Bangladesh Hp Xi",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248433,
+      "status": "UPCOMING",
+      "startTime": "25 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP 250 - Winston-Salem Open 2026",
@@ -544,25 +544,6 @@
       "status": "UPCOMING",
       "startTime": "26 August 2026 10:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "New Delhi Tigers Vs South Delhi Superstarz",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248003,
-      "status": "UPCOMING",
-      "startTime": "24 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -829,6 +810,25 @@
       "status": "UPCOMING",
       "startTime": "27 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "KPMG Women’s Irish Open 2026",
+      "match_id": 4248323,
+      "status": "UPCOMING",
+      "startTime": "27 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
