@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 5:57:53 pm",
+  "updatedAt": "25/8/2026, 6:52:54 pm",
   "total_matches": 41,
-  "live_matches": 4,
-  "upcoming_matches": 38,
+  "live_matches": 5,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -73,6 +73,39 @@
     },
     {
       "category": "Cricket",
+      "title": "Purani Dilli 6 Vs East Delhi Riders",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248004,
+      "status": "LIVE",
+      "startTime": "25 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/240p.m3u8?hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/360p.m3u8?hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/480p.m3u8?hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/540p.m3u8?hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/720p.m3u8?hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP"
+          },
+          "cookie": "hdntl=Expires=1787664275~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG1AfS8zq8Q3cZ8JPUZZoMZUCrk_QjCrtYv3vaeB0lcenolUvdCMbxJO8PIHv4HW-5_SUJyKqzWHpSNmwbCNDQMP",
+          "expires": "1787664275",
+          "expire_date": "Tuesday, August 25, 2026, 6:54:35 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Rawain Royals Vs Baragaddi Kings",
       "tournament": "Uttarkashi T20 League 2026",
       "match_id": 4248515,
@@ -119,25 +152,6 @@
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
         "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Purani Dilli 6 Vs East Delhi Riders",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248004,
-      "status": "UPCOMING",
-      "startTime": "25 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
         "backup": {}
       },
       "auto_streams": {}
@@ -391,12 +405,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Taknor Tigers Vs Bhagirathi Giants",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248516,
+      "title": "Tbc Vs Tbc",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248005,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+      "startTime": "26 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -410,12 +424,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248005,
+      "title": "Taknor Tigers Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248516,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "26 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
