@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/8/2026, 10:18:10 am",
+  "updatedAt": "25/8/2026, 10:18:25 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Hyderabad Kingsmen Academy Vs New Zealand A",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248440,
+      "status": "LIVE",
+      "startTime": "25 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/240p.m3u8?hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/360p.m3u8?hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/480p.m3u8?hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/540p.m3u8?hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/720p.m3u8?hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG"
+          },
+          "cookie": "hdntl=Expires=1787633377~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG3ntUss2sUpLNc-Ol7zfjypSgNo1Hf-1EkH7LqJ_jZrkLxkTNT8-ReYuMclRTrp7NW4gjTcBfwpJIjRWCbTVqkG",
+          "expires": "1787633377",
+          "expire_date": "Tuesday, August 25, 2026, 10:19:37 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Kanpur Superstars Vs Meerut Mavericks",
@@ -311,12 +344,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Hyderabad Kingsmen Academy Vs New Zealand A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248440,
+      "title": "Gaur Gorakhpur Lions Vs Kanpur Superstars",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248357,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+      "startTime": "26 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -367,13 +400,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Gaur Gorakhpur Lions Vs Kanpur Superstars",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248357,
+      "category": "Tennis",
+      "title": "Atp 250   Winston Salem Open 2026",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248152,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
+      "startTime": "25 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -386,13 +419,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp 250   Winston Salem Open 2026",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248152,
+      "category": "Cricket",
+      "title": "Taknor Tigers Vs Bhagirathi Giants",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248516,
       "status": "UPCOMING",
-      "startTime": "25 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "startTime": "26 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -463,25 +496,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Taknor Tigers Vs Bhagirathi Giants",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248516,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Antigua & Barbuda Falcons Vs Barbados Tridents",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248295,
@@ -539,12 +553,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Adelaide Strikers Academy Vs Hobart Hurricanes Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248442,
+      "title": "Noida Kings Vs Kashi Rudras",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248356,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 10:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
+      "startTime": "26 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -558,12 +572,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Noida Kings Vs Kashi Rudras",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248356,
+      "title": "Adelaide Strikers Academy Vs Hobart Hurricanes Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248442,
       "status": "UPCOMING",
-      "startTime": "26 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
+      "startTime": "26 August 2026 10:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
