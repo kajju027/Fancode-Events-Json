@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/8/2026, 11:55:45 am",
+  "updatedAt": "27/8/2026, 12:35:42 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Hyderabad Kingsmen Academy Vs Nepal A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248447,
-      "status": "LIVE",
-      "startTime": "27 August 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248447_53036_HYK_NEP_fc-web_1787393618627.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/240p.m3u8?hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/360p.m3u8?hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/480p.m3u8?hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/540p.m3u8?hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/720p.m3u8?hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ"
-          },
-          "cookie": "hdntl=Expires=1787887572~_GO=Generated~acl=/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/*~Signature=ARB3KG36TN16LFrthDPktABZJ_ky4IrkjnKvYXytKTd1Fz-XI-nxff6o9W9vbWmxcYz7x89O5YECAr84CyJghuvuP4kJ",
-          "expires": "1787887572",
-          "expire_date": "Friday, August 28, 2026, 8:56:12 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Bangladesh Hp Xi Vs New Zealand A",
@@ -363,6 +330,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Central Delhi Kings Vs Purani Dilli 6",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4248006,
+      "status": "UPCOMING",
+      "startTime": "28 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248006_53005_CDK_PD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248292,
@@ -458,25 +444,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Central Delhi Kings Vs Purani Dilli 6",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4248006,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248006_53005_CDK_PD_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Kashi Rudras Vs Noida Kings",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": 4248341,
@@ -553,12 +520,12 @@
     },
     {
       "category": "Cricket",
-      "title": "South Delhi Superstarz Women Vs East Delhi Riders Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247556,
+      "title": "Denmark Women Vs Sweden Women",
+      "tournament": "Nordic Women's T20I Cup 2026",
+      "match_id": 4248580,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
+      "startTime": "28 August 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -572,12 +539,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Denmark Women Vs Sweden Women",
-      "tournament": "Nordic Women's T20I Cup 2026",
-      "match_id": 4248580,
+      "title": "South Delhi Superstarz Women Vs East Delhi Riders Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247556,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+      "startTime": "28 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -685,13 +652,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "KPMG Women’s Irish Open 2026",
-      "match_id": 4248324,
+      "category": "Football",
+      "title": "Wrexham A.f.c. Vs Birmingham City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247476,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+      "startTime": "29 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1784709183100/4247476_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -704,13 +671,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Wrexham A.f.c. Vs Birmingham City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247476,
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "KPMG Women’s Irish Open 2026",
+      "match_id": 4248324,
       "status": "UPCOMING",
-      "startTime": "29 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784709183100/4247476_CASACARDS_SPORTY_APP.png",
+      "startTime": "28 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -768,6 +735,25 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248400_53017_TFE_SG_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Winston Salem Open 2026",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248155,
+      "status": "UPCOMING",
+      "startTime": "28 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
