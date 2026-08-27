@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/8/2026, 9:43:31 am",
+  "updatedAt": "27/8/2026, 9:52:18 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Victoria Academy Vs Northern Territory Strike",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248438,
-      "status": "LIVE",
-      "startTime": "27 August 2026 06:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248438_53036_NTS_VA_fc-web_1787393618683.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/240p.m3u8?hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/360p.m3u8?hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/480p.m3u8?hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/540p.m3u8?hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/720p.m3u8?hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA"
-          },
-          "cookie": "hdntl=Expires=1787879953~_GO=Generated~acl=/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/*~Signature=ARB3KG0frB6N6G9C8mZoGDLcUEH44qNxHfkwdHM-fKcu-C9Zi4fdZw-FsGyn3WDrM3kEei1GlgsVWcbV5tpRauaYwGUA",
-          "expires": "1787879953",
-          "expire_date": "Friday, August 28, 2026, 6:49:13 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Hyderabad Kingsmen Academy Vs Nepal A",
@@ -333,13 +300,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Atp 250   Winston Salem Open 2026",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248154,
+      "category": "Cricket",
+      "title": "Northern Territory Strike Vs Bangladesh Hp Xi",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248445,
       "status": "UPCOMING",
-      "startTime": "27 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "startTime": "28 August 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -352,13 +319,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Northern Territory Strike Vs Bangladesh Hp Xi",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248445,
+      "category": "Tennis",
+      "title": "Atp 250   Winston Salem Open 2026",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248154,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg",
+      "startTime": "27 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Tenerife Vs Sporting De Gijón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248400,
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248400_53017_TFE_SG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
