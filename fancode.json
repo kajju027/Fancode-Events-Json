@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 12:04:16 am",
+  "updatedAt": "28/8/2026, 12:04:37 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Football",
@@ -70,6 +70,25 @@
           "expire_date": "Friday, August 28, 2026, 11:56:10 PM"
         }
       }
+    },
+    {
+      "category": "Football",
+      "title": "Fc Barcelona Vs Athletic Club",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247569,
+      "status": "LIVE",
+      "startTime": "28 August 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247569_53004_BAR_ATH_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -169,25 +188,6 @@
           "expire_date": "Friday, August 28, 2026, 11:21:09 PM"
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Fc Barcelona Vs Athletic Club",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247569,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247569_53004_BAR_ATH_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Football",
