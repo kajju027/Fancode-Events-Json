@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 4:14:00 am",
+  "updatedAt": "28/8/2026, 5:26:18 am",
   "total_matches": 40,
   "live_matches": 6,
   "upcoming_matches": 35,
@@ -64,14 +64,7 @@
       "startTime": "27 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
       "language": "ENGLISH",
-      "streams": {
-        "240p": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/240p.m3u8?hdntl=Expires=1787936243~_GO=Generated~acl=/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/*~Signature=ARB3KG1jI6E2gT5suphm78BMTDPoVH6NacIYEM7j-yIdXz9qJ8qq0NUvaRtPv80kd2pyhaMMc9ApN3lrpF-nyk5oPeIB",
-        "360p": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/360p.m3u8?hdntl=Expires=1787936243~_GO=Generated~acl=/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/*~Signature=ARB3KG1jI6E2gT5suphm78BMTDPoVH6NacIYEM7j-yIdXz9qJ8qq0NUvaRtPv80kd2pyhaMMc9ApN3lrpF-nyk5oPeIB",
-        "480p": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/480p.m3u8?hdntl=Expires=1787936243~_GO=Generated~acl=/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/*~Signature=ARB3KG1jI6E2gT5suphm78BMTDPoVH6NacIYEM7j-yIdXz9qJ8qq0NUvaRtPv80kd2pyhaMMc9ApN3lrpF-nyk5oPeIB",
-        "540p": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/540p.m3u8?hdntl=Expires=1787936243~_GO=Generated~acl=/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/*~Signature=ARB3KG1jI6E2gT5suphm78BMTDPoVH6NacIYEM7j-yIdXz9qJ8qq0NUvaRtPv80kd2pyhaMMc9ApN3lrpF-nyk5oPeIB",
-        "720p": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/720p.m3u8?hdntl=Expires=1787936243~_GO=Generated~acl=/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/*~Signature=ARB3KG1jI6E2gT5suphm78BMTDPoVH6NacIYEM7j-yIdXz9qJ8qq0NUvaRtPv80kd2pyhaMMc9ApN3lrpF-nyk5oPeIB",
-        "1080p5": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787936243~_GO=Generated~acl=/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/*~Signature=ARB3KG1jI6E2gT5suphm78BMTDPoVH6NacIYEM7j-yIdXz9qJ8qq0NUvaRtPv80kd2pyhaMMc9ApN3lrpF-nyk5oPeIB"
-      },
+      "streams": {},
       "cdn_streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/index.m3u8",
@@ -95,7 +88,7 @@
         }
       },
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248418_eng.sonuxs.m3u8",
-      "src1_stream": true
+      "src1_stream": false
     },
     {
       "category": "Tennis",
