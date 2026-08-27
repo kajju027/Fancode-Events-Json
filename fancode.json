@@ -1,28 +1,42 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/8/2026, 5:05:11 pm",
+  "updatedAt": "27/8/2026, 5:51:05 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Rawain Royals Vs Bhagirathi Giants",
+      "title": "Taknor Tigers Vs Someshwar Warriors",
       "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248518,
-      "status": "UPCOMING",
-      "startTime": "27 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248518_53041_RR_BG_FC-Web.jpg",
+      "match_id": 4248519,
+      "status": "LIVE",
+      "startTime": "27 August 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248519_53041_TT_SW_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/240p.m3u8?hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/360p.m3u8?hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/480p.m3u8?hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/540p.m3u8?hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/720p.m3u8?hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ"
+          },
+          "cookie": "hdntl=Expires=1787833479~_GO=Generated~acl=/mumbai/4248519_english_hls_fbb0df8fef79627_1ta-di_h264/*~Signature=ARB3KG0bPutleIVU6ZBiuSdNVwNvM79b2LPfA7AlYZtzp7jCoYZawkXxi7XVrjNr8Y-xftTDCL9mgkoEbca_INv_E_MJ",
+          "expires": "1787833479",
+          "expire_date": "Thursday, August 27, 2026, 5:54:39 PM"
+        }
+      }
     },
     {
       "category": "Live Events",
@@ -56,25 +70,6 @@
           "expire_date": "Friday, August 28, 2026, 2:54:57 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Taknor Tigers Vs Someshwar Warriors",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248519,
-      "status": "UPCOMING",
-      "startTime": "27 August 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248519_53041_TT_SW_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Football",
@@ -325,6 +320,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Denmark Women Vs Sweden Women",
+      "tournament": "Nordic Women's T20I Cup 2026",
+      "match_id": 4248580,
+      "status": "UPCOMING",
+      "startTime": "28 August 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "North Delhi Strikers Women Vs Central Delhi Queens",
       "tournament": "Women's Delhi Premier League, 2026",
       "match_id": 4247557,
@@ -420,25 +434,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Denmark Women Vs Sweden Women",
-      "tournament": "Nordic Women's T20I Cup 2026",
-      "match_id": 4248580,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248292,
@@ -514,13 +509,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Women Vs East Delhi Riders Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247556,
+      "category": "Football",
+      "title": "Racing Club De Santander Vs Elche Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247595,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
+      "startTime": "28 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247595_53004_RAC_ELC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -533,13 +528,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Racing Club De Santander Vs Elche Cf",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247595,
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Women Vs East Delhi Riders Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247556,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247595_53004_RAC_ELC_FC-Web.png",
+      "startTime": "28 August 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -590,13 +585,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Namibia Vs South Africa",
-      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
-      "match_id": 4248457,
+      "category": "Football",
+      "title": "Wrexham A.f.c. Vs Birmingham City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247476,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "29 August 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1784709183100/4247476_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -609,13 +604,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Wrexham A.f.c. Vs Birmingham City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247476,
+      "category": "Cricket",
+      "title": "Namibia Vs South Africa",
+      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
+      "match_id": 4248457,
       "status": "UPCOMING",
-      "startTime": "29 August 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784709183100/4247476_CASACARDS_SPORTY_APP.png",
+      "startTime": "28 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -768,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 09:00 AM",
       "image": "https://images.fancode.com/aig/match/v1787120232586/4248450_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Trinbago Knight Riders Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248301,
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
