@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/8/2026, 2:37:43 pm",
+  "updatedAt": "27/8/2026, 3:08:36 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -68,6 +68,39 @@
           "cookie": "hdntl=Expires=1787903890~_GO=Generated~acl=/mumbai/4248518_english_hls_0f1780855f99586_1ta-di_h264/*~Signature=ARB3KG0S1rRPd-ykYjK08mwQCACpQDVNJ3-Ws-SyXBqu5c0FWSOC1pqh8sUIQ3e4p_RFRbMv4Fmz2C0zoR_PiLk-jEEI",
           "expires": "1787903890",
           "expire_date": "Friday, August 28, 2026, 1:28:10 PM"
+        }
+      }
+    },
+    {
+      "category": "Live Events",
+      "title": "Dehradun T20 League 2026",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": 4248808,
+      "status": "LIVE",
+      "startTime": "27 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dehradun-T20-League_Auction_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/240p.m3u8?hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/360p.m3u8?hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/480p.m3u8?hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/540p.m3u8?hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/720p.m3u8?hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K"
+          },
+          "cookie": "hdntl=Expires=1787909097~_GO=Generated~acl=/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/*~Signature=ARB3KG0XP79aEMVJO-SM1zdrfU1LvP_40-q_QJfrR4s0ifxTmswRmCMgrUilFL7Gt5Apq1jxpCK86iTQQC7SMduiYb4K",
+          "expires": "1787909097",
+          "expire_date": "Friday, August 28, 2026, 2:54:57 PM"
         }
       }
     },
@@ -205,25 +238,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Dehradun T20 League 2026",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": 4248808,
-      "status": "UPCOMING",
-      "startTime": "27 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Northern Territory Strike Vs Bangladesh Hp Xi",
       "tournament": "Top End T20 Series, 2026",
@@ -288,6 +302,25 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248006_53005_CDK_PD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Yalla Shabab Giants Vs Mustafa Fragrance House Strikers",
+      "tournament": "Oman D50 2026",
+      "match_id": 4248664,
+      "status": "UPCOMING",
+      "startTime": "28 August 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -376,6 +409,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Baragaddi Kings Vs Taknor Tigers",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248521,
+      "status": "UPCOMING",
+      "startTime": "28 August 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248521_53041_BK_TT_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "World Feed   Day 1",
       "tournament": "TOUR Championship 2026",
@@ -415,69 +467,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Baragaddi Kings Vs Taknor Tigers",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248521,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248521_53041_BK_TT_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": 4248292,
       "status": "UPCOMING",
       "startTime": "28 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Yalla Shabab Giants Vs Mustafa Fragrance House Strikers",
-      "tournament": "Oman D50 2026",
-      "match_id": 4248664,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248357,
-      "status": "UPCOMING",
-      "startTime": "26 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -604,25 +599,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Namibia Vs South Africa",
-      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
-      "match_id": 4248457,
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Al Khaleej Fc Vs Al Hilal Sfc",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -661,6 +637,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Namibia Vs South Africa",
+      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
+      "match_id": 4248457,
+      "status": "UPCOMING",
+      "startTime": "28 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Wrexham A.f.c. Vs Birmingham City F.c.",
       "tournament": "EFL Championship 2026-27",
@@ -680,13 +675,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "KPMG Women’s Irish Open 2026",
-      "match_id": 4248324,
+      "category": "Football",
+      "title": "Deportivo Alaves Vs Villarreal Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247596,
       "status": "UPCOMING",
-      "startTime": "28 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+      "startTime": "29 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247596_53004_ALA_VIL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -699,13 +694,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Deportivo Alaves Vs Villarreal Cf",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247596,
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "KPMG Women’s Irish Open 2026",
+      "match_id": 4248324,
       "status": "UPCOMING",
-      "startTime": "29 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247596_53004_ALA_VIL_FC-Web.png",
+      "startTime": "28 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -782,6 +777,25 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Academy Vs New Zealand A",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248455,
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 06:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232581/4248455_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
