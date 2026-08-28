@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "28/8/2026, 11:52:55 pm",
+  "updatedAt": "29/8/2026, 12:17:10 am",
   "total_matches": 41,
-  "live_matches": 7,
-  "upcoming_matches": 35,
+  "live_matches": 9,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -98,9 +98,20 @@
       "title": "Wrexham A.f.c. Vs Birmingham City F.c.",
       "tournament": "EFL Championship 2026-27",
       "match_id": "4247476",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784709183100/4247476_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247476_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo Alaves Vs Villarreal Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247596",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247596_53004_ALA_VIL_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -120,11 +131,11 @@
       "title": "Tenerife Vs Sporting De Gijón",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4248400",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248400_53017_TFE_SG_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248400_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -134,17 +145,6 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 06:00 AM",
       "image": "https://images.fancode.com/aig/match/v1787120232581/4248455_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Deportivo Alaves Vs Villarreal Cf",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247596",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247596_53004_ALA_VIL_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -325,17 +325,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "MotoGP",
-      "title": "Aragon Gp",
-      "tournament": "GRAND PRIX OF ARAGON 2026",
-      "match_id": "139964",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 12:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Girona Fc Vs Las Palmas",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -343,6 +332,17 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 01:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "MotoGP",
+      "title": "Aragon Gp",
+      "tournament": "GRAND PRIX OF ARAGON 2026",
+      "match_id": "139964",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 12:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -402,17 +402,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Atp 250   Winston Salem Open 2026",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": "4248156",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 10:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "Top End T20 Series, 2026",
@@ -420,6 +409,17 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 06:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Winston Salem Open 2026",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": "4248156",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 10:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": null,
       "cnptv_cdn": null
     },
