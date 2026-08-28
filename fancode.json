@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 8:39:55 am",
+  "updatedAt": "28/8/2026, 8:50:11 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -46,6 +46,41 @@
       },
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248446_eng.sonuxs.m3u8",
       "src1_stream": true
+    },
+    {
+      "category": "Cricket",
+      "title": "Adelaide Strikers Academy Vs Hyderabad Kingsmen Academy",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": "4248453",
+      "status": "LIVE",
+      "startTime": "28 August 2026 09:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1787120232584/4248453_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {},
+      "cdn_streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/index.m3u8"
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/240p.m3u8?hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/360p.m3u8?hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/480p.m3u8?hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/540p.m3u8?hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/720p.m3u8?hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK"
+          },
+          "cookie": "hdntl=Expires=1787887479~_GO=Generated~acl=/mumbai/4248453_english_hls_228c8b14715168_1ta-di_h264/*~Signature=ARB3KG2EJBp3syK8HKsP9dIWb0NaROdSknMcyexxpm5p44EtEVbBHLUUPVL19yTWU6wZ2uQZtm3iYCJg_yxy0GWE2-AK",
+          "expires": "1787887479",
+          "expire_date": "Friday, August 28, 2026, 8:54:39 AM"
+        }
+      },
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248453_eng.sonuxs.m3u8",
+      "src1_stream": false
     },
     {
       "category": "Cricket",
@@ -107,16 +142,6 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248341_53029_KAS_NOI_FC-Web_1786702851696.png",
-      "language": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Adelaide Strikers Academy Vs Hyderabad Kingsmen Academy",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": "4248453",
-      "status": "UPCOMING",
-      "startTime": "28 August 2026 09:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232584/4248453_CASACARDS_SPORTY_APP.png",
       "language": null
     },
     {
@@ -310,6 +335,16 @@
       "language": null
     },
     {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248347",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png",
+      "language": null
+    },
+    {
       "category": "Tennis",
       "title": "Atp 250   Winston Salem Open 2026",
       "tournament": "ATP 250 - Winston-Salem Open 2026",
@@ -327,16 +362,6 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
-      "language": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248347",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png",
       "language": null
     },
     {
