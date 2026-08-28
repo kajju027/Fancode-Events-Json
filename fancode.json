@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 3:57:58 pm",
+  "updatedAt": "28/8/2026, 4:08:12 pm",
   "total_matches": 40,
   "live_matches": 6,
-  "upcoming_matches": 34,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -49,27 +49,13 @@
       "language": "ENGLISH",
       "streams": {
         "primary": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787989703~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG0LQhl0qrw3YX5g3krmXAAtzPUSnUvZZ4O4G_RpJX2s8tMy1Bi1YQklSIKqu5UAU5hwjGWnDZbbNhDPz-jB7KwI",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787989703~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG0LQhl0qrw3YX5g3krmXAAtzPUSnUvZZ4O4G_RpJX2s8tMy1Bi1YQklSIKqu5UAU5hwjGWnDZbbNhDPz-jB7KwI",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/240p.m3u8?hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/360p.m3u8?hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/480p.m3u8?hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/540p.m3u8?hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/720p.m3u8?hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB"
-          },
-          "cookie": "hdntl=Expires=1787990291~_GO=Generated~acl=/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/*~Signature=ARB3KG37FrRGZ2eVSZ6sVA07nSfUW1duoDKvhfz9zxwoQPWmyQHSXQMoy5O-DAVHidzEJipJxjbCVXWZrIZnpRQAqcgB",
-          "expires": "1787990291",
-          "expire_date": "Saturday, August 29, 2026, 1:28:11 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
