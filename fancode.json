@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 4:46:45 am",
+  "updatedAt": "29/8/2026, 5:04:30 am",
   "total_matches": 40,
-  "live_matches": 2,
+  "live_matches": 3,
   "upcoming_matches": 38,
   "matches": [
     {
@@ -399,19 +399,33 @@
       "title": "Trinbago Knight Riders Vs Barbados Tridents",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": "4248301",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/240p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/360p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/480p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/540p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/720p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH"
+          },
+          "cookie": "hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
