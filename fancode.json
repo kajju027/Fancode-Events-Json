@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 5:36:41 pm",
+  "updatedAt": "28/8/2026, 5:37:58 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Germany Women Vs Sweden Women",
+      "tournament": "Nordic Women's T20I Cup 2026",
+      "match_id": "4248579",
+      "status": "LIVE",
+      "startTime": "28 August 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/240p.m3u8?hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/360p.m3u8?hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/480p.m3u8?hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/540p.m3u8?hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/720p.m3u8?hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M"
+          },
+          "cookie": "hdntl=Expires=1787991972~_GO=Generated~acl=/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/*~Signature=ARB3KG1kjqpK1qCuZ7EuRjhW-rFMIaAWYogAke64uGQmjqesOumUkfh6bOCdB_qexMjYOSXNNZoawc3qyFS4acZOb30M",
+          "expires": "1787991972",
+          "expire_date": "Saturday, August 29, 2026, 1:56:12 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Yalla Shabab Giants Vs Mustafa Fragrance House Strikers",
@@ -58,16 +91,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/240p.m3u8?hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/360p.m3u8?hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/480p.m3u8?hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/540p.m3u8?hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/720p.m3u8?hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/240p.m3u8?hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/360p.m3u8?hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/480p.m3u8?hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/540p.m3u8?hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/720p.m3u8?hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB"
           },
-          "cookie": "hdntl=Expires=1788005113~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG188AyoDBH3ws164ju-_60gQHWB8V3Dlzww5YUDE08zrTy77uNkKNlXXJ_d8SshpCtIi4oCCHTOpEqAcBh6Uh0N",
-          "expires": "1788005113",
-          "expire_date": "Saturday, August 29, 2026, 5:35:13 PM"
+          "cookie": "hdntl=Expires=1787986694~_GO=Generated~acl=/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/*~Signature=ARB3KG2PhtlH3yt6w6AhHnIv3Z23LR2j17VV11sPKPDJ3TDCExxoCB48ED-qg_e7Q-WvYG7B2dbYxBJ9FBF_5VllKNEB",
+          "expires": "1787986694",
+          "expire_date": "Saturday, August 29, 2026, 12:28:14 PM"
         }
       }
     },
@@ -732,25 +765,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Sevilla Fc Vs Atletico De Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247588",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "Day 3",
       "tournament": "KPMG Women’s Irish Open 2026",
@@ -770,13 +784,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "East Delhi Riders Women Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": "4247560",
+      "category": "Football",
+      "title": "Sevilla Fc Vs Atletico De Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247588",
       "status": "UPCOMING",
-      "startTime": "29 August 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png",
+      "startTime": "30 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -789,13 +803,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Girona Fc Vs Las Palmas",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248399",
+      "category": "Cricket",
+      "title": "East Delhi Riders Women Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": "4247560",
       "status": "UPCOMING",
-      "startTime": "30 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
+      "startTime": "29 August 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247560_53003_EDR-W_SDS-W_FC-Web_1787555684569.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
