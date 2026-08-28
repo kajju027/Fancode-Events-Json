@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 1:14:38 pm",
+  "updatedAt": "28/8/2026, 1:14:49 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -244,35 +244,10 @@
       "title": "South Delhi Superstarz Women Vs East Delhi Riders Women",
       "tournament": "Women's Delhi Premier League, 2026",
       "match_id": "4247556",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "28 August 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
-      "language": "ENGLISH",
-      "streams": {},
-      "cdn_streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/index.m3u8"
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/240p.m3u8?hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/360p.m3u8?hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/480p.m3u8?hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/540p.m3u8?hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/720p.m3u8?hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC"
-          },
-          "cookie": "hdntl=Expires=1787903380~_GO=Generated~acl=/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/*~Signature=ARB3KG2PRM30-s5-D3uTIW15yp1gaE38tqmtZe565dkk2ydVvFOb3uIGN8IaKs3rFrp7yEipsrz7gYaEgSx2XVUQRygC",
-          "expires": "1787903380",
-          "expire_date": "Friday, August 28, 2026, 1:19:40 PM"
-        }
-      },
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247556_eng.sonuxs.m3u8",
-      "src1_stream": false
+      "language": null
     },
     {
       "category": "Cricket",
@@ -316,16 +291,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Royal Oman Stallions Vs Ias Invincibles",
-      "tournament": "Oman D50 2026",
-      "match_id": "4248665",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg",
-      "language": null
-    },
-    {
-      "category": "Cricket",
       "title": "Namibia Vs South Africa",
       "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
       "match_id": "4248457",
@@ -365,6 +330,16 @@
       "language": null
     },
     {
+      "category": "Cricket",
+      "title": "Royal Oman Stallions Vs Ias Invincibles",
+      "tournament": "Oman D50 2026",
+      "match_id": "4248665",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg",
+      "language": null
+    },
+    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP 250 - Winston-Salem Open 2026",
@@ -385,16 +360,6 @@
       "language": null
     },
     {
-      "category": "Football",
-      "title": "Middlesbrough F.c. Vs West Bromwich Albion F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247477",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 05:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183090/4247477_CASACARDS_SPORTY_APP.png",
-      "language": null
-    },
-    {
       "category": "Cricket",
       "title": "Trinbago Knight Riders Vs Barbados Tridents",
       "tournament": "Caribbean Premier League, 2026",
@@ -402,6 +367,16 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png",
+      "language": null
+    },
+    {
+      "category": "Football",
+      "title": "Middlesbrough F.c. Vs West Bromwich Albion F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247477",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 05:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183090/4247477_CASACARDS_SPORTY_APP.png",
       "language": null
     },
     {
@@ -425,16 +400,6 @@
       "language": null
     },
     {
-      "category": "Football",
-      "title": "Cardiff City Vs Sheffield United F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247478",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png",
-      "language": null
-    },
-    {
       "category": "MotoGP",
       "title": "Aragon Gp",
       "tournament": "GRAND PRIX OF ARAGON 2026",
@@ -442,6 +407,16 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 12:10 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg",
+      "language": null
+    },
+    {
+      "category": "Football",
+      "title": "Cardiff City Vs Sheffield United F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247478",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png",
       "language": null
     },
     {
