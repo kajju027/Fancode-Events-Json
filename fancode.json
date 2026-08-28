@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/8/2026, 9:10:34 am",
+  "updatedAt": "28/8/2026, 9:28:29 am",
   "total_matches": 40,
   "live_matches": 2,
-  "upcoming_matches": 38,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -45,48 +45,6 @@
         }
       },
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248453_eng.sonuxs.m3u8",
-      "src1_stream": true
-    },
-    {
-      "category": "Cricket",
-      "title": "Jamaica Kingsmen Vs St Kitts And Nevis Patriots",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248292",
-      "status": "LIVE",
-      "startTime": "28 August 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "240p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/240p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
-        "360p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/360p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
-        "480p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/480p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
-        "540p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/540p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
-        "720p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/720p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
-        "1080p5": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC"
-      },
-      "cdn_streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/index.m3u8"
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/240p.m3u8?hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/360p.m3u8?hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/480p.m3u8?hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/540p.m3u8?hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/720p.m3u8?hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG"
-          },
-          "cookie": "hdntl=Expires=1787965932~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG2scG-wRjyTOCmkexiomooreAX9Zkll7-_hEaMYIornMTRHDvXXJZdBn7EZWjqK1WDzOS7jnMrttcfLdFDisUkG",
-          "expires": "1787965932",
-          "expire_date": "Saturday, August 29, 2026, 6:42:12 AM"
-        }
-      },
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248292_eng.sonuxs.m3u8",
       "src1_stream": true
     },
     {
@@ -241,12 +199,44 @@
     },
     {
       "category": "Cricket",
+      "title": "Jamaica Kingsmen Vs St Kitts And Nevis Patriots",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248292",
+      "status": "LIVE",
+      "startTime": "28 August 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "240p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/240p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
+        "360p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/360p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
+        "480p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/480p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
+        "540p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/540p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
+        "720p": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/720p.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC",
+        "1080p5": "https://in-mc-flive.fancode.com/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787956296~_GO=Generated~acl=/mumbai/4248292_english_hls_ca6a26d91690968_1ta-di_h264/*~Signature=ARB3KG0LrAsP95qrIJ6F6SKu4farJVWZMhas0GzMxP4v9hpU5tF3kNycpM3JpQPRNkR_NrhrBUewv2NzrsGqaY4p9XoC"
+      },
+      "cdn_streams": {},
+      "auto_streams": {},
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248292_eng.sonuxs.m3u8",
+      "src1_stream": true
+    },
+    {
+      "category": "Cricket",
       "title": "Adelaide Strikers Academy Vs Australian Capital Territory",
       "tournament": "Top End T20 Series, 2026",
       "match_id": "4248450",
       "status": "UPCOMING",
       "startTime": "29 August 2026 09:00 AM",
       "image": "https://images.fancode.com/aig/match/v1787120232586/4248450_CASACARDS_SPORTY_APP.png",
+      "language": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Meerut Mavericks Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248347",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png",
       "language": null
     },
     {
@@ -277,16 +267,6 @@
       "status": "UPCOMING",
       "startTime": "28 August 2026 05:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248457_53037_NAM_SA_FC-WEB.jpg",
-      "language": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Meerut Mavericks Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248347",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png",
       "language": null
     },
     {
