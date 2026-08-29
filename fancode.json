@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 8:46:17 pm",
+  "updatedAt": "29/8/2026, 9:17:30 pm",
   "total_matches": 41,
-  "live_matches": 9,
+  "live_matches": 10,
   "upcoming_matches": 33,
   "matches": [
     {
@@ -630,19 +630,33 @@
       "title": "Main Feed   Day 3",
       "tournament": "TOUR Championship 2026",
       "match_id": "4248424",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 09:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/240p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/360p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/480p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/540p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/720p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N"
+          },
+          "cookie": "hdntl=Expires=1788104795~_GO=Generated~acl=/mumbai/4248424_english_hls_342f819cd169055_1ta-di_h264/*~Signature=ARB3KG17ZfPTUh-88UkFSkZ7O-Fo4HDbHCdolop-qXtWjbRK0iK69IGNgUjaZYh0lpRDTeVtoIsw-jXpImXYTn2x7K0N",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
