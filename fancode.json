@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 1:01:22 pm",
+  "updatedAt": "29/8/2026, 1:02:38 pm",
   "total_matches": 40,
-  "live_matches": 1,
+  "live_matches": 2,
   "upcoming_matches": 39,
   "matches": [
     {
@@ -81,19 +81,33 @@
       "title": "Nepal A Vs Victoria Academy",
       "tournament": "Top End T20 Series, 2026",
       "match_id": "4248454",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248454_53036_NEP_VA_fc-web_1787393619334.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/240p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/360p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/480p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/540p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/720p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G"
+          },
+          "cookie": "hdntl=Expires=1788074961~_GO=Generated~acl=/mumbai/4248454_english_hls_cc0e6dd65b41500_1ta-di_h264/*~Signature=ARB3KG2bx6DSsFC_QdeLF-cfDB6T3T4QJUtg09VoohcUCoFZylwgwdNHkEnrSDpF-YOc0bxC9BBv84ITROCrs5P8fd4G",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
