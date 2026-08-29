@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 12:30:04 am",
+  "updatedAt": "30/8/2026, 12:35:59 am",
   "total_matches": 41,
-  "live_matches": 6,
-  "upcoming_matches": 36,
+  "live_matches": 7,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -73,39 +73,6 @@
     },
     {
       "category": "Football",
-      "title": "Real Sociedad Vs Rcd Espanyol",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247593",
-      "status": "LIVE",
-      "startTime": "29 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247593_53004_RS_ESL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/240p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/360p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/480p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/540p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/720p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM"
-          },
-          "cookie": "hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "Al Fateh Sc Vs Al Ittihad",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4248651",
@@ -136,6 +103,25 @@
           "expire_date": "Sunday, August 30, 2026, 11:28:10 PM"
         }
       }
+    },
+    {
+      "category": "Football",
+      "title": "Sevilla Fc Vs Atletico De Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247588",
+      "status": "LIVE",
+      "startTime": "30 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -204,6 +190,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Real Sociedad Vs Rcd Espanyol",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247593",
+      "status": "LIVE",
+      "startTime": "29 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247593_53004_RS_ESL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/240p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/360p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/480p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/540p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/720p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM"
+          },
+          "cookie": "hdntl=Expires=1788107843~_GO=Generated~acl=/mumbai/4247593_english_hls_3f3961d75915228_1ta-di_h264/*~Signature=ARB3KG1-R9o32fT1o5HYp5JHfQvVsvNYCmReZX8pfVhxq9I7x6zfrC4jVOdSY0ca0-SOd4EoKJwMHfjWFvoWozebQWsM",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Gaur Gorakhpur Lions Vs Lucknow Falcons",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -211,25 +230,6 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248358_53029_GOR_LCK_FC-Web_1786702851284.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Sevilla Fc Vs Atletico De Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247588",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -508,6 +508,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Tennis",
+      "title": "Men's Finals",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": "4248156",
+      "status": "UPCOMING",
+      "startTime": "30 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Deportivo De La Coruna Vs Valencia Cf",
       "tournament": "LALIGA 2026-27",
@@ -572,25 +591,6 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 10:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248397_53017_CDZ_VLD_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Men's Finals",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": "4248156",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
