@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 3:51:34 pm",
+  "updatedAt": "29/8/2026, 3:54:04 pm",
   "total_matches": 40,
-  "live_matches": 6,
+  "live_matches": 5,
   "upcoming_matches": 39,
   "matches": [
     {
@@ -194,33 +194,19 @@
       "title": "Royal Oman Stallions Vs Ias Invincibles",
       "tournament": "Oman D50 2026",
       "match_id": "4248665",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "29 August 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248665_53052_ROS_IAI_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/240p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/360p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/480p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/540p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/720p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ"
-          },
-          "cookie": "hdntl=Expires=1788085287~_GO=Generated~acl=/mumbai/4248665_english_hls_40040eddb715808_1ta-di_h264/*~Signature=ARB3KG0QAarAMsQ3iXK31xrnMP49haJ45xNK8bws2NFwxbJm0SlqSaM4X80mv4zZ0ACKpOn6Y8c3pvEAOabv9RQQNjUJ",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
