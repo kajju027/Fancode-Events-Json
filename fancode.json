@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 9:11:23 am",
+  "updatedAt": "29/8/2026, 9:23:57 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Academy Vs New Zealand A",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": "4248455",
-      "status": "LIVE",
-      "startTime": "29 August 2026 06:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1787120232581/4248455_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788049445~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG2iLZJZCfLZcEBX6GK6ZLXQGYe7PIClf9IyhNaIjZnl1DgV86UlfFFhV1rBb4UmHIx2DKjXJHclitF8npC35zIO",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/240p.m3u8?hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/360p.m3u8?hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/480p.m3u8?hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/540p.m3u8?hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/720p.m3u8?hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD"
-          },
-          "cookie": "hdntl=Expires=1788049569~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG0HCs8LTgPNPYnZQzklEETeWqNEfAJRhfzKhXWAn2LOPWd-CQRBkw5BrKUGviTw1UFkAXVIhKQ-mhSCmUufmCcD",
-          "expires": "1788049569",
-          "expire_date": "Sunday, August 30, 2026, 5:56:09 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Adelaide Strikers Academy Vs Australian Capital Territory",
@@ -471,25 +438,6 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Aragon Gp",
-      "tournament": "GRAND PRIX OF ARAGON 2026",
-      "match_id": "139964",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 12:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "Top End T20 Series, 2026",
@@ -510,12 +458,31 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa Vs Zimbabwe",
-      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
-      "match_id": "4248458",
+      "title": "Gaur Gorakhpur Lions Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248358",
       "status": "UPCOMING",
-      "startTime": "29 August 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg",
+      "startTime": "30 August 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248358_53029_GOR_LCK_FC-Web_1786702851284.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "MotoGP",
+      "title": "Aragon Gp",
+      "tournament": "GRAND PRIX OF ARAGON 2026",
+      "match_id": "139964",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 12:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -529,12 +496,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Gaur Gorakhpur Lions Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248358",
+      "title": "South Africa Vs Zimbabwe",
+      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
+      "match_id": "4248458",
       "status": "UPCOMING",
-      "startTime": "30 August 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248358_53029_GOR_LCK_FC-Web_1786702851284.png",
+      "startTime": "29 August 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248458_53037_SA_ZIM_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -585,6 +552,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Denmark Women Vs Sweden Women",
+      "tournament": "Nordic Women's T20I Cup 2026",
+      "match_id": "4248583",
+      "status": "UPCOMING",
+      "startTime": "30 August 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 3",
       "tournament": "TOUR Championship 2026",
@@ -611,25 +597,6 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 10:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Denmark Women Vs Sweden Women",
-      "tournament": "Nordic Women's T20I Cup 2026",
-      "match_id": "4248583",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -782,6 +749,25 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": "4248007",
+      "status": "UPCOMING",
+      "startTime": "30 August 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
