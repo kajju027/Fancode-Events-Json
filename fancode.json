@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 1:15:40 am",
+  "updatedAt": "30/8/2026, 1:16:19 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Football",
@@ -167,6 +167,39 @@
           "cookie": "hdntl=Expires=1788109086~_GO=Generated~acl=/mumbai/4248420_english_hls_3b5fa4fc6451171_1ta-di_h264/*~Signature=ARB3KG0sd2RSaLwnuW7YNH94jtOrpDkIqJbpKoUuQ6AjetoTTpwc5SvvCKBJjdc2qv_w3IxRR7sxYE9HfQpwWvD4JSwK",
           "expires": "1788109086",
           "expire_date": "Sunday, August 30, 2026, 10:28:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Men's Finals",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": "4248156",
+      "status": "LIVE",
+      "startTime": "30 August 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/240p.m3u8?hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/360p.m3u8?hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/480p.m3u8?hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/540p.m3u8?hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/720p.m3u8?hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A"
+          },
+          "cookie": "hdntl=Expires=1788032978~_GO=Generated~acl=/mumbai/4248156_english_hls_c5732faeb567855_1ta-di_h264/*~Signature=ARB3KG039NjFQfobFvGbi3_IOGh9gLQulXD9q4Wzxrvdp5NHuXRH54BRax0vfQ99_atOPj6G5c-OQ6lnKOzqoIrMvp4A",
+          "expires": "1788032978",
+          "expire_date": "Sunday, August 30, 2026, 1:19:38 AM"
         }
       }
     },
@@ -425,25 +458,6 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247591_53004_RM_MAG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Men's Finals",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": "4248156",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
