@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 4:44:58 pm",
+  "updatedAt": "29/8/2026, 4:53:22 pm",
   "total_matches": 41,
-  "live_matches": 6,
-  "upcoming_matches": 36,
+  "live_matches": 7,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -171,6 +171,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Middlesbrough F.c. Vs West Bromwich Albion F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247477",
+      "status": "LIVE",
+      "startTime": "29 August 2026 05:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1784709183090/4247477_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788088943~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG1g3sP-FFaRb6t17s-_ecEyTVreeDBFcF5wFZ615NgJrLgGT7lPYQl7CXF_shcAD1QKwrKQWhlPG_nvChUWeYcJ",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/240p.m3u8?hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/360p.m3u8?hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/480p.m3u8?hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/540p.m3u8?hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/720p.m3u8?hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M"
+          },
+          "cookie": "hdntl=Expires=1788002678~_GO=Generated~acl=/mumbai/4247477_english_hls_f0dd0b76155981_1ta-di_h264/*~Signature=ARB3KG0AxO05I8sty-dOlFWOZL5DnZgvJbHoQfMzmCeX0c9f_4S403GH2bCfCRLSccZC7i840wZXTi9p4d8ZeDbdI04M",
+          "expires": "1788002678",
+          "expire_date": "Saturday, August 29, 2026, 4:54:38 PM"
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Aragon Gp",
       "tournament": "GRAND PRIX OF ARAGON 2026",
@@ -211,25 +244,6 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Middlesbrough F.c. Vs West Bromwich Albion F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247477",
-      "status": "UPCOMING",
-      "startTime": "29 August 2026 05:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1784709183090/4247477_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -508,13 +522,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Girona Fc Vs Las Palmas",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248399",
+      "category": "Cricket",
+      "title": "Denmark Women Vs Sweden Women",
+      "tournament": "Nordic Women's T20I Cup 2026",
+      "match_id": "4248583",
       "status": "UPCOMING",
-      "startTime": "30 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
+      "startTime": "30 August 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -527,13 +541,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Denmark Women Vs Sweden Women",
-      "tournament": "Nordic Women's T20I Cup 2026",
-      "match_id": "4248583",
+      "category": "Football",
+      "title": "Girona Fc Vs Las Palmas",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248399",
       "status": "UPCOMING",
-      "startTime": "30 August 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
+      "startTime": "30 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
