@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 2:43:00 pm",
+  "updatedAt": "29/8/2026, 2:44:26 pm",
   "total_matches": 40,
-  "live_matches": 4,
+  "live_matches": 5,
   "upcoming_matches": 39,
   "matches": [
     {
@@ -43,19 +43,33 @@
       "title": "Meerut Mavericks Vs Lucknow Falcons",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": "4248347",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/240p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/360p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/480p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/540p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/720p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM"
+          },
+          "cookie": "hdntl=Expires=1788081034~_GO=Generated~acl=/mumbai/4248347_hindi_hls_3dfbab3e072269_1ta-di_h264/*~Signature=ARB3KG2gYiWd8NVBF9Hf5rP6_CEpRgfieLhnBBgUKRw3FduSyfO1FQ7VB3svCyTbipFMsbGEPHwOM2XiXMrSQ5vigwQM",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
