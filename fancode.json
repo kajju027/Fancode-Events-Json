@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 9:43:06 pm",
+  "updatedAt": "29/8/2026, 9:48:12 pm",
   "total_matches": 41,
-  "live_matches": 11,
+  "live_matches": 10,
   "upcoming_matches": 32,
   "matches": [
     {
@@ -175,33 +175,19 @@
       "title": "Cardiff City Vs Sheffield United F.c.",
       "tournament": "EFL Championship 2026-27",
       "match_id": "4247478",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "29 August 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1784709183101/4247478_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/240p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/360p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/480p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/540p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/720p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG"
-          },
-          "cookie": "hdntl=Expires=1788097466~_GO=Generated~acl=/mumbai/4247478_english_hls_af87799d2f81403_1ta-di_h264/*~Signature=ARB3KG2_2zRioHykPVJgN4sDyvqcyzEZn3R0wG90Hvf4iWHHxiv2elkExlhts71_iNMxQiSO4STNCGLF4B0kr0AvG4wG",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Football",
