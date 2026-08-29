@@ -1,76 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 12:50:29 am",
-  "total_matches": 41,
-  "live_matches": 7,
-  "upcoming_matches": 35,
+  "updatedAt": "30/8/2026, 12:50:45 am",
+  "total_matches": 40,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Kanpur Superstars",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248345",
-      "status": "LIVE",
-      "startTime": "29 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png",
-      "language": "HINDI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097465~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG1jwaV4mog7exC7kE09MIuyJHpV-pg_B9LrSuBWgYYW3se2lKeLaTaL7LV_cwtJfARKqbmggh3tsBPVTZ6W9jwC",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/240p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/360p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/480p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/540p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/720p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA"
-          },
-          "cookie": "hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG3unmjcc0OwugJ35scuOwNVx2nnNuwA24Y-upX8lrh9NlTlxwlqwoaRI8omGZKAlCV8DID41QwtjaC3J419K4kA",
-          "expires": "1788116289",
-          "expire_date": "Monday, August 31, 2026, 12:28:09 AM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Noida Kings Vs Kanpur Superstars",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248345",
-      "status": "LIVE",
-      "startTime": "29 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png",
-      "language": "BHOJPURI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788097465~_GO=Generated~acl=/mumbai/4248345_hindi_hls_e5cb1a1a5132895_1ta-di_h264/*~Signature=ARB3KG1jwaV4mog7exC7kE09MIuyJHpV-pg_B9LrSuBWgYYW3se2lKeLaTaL7LV_cwtJfARKqbmggh3tsBPVTZ6W9jwC",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "BHOJPURI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/240p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/360p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/480p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/540p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/720p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN"
-          },
-          "cookie": "hdntl=Expires=1788116289~_GO=Generated~acl=/mumbai/4248345_bhojpuri_hls_05499957a419500_1ta-di_h264/*~Signature=ARB3KG3H5FO3SiFte46GfozVcE1Q4389dDLVvwHZvRJekvmuxiB6hA9c1TG7RMTcdfG5ml8c-TQIPFpJdZsG0ZNRZzUN",
-          "expires": "1788116289",
-          "expire_date": "Monday, August 31, 2026, 12:28:09 AM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Al Fateh Sc Vs Al Ittihad",
@@ -134,6 +68,39 @@
           "cookie": "hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
           "expires": "",
           "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Girona Fc Vs Las Palmas",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248399",
+      "status": "LIVE",
+      "startTime": "30 August 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788117579~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG181badJgEEoaAiJr7f-knbZZytpsyDIywNL6xSB7JYRBfXF_pBkydRqmLaP2hgXSzQLEbIp8G8XTPS36lN6_QJ",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/240p.m3u8?hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/360p.m3u8?hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/480p.m3u8?hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/540p.m3u8?hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/720p.m3u8?hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG"
+          },
+          "cookie": "hdntl=Expires=1788031477~_GO=Generated~acl=/mumbai/4248399_english_hls_ef75e5825679740_1ta-di_h264/*~Signature=ARB3KG3mZiJoGacc4ggbMv1xgtvE8X--uSakVD7-GU0hFFLigMHpnXDEJ-zdIFAer_c4e0EAK1hr9Vo2Rr2vmBEtchoG",
+          "expires": "1788031477",
+          "expire_date": "Sunday, August 30, 2026, 12:54:37 AM"
         }
       }
     },
@@ -282,25 +249,6 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 08:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248007_53005_SDS_CDK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Girona Fc Vs Las Palmas",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248399",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248399_53017_GIR_LAP_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -681,6 +629,25 @@
       "status": "UPCOMING",
       "startTime": "29 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248347_53029_MER_LCK_FC-Web_1786702851715.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Noida Kings Vs Kanpur Superstars",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248345",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248345_53029_KAN_NOI_FC-Web_1786702851692.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
