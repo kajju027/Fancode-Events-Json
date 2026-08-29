@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 12:40:16 am",
+  "updatedAt": "30/8/2026, 12:40:28 am",
   "total_matches": 41,
   "live_matches": 7,
   "upcoming_matches": 35,
@@ -114,14 +114,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247588_53004_SEV_ATM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/240p.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/360p.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/480p.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/540p.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/720p.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP"
+          },
+          "cookie": "hdntl=Expires=1788116971~_GO=Generated~acl=/mumbai/4247588_english_hls_009b577ace56325_1ta-di_h264/*~Signature=ARB3KG0t6w89TCsQ4J6kc7VUttFFQoCFrK8277xPGFqmPS3RzrGfc7CXMyhkdOSmigunF5BGbny3mrtXPqUE-xPg5OkP",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Golf",
