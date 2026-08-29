@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/8/2026, 5:14:44 am",
+  "updatedAt": "29/8/2026, 5:50:24 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Tennis",
@@ -114,19 +114,33 @@
       "title": "Hobart Hurricanes Academy Vs New Zealand A",
       "tournament": "Top End T20 Series, 2026",
       "match_id": "4248455",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "29 August 2026 06:00 AM",
       "image": "https://images.fancode.com/aig/match/v1787120232581/4248455_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/240p.m3u8?hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/360p.m3u8?hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/480p.m3u8?hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/540p.m3u8?hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/720p.m3u8?hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO"
+          },
+          "cookie": "hdntl=Expires=1787963077~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG1txMEXJc0_QOVlq0J-9DZ6oxf-Je-vAeFrgKzE9OyyHWm4wjNWmN2IKUqJU0XA6fgugv4m0LSqCjCwwHN1w9QO",
+          "expires": "1787963077",
+          "expire_date": "Saturday, August 29, 2026, 5:54:37 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -604,6 +618,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "World Feed   Day 3",
+      "tournament": "TOUR Championship 2026",
+      "match_id": "4248420",
+      "status": "UPCOMING",
+      "startTime": "29 August 2026 10:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Central Delhi Kings Vs Purani Dilli 6",
       "tournament": "Delhi Premier League, 2026",
@@ -642,13 +675,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 3",
-      "tournament": "TOUR Championship 2026",
-      "match_id": "4248420",
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": "4248452",
       "status": "UPCOMING",
-      "startTime": "29 August 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png",
+      "startTime": "30 August 2026 12:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -668,25 +701,6 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248300_53026_TKR_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": "4248452",
-      "status": "UPCOMING",
-      "startTime": "30 August 2026 12:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Top-End-T20_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
