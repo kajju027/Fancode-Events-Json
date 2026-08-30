@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 6:33:17 am",
+  "updatedAt": "30/8/2026, 6:47:24 am",
   "total_matches": 40,
-  "live_matches": 3,
+  "live_matches": 5,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -166,38 +166,66 @@
       "title": "Oman Vs Singapore",
       "tournament": "ACC Men’s Premier Cup 2026",
       "match_id": "4248609",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 07:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/240p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/360p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/480p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/540p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/720p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP"
+          },
+          "cookie": "hdntl=Expires=1788138826~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG3YdP0eK3AIn5LAVg0QmBSrY9_ADIqWD4YFTwmfVYEqz97NJZ2e-ybRRbha4MHPA35T9GKjIFr8kxfg-s0cHokP",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
       "title": "Hong Kong, China Vs Saudi Arabia",
       "tournament": "ACC Men’s Premier Cup 2026",
       "match_id": "4248610",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 07:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/240p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/360p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/480p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/540p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/720p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK"
+          },
+          "cookie": "hdntl=Expires=1788138828~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG2Q99p6PCpkJV_Z1vrtci2eWTy0FEs8gO8br6rzOWucgq5nbXz_XZWjmsmDj0enFHtQuJbUe33pg-Pnq2KCPnUK",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
