@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 6:14:53 pm",
+  "updatedAt": "30/8/2026, 6:25:03 pm",
   "total_matches": 41,
-  "live_matches": 8,
+  "live_matches": 9,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -81,7 +81,7 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Taknor3.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248524_english_hls_bf0464f2c171129_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788162539~_GO=Generated~acl=/mumbai/4248524_english_hls_bf0464f2c171129_1ta-di_h264/*~Signature=ARB3KG30oqwjlgD3Z2YpG96o5SpRNoppBMcL9uDyXJb0h8xZFiNJvuTHh6uREq9Sgo4l6QPshc6vn8G9B_MjNldvrS4F",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248524_english_hls_bf0464f2c171129_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248524_english_hls_bf0464f2c171129_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248524_english_hls_bf0464f2c171129_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248524_english_hls_bf0464f2c171129_1ta-di_h264/index.m3u8",
@@ -502,19 +502,33 @@
       "title": "Day 4",
       "tournament": "KPMG Women’s Irish Open 2026",
       "match_id": "4248326",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/240p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/360p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/480p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/540p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/720p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM"
+          },
+          "cookie": "hdntl=Expires=1788180786~_GO=Generated~acl=/mumbai/4248326_english_hls_282be2bcec93397_1ta-di_h264/*~Signature=ARB3KG353pQlCWiznjKBQUfG0CfoiCxOgsRwtz7vURaxWwhK44-61KDEV7mfz3Do8nDoWfhzypbhwCORjvboB5y-Y5YM",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Golf",
