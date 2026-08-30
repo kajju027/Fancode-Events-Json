@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 3:49:50 pm",
+  "updatedAt": "30/8/2026, 3:53:30 pm",
   "total_matches": 40,
-  "live_matches": 7,
+  "live_matches": 8,
   "upcoming_matches": 34,
   "matches": [
     {
@@ -15,7 +15,7 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788168026~_GO=Generated~acl=/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/*~Signature=ARB3KG2OpNKRHQF4Hf1X8f6Ie4e6FJUOUrkWwiIpK4sjip-Bu2D1Oytl7OLVN1Nu5AyQj7zv4AxTEH_Fr04_lFp-ArAA",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248609_english_hls_9536a39e5690796_1ta-di_h264/index.m3u8",
@@ -48,7 +48,7 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788168027~_GO=Generated~acl=/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/*~Signature=ARB3KG21R5ILfyI3NPa3N9P_HvJuTEQDjDfA6p_W5WNLDcCziP196jYNNiuYZjNEruBj82OqIFtxs4-50i86lgNVXBIJ",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/index.m3u8",
         "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248610_english_hls_df0898ebdf98391_1ta-di_h264/index.m3u8",
@@ -279,19 +279,33 @@
       "title": "Majees Titans Vs Muscat Thunders",
       "tournament": "Oman D50 2026",
       "match_id": "4248666",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248666_53052_MAT_MUT_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/240p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/360p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/480p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/540p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/720p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ"
+          },
+          "cookie": "hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
