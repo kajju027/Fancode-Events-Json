@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 2:28:15 pm",
+  "updatedAt": "30/8/2026, 2:40:27 pm",
   "total_matches": 40,
-  "live_matches": 6,
+  "live_matches": 7,
   "upcoming_matches": 34,
   "matches": [
     {
@@ -208,19 +208,33 @@
       "title": "Gaur Gorakhpur Lions Vs Lucknow Falcons",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": "4248358",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248358_53029_GOR_LCK_FC-Web_1786702851284.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/240p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/360p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/480p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/540p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/720p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF"
+          },
+          "cookie": "hdntl=Expires=1788167409~_GO=Generated~acl=/mumbai/4248358_hindi_hls_321c0e7d3b49299_1ta-di_h264/*~Signature=ARB3KG0f4aommq75HoeAaNMSPwNGjKcJo1PBTQJkLHQ5BWpFPzQmlYMs4cWs4JYJyJZr9i4W1GIWJQLkxr9e3-q3uOEF",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
