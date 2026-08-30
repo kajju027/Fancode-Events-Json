@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 11:01:15 pm",
+  "updatedAt": "30/8/2026, 11:18:05 pm",
   "total_matches": 42,
-  "live_matches": 13,
+  "live_matches": 14,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -359,19 +359,33 @@
       "title": "Al Qadsiah Fc Vs Al Faisaly Saudi",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4248652",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 11:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248652_53025_ALQ_ALF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/240p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/360p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/480p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/540p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/720p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD"
+          },
+          "cookie": "hdntl=Expires=1788198433~_GO=Generated~acl=/mumbai/4248652_english_hls_548813207656588_1ta-di_h264/*~Signature=ARB3KG2AEE6DI2Vl3Il9EGjsy_Vtbj8_sxYtv5VQMy_Csoz9kryYGGyD8PrTAX5XpqhJICkxNwrV7L4w-V592ijfFYUD",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
