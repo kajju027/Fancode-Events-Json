@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/8/2026, 4:24:13 pm",
+  "updatedAt": "30/8/2026, 4:25:37 pm",
   "total_matches": 41,
-  "live_matches": 6,
+  "live_matches": 7,
   "upcoming_matches": 36,
   "matches": [
     {
@@ -246,19 +246,33 @@
       "title": "Denmark Women Vs Germany Women",
       "tournament": "Nordic Women's T20I Cup 2026",
       "match_id": "4248584",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "30 August 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/240p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/360p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/480p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/540p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/720p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I"
+          },
+          "cookie": "hdntl=Expires=1788173499~_GO=Generated~acl=/mumbai/4248584_english_hls_276cf438b620251_1ta-di_h264/*~Signature=ARB3KG3b8eg1E7i9lYC-QTzaC6MzAfdVU83nYQeG2yB7uVbTBAuNefiCy4dOSl19ddQwpnYoId3cKrPOD2tCu9Nvo94I",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
