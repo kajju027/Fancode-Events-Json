@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 1:08:36 am",
+  "updatedAt": "1/9/2026, 1:08:45 am",
   "total_matches": 40,
   "live_matches": 3,
   "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Ca Osasuna Vs Getafe Cf",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247597",
+      "status": "LIVE",
+      "startTime": "31 August 2026 11:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788282238~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv3eJWbedlkWSpdQ2pBEowKSl429hrhPqnIqkVXCfayQ5WJgKax4dJ-1EC2sf7exVbLDRmKcc7M-ZMvJEYUYkKwO",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/240p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/360p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/480p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/540p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/720p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE"
+          },
+          "cookie": "hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
+          "expires": "1788282733",
+          "expire_date": "Tuesday, September 1, 2026, 10:42:13 PM"
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Fc Barcelona Vs Rayo Vallecano",
@@ -58,49 +91,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/240p.m3u8?hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/360p.m3u8?hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/480p.m3u8?hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/540p.m3u8?hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/720p.m3u8?hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/240p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/360p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/480p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/540p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/720p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E"
           },
-          "cookie": "hdntl=Expires=1788291428~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv33r-Z1H3JFby1IEtkPfOyXfgP3udxAYoP9W1g3XGd4zZXY4-4UN1mKmheQ0mVljp2LuJeUhVFaF_Ozkt3v_6IA",
-          "expires": "1788291428",
-          "expire_date": "Wednesday, September 2, 2026, 1:07:08 AM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Ca Osasuna Vs Getafe Cf",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247597",
-      "status": "LIVE",
-      "startTime": "31 August 2026 11:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788282238~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv3eJWbedlkWSpdQ2pBEowKSl429hrhPqnIqkVXCfayQ5WJgKax4dJ-1EC2sf7exVbLDRmKcc7M-ZMvJEYUYkKwO",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/240p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/360p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/480p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/540p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/720p.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE"
-          },
-          "cookie": "hdntl=Expires=1788282733~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv0wUcDR9psIc_ubO9Ug6qmziDUgepmUPfpjgPcxMDwS-RWvWfTAe3iT_piuJhKsbVw-7O-9kWutSk3vPHQfpPAE",
-          "expires": "1788282733",
-          "expire_date": "Tuesday, September 1, 2026, 10:42:13 PM"
+          "cookie": "hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+          "expires": "1788204697",
+          "expire_date": "Tuesday, September 1, 2026, 1:01:37 AM"
         }
       }
     },
