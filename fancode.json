@@ -1,10 +1,76 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/8/2026, 7:11:32 pm",
-  "total_matches": 40,
-  "live_matches": 3,
+  "updatedAt": "31/8/2026, 7:16:01 pm",
+  "total_matches": 41,
+  "live_matches": 4,
   "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248346",
+      "status": "LIVE",
+      "startTime": "31 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/240p.m3u8?hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/360p.m3u8?hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/480p.m3u8?hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/540p.m3u8?hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/720p.m3u8?hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH"
+          },
+          "cookie": "hdntl=Expires=1788184181~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv1j3vnoXUVveife42Se7KnFwb2pa2txT2CvsCElR87qCMmUF0pK4svA_tUo2BTnkVL5XrfIXO_kteo6gEETR8sH",
+          "expires": "1788184181",
+          "expire_date": "Monday, August 31, 2026, 7:19:41 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Lucknow Falcons",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248346",
+      "status": "LIVE",
+      "startTime": "31 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
+      "language": "BHOJPURI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/240p.m3u8?hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/360p.m3u8?hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/480p.m3u8?hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/540p.m3u8?hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/720p.m3u8?hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA"
+          },
+          "cookie": "hdntl=Expires=1788184184~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2wIL1pfsd7mNxgzF8MaziOtf9Hd0pPKPGuy2zCZZXiK_4-4u6KpgyNhqyBSZFxQArKMt9N_zPt_HWQlUKLQ9cA",
+          "expires": "1788184184",
+          "expire_date": "Monday, August 31, 2026, 7:19:44 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Mustafa Fragrance House Strikers Vs Royal Oman Stallions",
@@ -68,39 +134,6 @@
           "cookie": "hdntl=Expires=1788263051~_GO=Generated~acl=/mumbai/4248456_english_hls_cf444cc3c245782_1ta-di_h264/*~Signature=AfPHOv2xkFXTYQCqtyyD6In74V_4C7AvzjvQz3-ku41C0Q00W2uwA3LO_xkt2lklY7Iqwoqa6ltxmPgWMwq0bJtGYNcH",
           "expires": "1788263051",
           "expire_date": "Tuesday, September 1, 2026, 5:14:11 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Lucknow Falcons",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248346",
-      "status": "LIVE",
-      "startTime": "31 August 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/240p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/360p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/480p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/540p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/720p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG"
-          },
-          "cookie": "hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG",
-          "expires": "",
-          "expire_date": ""
         }
       }
     },
@@ -200,13 +233,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Rc Celta Fortuna Vs Castellón",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248398",
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248360",
       "status": "UPCOMING",
-      "startTime": "01 September 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
+      "startTime": "01 September 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -219,13 +252,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248360",
+      "category": "Football",
+      "title": "Rc Celta Fortuna Vs Castellón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248398",
       "status": "UPCOMING",
-      "startTime": "01 September 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
+      "startTime": "01 September 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -314,13 +347,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "North Delhi Strikers Women Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": "4247561",
+      "category": "Football",
+      "title": "Al Hilal Sfc Vs Al Ahli Saudi Fc",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4248653",
       "status": "UPCOMING",
-      "startTime": "01 September 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247561_53003_NDS-W_SDS-W_FC-Web_1787555684584.png",
+      "startTime": "01 September 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -333,13 +366,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Al Hilal Sfc Vs Al Ahli Saudi Fc",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4248653",
+      "category": "Cricket",
+      "title": "North Delhi Strikers Women Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": "4247561",
       "status": "UPCOMING",
-      "startTime": "01 September 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png",
+      "startTime": "01 September 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247561_53003_NDS-W_SDS-W_FC-Web_1787555684584.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -371,13 +404,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Zimbabwe Vs South Africa",
-      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
-      "match_id": "4248460",
+      "category": "Football",
+      "title": "Stoke City F.c. Vs Norwich City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247479",
       "status": "UPCOMING",
-      "startTime": "01 September 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg",
+      "startTime": "02 September 2026 12:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -390,13 +423,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Stoke City F.c. Vs Norwich City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247479",
+      "category": "Cricket",
+      "title": "Zimbabwe Vs South Africa",
+      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
+      "match_id": "4248460",
       "status": "UPCOMING",
-      "startTime": "02 September 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
+      "startTime": "01 September 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248460_53037_ZIM_SA_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
