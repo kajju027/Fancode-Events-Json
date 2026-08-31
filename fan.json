@@ -1,10 +1,21 @@
 {
   "name": "CnpTV FanCode Playlist",
-  "updatedAt": "1/9/2026, 3:21:22 am",
+  "updatedAt": "1/9/2026, 3:24:23 am",
   "total_matches": 40,
   "live_matches": 3,
-  "upcoming_matches": 38,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Fc Barcelona Vs Rayo Vallecano",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247590",
+      "status": "LIVE",
+      "startTime": "01 September 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247590_eng.sonuxs.m3u8"
+    },
     {
       "category": "Football",
       "title": "Rc Celta Fortuna Vs Castellón",
@@ -18,7 +29,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors Vs Trinbago Knight Riders",
+      "title": "Trinbago Knight Riders Vs Guyana Amazon Warriors",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": "4248307",
       "status": "LIVE",
@@ -26,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248307_53026_TKR_GUY_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248307_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Fc Barcelona Vs Rayo Vallecano",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247590",
-      "status": "LIVE",
-      "startTime": "01 September 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247590_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -150,28 +150,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Oman Vs Qatar",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248615",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Hong Kong, China Vs Bahrain",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248616",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "East Delhi Riders Women Vs Central Delhi Queens",
       "tournament": "Women's Delhi Premier League, 2026",
       "match_id": "4247564",
@@ -189,6 +167,28 @@
       "status": "UPCOMING",
       "startTime": "31 August 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Oman Vs Qatar",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248615",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Hong Kong, China Vs Bahrain",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248616",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
