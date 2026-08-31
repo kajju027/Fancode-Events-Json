@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/8/2026, 6:19:01 am",
+  "updatedAt": "31/8/2026, 6:42:34 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -62,19 +62,33 @@
       "title": "Nepal Vs Bahrain",
       "tournament": "ACC Men’s Premier Cup 2026",
       "match_id": "4248611",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "31 August 2026 07:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788225133~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG1nmT4vPFLp5kvRzOsCM43RLkYTPtjMV_r6jkfP4AK9WgDiWoABX189Uq8xyjbZWHDyCyuvuo3g-Q8yi3gq5wQJ",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/240p.m3u8?hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/360p.m3u8?hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/480p.m3u8?hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/540p.m3u8?hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/720p.m3u8?hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI"
+          },
+          "cookie": "hdntl=Expires=1788225127~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3MSxHtwzOfFo9mM7KNWOpuNDbVb3d5uiLN0vcOR6Bgmlg4dxj4rIAfxY0-8YbXlxTxxelGCKhfjysJG-PjSwsI",
+          "expires": "1788225127",
+          "expire_date": "Tuesday, September 1, 2026, 6:42:07 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
