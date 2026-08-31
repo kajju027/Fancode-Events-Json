@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/8/2026, 9:54:15 pm",
+  "updatedAt": "31/8/2026, 9:55:16 pm",
   "total_matches": 41,
-  "live_matches": 2,
+  "live_matches": 3,
   "upcoming_matches": 40,
   "matches": [
     {
@@ -76,19 +76,33 @@
       "title": "Mustafa Fragrance House Strikers Vs Royal Oman Stallions",
       "tournament": "Oman D50 2026",
       "match_id": "4248667",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "31 August 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/240p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/360p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/480p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/540p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/720p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A"
+          },
+          "cookie": "hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
