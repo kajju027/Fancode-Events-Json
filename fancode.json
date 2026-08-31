@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/8/2026, 9:18:31 am",
+  "updatedAt": "31/8/2026, 10:45:37 am",
   "total_matches": 40,
-  "live_matches": 3,
+  "live_matches": 4,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -128,19 +128,33 @@
       "title": "Baukh Night Riders Vs Taknor Tigers",
       "tournament": "Uttarkashi T20 League 2026",
       "match_id": "4248526",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "31 August 2026 11:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/240p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/360p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/480p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/540p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/720p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ"
+          },
+          "cookie": "hdntl=Expires=1788239695~_GO=Generated~acl=/mumbai/4248526_english_hls_c66c13bc9577933_1ta-di_h264/*~Signature=ARB3KG3mXt7NOnysDSoKlPM8UBgAWGg89if9CRDTH3s05X6dRO5D_mMuTdcRc7XduqoBkT6BMCdhgPMdn8rvjMUqUPkJ",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
