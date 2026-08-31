@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 12:37:45 am",
+  "updatedAt": "1/9/2026, 12:56:33 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Football",
@@ -72,6 +72,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Rc Celta Fortuna Vs Castellón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248398",
+      "status": "LIVE",
+      "startTime": "01 September 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/240p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/360p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/480p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/540p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/720p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E"
+          },
+          "cookie": "hdntl=Expires=1788204697~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv0vTIfVfP25nzwRP4-EYvElBaD5URoLnSnXZRRizXqix1uj5gUaU4fBUIgqHIHJua58Dx22SdrijXW4xFbTq30E",
+          "expires": "1788204697",
+          "expire_date": "Tuesday, September 1, 2026, 1:01:37 AM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Meerut Mavericks Vs Kashi Rudras",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -98,25 +131,6 @@
       "status": "UPCOMING",
       "startTime": "01 September 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Rc Celta Fortuna Vs Castellón",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248398",
-      "status": "UPCOMING",
-      "startTime": "01 September 2026 01:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
