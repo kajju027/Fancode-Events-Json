@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/8/2026, 12:30:47 pm",
+  "updatedAt": "31/8/2026, 12:32:01 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Nepal Vs Bahrain",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248611",
-      "status": "LIVE",
-      "startTime": "31 August 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/240p.m3u8?hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/360p.m3u8?hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/480p.m3u8?hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/540p.m3u8?hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/720p.m3u8?hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL"
-          },
-          "cookie": "hdntl=Expires=1788243550~_GO=Generated~acl=/mumbai/4248611_english_hls_281dd1af5012159_1ta-di_h264/*~Signature=ARB3KG3sBALebouKdk43CmNHU_BI3EL7tDZjAU0TXll7B6ekcwiLxvKfIW4Pn5FPaPT69315AiT_OuzCUdWIza6-W1IL",
-          "expires": "1788243550",
-          "expire_date": "Tuesday, September 1, 2026, 11:49:10 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "United Arab Emirates Vs Qatar",
@@ -58,16 +25,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/240p.m3u8?hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/360p.m3u8?hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/480p.m3u8?hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/540p.m3u8?hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/720p.m3u8?hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/240p.m3u8?hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/360p.m3u8?hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/480p.m3u8?hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/540p.m3u8?hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/720p.m3u8?hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN"
           },
-          "cookie": "hdntl=Expires=1788227467~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG1Kzvq0f8WKzMladXCOSDXg0G74K6lVlliCvTyCMIJoBlwjymskYvXhqUbXvbDI5qjAh1BCk4DVDyZJ3QiJssAN",
-          "expires": "1788227467",
-          "expire_date": "Tuesday, September 1, 2026, 7:21:07 AM"
+          "cookie": "hdntl=Expires=1788245892~_GO=Generated~acl=/mumbai/4248612_english_hls_c9869419c191082_1ta-di_h264/*~Signature=ARB3KG2LNDr7fcUS09NP8XUdaRpG3WTcPbICjkGQHXoQe1fJGjcuA3KhhFBTEaj3Ecb2RHdql6vdom8BoTpzRaAucYYN",
+          "expires": "1788245892",
+          "expire_date": "Tuesday, September 1, 2026, 12:28:12 PM"
         }
       }
     },
@@ -168,7 +135,7 @@
       "match_id": "4247590",
       "status": "UPCOMING",
       "startTime": "01 September 2026 01:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1788149473632/4247590_CASACARDS_SPORTY_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -296,6 +263,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Ias Invincibles Vs Yalla Shabab Giants",
+      "tournament": "Oman D50 2026",
+      "match_id": "4248668",
+      "status": "UPCOMING",
+      "startTime": "01 September 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Lucknow Falcons Vs Gaur Gorakhpur Lions",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": "4248358",
@@ -340,25 +326,6 @@
       "status": "UPCOMING",
       "startTime": "30 August 2026 08:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248007_53005_SDS_CDK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Ias Invincibles Vs Yalla Shabab Giants",
-      "tournament": "Oman D50 2026",
-      "match_id": "4248668",
-      "status": "UPCOMING",
-      "startTime": "01 September 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "04 September 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Saudi Arabia Vs Bahrain",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248619",
+      "status": "UPCOMING",
+      "startTime": "04 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
