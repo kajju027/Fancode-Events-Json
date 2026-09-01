@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/9/2026, 2:22:42 am",
+  "updatedAt": "2/9/2026, 4:01:02 am",
   "total_matches": 40,
   "live_matches": 1,
-  "upcoming_matches": 39,
+  "upcoming_matches": 40,
   "matches": [
     {
       "category": "Football",
@@ -15,28 +15,14 @@
       "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/240p.m3u8?hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/360p.m3u8?hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/480p.m3u8?hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/540p.m3u8?hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/720p.m3u8?hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN"
-          },
-          "cookie": "hdntl=Expires=1788375488~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv1wTG-B3coPSoFYxHSZoCwl5RRbGJChvBlDAq-mq7TB7WNBk9xkxNO2OGxZ_6wRH7iOUd38PamhRsS2ViDvRgAN",
-          "expires": "1788375488",
-          "expire_date": "Thursday, September 3, 2026, 12:28:08 AM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -134,25 +120,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Rishikesh Dragons Vs Herbertpur Knight Riders",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": "4249063",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Vfl Osnabruck Vs Fc Bayern München",
       "tournament": "DFB Pokal 2026-27",
@@ -198,6 +165,82 @@
       "status": "UPCOMING",
       "startTime": "02 September 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Rishikesh Dragons Vs Herbertpur Knight Riders",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": "4249063",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kuwait Vs United Arab Emirates",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248617",
+      "status": "UPCOMING",
+      "startTime": "03 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Malaysia Vs Nepal",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248618",
+      "status": "UPCOMING",
+      "startTime": "03 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248618_53050_MAS_NEP_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers Women Vs South Delhi Superstarz Women",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": "4247563",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787555685286.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -268,50 +311,12 @@
     },
     {
       "category": "Cricket",
-      "title": "North Delhi Strikers Women Vs South Delhi Superstarz Women",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": "4247563",
+      "title": "Bathinda Royals Vs Jalandhar Warriors",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249114",
       "status": "UPCOMING",
-      "startTime": "02 September 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787555685286.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait Vs United Arab Emirates",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248617",
-      "status": "UPCOMING",
-      "startTime": "03 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia Vs Nepal",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248618",
-      "status": "UPCOMING",
-      "startTime": "03 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248618_53050_MAS_NEP_FC-Web.png",
+      "startTime": "03 September 2026 01:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788273996413/4249114_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -331,25 +336,6 @@
       "status": "UPCOMING",
       "startTime": "03 September 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249064_53058_DK_VD_fc-Web_fc-webtvbg.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bathinda Royals Vs Jalandhar Warriors",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249114",
-      "status": "UPCOMING",
-      "startTime": "03 September 2026 01:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1788273996413/4249114_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -420,12 +406,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mussoorie Thunder Vs Selaqui Strikers",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": "4249065",
+      "title": "Fazilka Falcons Vs Mohali Kings",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249124",
       "status": "UPCOMING",
-      "startTime": "03 September 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
+      "startTime": "03 September 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788273996424/4249124_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -439,12 +425,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Fazilka Falcons Vs Mohali Kings",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249124",
+      "title": "Mussoorie Thunder Vs Selaqui Strikers",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": "4249065",
       "status": "UPCOMING",
-      "startTime": "03 September 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1788273996424/4249124_CASACARDS_SPORTY_APP.png",
+      "startTime": "03 September 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
