@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/9/2026, 12:19:24 am",
+  "updatedAt": "2/9/2026, 12:22:51 am",
   "total_matches": 40,
   "live_matches": 3,
-  "upcoming_matches": 38,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Football",
@@ -72,25 +72,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Mohali Kings Vs Ludhiana Lions",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249108",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 01:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1788273996407/4249108_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Stoke City F.c. Vs Norwich City F.c.",
       "tournament": "EFL Championship 2026-27",
@@ -98,6 +79,39 @@
       "status": "LIVE",
       "startTime": "02 September 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/240p.m3u8?hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/360p.m3u8?hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/480p.m3u8?hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/540p.m3u8?hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/720p.m3u8?hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE"
+          },
+          "cookie": "hdntl=Expires=1788288998~_GO=Generated~acl=/mumbai/4247479_english_hls_5a3201479e97049_1ta-di_h264/*~Signature=AfPHOv16VbACOZflxXD8hIrB2P7S-EIWa0uitmXmZd7XvW7OrUygW4zkI0m-TYL_4VBhGqygaSosRe0Z0Kr0_P6MeBkE",
+          "expires": "1788288998",
+          "expire_date": "Wednesday, September 2, 2026, 12:26:38 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mohali Kings Vs Ludhiana Lions",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249108",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 01:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788273996407/4249108_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
