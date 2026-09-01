@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 10:36:43 pm",
+  "updatedAt": "1/9/2026, 11:00:18 pm",
   "total_matches": 41,
   "live_matches": 5,
-  "upcoming_matches": 37,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -68,38 +68,6 @@
           "cookie": "hdntl=Expires=1788356654~_GO=Generated~acl=/mumbai/4248360_bhojpuri_hls_b7b1b32b8176200_1ta-di_h264/*~Signature=AfPHOv2D4ppqV2nQQkBTNSoYt9K3g2-43ltSNkVnsV8qASGvEgzWxHWjepWC2N_KNWMhcQ6b1ruzcUaHdxf3oaq_P7AM",
           "expires": "1788356654",
           "expire_date": "Wednesday, September 2, 2026, 7:14:14 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Amritsar Soormas Vs Jalandhar Warriors",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249130",
-      "status": "LIVE",
-      "startTime": "01 September 2026 08:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1788275860994/4249130_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "1080p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_1080p.m3u8?hdntl=Expires=1788360665~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv0w1CbzQrHbvhZBQR9fQ2R3Kq8cuopxWM-uZ9JhuP7AklMzsEpfIfeNx-BW6DIw3jAMLOVeBZlh-X_dRiNB_FYF",
-            "720p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_720p.m3u8?hdntl=Expires=1788360665~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv0w1CbzQrHbvhZBQR9fQ2R3Kq8cuopxWM-uZ9JhuP7AklMzsEpfIfeNx-BW6DIw3jAMLOVeBZlh-X_dRiNB_FYF",
-            "540p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_540p.m3u8?hdntl=Expires=1788360665~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv0w1CbzQrHbvhZBQR9fQ2R3Kq8cuopxWM-uZ9JhuP7AklMzsEpfIfeNx-BW6DIw3jAMLOVeBZlh-X_dRiNB_FYF",
-            "360p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_360p.m3u8?hdntl=Expires=1788360665~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv0w1CbzQrHbvhZBQR9fQ2R3Kq8cuopxWM-uZ9JhuP7AklMzsEpfIfeNx-BW6DIw3jAMLOVeBZlh-X_dRiNB_FYF",
-            "216p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_216p.m3u8?hdntl=Expires=1788360665~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv0w1CbzQrHbvhZBQR9fQ2R3Kq8cuopxWM-uZ9JhuP7AklMzsEpfIfeNx-BW6DIw3jAMLOVeBZlh-X_dRiNB_FYF"
-          },
-          "cookie": "hdntl=Expires=1788360665~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv0w1CbzQrHbvhZBQR9fQ2R3Kq8cuopxWM-uZ9JhuP7AklMzsEpfIfeNx-BW6DIw3jAMLOVeBZlh-X_dRiNB_FYF",
-          "expires": "1788360665",
-          "expire_date": "Wednesday, September 2, 2026, 8:21:05 PM"
         }
       }
     },
@@ -208,6 +176,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Fazilka Falcons Vs Amritsar Soormas",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249118",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788273996414/4249118_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Hebc Hamburg Vs Borussia Dortmund",
       "tournament": "DFB Pokal 2026-27",
@@ -234,25 +221,6 @@
       "status": "UPCOMING",
       "startTime": "02 September 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Fazilka Falcons Vs Amritsar Soormas",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249118",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1788273996414/4249118_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -341,25 +309,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "St Kitts And Nevis Patriots Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248294",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Vfl Osnabruck Vs Fc Bayern München",
       "tournament": "DFB Pokal 2026-27",
@@ -399,12 +348,50 @@
     },
     {
       "category": "Cricket",
+      "title": "St Kitts And Nevis Patriots Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248294",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Kashi Rudras Vs Meerut Mavericks",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": "4248359",
       "status": "UPCOMING",
       "startTime": "01 September 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Amritsar Soormas Vs Jalandhar Warriors",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249130",
+      "status": "LIVE",
+      "startTime": "01 September 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Amritsar-Soormas-vs-Jalandhar-Warriors_fc-web1.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
