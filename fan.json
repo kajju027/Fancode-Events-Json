@@ -1,10 +1,32 @@
 {
   "name": "CnpTV FanCode Playlist",
-  "updatedAt": "1/9/2026, 11:16:22 pm",
-  "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "updatedAt": "1/9/2026, 11:17:25 pm",
+  "total_matches": 41,
+  "live_matches": 4,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248360",
+      "status": "LIVE",
+      "startTime": "01 September 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
+      "language": "HINDI",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248360_hin.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248360",
+      "status": "LIVE",
+      "startTime": "01 September 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
+      "language": "BHOJPURI",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248360_bho.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Ias Invincibles Vs Yalla Shabab Giants",
@@ -15,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248668_53052_IAI_YSG_fc-Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248668_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Al Hilal Sfc Vs Al Ahli Saudi Fc",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4248653",
-      "status": "LIVE",
-      "startTime": "01 September 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248653_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -50,6 +61,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Al Hilal Sfc Vs Al Ahli Saudi Fc",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4248653",
+      "status": "UPCOMING",
+      "startTime": "01 September 2026 11:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248653_53025_AHS_AAS_FC-Web_1788155166471.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Fazilka Falcons Vs Amritsar Soormas",
       "tournament": "Sher-E-Punjab T20, 2026",
@@ -57,28 +79,6 @@
       "status": "UPCOMING",
       "startTime": "02 September 2026 07:00 PM",
       "image": "https://images.fancode.com/aig/match/v1788273996414/4249118_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman Vs Qatar",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248615",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Hong Kong, China Vs Bahrain",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248616",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -101,6 +101,28 @@
       "status": "UPCOMING",
       "startTime": "02 September 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Oman Vs Qatar",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248615",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Hong Kong, China Vs Bahrain",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248616",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -167,17 +189,6 @@
       "status": "UPCOMING",
       "startTime": "01 September 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248360",
-      "status": "UPCOMING",
-      "startTime": "01 September 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
       "language": null,
       "cnptv_cdn": null
     },
