@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 1:31:34 pm",
+  "updatedAt": "1/9/2026, 1:57:01 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Malaysia Vs Saudi Arabia",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248613",
-      "status": "LIVE",
-      "startTime": "01 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788311992~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv2xC2DqRRwxreYC4rWfeNGATPD6uZlgKOqg1rM-e-WCnnEpMVGoLpLkZxvKRE3dsfQqFCwzTYT_fA6jWP51_U4P",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/240p.m3u8?hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/360p.m3u8?hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/480p.m3u8?hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/540p.m3u8?hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/720p.m3u8?hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F"
-          },
-          "cookie": "hdntl=Expires=1788330368~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv3ZRCVnnvch9zb2h27yVTrFMO4Ub7VHmyByyuNLSFf9KcaTpWjiISxMqWbNwv2_pqkhkzIj2JtdLqMPXae-9i4F",
-          "expires": "1788330368",
-          "expire_date": "Wednesday, September 2, 2026, 11:56:08 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Kuwait Vs Singapore",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "04 September 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F2 MONZA 2026",
+      "match_id": "139646",
+      "status": "UPCOMING",
+      "startTime": "04 September 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
