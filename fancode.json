@@ -1,28 +1,42 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/9/2026, 4:01:02 am",
+  "updatedAt": "2/9/2026, 4:07:31 am",
   "total_matches": 40,
   "live_matches": 1,
-  "upcoming_matches": 40,
+  "upcoming_matches": 39,
   "matches": [
     {
-      "category": "Football",
-      "title": "Stoke City F.c. Vs Norwich City F.c.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247479",
+      "category": "Cricket",
+      "title": "St Kitts And Nevis Patriots Vs Barbados Tridents",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248294",
       "status": "LIVE",
-      "startTime": "02 September 2026 12:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1784709183099/4247479_CASACARDS_SPORTY_APP.png",
+      "startTime": "02 September 2026 04:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/index.m3u8",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/240p.m3u8?hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/360p.m3u8?hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/480p.m3u8?hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/540p.m3u8?hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/720p.m3u8?hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ"
+          },
+          "cookie": "hdntl=Expires=1788302555~_GO=Generated~acl=/mumbai/4248294_english_hls_ce71ef203640007_1ta-di_h264/*~Signature=AfPHOv36q6PC_FrCETLahbOjYCYCRxr22159njbm2FQ5IW0q6cq8K8O8YV-5zwctnIMq52U6RQ9QgbKt8yuz098NyOMJ",
+          "expires": "1788302555",
+          "expire_date": "Wednesday, September 2, 2026, 4:12:35 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -146,25 +160,6 @@
       "status": "UPCOMING",
       "startTime": "03 September 2026 12:30 AM",
       "image": "https://images.fancode.com/aig/match/v1784709183095/4247480_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "St Kitts And Nevis Patriots Vs Barbados Tridents",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248294",
-      "status": "UPCOMING",
-      "startTime": "02 September 2026 04:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -754,6 +749,25 @@
       "status": "UPCOMING",
       "startTime": "04 September 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Rishikesh Dragons Vs Selaqui Strikers",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": "4249069",
+      "status": "UPCOMING",
+      "startTime": "04 September 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
