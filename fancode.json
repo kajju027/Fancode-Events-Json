@@ -1,10 +1,76 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 7:50:21 pm",
-  "total_matches": 41,
-  "live_matches": 6,
+  "updatedAt": "1/9/2026, 7:51:23 pm",
+  "total_matches": 42,
+  "live_matches": 7,
   "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Kashi Rudras Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248359",
+      "status": "LIVE",
+      "startTime": "01 September 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/240p.m3u8?hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/360p.m3u8?hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/480p.m3u8?hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/540p.m3u8?hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/720p.m3u8?hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI"
+          },
+          "cookie": "hdntl=Expires=1788341169~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv1zxwqC4JP8iB3Ep-0GMZgmty8dAs7nb3_CB2lbTcDGdrCu1LcqzYpd2pG54sH_9p24N_ngp6-AynLtu-pF5jEI",
+          "expires": "1788341169",
+          "expire_date": "Wednesday, September 2, 2026, 2:56:09 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Kashi Rudras Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248359",
+      "status": "LIVE",
+      "startTime": "01 September 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
+      "language": "BHOJPURI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/240p.m3u8?hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/360p.m3u8?hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/480p.m3u8?hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/540p.m3u8?hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/720p.m3u8?hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN"
+          },
+          "cookie": "hdntl=Expires=1788341172~_GO=Generated~acl=/mumbai/4248359_bhojpuri_hls_051952171d1604_1ta-di_h264/*~Signature=AfPHOv0azTJbhyydZdjHGgGI3xdI-n8mT6iMuFGiPgsDVbC5bjr_YcctnCWo09L7NysTRm4vre0tJ5NjL4VY8W5m71UN",
+          "expires": "1788341172",
+          "expire_date": "Wednesday, September 2, 2026, 2:56:12 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Kanpur Superstars Vs Gaur Gorakhpur Lions",
@@ -139,7 +205,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Central Delhi Queens Vs East Delhi Riders Women",
+      "title": "East Delhi Riders Women Vs Central Delhi Queens",
       "tournament": "Women's Delhi Premier League, 2026",
       "match_id": "4247564",
       "status": "LIVE",
@@ -167,39 +233,6 @@
           "cookie": "hdntl=Expires=1788355570~_GO=Generated~acl=/mumbai/4247564_english_hls_0cacd4f5a888391_1ta-di_h264/*~Signature=AfPHOv3TT4yQUMDCuKATqkJy7DMqZ05Q0Nv3homiiTihYpI6NojH4EPd_xajfb1462RCdV27fRw5U4jSJWNkhyMwWoIG",
           "expires": "1788355570",
           "expire_date": "Wednesday, September 2, 2026, 6:56:10 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kashi Rudras Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248359",
-      "status": "LIVE",
-      "startTime": "01 September 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/240p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/360p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/480p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/540p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/720p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M"
-          },
-          "cookie": "hdntl=Expires=1788340562~_GO=Generated~acl=/mumbai/4248359_hindi_hls_b9ede3fe0826465_1ta-di_h264/*~Signature=AfPHOv38ERKsZJykjdiqzce256AQtd4CTK6nZLgNGEq_yTtAk0KD5k9QLNkOi2yreVza6rvf29mAcRy_3nijTw8qDC0M",
-          "expires": "",
-          "expire_date": ""
         }
       }
     },
@@ -344,6 +377,25 @@
       "status": "UPCOMING",
       "startTime": "02 September 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Lucknow Falcons Vs Kanpur Superstars",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248346",
+      "status": "UPCOMING",
+      "startTime": "31 August 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -838,25 +890,6 @@
       "status": "UPCOMING",
       "startTime": "04 September 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F3 MONZA 2026",
-      "match_id": "139738",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
