@@ -1,10 +1,76 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 6:44:15 am",
+  "updatedAt": "1/9/2026, 6:44:23 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Malaysia Vs Saudi Arabia",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248613",
+      "status": "LIVE",
+      "startTime": "01 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/240p.m3u8?hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/360p.m3u8?hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/480p.m3u8?hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/540p.m3u8?hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/720p.m3u8?hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ"
+          },
+          "cookie": "hdntl=Expires=1788225461~_GO=Generated~acl=/mumbai/4248613_english_hls_51e2b4ee4249460_1ta-di_h264/*~Signature=AfPHOv328wF3zFsCuMVcYwkhmrA9XvHtDutsYzP8sKLawhBLycJX5g1AfaXDIkNdkZp0KAW0sFTtTkFM5RZQHPR_M7kJ",
+          "expires": "1788225461",
+          "expire_date": "Tuesday, September 1, 2026, 6:47:41 AM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Kuwait Vs Singapore",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248614",
+      "status": "LIVE",
+      "startTime": "01 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788311385~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0pOUdw8fUq8ba9JtkzDCV0ued6KHu-IuvHoeP8JmCMPsx5tx1_rtnzcwIcQpOf7r2--11GIBjMdjVKXrTyqRcD",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/240p.m3u8?hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/360p.m3u8?hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/480p.m3u8?hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/540p.m3u8?hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/720p.m3u8?hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA"
+          },
+          "cookie": "hdntl=Expires=1788225465~_GO=Generated~acl=/mumbai/4248614_english_hls_2fac21ae5165994_1ta-di_h264/*~Signature=AfPHOv0DWLCvpbRGXYnWMFOtPiJYJHmYAxwFyX2FZKaWvFFcOT0DYW5R2xsZhhclPEkEu8gIhhpPqo1IFV2ZZK8Q2bIA",
+          "expires": "1788225465",
+          "expire_date": "Tuesday, September 1, 2026, 6:47:45 AM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Guyana Amazon Warriors Vs Trinbago Knight Riders",
@@ -65,44 +131,6 @@
       "status": "UPCOMING",
       "startTime": "01 September 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248360_53029_KAN_GOR_FC-Web_1786702851474.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia Vs Saudi Arabia",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248613",
-      "status": "UPCOMING",
-      "startTime": "01 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait Vs Singapore",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248614",
-      "status": "UPCOMING",
-      "startTime": "01 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
