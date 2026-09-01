@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/9/2026, 7:53:38 pm",
+  "updatedAt": "1/9/2026, 8:15:52 pm",
   "total_matches": 41,
-  "live_matches": 5,
-  "upcoming_matches": 37,
+  "live_matches": 6,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -172,12 +172,44 @@
     },
     {
       "category": "Cricket",
-      "title": "Kashi Rudras Vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248359",
+      "title": "Amritsar Soormas Vs Jalandhar Warriors",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249130",
+      "status": "LIVE",
+      "startTime": "01 September 2026 08:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788271840551/4249130_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_1080p.m3u8?hdntl=Expires=1788274175~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv3gFtYp33i3RKpBTrdFGmKgGLtleMY6H5-ykXLXiCXT9MKqP0gcK5ANUmKGQGAJv_wg5APJYJKXV0LzCpJcDL0L",
+            "720p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_720p.m3u8?hdntl=Expires=1788274175~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv3gFtYp33i3RKpBTrdFGmKgGLtleMY6H5-ykXLXiCXT9MKqP0gcK5ANUmKGQGAJv_wg5APJYJKXV0LzCpJcDL0L",
+            "540p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_540p.m3u8?hdntl=Expires=1788274175~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv3gFtYp33i3RKpBTrdFGmKgGLtleMY6H5-ykXLXiCXT9MKqP0gcK5ANUmKGQGAJv_wg5APJYJKXV0LzCpJcDL0L",
+            "360p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_360p.m3u8?hdntl=Expires=1788274175~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv3gFtYp33i3RKpBTrdFGmKgGLtleMY6H5-ykXLXiCXT9MKqP0gcK5ANUmKGQGAJv_wg5APJYJKXV0LzCpJcDL0L",
+            "216p": "https://in-mc-flive.fancode.com/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/index_216p.m3u8?hdntl=Expires=1788274175~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv3gFtYp33i3RKpBTrdFGmKgGLtleMY6H5-ykXLXiCXT9MKqP0gcK5ANUmKGQGAJv_wg5APJYJKXV0LzCpJcDL0L"
+          },
+          "cookie": "hdntl=Expires=1788274175~_GO=Generated~acl=/s3/c4001eb3-fe0c-448d-a0be-d6e903e166ab/*~Signature=AfPHOv3gFtYp33i3RKpBTrdFGmKgGLtleMY6H5-ykXLXiCXT9MKqP0gcK5ANUmKGQGAJv_wg5APJYJKXV0LzCpJcDL0L",
+          "expires": "1788274175",
+          "expire_date": "Tuesday, September 1, 2026, 8:19:35 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mohali Kings Vs Ludhiana Lions",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249108",
       "status": "UPCOMING",
-      "startTime": "01 September 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
+      "startTime": "02 September 2026 01:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788271840537/4249108_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -253,7 +285,7 @@
       "match_id": "4248615",
       "status": "UPCOMING",
       "startTime": "02 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -272,7 +304,26 @@
       "match_id": "4248616",
       "status": "UPCOMING",
       "startTime": "02 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Fazilka Falcons Vs Amritsar Soormas",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249118",
+      "status": "UPCOMING",
+      "startTime": "02 September 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788271840546/4249118_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -330,6 +381,25 @@
       "status": "UPCOMING",
       "startTime": "02 September 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248294_53026_SKN_BT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kashi Rudras Vs Meerut Mavericks",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248359",
+      "status": "UPCOMING",
+      "startTime": "01 September 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248359_53029_MER_KAS_FC-Web_1786702852105.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -405,7 +475,7 @@
       "match_id": "4248617",
       "status": "UPCOMING",
       "startTime": "03 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -424,7 +494,7 @@
       "match_id": "4248618",
       "status": "UPCOMING",
       "startTime": "03 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248618_53050_MAS_NEP_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -463,6 +533,25 @@
       "status": "UPCOMING",
       "startTime": "03 September 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249064_53058_DK_VD_fc-Web_fc-webtvbg.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bathinda Royals Vs Jalandhar Warriors",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249114",
+      "status": "UPCOMING",
+      "startTime": "03 September 2026 01:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788271840547/4249114_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -520,6 +609,25 @@
       "status": "UPCOMING",
       "startTime": "03 September 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Fazilka Falcons Vs Mohali Kings",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249124",
+      "status": "UPCOMING",
+      "startTime": "03 September 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788271840544/4249124_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -633,7 +741,7 @@
       "match_id": "4248619",
       "status": "UPCOMING",
       "startTime": "04 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -652,7 +760,7 @@
       "match_id": "4248620",
       "status": "UPCOMING",
       "startTime": "04 September 2026 07:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248620_53050_SIN_QAT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -704,6 +812,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Bathinda Royals Vs Amritsar Soormas",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249123",
+      "status": "UPCOMING",
+      "startTime": "04 September 2026 01:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1788271840550/4249123_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Yalla Shabab Giants Vs Majees Titans",
       "tournament": "Oman D50 2026",
       "match_id": "4248671",
@@ -728,120 +855,6 @@
       "match_id": "139737",
       "status": "UPCOMING",
       "startTime": "04 September 2026 12:05 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Doiwala Kings Vs Mussoorie Thunder",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": "4249068",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248344",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F2 MONZA 2026",
-      "match_id": "139646",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
-      "match_id": "139482",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Rishikesh Dragons Vs Selaqui Strikers",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": "4249069",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F3 MONZA 2026",
-      "match_id": "139738",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 05:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
       "language": "ENGLISH",
       "streams": {
