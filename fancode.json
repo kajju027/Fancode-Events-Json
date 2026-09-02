@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/9/2026, 12:00:17 am",
+  "updatedAt": "3/9/2026, 12:01:46 am",
   "total_matches": 40,
-  "live_matches": 1,
+  "live_matches": 2,
   "upcoming_matches": 39,
   "matches": [
     {
@@ -81,19 +81,33 @@
       "title": "Vfl Osnabruck Vs Fc Bayern Munich",
       "tournament": "DFB Pokal 2026-27",
       "match_id": "4248532",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03 September 2026 12:15 AM",
       "image": "https://images.fancode.com/aig/match/v1787136554688/4248532_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/240p.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/360p.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/480p.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/540p.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/720p.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE"
+          },
+          "cookie": "hdntl=Expires=1788460234~_GO=Generated~acl=/mumbai/4248532_english_hls_3c5ad153b313635_1ta-di_h264/*~Signature=AfPHOv11Ix4r1SvcwsmSYKKxGO8ZbnYIGoAsord-BDf4O0D4BPBkELyDKb_2qnfaa4wQFoltI2G2XLHemrkqsvxsIyoE",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Football",
