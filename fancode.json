@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/9/2026, 11:22:17 pm",
+  "updatedAt": "2/9/2026, 11:22:26 pm",
   "total_matches": 40,
-  "live_matches": 4,
+  "live_matches": 3,
   "upcoming_matches": 38,
   "matches": [
     {
@@ -10,33 +10,19 @@
       "title": "Fazilka Falcons Vs Amritsar Soormas",
       "tournament": "Sher-E-Punjab T20, 2026",
       "match_id": "4249118",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "02 September 2026 07:00 PM",
       "image": "https://images.fancode.com/aig/match/v1788273996414/4249118_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/240p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/360p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/480p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/540p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/720p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA"
-          },
-          "cookie": "hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
