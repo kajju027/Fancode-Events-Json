@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/9/2026, 5:38:03 pm",
+  "updatedAt": "3/9/2026, 5:38:33 pm",
   "total_matches": 41,
-  "live_matches": 6,
+  "live_matches": 5,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -479,33 +479,19 @@
       "title": "Jalandhar Warriors Vs Bathinda Royals",
       "tournament": "Sher-E-Punjab T20, 2026",
       "match_id": "4249114",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "03 September 2026 01:00 PM",
       "image": "https://images.fancode.com/aig/match/v1788273996413/4249114_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/240p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/360p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/480p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/540p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/720p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO"
-          },
-          "cookie": "hdntl=Expires=1788505776~_GO=Generated~acl=/mumbai/4249114_hindi_hls_b8db6aa2b637110_1ta-di_h264/*~Signature=AfPHOv0LJujvy7EdEYLJq1ezoIszb7bfkPI1l7mFXm5rsnMoEWz01SU2eYX1tAL1TQZua59BmBlQ8XmOZadH55qWxTYO",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Motorsports",
