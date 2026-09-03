@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/9/2026, 5:00:34 pm",
+  "updatedAt": "3/9/2026, 5:01:46 pm",
   "total_matches": 42,
-  "live_matches": 7,
-  "upcoming_matches": 37,
+  "live_matches": 6,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -139,6 +139,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Kuwait Vs United Arab Emirates",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248617",
+      "status": "UPCOMING",
+      "startTime": "03 September 2026 07:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248617_53050_KUW_UAE_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Mussoorie Thunder Vs Selaqui Strikers",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249065",
@@ -200,39 +219,6 @@
           "cookie": "hdntl=Expires=1788517568~_GO=Generated~acl=/mumbai/4248670_english_hls_3f3edbce1c38940_1ta-di_h264/*~Signature=AfPHOv1qXJ-nhaaFGAMBXmfjP1g5M9gMx0CO5fJdO8Ba_aojcZ0Mlk7ky_28yP0Zq_R715fGXmJBWpAGaLxHRjtIIIAD",
           "expires": "1788517568",
           "expire_date": "Friday, September 4, 2026, 3:56:08 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Zimbabwe",
-      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
-      "match_id": "4248459",
-      "status": "LIVE",
-      "startTime": "03 September 2026 05:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248459_53037_NAM_ZIM_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/index.m3u8",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/240p.m3u8?hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/360p.m3u8?hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/480p.m3u8?hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/540p.m3u8?hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/720p.m3u8?hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK"
-          },
-          "cookie": "hdntl=Expires=1788435340~_GO=Generated~acl=/mumbai/4248459_english_hls_a664aa371853125_1ta-di_h264/*~Signature=AfPHOv08IxUsr54nehsb3N4bIStPXDDRXVo6Qxyt-oSFjGVZ_9NN8ywphYhF6gKOw24dhmW-yzFDjLEC6b4-l-HXsscK",
-          "expires": "1788435340",
-          "expire_date": "Thursday, September 3, 2026, 5:05:40 PM"
         }
       }
     },
@@ -428,25 +414,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248344",
-      "status": "UPCOMING",
-      "startTime": "04 September 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Doiwala Kings Vs Mussoorie Thunder",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249068",
@@ -466,12 +433,50 @@
     },
     {
       "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248344",
+      "status": "UPCOMING",
+      "startTime": "04 September 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Yalla Shabab Giants Vs Majees Titans",
       "tournament": "Oman D50 2026",
       "match_id": "4248671",
       "status": "UPCOMING",
       "startTime": "04 September 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Zimbabwe",
+      "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
+      "match_id": "4248459",
+      "status": "UPCOMING",
+      "startTime": "03 September 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248459_53037_NAM_ZIM_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -871,25 +876,6 @@
       "status": "UPCOMING",
       "startTime": "05 September 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Fazilka Falcons Vs Bathinda Royals",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249117",
-      "status": "UPCOMING",
-      "startTime": "05 September 2026 01:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1788273996407/4249117_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
