@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/9/2026, 2:53:34 am",
+  "updatedAt": "4/9/2026, 4:04:46 am",
   "total_matches": 41,
-  "live_matches": 5,
+  "live_matches": 6,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -441,19 +441,33 @@
       "title": "St Kitts And Nevis Patriots Vs Saint Lucia Kings",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": "4248297",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04 September 2026 04:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/240p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/360p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/480p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/540p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/720p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA"
+          },
+          "cookie": "hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
