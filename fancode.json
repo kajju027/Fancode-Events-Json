@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/9/2026, 3:47:31 pm",
+  "updatedAt": "4/9/2026, 3:52:16 pm",
   "total_matches": 41,
-  "live_matches": 9,
+  "live_matches": 5,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -213,33 +213,19 @@
       "title": "Bathinda Royals Vs Amritsar Soormas",
       "tournament": "Sher-E-Punjab T20, 2026",
       "match_id": "4249123",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 01:00 PM",
       "image": "https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/240p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/360p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/480p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/540p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/720p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G"
-          },
-          "cookie": "hdntl=Expires=1788592218~_GO=Generated~acl=/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/*~Signature=AfPHOv3dbn89fCrrEe0EbHYM0lJgGQbX16i4tBCEPZTS3XO0trHjAfF2kOC2vBolZGAXIBW2FcKPIYJphYWVM1yv1V0G",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -398,66 +384,38 @@
       "title": "Doiwala Kings Vs Mussoorie Thunder",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249068",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/240p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/360p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/480p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/540p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/720p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC"
-          },
-          "cookie": "hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
       "title": "Yalla Shabab Giants Vs Majees Titans",
       "tournament": "Oman D50 2026",
       "match_id": "4248671",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/240p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/360p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/480p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/540p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/720p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J"
-          },
-          "cookie": "hdntl=Expires=1788603162~_GO=Generated~acl=/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/*~Signature=AfPHOv0OaLMfCxj25oFAUrckxpQ95IZo_jxRWHO2ycadrTZovX0PkKeAuORVXkSOW50BHB-9G6bH2u64cHFM5jva8a0J",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -578,33 +536,19 @@
       "title": "Uefa Women’s Champions League Draw",
       "tournament": "UEFA Women’s Champions League Draw",
       "match_id": "4249131",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/240p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/360p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/480p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/540p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/720p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC"
-          },
-          "cookie": "hdntl=Expires=1788601945~_GO=Generated~acl=/mumbai/4249131_english_hls_7ca73b304e6216_1ta-di_h264/*~Signature=AfPHOv2h6vr0y-d791K44KYbKKDWgNLaHe6p5MNlioJn8fL26TPm9W5SxwLhmCQh5YpyWUSZuyQZVS79TZBL_0_ow-cC",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Football",
