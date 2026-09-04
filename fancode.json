@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/9/2026, 2:15:17 pm",
+  "updatedAt": "4/9/2026, 2:25:00 pm",
   "total_matches": 41,
   "live_matches": 8,
   "upcoming_matches": 37,
@@ -412,19 +412,33 @@
       "title": "Doiwala Kings Vs Mussoorie Thunder",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249068",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04 September 2026 03:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/240p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/360p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/480p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/540p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/720p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC"
+          },
+          "cookie": "hdntl=Expires=1788598291~_GO=Generated~acl=/mumbai/4249068_english_hls_56da0e3af970065_1ta-di_h264/*~Signature=AfPHOv01k1aKgeeIqlPBy8XPYklICidzUyFKsec8VZjhjCsfvNxJiBKB1OwtO3q1gRZHdwLicPGxT0kiHax6zg8dFqoC",
+          "expires": "",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -545,33 +559,19 @@
       "title": "Practice Session",
       "tournament": "F2 MONZA 2026",
       "match_id": "139646",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/240p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/360p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/480p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/540p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/720p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB"
-          },
-          "cookie": "hdntl=Expires=1788594650~_GO=Generated~acl=/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/*~Signature=AfPHOv1EiTIBGn10xeeAZnmCP0hORdmn2ADKTYnSEk316vpEyvRFlXd2rjwF87v9WUTgPBd0WSGM1awxHzmVFCaVAGYB",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Live Events",
