@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/9/2026, 5:04:34 pm",
+  "updatedAt": "4/9/2026, 5:14:08 pm",
   "total_matches": 41,
-  "live_matches": 10,
+  "live_matches": 9,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -635,33 +635,19 @@
       "title": "Practice 1",
       "tournament": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
       "match_id": "139482",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 04:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/240p.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/360p.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/480p.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/540p.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/720p.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO"
-          },
-          "cookie": "hdntl=Expires=1788603770~_GO=Generated~acl=/mumbai/139482_english_hls_412978f7c571522_1ta-di_h264/*~Signature=AfPHOv2r0czueX5n2ezDEi3AwMDh77p5SXdoyvP8GAci05EDa8hJGkLgmh8IzkK0knBjecALYOv5QLsbuqykDfwPKRsO",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Motorsports",
