@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/9/2026, 2:30:21 am",
+  "updatedAt": "5/9/2026, 2:44:27 am",
   "total_matches": 41,
-  "live_matches": 7,
+  "live_matches": 6,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -740,33 +740,19 @@
       "title": "Las Palmas Vs Leganes",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4248644",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "05 September 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/240p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/360p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/480p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/540p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/720p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN"
-          },
-          "cookie": "hdntl=Expires=1788632413~_GO=Generated~acl=/mumbai/4248644_english_hls_7a420247eb29167_1ta-di_h264/*~Signature=AfPHOv0gNkYhNnHtjfcD3YeOR5y_yaOOpgsodbXp8kiVGhPlKu2OhoSA_UMIUGzqB5z9ZHJDx8iaNYs4EZa647_XpGcN",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
