@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/9/2026, 11:52:41 am",
+  "updatedAt": "4/9/2026, 11:54:32 am",
   "total_matches": 41,
-  "live_matches": 8,
+  "live_matches": 7,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -355,33 +355,19 @@
       "title": "Selaqui Strikers Vs Herbertpur Knight Riders",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249067",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249067_53058_SS_HKR_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/240p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/360p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/480p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/540p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/720p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG"
-          },
-          "cookie": "hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
