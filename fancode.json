@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/9/2026, 8:58:34 pm",
+  "updatedAt": "4/9/2026, 9:49:32 pm",
   "total_matches": 41,
-  "live_matches": 11,
+  "live_matches": 10,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -687,33 +687,19 @@
       "title": "Namibia Vs South Africa",
       "tournament": "South Africa and Zimbabwe tour of Namibia, 2026",
       "match_id": "4248461",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "04 September 2026 05:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248461_53037_NAM_SA_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/240p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/360p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/480p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/540p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/720p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN"
-          },
-          "cookie": "hdntl=Expires=1788608023~_GO=Generated~acl=/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/*~Signature=AfPHOv3l5Thj6oTE4iLta5R3DJxPBuz1HsFtmh4ZfrMI3ND7VoRo5og7YJxKdkudzljcjyEYuSQEj5ZyF6KQWYUK-nIN",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Football",
