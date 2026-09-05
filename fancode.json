@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/9/2026, 12:32:23 pm",
+  "updatedAt": "5/9/2026, 12:32:40 pm",
   "total_matches": 41,
-  "live_matches": 9,
+  "live_matches": 8,
   "upcoming_matches": 37,
   "matches": [
     {
@@ -882,33 +882,19 @@
       "title": "Fazilka Falcons Vs Bathinda Royals",
       "tournament": "Sher-E-Punjab T20, 2026",
       "match_id": "4249117",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "05 September 2026 01:00 PM",
       "image": "https://images.fancode.com/aig/match/v1788273996407/4249117_CASACARDS_SPORTY_APP.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/240p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/360p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/480p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/540p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/720p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP"
-          },
-          "cookie": "hdntl=Expires=1788677980~_GO=Generated~acl=/mumbai/4249117_hindi_hls_6abda5db9f90926_1ta-di_h264/*~Signature=AfPHOv0g_dZKhDLEp5yIi3Czr1yOkwPQ7Nxgw6Hc-cbFhGh8XIjAOivBYyGcEJ8WfMaywcyldnrzp0Lh7ITmPCF9nRsP",
-          "expires": "",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     }
   ]
 }
