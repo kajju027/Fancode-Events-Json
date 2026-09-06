@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "6/9/2026, 6:16:56 pm",
+  "updatedAt": "6/9/2026, 6:17:55 pm",
   "total_matches": 38,
-  "live_matches": 10,
-  "upcoming_matches": 28,
+  "live_matches": 8,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -59,28 +59,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248646_53017_EIB_GRD_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248646_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Charlton Athletic F.C Women vs Liverpool Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248467",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248467_53038_CHL-W_LIV-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248467_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Crystal Palace Women vs Everton Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248468",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248468_53038_CP-W_EVE-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248468_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -145,6 +123,28 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 07-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249113_53065_MOK_LLN_fc-web_1788345783977.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Charlton Athletic F.C Women vs Liverpool Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248467",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248467_53038_CHL-W_LIV-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Crystal Palace Women vs Everton Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248468",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248468_53038_CP-W_EVE-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -248,17 +248,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Jalandhar Warriors vs Amritsar Soormas",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249116",
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 07-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249116_53065_JLD_AMS_fc-web_1788345783916.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Almería vs Cádiz",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -266,6 +255,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 07-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Jalandhar Warriors vs Amritsar Soormas",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249116",
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 07-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249116_53065_JLD_AMS_fc-web_1788345783916.jpg",
       "language": null,
       "cnptv_cdn": null
     },
