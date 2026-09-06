@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "7/9/2026, 12:13:13 am",
+  "updatedAt": "7/9/2026, 12:14:08 am",
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -28,19 +28,8 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247604_eng.sonuxs.m3u8"
     },
     {
-      "category": "Football",
-      "title": "Almería vs Cádiz [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248647",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 07-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248647_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Cricket",
-      "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors [English]",
+      "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots [English]",
       "tournament": "Caribbean Premier League, 2026",
       "match_id": "4248302",
       "status": "LIVE",
@@ -90,6 +79,17 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 07-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249116_53065_JLD_AMS_fc-web_1788345783916.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Almería vs Cádiz",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248647",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 07-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
