@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "7/9/2026, 3:07:55 am",
+  "updatedAt": "7/9/2026, 3:08:43 am",
   "total_matches": 37,
-  "live_matches": 1,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Almería vs Cádiz [English]",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248647",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 07-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/240p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/360p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/480p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/540p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/720p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN"
+          },
+          "cookie": "hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN",
+          "expires": "1788806587",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors [English]",
@@ -34,6 +67,39 @@
           },
           "cookie": "hdntl=Expires=1788805978~_GO=Generated~acl=/mumbai/4248302_english_hls_d8b35d069646185_1ta-di_h264/*~Signature=AfPHOv3vYTFRd0Bu0gRl6VpjZcFN6UKaVP73jhrkELJ3Vq1N4ny-tCRko27ebE4t4zHeSDvjGZRR4IUAmtB_tkXES4IL",
           "expires": "1788805978",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "RCD Espanyol vs Sevilla FC [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247604",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 07-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/240p.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/360p.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/480p.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/540p.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/720p.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM"
+          },
+          "cookie": "hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM",
+          "expires": "1788805977",
           "expire_date": ""
         }
       }
@@ -673,44 +739,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 09-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247488",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea vs Leeds United",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249054",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
