@@ -1,13 +1,13 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/9/2026, 7:10:30 pm",
-  "total_matches": 38,
-  "live_matches": 8,
-  "upcoming_matches": 30,
+  "updatedAt": "6/9/2026, 7:11:53 pm",
+  "total_matches": 39,
+  "live_matches": 10,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Ludhiana Lions vs Fazilka Falcons [Hindi]",
+      "title": "Fazilka Falcons vs Ludhiana Lions [Hindi]",
       "tournament": "Sher-E-Punjab T20, 2026",
       "match_id": "4249109",
       "status": "LIVE",
@@ -47,6 +47,85 @@
           },
           "cookie": "hdntl=Expires=1788787027~_GO=Generated~acl=/mumbai/4249109_punjabi_hls_03dd417e7598443_1ta-di_h264/*~Signature=AfPHOv2ocqL9NdbZgwaIz964z9DA5XtPxcpIU1SKdV2bIhINslmV7bz1cXmg55foSL8JvcH_Z3CZLX30RZLUXBolUkUN",
           "expires": "1788787027",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Lucknow Falcons vs Meerut Mavericks [Hindi]",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": "4248361",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/240p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/360p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/480p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/540p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/720p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO"
+          },
+          "cookie": "hdntl=Expires=1788788248~_GO=Generated~acl=/mumbai/4248361_hindi_hls_e68afebc9b47834_1ta-di_h264/*~Signature=AfPHOv0NcBnh1Ni3ZC46YU2a3eu5VbmzTh6VYwD414fWjSEFSdTZnUBOdEngKIo6h94k8I9rc_6UyRoJxGyKiAXqYlUO",
+          "expires": "1788788248",
+          "expire_date": ""
+        },
+        "BHOJPURI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/240p.m3u8?hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/360p.m3u8?hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/480p.m3u8?hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/540p.m3u8?hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/720p.m3u8?hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH"
+          },
+          "cookie": "hdntl=Expires=1788788249~_GO=Generated~acl=/mumbai/4248361_bhojpuri_hls_354ac2ce0d62967_1ta-di_h264/*~Signature=AfPHOv2XoZ9CLNcLC71A50MO9WGAxa6z-eiiEpBqWKsENuM179yEWZOt38KDJuqG--2bJq_zU6Ti0x-5p4ozXxV-fVQH",
+          "expires": "1788788249",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jamaica Empress Women vs Guyana Amazon Warriors Women [English]",
+      "tournament": "Women's Caribbean Premier League, 2026",
+      "match_id": "4249089",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249089_53061_JE-W_GUY-W_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/240p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/360p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/480p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/540p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/720p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI"
+          },
+          "cookie": "hdntl=Expires=1788788250~_GO=Generated~acl=/mumbai/4249089_english_hls_9246b77a1385614_1ta-di_h264/*~Signature=AfPHOv207O79wJrANBvw4vYcchW2O_1u-2MjDc0Vkpnw_SoYtxAE58JBtsUCjcIOdD-9leddzBspEMxg9I7KOX1MSWwI",
+          "expires": "1788788250",
           "expire_date": ""
         }
       }
@@ -310,50 +389,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Lucknow Falcons vs Meerut Mavericks",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248361",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248350_53029_MER_LCK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Selaqui Strikers vs Doiwala Kings",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249075",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 06-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Jamaica Empress Women vs Guyana Amazon Warriors Women",
-      "tournament": "Women's Caribbean Premier League, 2026",
-      "match_id": "4249089",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249089_53061_JE-W_GUY-W_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -518,13 +559,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Almería vs Cádiz",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248647",
+      "category": "Cricket",
+      "title": "Vikasnagar Dhamaka vs Selaqui Strikers",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": "4249076",
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 07-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png",
+      "startTime": "02:30:00 PM 07-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249076_53058_VD_SS_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -537,13 +578,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Vikasnagar Dhamaka vs Selaqui Strikers",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": "4249076",
+      "category": "Football",
+      "title": "Almería vs Cádiz",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4248647",
       "status": "UPCOMING",
-      "startTime": "02:30:00 PM 07-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249076_53058_VD_SS_fc-Web_fc-webtvbg.jpg",
+      "startTime": "12:30:00 AM 07-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -867,6 +908,25 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 08-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248661_53025_ALQ_AAS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ittihad vs Al-Fayha FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4248662",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248662_53025_ITT_ALF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
