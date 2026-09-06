@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/9/2026, 10:33:00 pm",
+  "updatedAt": "6/9/2026, 10:34:20 pm",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 33,
+  "live_matches": 7,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -230,6 +230,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Valencia CF vs FC Barcelona [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247601",
+      "status": "LIVE",
+      "startTime": "07:45:00 PM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247601_53004_VAL_BAR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/240p.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/360p.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/480p.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/540p.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/720p.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE"
+          },
+          "cookie": "hdntl=Expires=1788788864~_GO=Generated~acl=/mumbai/4247601_english_hls_e42ce70dd764215_1ta-di_h264/*~Signature=AfPHOv2zgwRLrK81WaIq0yj9VLRrAdDcfxC10gyg67g015_HGO6T3oUXJp-60uZ5s-G6dixTdtJ1qfI9sbRYlSFV6vUE",
+          "expires": "1788788864",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Mohali Kings vs Ludhiana Lions",
       "tournament": "Sher-E-Punjab T20, 2026",
@@ -439,25 +472,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Elche CF vs Real Sociedad",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247600",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 AM 08-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247600_53004_ELC_RS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
       "tournament": "Caribbean Premier League, 2026",
@@ -484,6 +498,25 @@
       "status": "UPCOMING",
       "startTime": "04:30:00 AM 07-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248311_53026_BT_SLK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Elche CF vs Real Sociedad",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247600",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 AM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247600_53004_ELC_RS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -826,25 +859,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 09-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Muscat Thunders vs Yalla Shabab Giants",
-      "tournament": "Oman D50 2026",
-      "match_id": "4248675",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248675_53052_MUT_YSG_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
