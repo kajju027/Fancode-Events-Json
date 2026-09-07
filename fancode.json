@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/9/2026, 3:35:43 am",
+  "updatedAt": "8/9/2026, 3:36:54 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Elche CF vs Real Sociedad [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247600",
+      "status": "LIVE",
+      "startTime": "01:00:00 AM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247600_53004_ELC_RS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/240p.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/360p.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/480p.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/540p.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/720p.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB"
+          },
+          "cookie": "hdntl=Expires=1788894148~_GO=Generated~acl=/mumbai/4247600_english_hls_55f805638356256_1ta-di_h264/*~Signature=AWDec-EP4ghdlv7iKQgfmCjZ9OwxHRUCnHN-QzR-1gyqFw7m2mu65S2RmiR3Aj9JUxNphCOhgFp8Y1JZBqNGJ0qoUNEB",
+          "expires": "1788894148",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Amritsar Soormas vs Mohali Kings",
@@ -697,25 +730,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 10-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Trinbago Knight Riders Women vs Jamaica Empress Women",
-      "tournament": "Women's Caribbean Premier League, 2026",
-      "match_id": "4249090",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249090_53061_TKR-W_JE-W_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
