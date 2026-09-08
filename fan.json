@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/9/2026, 1:52:48 am",
+  "updatedAt": "9/9/2026, 1:53:36 am",
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Al-Qadsiah FC vs Al-Ahli Saudi FC [English]",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4248661",
+      "status": "LIVE",
+      "startTime": "11:30:00 PM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248661_53025_ALQ_AAS_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248661_eng.sonuxs.m3u8"
+    },
     {
       "category": "Football",
       "title": "Al-Ittihad vs Al-Fayha FC [English]",
@@ -409,17 +420,6 @@
       "status": "UPCOMING",
       "startTime": "02:35:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "Free Practice 1",
-      "tournament": "DTM 2026",
-      "match_id": "4248638",
-      "status": "UPCOMING",
-      "startTime": "02:55:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": null,
       "cnptv_cdn": null
     }
