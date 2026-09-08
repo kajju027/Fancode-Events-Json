@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/9/2026, 12:32:22 pm",
+  "updatedAt": "8/9/2026, 12:42:33 pm",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -119,31 +119,45 @@
     },
     {
       "category": "Cricket",
-      "title": "Ludhiana Lions vs Jalandhar Warriors",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249121",
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 08-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg",
+      "title": "Kenya vs Sierra Leone [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249153",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/240p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/360p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/480p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/540p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/720p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK"
+          },
+          "cookie": "hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK",
+          "expires": "1788937883",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Kenya vs Sierra Leone",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249153",
+      "title": "Ludhiana Lions vs Jalandhar Warriors",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249121",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 08-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "07:00:00 PM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
