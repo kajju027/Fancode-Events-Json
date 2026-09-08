@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/9/2026, 7:40:18 pm",
+  "updatedAt": "8/9/2026, 7:40:50 pm",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -119,22 +119,35 @@
     },
     {
       "category": "Cricket",
-      "title": "Doiwala Kings vs Selaqui Strikers",
+      "title": "Doiwala Kings vs Selaqui Strikers [English]",
       "tournament": "Dehradun T20 League 2026",
       "match_id": "4249079",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:30:00 PM 08-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_1080p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_1080p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M",
+            "720p": "https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_720p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M",
+            "540p": "https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_540p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M",
+            "360p": "https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_360p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M",
+            "216p": "https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_216p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M"
+          },
+          "cookie": "hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M",
+          "expires": "1788962867",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
