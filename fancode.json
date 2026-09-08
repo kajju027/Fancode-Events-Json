@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "8/9/2026, 6:28:50 pm",
+  "updatedAt": "8/9/2026, 6:29:05 pm",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Mussoorie Thunder vs Vikasnagar Dhamaka [English]",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": "4249078",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/240p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/360p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/480p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/540p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/720p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D"
+          },
+          "cookie": "hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D",
+          "expires": "1788943964",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "IAS Invincibles vs Majees Titans [English]",
@@ -725,25 +758,6 @@
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248677_53052_MUT_ROS_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "MotoGP",
-      "title": "San Marino GP",
-      "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-      "match_id": "139966",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
