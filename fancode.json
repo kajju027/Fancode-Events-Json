@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 12:13:48 am",
+  "updatedAt": "9/9/2026, 12:13:58 am",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Football",
@@ -70,25 +70,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Ludhiana Lions vs Fazilka Falcons",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249119",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Football",
@@ -158,12 +139,45 @@
     },
     {
       "category": "Football",
-      "title": "Bournemouth vs Lincoln City F.C.",
+      "title": "Bournemouth vs Lincoln City F.C. [English]",
       "tournament": "Carabao Cup 2026-27",
       "match_id": "4249051",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:15:00 AM 09-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249051_53016_BOU_LNC_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/240p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/360p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/480p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/540p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/720p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D"
+          },
+          "cookie": "hdntl=Expires=1788979265~_GO=Generated~acl=/mumbai/4249051_english_hls_9eb7886d9888523_1ta-di_h264/*~Signature=AWDec-FPTd7jsUBW5EW62ciIMRsO9xuM12fpAg4T3A-SwmWrkEscBHEwXtzI1MZF8iIPKECipamFU2Boleax-Vq8B48D",
+          "expires": "1788979265",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Ludhiana Lions vs Fazilka Falcons",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249119",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
