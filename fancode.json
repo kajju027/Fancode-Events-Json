@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 1:53:36 am",
+  "updatedAt": "9/9/2026, 1:55:52 am",
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Ahli Saudi FC [English]",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4248661",
-      "status": "LIVE",
-      "startTime": "11:30:00 PM 08-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248661_53025_ALQ_AAS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/240p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/360p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/480p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/540p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/720p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP"
-          },
-          "cookie": "hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP",
-          "expires": "1788976228",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Al-Ittihad vs Al-Fayha FC [English]",
@@ -814,6 +781,25 @@
       "status": "UPCOMING",
       "startTime": "02:35:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Free Practice 1",
+      "tournament": "DTM 2026",
+      "match_id": "4248638",
+      "status": "UPCOMING",
+      "startTime": "02:55:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
