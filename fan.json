@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/9/2026, 12:04:31 am",
+  "updatedAt": "9/9/2026, 12:11:42 am",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Football",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248662_53025_ITT_ALF_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248662_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Ludhiana Lions vs Fazilka Falcons",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249119",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Football",
@@ -62,12 +51,23 @@
     },
     {
       "category": "Football",
-      "title": "Bournemouth vs Lincoln City F.C.",
+      "title": "Bournemouth vs Lincoln City F.C. [English]",
       "tournament": "Carabao Cup 2026-27",
       "match_id": "4249051",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "12:15:00 AM 09-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249051_53016_BOU_LNC_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249051_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Ludhiana Lions vs Fazilka Falcons",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249119",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg",
       "language": null,
       "cnptv_cdn": null
     },
