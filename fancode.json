@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 2:03:04 am",
+  "updatedAt": "9/9/2026, 2:03:49 am",
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Al-Ittihad vs Al-Fayha FC [English]",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4248662",
+      "status": "LIVE",
+      "startTime": "11:30:00 PM 08-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248662_53025_ITT_ALF_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/240p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/360p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/480p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/540p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/720p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP"
+          },
+          "cookie": "hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP",
+          "expires": "1788976229",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Crystal Palace vs Middlesbrough F.C. [English]",
@@ -767,25 +800,6 @@
       "status": "UPCOMING",
       "startTime": "02:55:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-      "match_id": "139487",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
