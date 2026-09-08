@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 4:05:28 am",
+  "updatedAt": "9/9/2026, 4:05:57 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors [English]",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248296",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/240p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/360p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/480p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/540p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/720p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC"
-          },
-          "cookie": "hdntl=Expires=1788993226~_GO=Generated~acl=/mumbai/4248296_english_hls_07e7e5a63b5981_1ta-di_h264/*~Signature=AWDec-FZ_qGz814eI72Sw8q4PlvQmaX-ktJmyh65nhwjHayfMns-67hIP097xWL9VX-x0t8njc4WODXtG6KLKLQBktEC",
-          "expires": "1788993226",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Ludhiana Lions vs Fazilka Falcons",
@@ -172,6 +139,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248296",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -211,6 +197,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Namibia vs South Africa",
+      "tournament": "South Africa tour of Namibia, 2026",
+      "match_id": "4248635",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Nepal vs Oman",
       "tournament": "ACC Men’s Premier Cup 2026",
       "match_id": "4248629",
@@ -236,25 +241,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 AM 10-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia vs South Africa",
-      "tournament": "South Africa tour of Namibia, 2026",
-      "match_id": "4248635",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
