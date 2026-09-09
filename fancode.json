@@ -1,10 +1,56 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 4:53:59 pm",
+  "updatedAt": "9/9/2026, 6:35:31 pm",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Mohali Kings vs Bathinda Royals [Hindi]",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249122",
+      "status": "LIVE",
+      "startTime": "07:00:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/240p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/360p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/480p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/540p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/720p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC"
+          },
+          "cookie": "hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
+          "expires": "1789045385",
+          "expire_date": ""
+        },
+        "PUNJABI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/240p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/360p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/480p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/540p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/720p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA"
+          },
+          "cookie": "hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
+          "expires": "1789045385",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Muscat Thunders vs Yalla Shabab Giants [English]",
@@ -78,12 +124,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mohali Kings vs Bathinda Royals",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249122",
+      "title": "Mussoorie Thunder vs Selaqui Strikers",
+      "tournament": "Dehradun T20 League 2026",
+      "match_id": "4249080",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
+      "startTime": "07:30:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -103,25 +149,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 10-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Mussoorie Thunder vs Selaqui Strikers",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": "4249080",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
