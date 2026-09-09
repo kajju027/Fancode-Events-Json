@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 12:43:33 pm",
+  "updatedAt": "9/9/2026, 12:53:44 pm",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -53,6 +53,39 @@
     },
     {
       "category": "Cricket",
+      "title": "Uganda vs Sierra Leone [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249155",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249155_53067_UGA_SRL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__1080p50.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__1080p50.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__240p.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__360p.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__480p.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__540p.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__720p.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK"
+          },
+          "cookie": "hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK",
+          "expires": "1789024762",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "South Africa vs Namibia [English]",
       "tournament": "South Africa tour of Namibia, 2026",
       "match_id": "4248635",
@@ -78,25 +111,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 09-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Uganda vs Sierra Leone",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249155",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249155_53067_UGA_SRL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
