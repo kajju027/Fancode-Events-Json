@@ -1,56 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 11:07:22 pm",
-  "total_matches": 39,
-  "live_matches": 3,
+  "updatedAt": "9/9/2026, 11:07:57 pm",
+  "total_matches": 38,
+  "live_matches": 2,
   "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bathinda Royals vs Mohali Kings [Hindi]",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249122",
-      "status": "LIVE",
-      "startTime": "07:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
-      "language": "HINDI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/240p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/360p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/480p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/540p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/720p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC"
-          },
-          "cookie": "hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_hindi_hls_d564c7214292534_1ta-di_h264/*~Signature=AWDec-FouCAmYYSpyQ7cKQCjFLA3OSmAU_46l71c-NcufbOilPsoj_Qcq7Ty82QscAGfHNPoYTHi_NCz_fiMik1VOjcC",
-          "expires": "1789045385",
-          "expire_date": ""
-        },
-        "PUNJABI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/240p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/360p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/480p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/540p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/720p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA"
-          },
-          "cookie": "hdntl=Expires=1789045385~_GO=Generated~acl=/mumbai/4249122_punjabi_hls_ae94dec67730583_1ta-di_h264/*~Signature=AWDec-Hnb0sXugo57Wvz72ZduNvh9vglXtlddUlGU66ccxWAyc1S2vO3SDp7FoKfeRNcYSJBubiLu9wJ4M0BgWAqQHAA",
-          "expires": "1789045385",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Muscat Thunders vs Yalla Shabab Giants [English]",
@@ -147,44 +101,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247488",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea vs Leeds United",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249054",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249054_53016_CHE_LU_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Nepal vs Oman",
       "tournament": "ACC Men’s Premier Cup 2026",
@@ -211,6 +127,44 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 AM 10-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247488",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea vs Leeds United",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249054",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249054_53016_CHE_LU_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
