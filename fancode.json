@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/9/2026, 11:10:10 pm",
+  "updatedAt": "9/9/2026, 11:16:58 pm",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -44,6 +44,39 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "Al-Nassr FC vs Abha Club [English]",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4248663",
+      "status": "LIVE",
+      "startTime": "11:30:00 PM 09-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/240p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/360p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/480p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/540p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/720p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO"
+          },
+          "cookie": "hdntl=Expires=1789062357~_GO=Generated~acl=/mumbai/4248663_english_hls_5b16f2da0f83503_1ta-di_h264/*~Signature=AWDec-FZ_dil-sBgH8xVNSfaWGb4OhSVOa22dVoRgcS7pCOI4cFL807NYo3zgz12-tEwOTa2rpgUtoXKuxK9YDJDPfwO",
+          "expires": "1789062357",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Amritsar Soormas vs Jalandhar Warriors",
       "tournament": "Sher-E-Punjab T20, 2026",
@@ -51,25 +84,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 10-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Al-Nassr FC vs Abha Club",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4248663",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
