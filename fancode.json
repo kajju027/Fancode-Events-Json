@@ -1,10 +1,56 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/9/2026, 12:37:06 pm",
+  "updatedAt": "10/9/2026, 12:37:12 pm",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Amritsar Soormas vs Jalandhar Warriors [Hindi]",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249128",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
+      "language": "HINDI",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "HINDI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/240p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/360p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/480p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/540p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/720p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO"
+          },
+          "cookie": "hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO",
+          "expires": "1789110219",
+          "expire_date": ""
+        },
+        "PUNJABI": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/240p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/360p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/480p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/540p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/720p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG"
+          },
+          "cookie": "hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG",
+          "expires": "1789110220",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Nepal vs Oman [English]",
@@ -37,25 +83,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Amritsar Soormas vs Jalandhar Warriors",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249128",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
