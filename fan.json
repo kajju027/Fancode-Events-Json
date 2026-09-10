@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "11/9/2026, 3:56:01 am",
+  "updatedAt": "11/9/2026, 4:06:14 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents vs St Kitts and Nevis Patriots [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248306",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248306_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Amritsar Soormas vs Ludhiana Lions",
@@ -72,17 +83,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Barbados Tridents vs St Kitts and Nevis Patriots",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248306",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "West Ham United vs Wrexham A.F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -116,6 +116,28 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Oman vs Hong Kong, China",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248631",
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Nepal vs United Arab Emirates",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": "4248632",
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "MotoGP",
       "title": "San Marino GP",
       "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
@@ -145,28 +167,6 @@
       "status": "UPCOMING",
       "startTime": "01:25:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman vs Hong Kong, China",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248631",
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Nepal vs United Arab Emirates",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248632",
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
