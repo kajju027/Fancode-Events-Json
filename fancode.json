@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/9/2026, 2:44:40 am",
+  "updatedAt": "11/9/2026, 2:54:52 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Stevenage vs Luton Town [English]",
-      "tournament": "League One 2026-27",
-      "match_id": "4248160",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248160_53014_STG_LUT_fc-web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/240p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/360p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/480p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/540p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/720p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID"
-          },
-          "cookie": "hdntl=Expires=1789152676~_GO=Generated~acl=/mumbai/4248160_english_hls_5556cd96ef36476_1ta-di_h264/*~Signature=AWDec-FIHh5-4tOAYpnhSBdV6oWOVGt28LdDHQsQbyopwGKSppotVe2-nN_P6lEa5GH3wd0xEpaptQ0UNHIqMec0qEID",
-          "expires": "1789152676",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Amritsar Soormas vs Ludhiana Lions",
@@ -514,13 +481,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "The Solheim Cup 2026",
-      "match_id": "4249082",
+      "category": "Cricket",
+      "title": "Majees Titans vs Mustafa Fragrance House Strikers",
+      "tournament": "Oman D50 2026",
+      "match_id": "4248678",
       "status": "UPCOMING",
-      "startTime": "11:00:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+      "startTime": "04:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -533,13 +500,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Majees Titans vs Mustafa Fragrance House Strikers",
-      "tournament": "Oman D50 2026",
-      "match_id": "4248678",
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "The Solheim Cup 2026",
+      "match_id": "4249082",
       "status": "UPCOMING",
-      "startTime": "04:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
+      "startTime": "11:00:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -730,6 +697,25 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Watford F.C. vs Stoke City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247491",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
