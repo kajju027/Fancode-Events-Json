@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/9/2026, 4:39:51 pm",
+  "updatedAt": "10/9/2026, 4:47:43 pm",
   "total_matches": 39,
-  "live_matches": 2,
-  "upcoming_matches": 37,
+  "live_matches": 3,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -72,31 +72,45 @@
     },
     {
       "category": "Cricket",
-      "title": "Fazilka Falcons vs Bathinda Royals",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249112",
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
+      "title": "Rwanda vs Sierra Leone [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249158",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249158_53067_RWA_SRL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__1080p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__1080p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
+            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__240p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
+            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__360p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
+            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__480p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
+            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__540p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
+            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249158_english_870856/ad-h264/index__720p.m3u8?hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG"
+          },
+          "cookie": "hdntl=Expires=1789125408~_GO=Generated~acl=/out/v1/ap-south-1/4249158_english_870856/ad-h264/*~Signature=AWDec-HdYJw4TakXoYjoz_CZBIke19ehsc8wOnUa52dJzQRW_WcgqHWpqP0bZiXjF04JRk2M4zSG2khBgAYHCWajm6IG",
+          "expires": "1789125408",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
-      "title": "Rwanda vs Sierra Leone",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249158",
+      "title": "Fazilka Falcons vs Bathinda Royals",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249112",
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249158_53067_RWA_SRL_FC-Web.png",
+      "startTime": "07:00:00 PM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
