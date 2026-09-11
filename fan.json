@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "11/9/2026, 6:26:28 pm",
+  "updatedAt": "11/9/2026, 6:26:37 pm",
   "total_matches": 39,
-  "live_matches": 5,
-  "upcoming_matches": 34,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -59,6 +59,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248633_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session [English]",
+      "tournament": "F2 MADRID 2026",
+      "match_id": "139651",
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139651_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -172,12 +183,12 @@
     },
     {
       "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F2 MADRID 2026",
-      "match_id": "139651",
+      "title": "Free Practice 2",
+      "tournament": "DTM 2026",
+      "match_id": "4248639",
       "status": "UPCOMING",
-      "startTime": "06:30:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+      "startTime": "07:15:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -266,17 +277,6 @@
       "status": "UPCOMING",
       "startTime": "05:15:00 PM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "Free Practice 2",
-      "tournament": "DTM 2026",
-      "match_id": "4248639",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -413,17 +413,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Race 1",
-      "tournament": "DTM 2026",
-      "match_id": "4249174",
-      "status": "UPCOMING",
-      "startTime": "04:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Barbados Tridents Women vs Jamaica Empress Women",
       "tournament": "Women's Caribbean Premier League, 2026",
@@ -431,6 +420,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race 1",
+      "tournament": "DTM 2026",
+      "match_id": "4249174",
+      "status": "UPCOMING",
+      "startTime": "04:45:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": null,
       "cnptv_cdn": null
     }
