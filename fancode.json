@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/9/2026, 8:41:14 am",
+  "updatedAt": "11/9/2026, 9:16:48 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "St Kitts and Nevis Patriots vs Barbados Tridents [English]",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248306",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248306_53026_BT_SKN_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/240p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/360p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/480p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/540p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/720p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP"
-          },
-          "cookie": "hdntl=Expires=1789166012~_GO=Generated~acl=/mumbai/4248306_english_hls_a30736baea88025_1ta-di_h264/*~Signature=AWDec-GaFRmD6UxebyVLXXwPCWcKQDf0HT5IwdfTJRLayrcb31NqTuaaW6k1hs5aLJD4wYGaYn__YJgsbPCIj2fU8fUP",
-          "expires": "1789166012",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Amritsar Soormas vs Ludhiana Lions",
@@ -730,6 +697,25 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 MADRID 2026",
+      "match_id": "139743",
+      "status": "UPCOMING",
+      "startTime": "02:35:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
