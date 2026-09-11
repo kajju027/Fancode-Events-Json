@@ -1,10 +1,29 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/9/2026, 3:59:09 am",
+  "updatedAt": "12/9/2026, 4:19:29 am",
   "total_matches": 39,
-  "live_matches": 0,
-  "upcoming_matches": 39,
+  "live_matches": 1,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248310",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
     {
       "category": "Cricket",
       "title": "Mohali Kings vs Amritsar Soormas",
@@ -311,25 +330,6 @@
     },
     {
       "category": "Football",
-      "title": "West Ham United Women vs London City Lionesses",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248470",
-      "status": "UPCOMING",
-      "startTime": "05:15:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
       "title": "Real Madrid vs Rayo Vallecano",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247611",
@@ -348,13 +348,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248310",
+      "category": "Football",
+      "title": "West Ham United Women vs London City Lionesses",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248470",
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+      "startTime": "05:15:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
