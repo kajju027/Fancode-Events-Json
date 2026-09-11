@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/9/2026, 3:43:44 pm",
-  "total_matches": 39,
+  "updatedAt": "11/9/2026, 3:53:55 pm",
+  "total_matches": 38,
   "live_matches": 6,
-  "upcoming_matches": 33,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -13,6 +13,25 @@
       "status": "LIVE",
       "startTime": "01:00:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249159_53067_UGA_RWA_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Muscat Thunders vs Royal Oman Stallions [English]",
+      "tournament": "Oman D50 2026",
+      "match_id": "4248677",
+      "status": "LIVE",
+      "startTime": "04:00:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248677_53052_MUT_ROS_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -111,39 +130,6 @@
     },
     {
       "category": "Motorsports",
-      "title": "Practice Session [English]",
-      "tournament": "F2 MADRID 2026",
-      "match_id": "139650",
-      "status": "LIVE",
-      "startTime": "02:35:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/240p.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/360p.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/480p.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/540p.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/720p.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K"
-          },
-          "cookie": "hdntl=Expires=1789202960~_GO=Generated~acl=/mumbai/139650_english_hls_eca996e87052896_1ta-di_h264/*~Signature=AWDec-G9U1fERkCDrCq9Mis3yl9sU9_qDEq-F_cY1upU5c0oOG2JfJ_choLniVbsPHLSKmGTlfVN6z3F_Zmb5KbDpK8K",
-          "expires": "1789202960",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
       "title": "Free Practice 1 [English]",
       "tournament": "DTM 2026",
       "match_id": "4248638",
@@ -196,12 +182,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Muscat Thunders vs Royal Oman Stallions",
-      "tournament": "Oman D50 2026",
-      "match_id": "4248677",
+      "title": "TBC vs TBC",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249127",
       "status": "UPCOMING",
-      "startTime": "04:00:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248677_53052_MUT_ROS_fc-Web.jpg",
+      "startTime": "01:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -221,25 +207,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249160_53067_KEN_BOT_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249127",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -708,13 +675,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying 1",
-      "tournament": "DTM 2026",
-      "match_id": "4248640",
+      "category": "Football",
+      "title": "Al-Taawoun FC vs Al Hilal SFC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4249134",
       "status": "UPCOMING",
-      "startTime": "01:20:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "startTime": "09:20:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -727,13 +694,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Al-Taawoun FC vs Al Hilal SFC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4249134",
+      "category": "Motorsports",
+      "title": "Qualifying 1",
+      "tournament": "DTM 2026",
+      "match_id": "4248640",
       "status": "UPCOMING",
-      "startTime": "09:20:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png",
+      "startTime": "01:20:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -765,13 +732,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F3 MADRID 2026",
-      "match_id": "139743",
+      "category": "Football",
+      "title": "Athletic Club vs Elche CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247612",
       "status": "UPCOMING",
-      "startTime": "02:35:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+      "startTime": "10:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -784,13 +751,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Athletic Club vs Elche CF",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247612",
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F3 MADRID 2026",
+      "match_id": "139743",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
+      "startTime": "02:35:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
