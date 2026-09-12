@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/9/2026, 12:46:31 pm",
+  "updatedAt": "12/9/2026, 12:56:26 pm",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -85,6 +85,39 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Uganda vs Kenya [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249161",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__1080p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__1080p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__240p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__360p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__480p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__540p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249161_english_619732/ad-h264/index__720p.m3u8?hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN"
+          },
+          "cookie": "hdntl=Expires=1789284159~_GO=Generated~acl=/out/v1/ap-south-1/4249161_english_619732/ad-h264/*~Signature=AWDec-EXQhSsMnJ0QH6luzisykqbPfx-qIP_lv9IwM-MCra2455VWzDkijEiif_nqjeCy924_1ujinuHfze-vrDiSgAN",
+          "expires": "1789284159",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Golf",
       "title": "Day 2 [English]",
       "tournament": "The Solheim Cup 2026",
@@ -158,25 +191,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Uganda vs Kenya",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249161",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -493,13 +507,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sierra Leone vs Kenya",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249163",
+      "category": "Motorsports",
+      "title": "Coppa Shell Race 1",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": "4249176",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
+      "startTime": "01:50:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -512,13 +526,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Coppa Shell Race 1",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": "4249176",
+      "category": "Cricket",
+      "title": "Sierra Leone vs Kenya",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249163",
       "status": "UPCOMING",
-      "startTime": "01:50:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+      "startTime": "01:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
