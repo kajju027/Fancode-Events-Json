@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/9/2026, 5:31:02 am",
+  "updatedAt": "12/9/2026, 6:39:15 am",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -83,22 +83,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Nepal vs United Arab Emirates",
+      "title": "Nepal vs United Arab Emirates [English]",
       "tournament": "ACC Men’s Premier Cup 2026",
       "match_id": "4248632",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:00:00 AM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/240p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/360p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/480p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/540p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/720p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ"
+          },
+          "cookie": "hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
+          "expires": "1789261731",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -634,12 +648,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Barbados Tridents vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248312",
+      "title": "Sierra Leone vs Kenya",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249163",
       "status": "UPCOMING",
-      "startTime": "05:30:00 AM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+      "startTime": "01:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -653,12 +667,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Sierra Leone vs Kenya",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249163",
+      "title": "Barbados Tridents vs Jamaica Kingsmen",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248312",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
+      "startTime": "05:30:00 AM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",

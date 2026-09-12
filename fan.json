@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/9/2026, 5:31:02 am",
+  "updatedAt": "12/9/2026, 6:39:15 am",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -51,14 +51,14 @@
     },
     {
       "category": "Cricket",
-      "title": "Nepal vs United Arab Emirates",
+      "title": "Nepal vs United Arab Emirates [English]",
       "tournament": "ACC Men’s Premier Cup 2026",
       "match_id": "4248632",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:00:00 AM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248632_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -370,23 +370,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Barbados Tridents vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248312",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Sierra Leone vs Kenya",
       "tournament": "ILT20 Africa Continent Cup 2026",
       "match_id": "4249163",
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents vs Jamaica Kingsmen",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248312",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 AM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
