@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/9/2026, 9:22:23 am",
+  "updatedAt": "12/9/2026, 9:23:12 am",
   "total_matches": 39,
-  "live_matches": 2,
-  "upcoming_matches": 37,
+  "live_matches": 3,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -70,6 +70,25 @@
           "expire_date": ""
         }
       }
+    },
+    {
+      "category": "Cricket",
+      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248310",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -744,25 +763,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "RC Celta vs Malaga",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247609",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
