@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/9/2026, 7:06:41 pm",
+  "updatedAt": "12/9/2026, 7:16:52 pm",
   "total_matches": 39,
-  "live_matches": 12,
-  "upcoming_matches": 27,
+  "live_matches": 14,
+  "upcoming_matches": 25,
   "matches": [
     {
       "category": "Cricket",
@@ -40,7 +40,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women [English]",
+      "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women [English]",
       "tournament": "Women's Caribbean Premier League, 2026",
       "match_id": "4249091",
       "status": "LIVE",
@@ -70,6 +70,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247616_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Watford F.C. vs Stoke City F.C. [English]",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247491",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247491_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "CA Osasuna vs RCD Espanyol [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247617",
+      "status": "LIVE",
+      "startTime": "07:45:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247617_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -136,28 +158,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249177_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Watford F.C. vs Stoke City F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247491",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "CA Osasuna vs RCD Espanyol",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247617",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Football",
@@ -392,23 +392,23 @@
     },
     {
       "category": "Football",
-      "title": "Real Valladolid vs Real Oviedo",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249147",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
       "title": "Getafe CF vs Deportivo de La Coruna",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247613",
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Real Valladolid vs Real Oviedo",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249147",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": null,
       "cnptv_cdn": null
     },
