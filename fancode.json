@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/9/2026, 9:22:41 pm",
+  "updatedAt": "12/9/2026, 9:30:24 pm",
   "total_matches": 39,
-  "live_matches": 8,
-  "upcoming_matches": 31,
+  "live_matches": 9,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -269,6 +269,39 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Feature Race 1 [English]",
+      "tournament": "F3 MADRID 2026",
+      "match_id": "139744",
+      "status": "LIVE",
+      "startTime": "09:30:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/240p.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/360p.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/480p.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/540p.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/720p.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA"
+          },
+          "cookie": "hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA",
+          "expires": "1789315108",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Football",
       "title": "Athletic Club vs Elche CF",
       "tournament": "LALIGA 2026-27",
@@ -307,13 +340,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Al Khaleej FC vs Al-Nassr FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4249135",
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249129",
       "status": "UPCOMING",
-      "startTime": "11:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
+      "startTime": "07:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -326,13 +359,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249129",
+      "category": "Football",
+      "title": "Al Khaleej FC vs Al-Nassr FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4249135",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "11:30:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -466,25 +499,6 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Feature Race 1",
-      "tournament": "F3 MADRID 2026",
-      "match_id": "139744",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
