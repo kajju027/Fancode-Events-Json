@@ -1,10 +1,29 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/9/2026, 12:36:08 pm",
+  "updatedAt": "12/9/2026, 12:36:14 pm",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Mohali Kings vs Amritsar Soormas",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": "4249127",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
     {
       "category": "Cricket",
       "title": "Nepal vs United Arab Emirates [English]",
@@ -103,25 +122,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mohali Kings vs Amritsar Soormas",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249127",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
