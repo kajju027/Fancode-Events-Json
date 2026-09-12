@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/9/2026, 7:27:01 pm",
+  "updatedAt": "12/9/2026, 7:38:30 pm",
   "total_matches": 39,
-  "live_matches": 12,
-  "upcoming_matches": 27,
+  "live_matches": 13,
+  "upcoming_matches": 26,
   "matches": [
     {
       "category": "Cricket",
@@ -51,17 +51,6 @@
     },
     {
       "category": "Football",
-      "title": "Racing Club de Santander vs Deportivo Alaves [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247616",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247616_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
       "title": "Watford F.C. vs Stoke City F.C. [English]",
       "tournament": "EFL Championship 2026-27",
       "match_id": "4247491",
@@ -81,6 +70,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247617_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Cádiz vs Las Palmas [English]",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249145",
+      "status": "LIVE",
+      "startTime": "07:45:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249145_53017_CDZ_LAP_FC-Web_1789220877838.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249145_eng.sonuxs.m3u8"
     },
     {
       "category": "Golf",
@@ -139,14 +139,14 @@
     },
     {
       "category": "Football",
-      "title": "Cádiz vs Las Palmas",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249145",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249145_53017_CDZ_LAP_FC-Web_1789220877838.png",
-      "language": null,
-      "cnptv_cdn": null
+      "title": "Racing Club de Santander vs Deportivo Alaves [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247616",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247616_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -347,17 +347,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Feature Race 1",
-      "tournament": "F3 MADRID 2026",
-      "match_id": "139744",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Getafe CF vs Deportivo de La Coruna",
       "tournament": "LALIGA 2026-27",
@@ -376,6 +365,17 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
+      "title": "Feature Race 1",
+      "tournament": "F3 MADRID 2026",
+      "match_id": "139744",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
