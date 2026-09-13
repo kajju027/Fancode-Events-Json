@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/9/2026, 6:00:38 pm",
+  "updatedAt": "13/9/2026, 6:10:52 pm",
   "total_matches": 39,
-  "live_matches": 10,
-  "upcoming_matches": 29,
+  "live_matches": 11,
+  "upcoming_matches": 28,
   "matches": [
     {
       "category": "Cricket",
@@ -316,6 +316,39 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Trofoe Pirelli Race 2 [English]",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": "4249179",
+      "status": "LIVE",
+      "startTime": "06:15:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/240p.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/360p.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/480p.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/540p.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/720p.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B"
+          },
+          "cookie": "hdntl=Expires=1789389624~_GO=Generated~acl=/mumbai/4249179_english_hls_c2ee89943794125_1ta-di_h264/*~Signature=AWDec-ECzjnKd37QPseuUvpliNpO6PQmCMFd3ZFtSlNB025GwnOOy4EFfidj3zdsXe1hqDnc5WvvDEb2JRPC6oYEvC4B",
+          "expires": "1789389624",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Formula 1",
       "title": "Race [English]",
       "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
@@ -591,25 +624,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 14-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Trofoe Pirelli Race 2",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": "4249179",
-      "status": "UPCOMING",
-      "startTime": "06:15:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
