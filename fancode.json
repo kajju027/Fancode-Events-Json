@@ -1,56 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/9/2026, 12:06:30 am",
-  "total_matches": 39,
+  "updatedAt": "14/9/2026, 12:26:53 am",
+  "total_matches": 38,
   "live_matches": 5,
-  "upcoming_matches": 34,
+  "upcoming_matches": 33,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Ludhiana Lions vs Amritsar Soormas [Hindi]",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": "4249129",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AmritsarSoormas_vs_LudhianaLions_fc-web.jpg",
-      "language": "HINDI",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/240p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/360p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/480p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/540p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/720p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA"
-          },
-          "cookie": "hdntl=Expires=1789389015~_GO=Generated~acl=/mumbai/4249129_hindi_hls_945d08592123772_1ta-di_h264/*~Signature=AWDec-Hz5oNJVgK-QhNscnE_1b4Zfou1hOjRymGroLWjXRfX8HxRE0Ez0q_Cw4bQY22omNHbu4HXtkYL0xYPotu48yYA",
-          "expires": "1789389015",
-          "expire_date": ""
-        },
-        "PUNJABI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/240p.m3u8?hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/360p.m3u8?hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/480p.m3u8?hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/540p.m3u8?hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/720p.m3u8?hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA"
-          },
-          "cookie": "hdntl=Expires=1789389016~_GO=Generated~acl=/mumbai/4249129_punjabi_hls_7e42247c0d31701_1ta-di_h264/*~Signature=AWDec-FgLsxDDgSsErznY9JOCFO6PCzaqdqKYA3NzQ6gDaEI9TuRfrZrrg1JsuNuNjdThowI0UsGKrQ8oQLPqZY3BaAA",
-          "expires": "1789389016",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women [English]",
@@ -152,6 +106,25 @@
     },
     {
       "category": "Football",
+      "title": "Tenerife vs Leganes",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249148",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
       "title": "Getafe CF vs Deportivo de La Coruna [English]",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247613",
@@ -182,25 +155,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Football",
-      "title": "Tenerife vs Leganes",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249148",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 14-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
