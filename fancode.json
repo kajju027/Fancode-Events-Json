@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/9/2026, 3:18:40 am",
-  "total_matches": 37,
-  "live_matches": 0,
+  "updatedAt": "14/9/2026, 3:18:49 am",
+  "total_matches": 38,
+  "live_matches": 1,
   "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women [English]",
+      "tournament": "Women's Caribbean Premier League, 2026",
+      "match_id": "4249093",
+      "status": "LIVE",
+      "startTime": "11:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/240p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/360p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/480p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/540p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/720p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK"
+          },
+          "cookie": "hdntl=Expires=1789407208~_GO=Generated~acl=/mumbai/4249093_english_hls_1971e7a12289257_1ta-di_h264/*~Signature=AWDec-FQ_rylMnrJG5qOQwE9TnQVFOwdYWlAGDAjNcxXzod9WCN-oREWxeMo3AuuH9kxSh9DbV-QXFeyiu69YL3o4VoK",
+          "expires": "1789407208",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Yalla Shabab Giants vs Royal Oman Stallions",
