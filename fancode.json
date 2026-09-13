@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/9/2026, 8:02:20 pm",
+  "updatedAt": "13/9/2026, 8:02:23 pm",
   "total_matches": 40,
-  "live_matches": 13,
-  "upcoming_matches": 27,
+  "live_matches": 14,
+  "upcoming_matches": 26,
   "matches": [
     {
       "category": "Cricket",
@@ -482,6 +482,39 @@
           },
           "cookie": "hdntl=Expires=1789390840~_GO=Generated~acl=/mumbai/4248643_english_hls_5b8bb35ebc427_1ta-di_h264/*~Signature=AWDec-EoDSl3G3TuIpEJxMxbWe0qVG4cUpaChztbCup_ZznvuX9yKlWs7zvgx8e6Aw47XrC-Pr2Ck1uYG1CG-VNmhBYP",
           "expires": "1789390840",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "RC Celta vs Malaga [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247609",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/240p.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/360p.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/480p.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/540p.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/720p.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M"
+          },
+          "cookie": "hdntl=Expires=1789385980~_GO=Generated~acl=/mumbai/4247609_english_hls_a223163efb6298_1ta-di_h264/*~Signature=AWDec-E-7ERvkNFiOnVLjcYospipQEffVxPLWD90BRl9SjbRKxqxmwSrbF_pzisd24r4AprUm579ZU5Lq9QisSqrdO4M",
+          "expires": "1789385980",
           "expire_date": ""
         }
       }
@@ -969,25 +1002,6 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 15-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248693_53053_BEI_PHG_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Golgohar Sirjan SC vs Al Jazira",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248955",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248955_53057_GGS_ALJ_fc-web_1789025065269.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
