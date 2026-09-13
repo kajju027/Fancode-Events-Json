@@ -1,10 +1,32 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "13/9/2026, 4:12:14 pm",
+  "updatedAt": "13/9/2026, 4:22:24 pm",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 7,
+  "upcoming_matches": 32,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. [English]",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247492",
+      "status": "LIVE",
+      "startTime": "04:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247492_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Manchester United Women vs Chelsea F.C. Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248471",
+      "status": "LIVE",
+      "startTime": "04:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248471_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Namibia vs South Africa [English]",
@@ -79,28 +101,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249164_53067_BOT_RWA_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247492",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United Women vs Chelsea F.C. Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248471",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -271,14 +271,14 @@
     },
     {
       "category": "Formula 1",
-      "title": "Race",
+      "title": "Race [English]",
       "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
       "match_id": "139491",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:30:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139491_eng.sonuxs.m3u8"
     },
     {
       "category": "Motorsports",
@@ -303,17 +303,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Barbados Tridents vs Guyana Amazon Warriors",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248313",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 14-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "PFC Neftchi vs Air Force SC",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -321,6 +310,17 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 PM 14-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents vs Guyana Amazon Warriors",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248313",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
