@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/9/2026, 12:26:53 am",
+  "updatedAt": "14/9/2026, 12:36:04 am",
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -106,7 +106,7 @@
     },
     {
       "category": "Football",
-      "title": "Tenerife vs Leganes",
+      "title": "Tenerife vs Leganes [English]",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4249148",
       "status": "LIVE",
@@ -114,26 +114,7 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Getafe CF vs Deportivo de La Coruna [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247613",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
@@ -143,15 +124,15 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/240p.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/360p.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/480p.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/540p.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/720p.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/240p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/360p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/480p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/540p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/720p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G"
           },
-          "cookie": "hdntl=Expires=1789401754~_GO=Generated~acl=/mumbai/4247613_english_hls_b4ea8cc35d3260_1ta-di_h264/*~Signature=AWDec-EWdIx2_ZdSj145WT6fuerOekc6lPXbGf8pM8wDBdvTOeu3ieqj2tB5Zmye_Od9RM8XEYbr4wjdzeDTA2zNL5kO",
-          "expires": "1789401754",
+          "cookie": "hdntl=Expires=1789412069~_GO=Generated~acl=/mumbai/4249148_english_hls_bc0c58e50356914_1ta-di_h264/*~Signature=AWDec-HfmEXUdGDV4egQimmjvU2gKaQEqOv0ABaDF_jd7ivvSrUadpZ55NGrYs6zRLuR-gxH50g0zLx1EUYVHwoLbm0G",
+          "expires": "1789412069",
           "expire_date": ""
         }
       }
@@ -772,6 +753,25 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Elche CF vs Real Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247622",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 AM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",

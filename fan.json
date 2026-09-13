@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "14/9/2026, 12:26:53 am",
+  "updatedAt": "14/9/2026, 12:36:04 am",
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -40,7 +40,7 @@
     },
     {
       "category": "Football",
-      "title": "Tenerife vs Leganes",
+      "title": "Tenerife vs Leganes [English]",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": "4249148",
       "status": "LIVE",
@@ -48,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249148_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Getafe CF vs Deportivo de La Coruna [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247613",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247613_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -420,6 +409,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Elche CF vs Real Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247622",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 AM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }
