@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/9/2026, 4:50:16 pm",
+  "updatedAt": "13/9/2026, 4:52:55 pm",
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "live_matches": 8,
+  "upcoming_matches": 31,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Botswana vs Rwanda [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249164",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249164_53067_BOT_RWA_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/240p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/360p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/480p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/540p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/720p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO"
+          },
+          "cookie": "hdntl=Expires=1789384767~_GO=Generated~acl=/mumbai/4249164_english_hls_84d3606c2a61419_1ta-di_h264/*~Signature=AWDec-HgCFB3xFC8aCYthndHR0SX2Q2XYZVzKFcHvQvq15VI_3MfPH-V9U6lzmudNW6KGBcE_f8ZR6X_1PtcsnAc5tEO",
+          "expires": "1789384767",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. [English]",
@@ -301,25 +334,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Botswana vs Rwanda",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249164",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249164_53067_BOT_RWA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "RC Celta vs Malaga",
       "tournament": "LALIGA 2026-27",
@@ -567,6 +581,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "PFC Neftchi vs Air Force SC",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248680",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Motorsports",
       "title": "Trofoe Pirelli Race 2",
       "tournament": "Ferrari Challenge Series 2026",
@@ -612,25 +645,6 @@
       "status": "UPCOMING",
       "startTime": "06:35:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "PFC Neftchi vs Air Force SC",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248680",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 14-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
