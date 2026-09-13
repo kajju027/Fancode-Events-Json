@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/9/2026, 12:38:39 pm",
+  "updatedAt": "13/9/2026, 12:48:49 pm",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Sierra Leone vs Kenya [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249163",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/240p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/360p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/480p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/540p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/720p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI"
+          },
+          "cookie": "hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI",
+          "expires": "1789370219",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Motorsports",
       "title": "Qualifying 2 [English]",
@@ -131,25 +164,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Sierra Leone vs Kenya",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249163",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
