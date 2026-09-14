@@ -1,18 +1,51 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/9/2026, 3:36:15 pm",
+  "updatedAt": "14/9/2026, 3:47:42 pm",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Yalla Shabab Giants vs Royal Oman Stallions",
+      "title": "Yalla Shabab Giants vs Royal Oman Stallions [English]",
       "tournament": "Oman D50 2026",
       "match_id": "4248679",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:00:00 PM 14-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/240p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/360p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/480p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/540p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/720p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K"
+          },
+          "cookie": "hdntl=Expires=1789467173~_GO=Generated~acl=/mumbai/4248679_english_hls_55e888c33f12582_1ta-di_h264/*~Signature=AVl424OJQaDojjzMTwYb5R5FeHhrf90xZORzNAiMNkGNBvNu8zvaXzE_ReSNsNFfZOwE9f2giZK63R6TS5Fsy0PPlH0K",
+          "expires": "1789467173",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Australia",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249098",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -32,25 +65,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 14-09-2026",
       "image": "https://images.fancode.com/aig/match/v1789294242694/4249241_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Zimbabwe vs Australia",
-      "tournament": "Australia tour of Zimbabwe, 2026",
-      "match_id": "4249098",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
