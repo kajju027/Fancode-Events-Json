@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/9/2026, 6:05:48 pm",
+  "updatedAt": "14/9/2026, 6:25:34 pm",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -40,12 +40,45 @@
     },
     {
       "category": "Cricket",
-      "title": "Desert Vipers Development vs MI Emirates Development",
+      "title": "Desert Vipers Development vs MI Emirates Development [English]",
       "tournament": "DP World ILT20 Development Tournament 2026",
       "match_id": "4249241",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:30:00 PM 14-09-2026",
       "image": "https://images.fancode.com/aig/match/v1789388726902/4249241_CASACARDS_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__1080p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__1080p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__240p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__360p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__480p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__540p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249241_english_622056/ad-h264/index__720p.m3u8?hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL"
+          },
+          "cookie": "hdntl=Expires=1789476862~_GO=Generated~acl=/out/v1/ap-south-1/4249241_english_622056/ad-h264/*~Signature=AVl424MM13x4cZ6zDh6EwHw7HC0HGH9Kg3vAIRQPU8WhNxq3HPs5LGfVK2J0qXyQp2X9pj3P8HNzt_xRnq5cNsSt2aAL",
+          "expires": "1789476862",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "PFC Neftchi vs Air Force SC",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248680",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -84,25 +117,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 14-09-2026",
       "image": "https://images.fancode.com/aig/match/v1789294242693/4249242_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "PFC Neftchi vs Air Force SC",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248680",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 14-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248680_53053_NB_AFSC_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
