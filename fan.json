@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "16/9/2026, 12:27:06 am",
+  "updatedAt": "16/9/2026, 12:27:24 am",
   "total_matches": 38,
-  "live_matches": 8,
-  "upcoming_matches": 30,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -61,39 +61,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249055_eng.sonuxs.m3u8"
     },
     {
-      "category": "Football",
-      "title": "Reading vs Brentford [English]",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249056",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249056_53016_RED_BRE_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249056_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Ipswich Town F.C. vs Arsenal [English]",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249057",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249057_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Liverpool vs Tottenham Hotspur [English]",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249061",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249061_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
       "tournament": "United Arab Emirates tour of Malaysia, 2026",
@@ -101,6 +68,39 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Reading vs Brentford",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249056",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249056_53016_RED_BRE_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Ipswich Town F.C. vs Arsenal",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249057",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249057_53016_IPT_ARS_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Liverpool vs Tottenham Hotspur",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249061",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249061_53016_LIV_TOT_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
