@@ -1,8 +1,8 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/9/2026, 11:56:15 pm",
-  "total_matches": 37,
-  "live_matches": 4,
+  "updatedAt": "16/9/2026, 12:06:42 am",
+  "total_matches": 38,
+  "live_matches": 5,
   "upcoming_matches": 33,
   "matches": [
     {
@@ -138,6 +138,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "West Ham United vs Fulham [English]",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249055",
+      "status": "LIVE",
+      "startTime": "12:15:00 AM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249055_53016_WHU_FUL_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/240p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/360p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/480p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/540p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/720p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH"
+          },
+          "cookie": "hdntl=Expires=1789583538~_GO=Generated~acl=/mumbai/4249055_english_hls_1e89a2e27573290_1ta-di_h264/*~Signature=AVl424MlO8r0yesrNk5ZK2zs5M0iem8FMU_l5ZiN92DzeKpKEfngfEpHn1Ywkcn-hEXOdVhUGfYbu33xnVBf0yC3pBMH",
+          "expires": "1789583538",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
       "tournament": "United Arab Emirates tour of Malaysia, 2026",
@@ -145,25 +178,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "West Ham United vs Fulham",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249055",
-      "status": "UPCOMING",
-      "startTime": "12:15:00 AM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249055_53016_WHU_FUL_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -753,6 +767,25 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 17-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248963_53057_LIO_PNU_fc-web_1789025066501.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Adelaide United vs Tai Po FC",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248964",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248964_53057_ADL_WTP_fc-web_1789025066327.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
