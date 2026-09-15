@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/9/2026, 11:02:55 pm",
+  "updatedAt": "15/9/2026, 11:05:20 pm",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -105,39 +105,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Deportivo Alaves vs Valencia CF [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247619",
-      "status": "LIVE",
-      "startTime": "11:30:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247619_53004_ALA_VAL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/240p.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/360p.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/480p.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/540p.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/720p.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP"
-          },
-          "cookie": "hdntl=Expires=1789579904~_GO=Generated~acl=/mumbai/4247619_english_hls_9015b2e07c78995_1ta-di_h264/*~Signature=AVl424N-ARjD8s9FixC-vjAJtkrOO_6Cu26c-opXICAxevbTkSkDZ17-4ivKT83PyPBZk-18Roszbxr5oF0HQ5TGoYUP",
-          "expires": "1789579904",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
       "tournament": "United Arab Emirates tour of Malaysia, 2026",
@@ -145,6 +112,25 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo Alaves vs Valencia CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247619",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247619_53004_ALA_VAL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
