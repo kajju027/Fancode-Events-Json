@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/9/2026, 9:22:28 pm",
+  "updatedAt": "15/9/2026, 9:23:20 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -184,39 +184,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Al Ain vs Al-Nassr FC [English]",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248686",
-      "status": "LIVE",
-      "startTime": "09:30:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ain-vs-Al-Nassr-Old-card.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/240p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/360p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/480p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/540p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/720p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG"
-          },
-          "cookie": "hdntl=Expires=1789573841~_GO=Generated~acl=/mumbai/4248686_english_hls_db3c631b2945339_1ta-di_h264/*~Signature=AVl424M5fFqYUJ1SEK8oVyj8441YssAKs4kjMxMLG8tMke0RcHpwc_5S-DQk7i7KtTLDskOsnOdEQ3j-1q560C6IoGYG",
-          "expires": "1789573841",
-          "expire_date": ""
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
       "tournament": "United Arab Emirates tour of Malaysia, 2026",
@@ -224,6 +191,25 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Al Ain vs Al-Nassr FC",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248686",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ain-vs-Al-Nassr-Old-card.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
