@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "16/9/2026, 2:44:29 am",
+  "updatedAt": "16/9/2026, 3:25:10 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Elche CF vs Real Madrid [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247622",
-      "status": "LIVE",
-      "startTime": "01:00:00 AM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247622_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
@@ -420,6 +409,17 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 17-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249248_53070_GGD_DVD_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Real Betis vs Getafe CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247620",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }

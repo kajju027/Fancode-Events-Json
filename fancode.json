@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/9/2026, 2:44:29 am",
+  "updatedAt": "16/9/2026, 3:25:10 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Elche CF vs Real Madrid [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247622",
-      "status": "LIVE",
-      "startTime": "01:00:00 AM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247622_53004_ELC_RM_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/240p.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/360p.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/480p.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/540p.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/720p.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF"
-          },
-          "cookie": "hdntl=Expires=1789585357~_GO=Generated~acl=/mumbai/4247622_english_hls_cf570a032814159_1ta-di_h264/*~Signature=AVl424MCkIbwGub-xNmNNSQJxR9tmb42BDSKMd4hoWfA9FGTp_iK6WCHNFH3bE-2JoBWB6r6oINNtFJJIZEG8mce_fsF",
-          "expires": "1789585357",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
@@ -730,6 +697,25 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 17-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249248_53070_GGD_DVD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Real Betis vs Getafe CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247620",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247620_53004_RB_GEF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
