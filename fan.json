@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "15/9/2026, 3:40:16 pm",
+  "updatedAt": "15/9/2026, 4:48:07 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -15,6 +15,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249098_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Rwanda vs Kenya [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249166",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249166_53067_RWA_KEN_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249166_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -83,13 +94,24 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Rwanda vs Kenya",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249166",
+      "category": "Football",
+      "title": "Johor Darul Ta'zim vs Buriram United",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248692",
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249166_53067_RWA_KEN_FC-Web.png",
+      "startTime": "05:45:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248692_53053_JDT_BU_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Beijing Guoan vs Pohang Steelers",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248693",
+      "status": "UPCOMING",
+      "startTime": "05:45:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248693_53053_BEI_PHG_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -112,28 +134,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 15-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249244_53070_ADK_MED_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Johor Darul Ta'zim vs Buriram United",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248692",
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248692_53053_JDT_BU_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Beijing Guoan vs Pohang Steelers",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248693",
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248693_53053_BEI_PHG_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
