@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/9/2026, 5:48:51 pm",
+  "updatedAt": "15/9/2026, 5:49:07 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -106,6 +106,39 @@
     },
     {
       "category": "Football",
+      "title": "Daejeon Hana Citizen FC vs Kyoto Sanga [English]",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248689",
+      "status": "LIVE",
+      "startTime": "03:30:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248689_53053_DAC_KYS_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/240p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/360p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/480p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/540p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/720p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN"
+          },
+          "cookie": "hdntl=Expires=1789552007~_GO=Generated~acl=/mumbai/4248689_english_hls_26639ae1fa6971_1ta-di_h264/*~Signature=AVl424M6V-jaHApSQtfnd2XFhjgxxWSC9P9YtoLiBgtyF5N0S7-GI1CB7Cr0i-MGXgPD4kdWNfRkQ4vjBT_4k1JzVksN",
+          "expires": "1789552007",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
       "title": "Gamba Osaka vs Cong An Ha Noi [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248690",
@@ -133,6 +166,39 @@
           },
           "cookie": "hdntl=Expires=1789552008~_GO=Generated~acl=/mumbai/4248690_english_hls_690c06023879976_1ta-di_h264/*~Signature=AVl424MeJuIdlIuvZquqGRJhL47LM7WhcK_UbqawEutmtY1PVujQaym7dhd_uRMrF2EVVOsN-uBusiOapmsB_R8V84QG",
           "expires": "1789552008",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Ratchaburi vs Shanghai Port [English]",
+      "tournament": "AFC Champions League Elite 2026-27",
+      "match_id": "4248691",
+      "status": "LIVE",
+      "startTime": "03:30:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248691_53053_RAT_SHG_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/240p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/360p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/480p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/540p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/720p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M"
+          },
+          "cookie": "hdntl=Expires=1789552009~_GO=Generated~acl=/mumbai/4248691_english_hls_199f463cff91061_1ta-di_h264/*~Signature=AVl424PRWS43F-1EI_gZj7tkaIPD17voUiLbquVAVqQHpjUbkN5Drjc9C8Xt8Qgw_X0LeKLsbCeZV6FoQFDEE4tTH24M",
+          "expires": "1789552009",
           "expire_date": ""
         }
       }
@@ -800,44 +866,6 @@
       "status": "UPCOMING",
       "startTime": "11:45:00 PM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248960_53057_SHR_ALS_fc-web_1789025065273.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Everton vs Wolverhampton Wanderers F.C.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249053",
-      "status": "UPCOMING",
-      "startTime": "12:15:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249053_53016_EVE_WOL_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Fleetwood Town vs Sheffield United F.C.",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249058",
-      "status": "UPCOMING",
-      "startTime": "12:15:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249058_53016_FLW_SHF_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
