@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "15/9/2026, 7:00:34 pm",
+  "updatedAt": "15/9/2026, 7:00:42 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -15,17 +15,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249098_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs India [English]",
-      "tournament": "India Tour of Afghanistan, 2026",
-      "match_id": "4248493",
-      "status": "LIVE",
-      "startTime": "07:30:00 PM 15-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248493_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -73,6 +62,17 @@
     },
     {
       "category": "Cricket",
+      "title": "Afghanistan vs India",
+      "tournament": "India Tour of Afghanistan, 2026",
+      "match_id": "4248493",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 15-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
       "tournament": "United Arab Emirates tour of Malaysia, 2026",
       "match_id": "4249259",
@@ -84,25 +84,25 @@
     },
     {
       "category": "Football",
-      "title": "Golgohar Sirjan SC vs Al Jazira [English]",
+      "title": "Golgohar Sirjan SC vs Al Jazira",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248955",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "07:15:00 PM 15-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248955_53057_GGS_ALJ_fc-web_1789025065269.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248955_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Football",
-      "title": "FK Arkadag vs Al Muharraq [English]",
+      "title": "FK Arkadag vs Al Muharraq",
       "tournament": "AFC Champions League Two 2026-27",
       "match_id": "4248956",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "07:15:00 PM 15-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248956_53057_ARK_ALM_fc-web_1789025066304.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248956_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
