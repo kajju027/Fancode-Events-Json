@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "17/9/2026, 12:11:54 am",
+  "updatedAt": "17/9/2026, 12:18:09 am",
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "live_matches": 9,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -83,6 +83,28 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249058_eng.sonuxs.m3u8"
     },
     {
+      "category": "Football",
+      "title": "Manchester United vs Brighton and Hove Albion [English]",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249059",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249059_53016_MUN_BHA_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249059_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Coventry City F.C. vs Aston Villa [English]",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249060",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249060_53016_CVC_AVL_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249060_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates",
       "tournament": "United Arab Emirates tour of Malaysia, 2026",
@@ -90,28 +112,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 17-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United vs Brighton and Hove Albion",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249059",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249059_53016_MUN_BHA_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Coventry City F.C. vs Aston Villa",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249060",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249060_53016_CVC_AVL_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -303,17 +303,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Barbados Tridents vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248314",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "AFC Wimbledon vs MK Dons",
       "tournament": "League One 2026-27",
@@ -321,6 +310,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 18-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents vs Jamaica Kingsmen",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248314",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
