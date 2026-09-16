@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/9/2026, 3:19:18 am",
+  "updatedAt": "17/9/2026, 3:20:06 am",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Desert Vipers Development vs Sharjah Warriorz Development [English]",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249246",
+      "status": "LIVE",
+      "startTime": "10:30:00 PM 16-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249246_53070_DVD_SWD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/240p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/360p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/480p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/540p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/720p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED"
+          },
+          "cookie": "hdntl=Expires=1789663547~_GO=Generated~acl=/mumbai/4249246_english_hls_b66a6ea12734193_1ta-di_h264/*~Signature=AVl424NtiGC4lVUvL6lu585kbtd2mNDV7FTz5pZtDaxKarvybvG5dxgPLgckYCk_H9lc4ZIrrQ0jfOlWFSbjUls52RED",
+          "expires": "1789663547",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "FC Barcelona vs Racing Club de Santander [English]",
@@ -730,25 +763,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247494_52993_MLW_WHU_fc-web_1786657253865.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "CA Osasuna vs Rayo Vallecano",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247636",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
