@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/9/2026, 3:22:37 pm",
+  "updatedAt": "16/9/2026, 4:23:41 pm",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Botswana vs Uganda [English]",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249167",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 16-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/240p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/360p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/480p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/540p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/720p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH"
-          },
-          "cookie": "hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-          "expires": "1789629598",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Jeonbuk Motors vs Kashiwa Reysol [English]",
@@ -523,6 +490,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Afghanistan vs India",
+      "tournament": "India Tour of Afghanistan, 2026",
+      "match_id": "4248492",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Lion City Sailors vs BG Pathum United",
       "tournament": "AFC Champions League Two 2026-27",
@@ -568,25 +554,6 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 17-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248965_53057_MZ_PRK_fc-web_1789025065378.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs India",
-      "tournament": "India Tour of Afghanistan, 2026",
-      "match_id": "4248492",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -758,6 +725,25 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 17-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City vs Norwich City F.C.",
+      "tournament": "Carabao Cup 2026-27",
+      "match_id": "4249062",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 AM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249062_53016_MCI_NOR_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
