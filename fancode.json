@@ -1,42 +1,28 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/9/2026, 12:51:09 pm",
+  "updatedAt": "16/9/2026, 12:51:16 pm",
   "total_matches": 37,
-  "live_matches": 1,
-  "upcoming_matches": 36,
+  "live_matches": 0,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Botswana vs Uganda [English]",
+      "title": "Botswana vs Uganda",
       "tournament": "ILT20 Africa Continent Cup 2026",
       "match_id": "4249167",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "01:00:00 PM 16-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/240p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/360p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/480p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/540p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/720p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH"
-          },
-          "cookie": "hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH",
-          "expires": "1789629598",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
