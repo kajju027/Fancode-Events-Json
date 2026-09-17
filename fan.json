@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "17/9/2026, 11:44:54 am",
-  "total_matches": 39,
-  "live_matches": 0,
+  "updatedAt": "17/9/2026, 11:45:08 am",
+  "total_matches": 40,
+  "live_matches": 1,
   "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "United Arab Emirates vs Malaysia [English]",
+      "tournament": "United Arab Emirates tour of Malaysia, 2026",
+      "match_id": "4249260",
+      "status": "LIVE",
+      "startTime": "07:30:00 AM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249260_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Afghanistan vs India",
@@ -171,17 +182,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Zimbabwe vs Australia",
-      "tournament": "Australia tour of Zimbabwe, 2026",
-      "match_id": "4249099",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "AFC Wimbledon vs MK Dons",
       "tournament": "League One 2026-27",
@@ -189,6 +189,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 18-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Australia",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249099",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
