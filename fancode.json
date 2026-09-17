@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/9/2026, 11:47:42 am",
-  "total_matches": 39,
-  "live_matches": 0,
+  "updatedAt": "17/9/2026, 11:48:15 am",
+  "total_matches": 40,
+  "live_matches": 1,
   "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "United Arab Emirates vs Malaysia [English]",
+      "tournament": "United Arab Emirates tour of Malaysia, 2026",
+      "match_id": "4249260",
+      "status": "LIVE",
+      "startTime": "07:30:00 AM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/240p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/360p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/480p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/540p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/720p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM"
+          },
+          "cookie": "hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
+          "expires": "1789696282",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Afghanistan vs India",
@@ -291,13 +324,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Zimbabwe vs Australia",
-      "tournament": "Australia tour of Zimbabwe, 2026",
-      "match_id": "4249099",
+      "category": "Football",
+      "title": "AFC Wimbledon vs MK Dons",
+      "tournament": "League One 2026-27",
+      "match_id": "4248161",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
+      "startTime": "12:30:00 AM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -310,13 +343,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "AFC Wimbledon vs MK Dons",
-      "tournament": "League One 2026-27",
-      "match_id": "4248161",
+      "category": "Cricket",
+      "title": "Zimbabwe vs Australia",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249099",
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+      "startTime": "01:00:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
