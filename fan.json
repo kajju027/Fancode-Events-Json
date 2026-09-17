@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "18/9/2026, 1:03:52 am",
+  "updatedAt": "18/9/2026, 2:04:56 am",
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249095_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Manchester City vs Norwich City F.C. [English]",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": "4249062",
-      "status": "LIVE",
-      "startTime": "12:00:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249062_53016_MCI_NOR_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249062_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -420,6 +409,17 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Australia",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249097",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     }
