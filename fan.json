@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "17/9/2026, 11:32:00 pm",
-  "total_matches": 38,
-  "live_matches": 3,
+  "updatedAt": "17/9/2026, 11:32:21 pm",
+  "total_matches": 39,
+  "live_matches": 4,
   "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "India vs Afghanistan [English]",
+      "tournament": "India Tour of Afghanistan, 2026",
+      "match_id": "4248492",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248492_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Gulf Giants Development vs Desert Vipers Development [English]",
@@ -73,17 +84,6 @@
     },
     {
       "category": "Football",
-      "title": "AFC Wimbledon vs MK Dons",
-      "tournament": "League One 2026-27",
-      "match_id": "4248161",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
       "title": "Malaga vs Villarreal CF",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247627",
@@ -116,13 +116,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 1 - World Feed",
-      "tournament": "Biltmore Championship in Asheville 2026",
-      "match_id": "4249100",
+      "category": "Football",
+      "title": "AFC Wimbledon vs MK Dons",
+      "tournament": "League One 2026-27",
+      "match_id": "4248161",
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -156,6 +156,17 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 18-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1 - World Feed",
+      "tournament": "Biltmore Championship in Asheville 2026",
+      "match_id": "4249100",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
       "language": null,
       "cnptv_cdn": null
     },
