@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/9/2026, 3:57:27 am",
+  "updatedAt": "18/9/2026, 4:06:11 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Golf",
-      "title": "Day 1 - World Feed [English]",
-      "tournament": "Biltmore Championship in Asheville 2026",
-      "match_id": "4249100",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/240p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/360p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/480p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/540p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/720p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO"
-          },
-          "cookie": "hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO",
-          "expires": "1789757509",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Western Australia vs South Australia",
@@ -514,13 +481,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Race 1",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": "4249215",
+      "category": "Golf",
+      "title": "Day 3",
+      "tournament": "La Sella Open 2026",
+      "match_id": "4249086",
       "status": "UPCOMING",
-      "startTime": "02:00:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+      "startTime": "06:30:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -533,13 +500,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 3",
-      "tournament": "La Sella Open 2026",
-      "match_id": "4249086",
+      "category": "Motorsports",
+      "title": "Race 1",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": "4249215",
       "status": "UPCOMING",
-      "startTime": "06:30:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
+      "startTime": "02:00:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -730,6 +697,25 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race 2",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": "4249216",
+      "status": "UPCOMING",
+      "startTime": "10:55:00 AM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
