@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/9/2026, 7:12:45 pm",
+  "updatedAt": "17/9/2026, 7:21:09 pm",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 33,
+  "live_matches": 7,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -217,6 +217,39 @@
       }
     },
     {
+      "category": "Golf",
+      "title": "Day 1 [English]",
+      "tournament": "La Sella Open 2026",
+      "match_id": "4249084",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/240p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/360p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/480p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/540p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/720p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O"
+          },
+          "cookie": "hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O",
+          "expires": "1789739332",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Western Australia vs South Australia",
       "tournament": "One Day Cup, 2026/27",
@@ -376,25 +409,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 18-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "La Sella Open 2026",
-      "match_id": "4249084",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
