@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "17/9/2026, 4:50:34 pm",
-  "total_matches": 38,
+  "updatedAt": "17/9/2026, 4:58:47 pm",
+  "total_matches": 39,
   "live_matches": 4,
-  "upcoming_matches": 34,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Botswana vs Kenya [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249170",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249170_eng.sonuxs.m3u8"
+    },
     {
       "category": "Football",
       "title": "Lion City Sailors vs BG Pathum United [English]",
@@ -48,17 +59,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
       "language": null,
       "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Botswana vs Kenya [English]",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249170",
-      "status": "LIVE",
-      "startTime": "05:00:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249170_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -420,6 +420,17 @@
       "status": "UPCOMING",
       "startTime": "05:15:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Wrexham A.F.C. vs Southampton F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247497",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247497_52993_WRX_SOU_fc-web_1786657253176.jpg",
       "language": null,
       "cnptv_cdn": null
     }

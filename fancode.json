@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/9/2026, 4:50:34 pm",
-  "total_matches": 38,
+  "updatedAt": "17/9/2026, 4:58:47 pm",
+  "total_matches": 39,
   "live_matches": 4,
-  "upcoming_matches": 34,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Botswana vs Kenya [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249170",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/240p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/360p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/480p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/540p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/720p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB"
+          },
+          "cookie": "hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
+          "expires": "1789730230",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Lion City Sailors vs BG Pathum United [English]",
@@ -122,39 +155,6 @@
         "backup": {}
       },
       "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Botswana vs Kenya [English]",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249170",
-      "status": "LIVE",
-      "startTime": "05:00:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249170_53067_BOT_KEN_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/240p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/360p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/480p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/540p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/720p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB"
-          },
-          "cookie": "hdntl=Expires=1789730230~_GO=Generated~acl=/mumbai/4249170_english_hls_40bf75f1c690321_1ta-di_h264/*~Signature=AVl424OMTuVt8xYOWeksvX8W4LlcX5agAo0si5-SFVHa1e6UNUp4ij_-V389NhLqhQVqB6NyIqj0uxiNyoaZ6AHYPvoB",
-          "expires": "1789730230",
-          "expire_date": ""
-        }
-      }
     },
     {
       "category": "Football",
@@ -772,6 +772,25 @@
       "status": "UPCOMING",
       "startTime": "05:15:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248479_53038_CHE-W_BIR-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Wrexham A.F.C. vs Southampton F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247497",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247497_52993_WRX_SOU_fc-web_1786657253176.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
