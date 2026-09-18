@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/9/2026, 7:40:02 am",
+  "updatedAt": "18/9/2026, 9:48:20 am",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 38,
+  "live_matches": 0,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons [English]",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248316",
-      "status": "LIVE",
-      "startTime": "05:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/240p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/360p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/480p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/540p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/720p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H"
-          },
-          "cookie": "hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H",
-          "expires": "1789774469",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Western Australia vs South Australia",
@@ -749,6 +716,25 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248481_53038_BHA-W_AST-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Crystal Palace Women vs Tottenham Hotspur Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248482",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248482_53038_CP-W_TOT-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
