@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/9/2026, 11:58:48 pm",
+  "updatedAt": "19/9/2026, 12:06:41 am",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Football",
+      "title": "RCD Espanyol vs Elche CF [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247634",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/240p.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/360p.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/480p.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/540p.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/720p.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG"
+          },
+          "cookie": "hdntl=Expires=1789842965~_GO=Generated~acl=/mumbai/4247634_english_hls_e64387756e2250_1ta-di_h264/*~Signature=AVl424P6HF0xxppsLXe3aWehMMlV1JaSN4RsjVRohezIjGPJC_pefplfK1nwBs9pVmCrcfgryDuDS5-8-OR5e7XmCCYG",
+          "expires": "1789842965",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Manchester City Women vs Liverpool Women [English]",
@@ -98,25 +131,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247493_52993_BRI_WAT_fc-web_1786657253841.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "RCD Espanyol vs Elche CF",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247634",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
