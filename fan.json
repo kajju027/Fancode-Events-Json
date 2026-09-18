@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "18/9/2026, 4:52:54 pm",
+  "updatedAt": "18/9/2026, 4:54:25 pm",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -28,6 +28,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249099_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Sierra Leone vs Botswana [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249172",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249172_eng.sonuxs.m3u8"
+    },
+    {
       "category": "MotoGP",
       "title": "Day 1 [English]",
       "tournament": "GRAND PRIX OF AUSTRIA 2026",
@@ -37,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139969_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Sierra Leone vs Botswana",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249172",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -149,17 +149,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "La Sella Open 2026",
-      "match_id": "4249085",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Charlton Athletic F.C Women vs London City Lionesses",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -172,12 +161,12 @@
     },
     {
       "category": "Golf",
-      "title": "Day 2 - World Feed",
-      "tournament": "Biltmore Championship in Asheville 2026",
-      "match_id": "4249101",
+      "title": "Day 2",
+      "tournament": "La Sella Open 2026",
+      "match_id": "4249085",
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+      "startTime": "07:30:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -204,13 +193,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248315",
+      "category": "Golf",
+      "title": "Day 2 - World Feed",
+      "tournament": "Biltmore Championship in Asheville 2026",
+      "match_id": "4249101",
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "12:30:00 AM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -222,6 +211,17 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248315",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     },
