@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/9/2026, 8:55:03 pm",
-  "total_matches": 38,
-  "live_matches": 1,
+  "updatedAt": "18/9/2026, 8:55:22 pm",
+  "total_matches": 39,
+  "live_matches": 2,
   "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Australia vs Zimbabwe [English]",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249099",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/240p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/360p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/480p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/540p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/720p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF"
+          },
+          "cookie": "hdntl=Expires=1789830843~_GO=Generated~acl=/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/*~Signature=AVl424MccLyuVXIGIdykDQB7bns-DfrtMwwP_HU0oyc8mEYZo7cf-I_4YtH2RI0OtL6xxXCeKNTTKFTSUzSsnRb8J5gF",
+          "expires": "1789830843",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Golf",
       "title": "Day 2 [English]",
