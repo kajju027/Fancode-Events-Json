@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/9/2026, 4:42:05 pm",
+  "updatedAt": "18/9/2026, 4:52:40 pm",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -72,6 +72,39 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Sierra Leone vs Botswana [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249172",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/240p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/360p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/480p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/540p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/720p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA"
+          },
+          "cookie": "hdntl=Expires=1789816914~_GO=Generated~acl=/mumbai/4249172_english_hls_c9fe0867d954570_1ta-di_h264/*~Signature=AVl424NmnYC8rmvAPLDLlkkkEF1WTBJkwwmKpi8ZxnwdNDdEeLVhy3hLufKrksaqFtAhsTYXcyrJKTzfp5LKHqiyhXEA",
+          "expires": "1789816914",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Day 1 [English]",
       "tournament": "GRAND PRIX OF AUSTRIA 2026",
@@ -103,25 +136,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sierra Leone vs Botswana",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249172",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -295,25 +309,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "La Sella Open 2026",
-      "match_id": "4249085",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Charlton Athletic F.C Women vs London City Lionesses",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -334,12 +329,12 @@
     },
     {
       "category": "Golf",
-      "title": "Day 2 - World Feed",
-      "tournament": "Biltmore Championship in Asheville 2026",
-      "match_id": "4249101",
+      "title": "Day 2",
+      "tournament": "La Sella Open 2026",
+      "match_id": "4249085",
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+      "startTime": "07:30:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -390,13 +385,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248315",
+      "category": "Golf",
+      "title": "Day 2 - World Feed",
+      "tournament": "Biltmore Championship in Asheville 2026",
+      "match_id": "4249101",
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "12:30:00 AM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -416,6 +411,25 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247635_53004_ATH_ALA_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248315",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
