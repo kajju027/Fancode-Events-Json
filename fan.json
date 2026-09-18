@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "18/9/2026, 11:16:23 pm",
+  "updatedAt": "18/9/2026, 11:17:06 pm",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Manchester City Women vs Liverpool Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248477",
-      "status": "LIVE",
-      "startTime": "11:30:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248477_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Queensland vs Victoria",
@@ -24,6 +13,17 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249276_53072_QUN_VCT_FC-Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City Women vs Liverpool Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248477",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248477_53038_MCI-W_LIV-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
