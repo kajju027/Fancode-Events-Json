@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "18/9/2026, 8:18:14 pm",
+  "updatedAt": "18/9/2026, 8:18:24 pm",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 3,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249172_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "MotoGP",
-      "title": "Day 1 [English]",
-      "tournament": "GRAND PRIX OF AUSTRIA 2026",
-      "match_id": "139969",
-      "status": "LIVE",
-      "startTime": "12:30:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139969_eng.sonuxs.m3u8"
     },
     {
       "category": "Golf",
@@ -431,6 +420,17 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo de La Coruna vs Real Betis",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247631",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247631_53004_COR_RB_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }
