@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/9/2026, 9:32:16 pm",
+  "updatedAt": "19/9/2026, 9:41:14 pm",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -105,6 +105,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "RC Celta vs Racing Club de Santander [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247630",
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/240p.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/360p.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/480p.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/540p.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/720p.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM"
+          },
+          "cookie": "hdntl=Expires=1789920469~_GO=Generated~acl=/mumbai/4247630_english_hls_ecfbc638f851844_1ta-di_h264/*~Signature=AVl424PDdbKj3In8bkPdf3hqIXs39Q2aIqXdTi2AYZmsidItdRKn5s7mVVRunyKaNWw7l0dvrioANnNXF4FCMOA9baAM",
+          "expires": "1789920469",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Western Australia vs Tasmania",
       "tournament": "One Day Cup, 2026/27",
@@ -143,13 +176,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "RC Celta vs Racing Club de Santander",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247630",
+      "category": "Cricket",
+      "title": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249250",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247630_53004_CEV_RAC_FC-Web.png",
+      "startTime": "10:30:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -169,25 +202,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248480_53038_ARS-W_MUN-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi Knight Riders Development vs Dubai Capitals Development",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249250",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -283,6 +297,25 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249251_53070_DVD_ADK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 - World Feed",
+      "tournament": "Biltmore Championship in Asheville 2026",
+      "match_id": "4249102",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -416,25 +449,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 - World Feed",
-      "tournament": "Biltmore Championship in Asheville 2026",
-      "match_id": "4249102",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
