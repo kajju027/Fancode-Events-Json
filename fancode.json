@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/9/2026, 4:15:10 pm",
+  "updatedAt": "19/9/2026, 4:35:48 pm",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
@@ -110,6 +110,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "CA Osasuna vs Rayo Vallecano",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247636",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 19-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Western Australia vs Tasmania",
       "tournament": "One Day Cup, 2026/27",
@@ -117,6 +136,25 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Australia",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249097",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -168,25 +206,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Zimbabwe vs Australia",
-      "tournament": "Australia tour of Zimbabwe, 2026",
-      "match_id": "4249097",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "Sharjah Warriorz Development vs Gulf Giants Development",
       "tournament": "DP World ILT20 Development Tournament 2026",
       "match_id": "4249249",
@@ -212,25 +231,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "CA Osasuna vs Rayo Vallecano",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247636",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 19-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247636_53004_OSN_RVL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -585,13 +585,13 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Race",
-      "tournament": "GRAND PRIX OF AUSTRIA 2026",
-      "match_id": "139971",
+      "category": "Cricket",
+      "title": "Sharjah Warriorz Development vs MI Emirates Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249252",
       "status": "UPCOMING",
-      "startTime": "02:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+      "startTime": "10:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -604,13 +604,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sharjah Warriorz Development vs MI Emirates Development",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249252",
+      "category": "MotoGP",
+      "title": "Race",
+      "tournament": "GRAND PRIX OF AUSTRIA 2026",
+      "match_id": "139971",
       "status": "UPCOMING",
-      "startTime": "10:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
+      "startTime": "02:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
