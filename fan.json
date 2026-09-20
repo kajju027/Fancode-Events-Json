@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "20/9/2026, 9:05:43 pm",
+  "updatedAt": "20/9/2026, 9:34:07 pm",
   "total_matches": 39,
-  "live_matches": 5,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -50,6 +50,28 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247637_eng.sonuxs.m3u8"
     },
     {
+      "category": "Football",
+      "title": "Deportivo de La Coruna vs Real Betis [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247631",
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247631_53004_COR_RB_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247631_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Villarreal CF vs Levante [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247632",
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247632_53004_VIL_LET_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247632_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Golf",
       "title": "Day 4 [English]",
       "tournament": "La Sella Open 2026",
@@ -61,24 +83,13 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249087_eng.sonuxs.m3u8"
     },
     {
-      "category": "Football",
-      "title": "Deportivo de La Coruna vs Real Betis",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247631",
+      "category": "Cricket",
+      "title": "Sharjah Warriorz Development vs MI Emirates Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249252",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247631_53004_COR_RB_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Villarreal CF vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247632",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247632_53004_VIL_LET_FC-Web.png",
+      "startTime": "10:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -101,17 +112,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249151_53017_ALM_CF_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah Warriorz Development vs MI Emirates Development",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249252",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -149,17 +149,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Dubai Capitals Development vs Desert Vipers Development",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249253",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 21-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Golf",
       "title": "Day 4 - World Feed",
       "tournament": "Biltmore Championship in Asheville 2026",
@@ -167,6 +156,17 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Dubai Capitals Development vs Desert Vipers Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249253",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 21-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
