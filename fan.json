@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "21/9/2026, 12:04:03 am",
+  "updatedAt": "21/9/2026, 12:14:12 am",
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -37,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247633_53004_VAL_RS_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247633_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Almería vs RC Celta Fortuna [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249151",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249151_53017_ALM_CF_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249151_eng.sonuxs.m3u8"
     },
     {
       "category": "Golf",
@@ -420,6 +409,17 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 24-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248545",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
