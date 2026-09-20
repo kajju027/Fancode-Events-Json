@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "20/9/2026, 4:18:23 pm",
-  "total_matches": 39,
+  "updatedAt": "20/9/2026, 4:19:05 pm",
+  "total_matches": 40,
   "live_matches": 3,
-  "upcoming_matches": 36,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs Tasmania [English]",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249273",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249273_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Zimbabwe vs Australia [English]",
@@ -15,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249097_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C. [English]",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4247498",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247498_52993_WOL_WBA_fc-web_1786657253863.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4247498_eng.sonuxs.m3u8"
     },
     {
       "category": "MotoGP",
@@ -46,6 +46,17 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Wolverhampton Wanderers F.C. vs West Bromwich Albion F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4247498",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247498_52993_WOL_WBA_fc-web_1786657253863.jpg",
       "language": null,
       "cnptv_cdn": null
     },
