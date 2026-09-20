@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "20/9/2026, 12:06:23 pm",
+  "updatedAt": "20/9/2026, 12:08:10 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -15,17 +15,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249273_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "MotoGP",
-      "title": "Race [English]",
-      "tournament": "GRAND PRIX OF AUSTRIA 2026",
-      "match_id": "139971",
-      "status": "LIVE",
-      "startTime": "02:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139971_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -204,6 +193,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "MotoGP",
+      "title": "Race",
+      "tournament": "GRAND PRIX OF AUSTRIA 2026",
+      "match_id": "139971",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Golf",
       "title": "Day 4",
       "tournament": "La Sella Open 2026",
@@ -292,17 +292,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249575",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Mohammedan SC vs East Bengal FC",
       "tournament": "IFA Shield 2026",
@@ -310,6 +299,17 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 22-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249575",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -402,17 +402,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Rourkela Superstars vs Puri Titans",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249576",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 23-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -436,12 +425,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Bhubaneshwar Tigers vs Kataka Panthers",
+      "title": "Rourkela Superstars vs Puri Titans",
       "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249577",
+      "match_id": "4249576",
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 23-09-2026",
+      "startTime": "02:30:00 PM 23-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Mohun Bagan Super Giant vs Sreenidi Deccan FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249525",
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
       "language": null,
       "cnptv_cdn": null
     }
