@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/9/2026, 7:43:13 pm",
+  "updatedAt": "20/9/2026, 8:13:12 pm",
   "total_matches": 39,
-  "live_matches": 10,
-  "upcoming_matches": 29,
+  "live_matches": 9,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -232,38 +232,6 @@
           },
           "cookie": "hdntl=Expires=1789994953~_GO=Generated~acl=/mumbai/4248483_english_hls_a0e1d21a7c90290_1ta-di_h264/*~Signature=AVl424O8uc_IBKLA56uCSm0s2lKKidd7xfmLr7ulEVO2TMRtOmZtYXwkS0tH8FrNo4AcDdpWGxlyZ-OjOxmrmrWTN8cI",
           "expires": "1789994953",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "MotoGP",
-      "title": "Race [English]",
-      "tournament": "GRAND PRIX OF AUSTRIA 2026",
-      "match_id": "139971",
-      "status": "LIVE",
-      "startTime": "02:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_1080p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "1080p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_1080p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
-            "720p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_720p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
-            "540p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_540p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
-            "360p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_360p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
-            "216p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_216p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD"
-          },
-          "cookie": "hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
-          "expires": "1789972549",
           "expire_date": ""
         }
       }
@@ -874,6 +842,25 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 23-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249256",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
