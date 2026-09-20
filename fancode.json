@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/9/2026, 12:09:08 pm",
+  "updatedAt": "20/9/2026, 12:36:53 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -39,6 +39,39 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Australia [English]",
+      "tournament": "Australia tour of Zimbabwe, 2026",
+      "match_id": "4249097",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/240p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/360p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/480p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/540p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/720p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO"
+          },
+          "cookie": "hdntl=Expires=1789974368~_GO=Generated~acl=/mumbai/4249097_english_hls_5b5efe35bb61068_1ta-di_h264/*~Signature=AVl424PbhEvPgVV0UTjNUFQ12bMS7B6Rx1u4fzikPB4ZZlgqnPU9-29Evts0qmYUF5bD14FUUAYPn3tSlkjSAfJ8YHcO",
+          "expires": "1789974368",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "MotoGP",
       "title": "Race [English]",
       "tournament": "GRAND PRIX OF AUSTRIA 2026",
@@ -69,25 +102,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Zimbabwe vs Australia",
-      "tournament": "Australia tour of Zimbabwe, 2026",
-      "match_id": "4249097",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
