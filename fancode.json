@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/9/2026, 2:44:22 am",
+  "updatedAt": "21/9/2026, 2:46:02 am",
   "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 35,
+  "live_matches": 3,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Sharjah Warriorz Development vs MI Emirates Development [English]",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249252",
+      "status": "LIVE",
+      "startTime": "10:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/240p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/360p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/480p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/540p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/720p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F"
+          },
+          "cookie": "hdntl=Expires=1790009499~_GO=Generated~acl=/mumbai/4249252_english_hls_eba948ea0562546_1ta-di_h264/*~Signature=AVl424NMnlXsCXKCr3-JfCkMqivkqA6kKupUkN1RGqSp0-V2g9UiQmfivhjBnPmKIQzwjF9ED13IzlbVDBiuK5ThYF0F",
+          "expires": "1790009499",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Leganes vs Granada",
@@ -706,25 +739,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 24-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249258",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
