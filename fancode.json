@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/9/2026, 11:58:52 am",
+  "updatedAt": "20/9/2026, 12:06:23 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -34,6 +34,38 @@
           },
           "cookie": "hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
           "expires": "1789969519",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Race [English]",
+      "tournament": "GRAND PRIX OF AUSTRIA 2026",
+      "match_id": "139971",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_1080p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_1080p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "720p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_720p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "540p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_540p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "360p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_360p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "216p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_216p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD"
+          },
+          "cookie": "hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+          "expires": "1789972549",
           "expire_date": ""
         }
       }
@@ -343,25 +375,6 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Race",
-      "tournament": "GRAND PRIX OF AUSTRIA 2026",
-      "match_id": "139971",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "Day 4",
       "tournament": "La Sella Open 2026",
@@ -514,13 +527,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Mohammedan SC vs East Bengal FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249522",
+      "category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249575",
       "status": "UPCOMING",
-      "startTime": "03:00:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "startTime": "07:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -533,13 +546,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249575",
+      "category": "Football",
+      "title": "Mohammedan SC vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249522",
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "03:00:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -704,6 +717,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Puri Titans",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249576",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -743,31 +775,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Rourkela Superstars vs Puri Titans",
+      "title": "Bhubaneshwar Tigers vs Kataka Panthers",
       "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249576",
+      "match_id": "4249577",
       "status": "UPCOMING",
-      "startTime": "02:30:00 PM 23-09-2026",
+      "startTime": "07:30:00 PM 23-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Mohun Bagan Super Giant vs Sreenidi Deccan FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249525",
-      "status": "UPCOMING",
-      "startTime": "03:00:00 PM 23-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
