@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "20/9/2026, 10:47:34 am",
+  "updatedAt": "20/9/2026, 11:15:31 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs Tasmania [English]",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249273",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249273_eng.sonuxs.m3u8"
+    },
     {
       "category": "Motorsports",
       "title": "Race 2 [English]",
@@ -15,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249216_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Western Australia vs Tasmania",
-      "tournament": "One Day Cup, 2026/27",
-      "match_id": "4249273",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
