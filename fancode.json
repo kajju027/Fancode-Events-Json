@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/9/2026, 8:28:02 pm",
+  "updatedAt": "21/9/2026, 8:28:07 pm",
   "total_matches": 39,
-  "live_matches": 1,
-  "upcoming_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -40,6 +40,39 @@
     },
     {
       "category": "Cricket",
+      "title": "Dubai Capitals Development vs Desert Vipers Development [English]",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249253",
+      "status": "LIVE",
+      "startTime": "08:30:00 PM 21-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__1080p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__1080p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__240p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__360p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__480p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__540p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__720p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N"
+          },
+          "cookie": "hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
+          "expires": "1790088853",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Japan vs India",
       "tournament": "India tour of Japan, 2026",
       "match_id": "4249214",
@@ -65,25 +98,6 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 22-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249277_53072_QUN_NSW_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Dubai Capitals Development vs Desert Vipers Development",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249253",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 21-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
