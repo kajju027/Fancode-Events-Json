@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/9/2026, 11:31:27 pm",
+  "updatedAt": "22/9/2026, 12:17:18 am",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Dubai Capitals Development vs Desert Vipers Development [English]",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249253",
-      "status": "LIVE",
-      "startTime": "08:30:00 PM 21-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__1080p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__1080p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__240p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__360p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__480p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__540p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__720p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N"
-          },
-          "cookie": "hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N",
-          "expires": "1790088853",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Japan vs India",
@@ -730,6 +697,25 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 25-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248546",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
