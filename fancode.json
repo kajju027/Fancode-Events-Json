@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/9/2026, 7:14:42 pm",
+  "updatedAt": "22/9/2026, 7:19:51 pm",
   "total_matches": 36,
-  "live_matches": 1,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249575",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1789983233587.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/240p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/360p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/480p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/540p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/720p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML"
+          },
+          "cookie": "hdntl=Expires=1790171361~_GO=Generated~acl=/mumbai/4249575_english_hls_4775ad85d799911_1ta-di_h264/*~Signature=AUh_zpUAjj5qQVUckaZUHHuaXcvyMNvaq8YkwEYY5NBjE89QuLVO4LaRfyDZMq9R4C2XFQCeob0jnGx1jUjQ0vC0V_ML",
+          "expires": "1790171361",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "MI Emirates Development vs Gulf Giants Development [English]",
@@ -37,25 +70,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249575",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1789983233587.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
