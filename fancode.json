@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/9/2026, 2:18:22 pm",
+  "updatedAt": "22/9/2026, 2:19:36 pm",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -86,22 +86,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Puri Titans vs Kataka Panthers",
+      "title": "Puri Titans vs Kataka Panthers [English]",
       "tournament": "Odisha Pro T20 League 2026",
       "match_id": "4249574",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "02:30:00 PM 22-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1789983233568.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/240p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/360p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/480p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/540p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/720p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G"
+          },
+          "cookie": "hdntl=Expires=1790153155~_GO=Generated~acl=/mumbai/4249574_english_hls_3470c2766a19871_1ta-di_h264/*~Signature=AUh_zpXlvJ4u1ku-EDCt-fyFKj3oDvOK6WDJ1zQXwHGxRne4P7dVSRh7dJ5zzQlwMMSQ9zcUiaeCiTDySiEWi7VIH54G",
+          "expires": "1790153155",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
