@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/9/2026, 3:20:27 am",
+  "updatedAt": "24/9/2026, 3:22:01 am",
   "total_matches": 37,
-  "live_matches": 0,
-  "upcoming_matches": 37,
+  "live_matches": 1,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Football",
+      "title": "Chelsea F.C. Women vs Austria Wien Women [English]",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249475",
+      "status": "LIVE",
+      "startTime": "12:30:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249475_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "South Africa vs Australia",
@@ -398,17 +409,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Tenerife vs Cádiz",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249270",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }
