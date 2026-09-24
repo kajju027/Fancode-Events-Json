@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/9/2026, 2:57:08 pm",
+  "updatedAt": "24/9/2026, 2:59:54 pm",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 33,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1790170352089.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249578_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Calcutta Customs Club vs East Bengal FC [English]",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249522",
-      "status": "LIVE",
-      "startTime": "03:00:00 PM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249522_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -90,6 +79,17 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 25-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Calcutta Customs Club vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249522",
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": null,
       "cnptv_cdn": null
     },
