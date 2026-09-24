@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/9/2026, 10:26:47 am",
+  "updatedAt": "24/9/2026, 10:27:04 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Tennis",
+      "title": "Day 2 [English]",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248538",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248538_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "South Africa vs Australia",
@@ -68,17 +79,6 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 24-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": "4248538",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 AM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
