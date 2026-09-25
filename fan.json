@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "26/9/2026, 1:38:41 am",
+  "updatedAt": "26/9/2026, 2:28:05 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Girona FC vs Albacete [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249269",
-      "status": "LIVE",
-      "startTime": "12:00:00 AM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249269_53017_GIR_ALB_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249269_eng.sonuxs.m3u8"
-    },
     {
       "category": "Golf",
       "title": "Day 2 - World Feed [English]",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "12:00:00 AM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "New South Wales Breakers vs Queensland Fire",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": "4249528",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
