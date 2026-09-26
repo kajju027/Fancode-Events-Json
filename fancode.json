@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/9/2026, 5:07:18 pm",
+  "updatedAt": "26/9/2026, 5:27:41 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Gurugram Gladiators vs Delhi Dynamos [English]",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249304",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/240p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/360p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/480p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/540p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/720p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN"
-          },
-          "cookie": "hdntl=Expires=1790493829~_GO=Generated~acl=/mumbai/4249304_english_hls_061bcaa95e55942_1ta-di_h264/*~Signature=AUh_zpWxdfLVhvqduRiYtTcjAMJ7FUvpwWhn6QMH9CaBMn419I0w7KXkTsxgDlmGXyGP3EbNdZmU-TjNrcpdGWpGAHAN",
-          "expires": "1790493829",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Keonjhar Miners vs Kataka Panthers [English]",
@@ -425,13 +392,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 3 - World Feed",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249106",
+      "category": "Football",
+      "title": "Manchester United Women vs West Ham United Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248486",
       "status": "UPCOMING",
-      "startTime": "06:30:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "startTime": "05:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -444,13 +411,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Manchester United Women vs West Ham United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248486",
+      "category": "Golf",
+      "title": "Day 3 - World Feed",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249106",
       "status": "UPCOMING",
-      "startTime": "05:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
+      "startTime": "06:30:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -850,6 +817,25 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249298_53073_AAV_GGT_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248543",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
