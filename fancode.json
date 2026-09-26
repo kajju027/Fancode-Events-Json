@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/9/2026, 12:32:56 am",
+  "updatedAt": "27/9/2026, 12:34:13 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Bhubaneshwar Tigers [English]",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249582",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/240p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/360p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/480p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/540p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/720p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN"
+          },
+          "cookie": "hdntl=Expires=1790516870~_GO=Generated~acl=/mumbai/4249582_english_hls_cae53c5bcc51907_1ta-di_h264/*~Signature=AUh_zpVb8TgpK_bCRSXdm5n4EAYnm39epYCMhIodV7DKLEYjJn6TMei9CYqL_3mrG-fS1nY0L8si5uJl9HTSoz8rEswN",
+          "expires": "1790516870",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Golf",
       "title": "Day 3 - World Feed [English]",
@@ -749,25 +782,6 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 AM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Mississauga Masters vs Vancouver Anchors",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249813",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
