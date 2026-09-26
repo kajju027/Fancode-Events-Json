@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/9/2026, 6:09:57 pm",
+  "updatedAt": "26/9/2026, 6:19:16 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -197,6 +197,39 @@
       }
     },
     {
+      "category": "Golf",
+      "title": "Day 3 - World Feed [English]",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249106",
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/240p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/360p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/480p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/540p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/720p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP"
+          },
+          "cookie": "hdntl=Expires=1790513233~_GO=Generated~acl=/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/*~Signature=AUh_zpVG5zrrFVl2_VJ1InuP0B5CSOmWxJBGGFWU81Q33J3c43nIp0-fjNYg0HIw03kPxoNNzAOqXoYfrCsIHvXSgvYP",
+          "expires": "1790513233",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Rourkela Superstars vs Bhubaneshwar Tigers",
       "tournament": "Odisha T20 League 2026",
@@ -375,25 +408,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 27-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 - World Feed",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249106",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
