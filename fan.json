@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "26/9/2026, 12:26:30 pm",
+  "updatedAt": "26/9/2026, 12:33:54 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Tennis",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248547_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Feature Race 2 [English]",
+      "tournament": "F2 AZERBAIJAN 2026",
+      "match_id": "4249606",
+      "status": "LIVE",
+      "startTime": "12:30:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249606_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -127,6 +138,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "South Africa vs Australia",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249779",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Oldham Athletic vs Salford City",
       "tournament": "League Two 2026-27",
@@ -145,28 +167,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249779",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "Feature Race 2",
-      "tournament": "F2 AZERBAIJAN 2026",
-      "match_id": "4249606",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
       "language": null,
       "cnptv_cdn": null
     },
