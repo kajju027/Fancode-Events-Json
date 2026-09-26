@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/9/2026, 8:00:44 pm",
+  "updatedAt": "26/9/2026, 8:01:33 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Keonjhar Miners vs Kataka Panthers [English]",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249583",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/240p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/360p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/480p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/540p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/720p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM"
+          },
+          "cookie": "hdntl=Expires=1790499279~_GO=Generated~acl=/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/*~Signature=AUh_zpUlHDSI8AXAEjsZnHo2NZmFDAPzb88zZlp6TBt1jqRPT_fYgEjomHnHkP4KQbDGNX-x0DuyQ-rlQYMePaObeIkM",
+          "expires": "1790499279",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Rourkela Superstars vs Bhubaneshwar Tigers [English]",
@@ -791,25 +824,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Gurugram Gladiators vs Faridabad Firebirds",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249297",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
