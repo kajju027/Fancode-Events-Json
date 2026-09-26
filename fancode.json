@@ -1,28 +1,75 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/9/2026, 10:06:15 am",
+  "updatedAt": "26/9/2026, 10:23:55 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Rourkela Superstars vs Sambalpur Warriors",
+      "title": "Rourkela Superstars vs Sambalpur Warriors [English]",
       "tournament": "Odisha T20 League 2026",
       "match_id": "4249998",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:30:00 AM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/OD.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/240p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/360p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/480p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/540p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/720p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH"
+          },
+          "cookie": "hdntl=Expires=1790484742~_GO=Generated~acl=/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/*~Signature=AUh_zpWsJ1qPUAAKnyOY-C43SQvBhTcHCzzoRlzto0nHjIz3lZIikK-zZy1hWH-yt0g5PWw10ROofWWV4ycPaLBJmvQH",
+          "expires": "1790484742",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 4 [English]",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248540",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/240p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/360p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/480p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/540p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/720p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG"
+          },
+          "cookie": "hdntl=Expires=1790484744~_GO=Generated~acl=/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/*~Signature=AUh_zpXWAZ4_Oq5Bpy3gSJYYpcwvSLR7Hprn5g4iV6Ga6igMDX5jpdnBb7yVH7oqUA9Ny8ZhHBzPqaOvvpaZXcCT51gG",
+          "expires": "1790484744",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -203,25 +250,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 4",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": "4248540",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 AM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -672,6 +700,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Kolhan King vs Jagannathpur Tigers",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250038",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Delhi Dynamos vs Noida Ninjas",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249303",
@@ -734,25 +781,6 @@
       "match_id": "4249528",
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria Women vs South Australian Scorpions",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": "4249529",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
