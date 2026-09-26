@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "26/9/2026, 12:46:46 pm",
+  "updatedAt": "26/9/2026, 12:56:59 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Delhi Dynamos vs Gurugram Gladiators [English]",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249304",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249304_eng.sonuxs.m3u8"
+    },
     {
       "category": "Tennis",
       "title": "Day 4 [English]",
@@ -37,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249606_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Delhi Dynamos vs Gurugram Gladiators",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249304",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -105,6 +105,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "South Africa vs Australia",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249779",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Sreenidi Deccan FC vs NorthEast United FC",
       "tournament": "IFA Shield 2026",
@@ -123,17 +134,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249779",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
