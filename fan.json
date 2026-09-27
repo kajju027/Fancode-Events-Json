@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "27/9/2026, 5:33:32 pm",
+  "updatedAt": "27/9/2026, 6:31:39 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 9,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -48,6 +48,39 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248486_53038_MUN-W_WHU-W_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248486_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Birmingham City F.C. Women vs Crystal Palace Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248487",
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248487_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Liverpool Women vs Everton Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248488",
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248488_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Tottenham Hotspur Women vs Aston Villa Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4248489",
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248489_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -101,39 +134,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249301_53073_YAW_CRU_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Birmingham City F.C. Women vs Crystal Palace Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248487",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248487_53038_BIR-W_CP-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Liverpool Women vs Everton Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248488",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Tottenham Hotspur Women vs Aston Villa Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4248489",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -204,17 +204,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 4 - World Feed",
-      "tournament": "Presidents Cup 2026",
-      "match_id": "4249107",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Ajman vs Fujairah",
       "tournament": "Emirates D10, 2026",
@@ -222,6 +211,17 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 PM 28-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4 - World Feed",
+      "tournament": "Presidents Cup 2026",
+      "match_id": "4249107",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
