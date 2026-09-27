@@ -1,20 +1,31 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "27/9/2026, 10:09:30 am",
+  "updatedAt": "27/9/2026, 10:17:51 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Puri Titans vs Kataka Panthers",
+      "title": "Puri Titans vs Kataka Panthers [English]",
       "tournament": "Odisha T20 League 2026",
       "match_id": "4249574",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "10:30:00 AM 27-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249574_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5 [English]",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248541",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 27-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248541_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -145,17 +156,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 27-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248490_53038_CHE-W_ARS-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": "4248541",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 AM 27-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
