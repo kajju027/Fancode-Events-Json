@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/9/2026, 1:39:28 am",
+  "updatedAt": "29/9/2026, 1:41:07 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Fujairah vs Emirates Red [English]",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250059",
+      "status": "LIVE",
+      "startTime": "11:15:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250059_53103_EMR_FUJ_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/240p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/360p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/480p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/540p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/720p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI"
+          },
+          "cookie": "hdntl=Expires=1790703446~_GO=Generated~acl=/mumbai/4250059_english_hls_cd491ddfcb30644_1ta-di_h264/*~Signature=ARxeIm_5-uBxSxWAC5jttyIje4hTfeR_oRqR_3i-ws80qRXTo0MOJQoke3JyuJbtVpDGLmOFSB8wbdUYfjROCt_sbgYI",
+          "expires": "1790703446",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Football",
       "title": "Leganes vs Castellón [English]",
@@ -749,25 +782,6 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Toronto Sixers vs Brampton Blitz",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249814",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 AM 01-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249814_53099_TTS_BBZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
