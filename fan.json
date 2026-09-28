@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "28/9/2026, 11:48:59 pm",
+  "updatedAt": "28/9/2026, 11:51:10 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -15,17 +15,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250059_53103_EMR_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250059_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Leganes vs Castellón [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249272",
-      "status": "LIVE",
-      "startTime": "12:00:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249272_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -105,6 +94,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Leganes vs Castellón",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249272",
+      "status": "UPCOMING",
+      "startTime": "12:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Manoharpur Lions vs Saranda Worriers",
       "tournament": "West Singhbhum T20 League 2026",
@@ -149,17 +149,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Emirates Red vs Dubai",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250062",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "NorthEast United FC vs Mohun Bagan Super Giant",
       "tournament": "IFA Shield 2026",
@@ -167,6 +156,17 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Emirates Red vs Dubai",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250062",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250062_53103_EMR_DUB_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
