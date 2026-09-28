@@ -1,13 +1,46 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 1:12:16 pm",
+  "updatedAt": "28/9/2026, 1:12:38 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Yamuna Warriors vs Capital Cruisers",
+      "title": "Rourkela Superstars vs Puri Titans [English]",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249576",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1790170352084.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/240p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/360p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/480p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/540p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/720p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP"
+          },
+          "cookie": "hdntl=Expires=1790657378~_GO=Generated~acl=/mumbai/4249576_english_hls_4b6be661ce47961_1ta-di_h264/*~Signature=AUh_zpVnNn2yWJEQS2gbdJUFojFUjc7Hm1o1iUDAAE4fDdMwUTK_dsR2NAJeYSjmCYu2jwX7Ipsd6oExgfyG2K7Vx5gP",
+          "expires": "1790657378",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Yamuna Warriors vs Capital Cruisers [English]",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249301",
       "status": "LIVE",
@@ -15,14 +48,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249301_53073_YAW_CRU_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/240p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/360p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/480p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/540p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/720p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF"
+          },
+          "cookie": "hdntl=Expires=1790666464~_GO=Generated~acl=/mumbai/4249301_english_hls_01186924eb8955_1ta-di_h264/*~Signature=AUh_zpVejk3wNG_bdu4kWihT4PgfxTUir22Q0x78s1ugFr-MqXBE9LYVH1UrwC_2CV6pOGFXuaYlJH3g1xRoLbXTjGQF",
+          "expires": "1790666464",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -652,82 +699,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "ATP 500 - China Open 2026",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248551",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - China Open 2026",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248558",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "match_id": "4248565",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "match_id": "4248572",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Yamuna Warriors vs Ghaziabad Giants",
       "tournament": "NCR T20 League, 2026",
@@ -754,6 +725,63 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Punjab FC vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249524",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Emirates Blues vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250064",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 500 - China Open 2026",
+      "tournament": "ATP 500 - China Open 2026",
+      "match_id": "4248551",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
