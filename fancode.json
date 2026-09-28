@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 10:27:46 pm",
+  "updatedAt": "28/9/2026, 10:29:22 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Delhi Dynamos vs Noida Ninjas [English]",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249303",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/240p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/360p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/480p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/540p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/720p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP"
+          },
+          "cookie": "hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
+          "expires": "1790680414",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Sharjah vs Emirates Blues [English]",
@@ -749,25 +782,6 @@
       "status": "UPCOMING",
       "startTime": "10:15:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249479_53078_PFC-W_ARS-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Blues",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250067",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250067_53103_ABD_EMB_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
