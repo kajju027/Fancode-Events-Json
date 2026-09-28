@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/9/2026, 7:18:14 pm",
+  "updatedAt": "28/9/2026, 7:19:07 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Puri Titans vs Bhubaneshwar Tigers [English]",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249579",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/240p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/360p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/480p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/540p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/720p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN"
-          },
-          "cookie": "hdntl=Expires=1790679201~_GO=Generated~acl=/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/*~Signature=ARxeIm_-z_gm8DORun_Mpl13-8Brx6QknuQ9sMNk9gqjJ7AW6i4fpPreqlJWJQaYEurHctpgz6I9xRoj7Dtk6RO9R_AN",
-          "expires": "1790679201",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Delhi Dynamos vs Noida Ninjas [English]",
@@ -67,6 +34,39 @@
           },
           "cookie": "hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP",
           "expires": "1790680414",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Kataka Panthers [English]",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249580",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 28-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/240p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/360p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/480p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/540p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/720p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP"
+          },
+          "cookie": "hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP",
+          "expires": "1790689500",
           "expire_date": ""
         }
       }
@@ -136,58 +136,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 6 [English]",
-      "tournament": "ATP 250 - Hangzhou Open 2026",
-      "match_id": "4248549",
-      "status": "LIVE",
-      "startTime": "03:00:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/240p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/360p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/480p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/540p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/720p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM"
-          },
-          "cookie": "hdntl=Expires=1790673749~_GO=Generated~acl=/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/*~Signature=ARxeIm9QsrXBjYDO0sww_0YZ2ZVijQlDUqb4CYq2CMsOpDpQSxULjWmFl2yNxJDzQC5l7fd6AgSblI8aV1vMX9_buMIM",
-          "expires": "1790673749",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Rourkela Superstars vs Kataka Panthers",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249580",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 28-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -824,6 +772,44 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Abu Dhabi vs Dubai",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250065",
+      "status": "UPCOMING",
+      "startTime": "06:45:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250065_53103_ABD_DUB_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Sharjah vs Emirates Blues",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250066",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250066_53103_SHA_EMB_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
