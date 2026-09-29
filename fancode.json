@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/9/2026, 1:48:14 pm",
+  "updatedAt": "29/9/2026, 1:58:30 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -106,6 +106,39 @@
     },
     {
       "category": "Cricket",
+      "title": "Odisha Cricket Association Blue vs Odisha Cricket Association Green [English]",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4250102",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/240p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/360p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/480p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/540p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/720p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO"
+          },
+          "cookie": "hdntl=Expires=1790756749~_GO=Generated~acl=/mumbai/4250102_english_hls_cf77724aa62461_1ta-di_h264/*~Signature=ARxeIm8E9BFjmcMVi55yUziyTA0F7dBQUrUMxoa0ZX_ULF_BUfDVA0tk4OnGtX9apxTsed6rYKoQc-7VVQKxPAlSDmoO",
+          "expires": "1790756749",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Manoharpur Lions vs Saranda Warriors [English]",
       "tournament": "West Singhbhum T20 League 2026",
       "match_id": "4250039",
@@ -169,25 +202,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Odisha Cricket Association Blue vs Odisha Cricket Association Green",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4250102",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -286,6 +300,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Mississauga Masters vs Vancouver Anchors",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249813",
+      "status": "UPCOMING",
+      "startTime": "11:15:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Sharjah vs Emirates Red",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250060",
@@ -311,25 +344,6 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Mississauga Masters vs Vancouver Anchors",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249813",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
