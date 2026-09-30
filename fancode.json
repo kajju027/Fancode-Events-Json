@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/10/2026, 1:28:37 am",
+  "updatedAt": "1/10/2026, 1:28:46 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Australia vs South Africa [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249780",
-      "status": "LIVE",
-      "startTime": "05:00:00 PM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/240p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/360p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/480p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/540p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/720p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD"
-          },
-          "cookie": "hdntl=Expires=1790881592~_GO=Generated~acl=/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/*~Signature=ARxeIm-xea7WHYYgtX0TFqm_M2iphhPKH25Ny6Jo_t83wuXU6aPVUNJIg656lIXtVhySsPL1uUONn7NY_0OvOWA5TkUD",
-          "expires": "1790881592",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "OL Lyonnes vs Chelsea F.C. Women [English]",
@@ -428,6 +395,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Vancouver Anchors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249817",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Manchester City Women vs Real Madrid Women",
       "tournament": "UEFA Women's Champions League 2026-27",
@@ -454,25 +440,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 02-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249485_53078_PSG-W_OHL-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Vancouver Anchors vs Brampton Blitz",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249817",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -796,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 02-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+      "match_id": "4248241",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
