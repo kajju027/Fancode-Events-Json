@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/10/2026, 4:31:05 am",
+  "updatedAt": "1/10/2026, 4:50:19 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -40,22 +40,36 @@
     },
     {
       "category": "Cricket",
-      "title": "New South Wales Breakers vs Queensland Fire",
+      "title": "Queensland Fire vs New South Wales Breakers [English]",
       "tournament": "Women's National Cricket League, 2026/27",
       "match_id": "4249531",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05:00:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249531_53075_NSW-W_QUN-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/240p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/360p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/480p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/540p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/720p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB"
+          },
+          "cookie": "hdntl=Expires=1790896731~_GO=Generated~acl=/mumbai/4249531_english_hls_7dae7dfbc137437_1ta-di_h264/*~Signature=ARxeIm8hL_kZPFW_gKO9-HmPWkexNcmkN9PAS7Eg7_7asZe-MbWUqNN5myees5txV_o4wnpVIWHQXUhn-7U_v1IZWkMB",
+          "expires": "1790896731",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
