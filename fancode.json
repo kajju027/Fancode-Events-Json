@@ -1,13 +1,13 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/9/2026, 5:07:14 pm",
+  "updatedAt": "30/9/2026, 5:12:22 pm",
   "total_matches": 40,
   "live_matches": 5,
   "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
-      "title": "South Africa vs Australia [English]",
+      "title": "Australia vs South Africa [English]",
       "tournament": "Australia tour of South Africa, 2026",
       "match_id": "4249780",
       "status": "LIVE",
@@ -40,7 +40,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Yamuna Warriors vs Ghaziabad Giants [English]",
+      "title": "Ghaziabad Giants vs Yamuna Warriors [English]",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249296",
       "status": "LIVE",
@@ -589,6 +589,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Abu Dhabi vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250070",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250070_53103_ABD_FUJ_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 500 - China Open 2026",
       "tournament": "ATP 500 - China Open 2026",
@@ -653,25 +672,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250070",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 01-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250070_53103_ABD_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
