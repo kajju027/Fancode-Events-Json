@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/9/2026, 5:05:33 pm",
+  "updatedAt": "30/9/2026, 5:07:14 pm",
   "total_matches": 40,
-  "live_matches": 10,
-  "upcoming_matches": 30,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Faridabad Firebirds vs Delhi Dynamos [English]",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249300",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249300_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "South Africa vs Australia [English]",
@@ -40,17 +29,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Kolhan King vs Manoharpur Lions [English]",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250042",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250042_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
       "title": "Emirates Blues vs Fujairah [English]",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250064",
@@ -59,39 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250064_53103_EMB_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250064_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Punjab FC vs East Bengal FC [English]",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249524",
-      "status": "LIVE",
-      "startTime": "02:30:00 PM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249524_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "Kinoshita Group Show Court [English]",
-      "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "match_id": "4248565",
-      "status": "LIVE",
-      "startTime": "07:30:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248565_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1 - World Feed [English]",
-      "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "match_id": "4248572",
-      "status": "LIVE",
-      "startTime": "07:30:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248572_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -442,6 +387,61 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250071_53103_AJM_DUB_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City Women vs Real Madrid Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249484",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249484_53078_MCI-W_RM-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Paris Saint-Germain Women vs Oud-Heverlee Leuven Women",
+      "tournament": "UEFA Women's Champions League 2026-27",
+      "match_id": "4249485",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249485_53078_PSG-W_OHL-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Featured Group - Day 1",
+      "tournament": "Bank of Utah Championship 2026",
+      "match_id": "4249701",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Vancouver Warriors Women vs Vancouver Anchors Women",
+      "tournament": "Canada Super 60 Women, 2026",
+      "match_id": "4249831",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249831_53100_VWW_VAW_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Vancouver Anchors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249817",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }
