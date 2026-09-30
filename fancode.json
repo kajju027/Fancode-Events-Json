@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/9/2026, 10:10:51 am",
+  "updatedAt": "30/9/2026, 10:11:16 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Montreal Royal Tigers vs Toronto Sixers [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249812",
+      "status": "LIVE",
+      "startTime": "07:15:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/240p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/360p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/480p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/540p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/720p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO"
+          },
+          "cookie": "hdntl=Expires=1790828267~_GO=Generated~acl=/mumbai/4249812_english_hls_c762b74b8723257_1ta-di_h264/*~Signature=ARxeIm_USMD3RMEuN63L5j4x_ZaVW8ryqflOqS_UWcoNy79G4Cdfc1cS7uKbT0o5UfDyw939jif4SxUm9FLkx__0F6IO",
+          "expires": "1790828267",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Jagannathpur Tigers vs Chakradharpur Royals [English]",
@@ -684,25 +717,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sharjah vs Abu Dhabi",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250068",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 01-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "ATP 500 - China Open 2026",
       "tournament": "ATP 500 - China Open 2026",
@@ -780,6 +794,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Sharjah vs Abu Dhabi",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250068",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Emirates Blues vs Dubai",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250069",
@@ -805,25 +838,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250070_53103_ABD_FUJ_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Austria Wien Women vs Inter Women",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249482",
-      "status": "UPCOMING",
-      "startTime": "10:15:00 PM 01-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249482_53078_AW-W_INT-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
