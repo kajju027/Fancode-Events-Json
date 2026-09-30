@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/9/2026, 10:59:11 am",
+  "updatedAt": "30/9/2026, 11:09:25 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Mississauga Masters vs Vancouver Anchors [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249813",
+      "status": "LIVE",
+      "startTime": "11:15:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/240p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/360p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/480p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/540p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/720p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD"
+          },
+          "cookie": "hdntl=Expires=1790833112~_GO=Generated~acl=/mumbai/4249813_english_hls_d5c6d7f1db29925_1ta-di_h264/*~Signature=ARxeIm-N0oBMECQr-KqRT92GWnyIn-K2KhTeXdRuCCdOPfgB7LxTvQf0p94bVaVkW_gCPZiSr41kvDME3PVvf7DcrRsD",
+          "expires": "1790833112",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Jagannathpur Tigers vs Chakradharpur Royals [English]",
@@ -169,25 +202,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mississauga Masters vs Vancouver Anchors",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249813",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249813_53099_MGM_VAC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -437,6 +451,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Victoria Women vs South Australian Scorpions",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": "4249532",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Roma Women vs Barcelona Women",
       "tournament": "UEFA Women's Champions League 2026-27",
@@ -482,25 +515,6 @@
       "status": "UPCOMING",
       "startTime": "10:15:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249479_53078_PFC-W_ARS-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria Women vs South Australian Scorpions",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": "4249532",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 01-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
