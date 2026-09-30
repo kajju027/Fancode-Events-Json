@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/9/2026, 8:29:32 am",
+  "updatedAt": "30/9/2026, 8:49:31 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -15,6 +15,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249812_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Jagannathpur Tigers vs Chakradharpur Royals",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250041",
+      "status": "LIVE",
+      "startTime": "09:00:00 AM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250041_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -112,17 +123,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 30-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Jagannathpur Tigers vs Chakradharpur Royals",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250041",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -281,17 +281,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Punjab FC vs East Bengal FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249524",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 30-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Victoria Women vs South Australian Scorpions",
       "tournament": "Women's National Cricket League, 2026/27",
@@ -299,6 +288,17 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249532_53075_VCT-W_SAU-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Punjab FC vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249524",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 30-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": null,
       "cnptv_cdn": null
     },
