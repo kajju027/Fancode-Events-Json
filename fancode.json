@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/10/2026, 3:50:28 am",
+  "updatedAt": "1/10/2026, 4:19:42 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -40,22 +40,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Vancouver Anchors vs Montreal Royal Tigers",
+      "title": "Vancouver Anchors vs Montreal Royal Tigers [English]",
       "tournament": "Canada Super 60, 2026",
       "match_id": "4249815",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:30:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/240p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/360p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/480p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/540p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/720p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH"
+          },
+          "cookie": "hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+          "expires": "1790894915",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -286,6 +300,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Vancouver Anchors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249817",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Austria Wien Women vs Inter Women",
       "tournament": "UEFA Women's Champions League 2026-27",
@@ -312,25 +345,6 @@
       "status": "UPCOMING",
       "startTime": "10:15:00 PM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249483_53078_KOG-W_SVT-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Vancouver Anchors vs Brampton Blitz",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249817",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
