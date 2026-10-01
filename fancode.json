@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/10/2026, 4:23:22 am",
+  "updatedAt": "2/10/2026, 4:23:41 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Vancouver Anchors vs Brampton Blitz [English]",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249817",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/240p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/360p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/480p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/540p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/720p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA"
-          },
-          "cookie": "hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-          "expires": "1790981567",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Featured Group - Day 1 [English]",
@@ -103,6 +70,25 @@
           "expire_date": ""
         }
       }
+    },
+    {
+      "category": "Cricket",
+      "title": "Vancouver Anchors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249817",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -410,6 +396,25 @@
     },
     {
       "category": "Tennis",
+      "title": "ATP 500 - China Open 2026",
+      "tournament": "ATP 500 - China Open 2026",
+      "match_id": "4248560",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
       "title": "ATP 500 - Kinoshita Group Japan Open 2026",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
       "match_id": "4248567",
@@ -473,25 +478,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 02-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 3 - World Feed",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248560",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
