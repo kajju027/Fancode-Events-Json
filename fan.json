@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "1/10/2026, 7:13:32 am",
+  "updatedAt": "1/10/2026, 7:13:58 am",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Montreal Royal Tigers vs Vancouver Anchors [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249815",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249815_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Queensland Fire vs New South Wales Breakers [English]",
@@ -18,14 +29,14 @@
     },
     {
       "category": "Cricket",
-      "title": "White Rock Warriors vs Mississauga Masters [English]",
+      "title": "White Rock Warriors vs Mississauga Masters",
       "tournament": "Canada Super 60, 2026",
       "match_id": "4249816",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "07:15:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249816_53099_WRW_MGM_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249816_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -84,23 +95,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Vancouver Anchors vs Brampton Blitz",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249817",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Vancouver Anchors Women vs Toronto Sixers Women",
       "tournament": "Canada Super 60 Women, 2026",
       "match_id": "4249830",
       "status": "UPCOMING",
       "startTime": "11:15:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249830_53100_VAW_TSW_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Vancouver Anchors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249817",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -413,17 +424,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Emirates Red vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250073",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Formula 1",
       "title": "Practice 2",
       "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
@@ -436,12 +436,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi vs Dubai",
+      "title": "Emirates Red vs Fujairah",
       "tournament": "Emirates D10, 2026",
-      "match_id": "4250074",
+      "match_id": "4250073",
       "status": "UPCOMING",
-      "startTime": "09:00:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
+      "startTime": "06:45:00 PM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     }

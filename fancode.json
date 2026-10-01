@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/10/2026, 7:13:32 am",
+  "updatedAt": "1/10/2026, 7:13:58 am",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Montreal Royal Tigers vs Vancouver Anchors [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249815",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/240p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/360p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/480p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/540p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/720p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH"
+          },
+          "cookie": "hdntl=Expires=1790894915~_GO=Generated~acl=/mumbai/4249815_english_hls_9b84b223119903_1ta-di_h264/*~Signature=ARxeIm_vjlj4nd_appU297lCadzRzaf_Z0y1Qs7-1D2xfe_KGUTBNiAE715dc0Hr-3k9AEw788lXvxyo4Y8dF-adRwEH",
+          "expires": "1790894915",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Queensland Fire vs New South Wales Breakers [English]",
@@ -40,36 +73,22 @@
     },
     {
       "category": "Cricket",
-      "title": "White Rock Warriors vs Mississauga Masters [English]",
+      "title": "White Rock Warriors vs Mississauga Masters",
       "tournament": "Canada Super 60, 2026",
       "match_id": "4249816",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "07:15:00 AM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249816_53099_WRW_MGM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/240p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/360p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/480p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/540p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/720p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL"
-          },
-          "cookie": "hdntl=Expires=1790905208~_GO=Generated~acl=/mumbai/4249816_english_hls_4d3d5bab9254612_1ta-di_h264/*~Signature=ARxeIm-4XGx15SpDXrGLzua1Lu_Brc3V4WKzL_Iduo0etK3iHsL08-grrngbZCvY7pLWZ7ldJfF4muIGdu2LJl07UJIL",
-          "expires": "1790905208",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -168,12 +187,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Vancouver Anchors vs Brampton Blitz",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249817",
+      "title": "Vancouver Anchors Women vs Toronto Sixers Women",
+      "tournament": "Canada Super 60 Women, 2026",
+      "match_id": "4249830",
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
+      "startTime": "11:15:00 AM 01-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249830_53100_VAW_TSW_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -187,12 +206,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Vancouver Anchors Women vs Toronto Sixers Women",
-      "tournament": "Canada Super 60 Women, 2026",
-      "match_id": "4249830",
+      "title": "Vancouver Anchors vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249817",
       "status": "UPCOMING",
-      "startTime": "11:15:00 AM 01-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249830_53100_VAW_TSW_fc-web.jpg",
+      "startTime": "04:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -737,25 +756,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Emirates Red vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250073",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Formula 1",
       "title": "Practice 2",
       "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
@@ -776,12 +776,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi vs Dubai",
+      "title": "Emirates Red vs Fujairah",
       "tournament": "Emirates D10, 2026",
-      "match_id": "4250074",
+      "match_id": "4250073",
       "status": "UPCOMING",
-      "startTime": "09:00:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
+      "startTime": "06:45:00 PM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250073_53103_EMR_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
