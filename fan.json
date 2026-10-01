@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "2/10/2026, 5:14:21 am",
+  "updatedAt": "2/10/2026, 5:24:34 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -37,6 +37,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Bankmini.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249698_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Japan GP [English]",
+      "tournament": "MOTUL GRAND PRIX OF JAPAN 2026",
+      "match_id": "139972",
+      "status": "LIVE",
+      "startTime": "05:30:00 AM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139972_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -128,23 +139,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi vs Dubai",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250074",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Vancouver Anchors vs Toronto Sixers",
       "tournament": "Canada Super 60, 2026",
       "match_id": "4249820",
       "status": "UPCOMING",
       "startTime": "04:30:00 AM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Abu Dhabi vs Dubai",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250074",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250074_53103_ABD_DUB_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -167,17 +178,6 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 AM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "MotoGP",
-      "title": "Japan GP",
-      "tournament": "MOTUL GRAND PRIX OF JAPAN 2026",
-      "match_id": "139972",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -259,17 +259,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Day 3 - World Feed",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248560",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Brampton Blitz vs Mississauga Masters",
       "tournament": "Canada Super 60, 2026",
@@ -277,6 +266,17 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 AM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249822_53099_BBZ_MGM_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 3 - World Feed",
+      "tournament": "ATP 500 - China Open 2026",
+      "match_id": "4248560",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -347,6 +347,28 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "India Champions vs Australia Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249221",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249309",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "ATP 500 - China Open 2026",
       "tournament": "ATP 500 - China Open 2026",
@@ -387,28 +409,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "India Champions vs Australia Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249221",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249221_53069_IAC_AAC_FC-Web_1790764440663.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249309",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     },
