@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/10/2026, 4:06:57 pm",
+  "updatedAt": "1/10/2026, 4:17:00 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -229,22 +229,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Sharjah vs Abu Dhabi",
+      "title": "Sharjah vs Abu Dhabi [English]",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250068",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:30:00 PM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/240p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/360p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/480p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/540p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/720p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP"
+          },
+          "cookie": "hdntl=Expires=1790937923~_GO=Generated~acl=/mumbai/4250068_english_hls_b61ef13e5256903_1ta-di_h264/*~Signature=ARxeIm8kFTTIShbSJoSiTQs8GhR0M22O2zok9SxMO_460XBTzOmgUhgRvpP5YzLqn06LMd5Y0tHxgdWOktvm4E8XptAP",
+          "expires": "1790937923",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -495,22 +509,36 @@
     },
     {
       "category": "Tennis",
-      "title": "Day 2 - World Feed",
+      "title": "Day 2 - World Feed [English]",
       "tournament": "ATP 500 - China Open 2026",
       "match_id": "4248559",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "04:30:00 PM 01-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/240p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/360p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/480p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/540p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/720p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C"
+          },
+          "cookie": "hdntl=Expires=1790937924~_GO=Generated~acl=/mumbai/4248559_english_hls_4bd866162544295_1ta-di_h264/*~Signature=ARxeIm8hF0VrbRambfcFW0PPJq44iY-KASN8psGgfBXwRgHfyEL56TnhvzgZSzub0bQcY11H9qQ3zExg8TDCzUf7Ii4C",
+          "expires": "1790937924",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
