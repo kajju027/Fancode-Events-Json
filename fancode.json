@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/10/2026, 1:08:47 pm",
+  "updatedAt": "2/10/2026, 1:19:01 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -237,6 +237,39 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Practice 2 [English]",
+      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+      "match_id": "4248242",
+      "status": "LIVE",
+      "startTime": "01:30:00 PM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/240p.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/360p.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/480p.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/540p.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/720p.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ"
+          },
+          "cookie": "hdntl=Expires=1791013684~_GO=Generated~acl=/mumbai/4248242_english_hls_3ec5a7a57568703_1ta-di_h264/*~Signature=ARxeIm_PspSe3TspV-w7RALhx02StFv84c2E8zUIZqbNmHp6wMzX_Fc_b-4FIP0wrrW6OUowPA4oVuCN_lLLgsaEPzsJ",
+          "expires": "1791013684",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Yamuna Warriors vs Aravali Avengers",
       "tournament": "NCR T20 League, 2026",
@@ -453,25 +486,6 @@
       "status": "UPCOMING",
       "startTime": "12:00:00 AM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249261_53017_ELD_RO_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 2",
-      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-      "match_id": "4248242",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
