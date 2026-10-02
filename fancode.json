@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "2/10/2026, 6:35:55 am",
+  "updatedAt": "2/10/2026, 6:46:07 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Brampton Blitz vs Vancouver Anchors [English]",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249817",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249817_53099_VAC_BBZ_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/240p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/360p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/480p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/540p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/720p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA"
-          },
-          "cookie": "hdntl=Expires=1790981567~_GO=Generated~acl=/mumbai/4249817_english_hls_5aa43ca1d480706_1ta-di_h264/*~Signature=ARxeIm920fd1JZla4TpnfXB9DxFo1T92rYU2qSlP6TI79HhFjyuw0s5gdHPdJ2y06nHuXPJsxjFIQaeSk_6FFjpVtCEA",
-          "expires": "1790981567",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "MotoGP",
       "title": "Japan GP [English]",
@@ -187,12 +154,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi vs Ajman",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250072",
+      "title": "Vancouver Anchors vs Toronto Sixers",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249820",
       "status": "UPCOMING",
-      "startTime": "04:30:00 PM 02-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",
+      "startTime": "04:30:00 AM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -206,12 +173,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Vancouver Anchors vs Toronto Sixers",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249820",
+      "title": "Abu Dhabi vs Ajman",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250072",
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
+      "startTime": "04:30:00 PM 02-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250072_53103_ABD_AJM_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -782,6 +749,25 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 PM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250077_53103_FUJ_DUB_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan Champions vs Bangladesh Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249222",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249222_53069_PNC_BGC_FC-Web_1790764441302.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
