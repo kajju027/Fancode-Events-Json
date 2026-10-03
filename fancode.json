@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 10:55:54 am",
+  "updatedAt": "3/10/2026, 11:06:05 am",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Brampton Blitz vs Mississauga Masters [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249822",
+      "status": "LIVE",
+      "startTime": "11:15:00 AM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249822_53099_BBZ_MGM_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/240p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/360p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/480p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/540p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/720p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L"
+          },
+          "cookie": "hdntl=Expires=1791091870~_GO=Generated~acl=/mumbai/4249822_english_hls_4d5151b24944267_1ta-di_h264/*~Signature=ARxeIm-dqzYVmdEbMk2_YE9_IeGN3GIbHeXKSt5LFAndUxh8xmRcREA9duCpYitJ8niF6GAgGiI6k4cdrAFbpNziu20L",
+          "expires": "1791091870",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Chakradharpur Royals vs Chaibasa Challengers [English]",
@@ -202,25 +235,6 @@
           "expire_date": ""
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Brampton Blitz vs Mississauga Masters",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249822",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 AM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249822_53099_BBZ_MGM_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
