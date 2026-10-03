@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 12:32:48 pm",
+  "updatedAt": "3/10/2026, 12:53:11 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -40,15 +40,15 @@
     },
     {
       "category": "Cricket",
-      "title": "Chakradharpur Royals vs Chaibasa Challengers [English]",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250047",
+      "title": "Yamuna Warriors vs Delhi Dynamos [English]",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": "4249295",
       "status": "LIVE",
-      "startTime": "09:00:00 AM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "startTime": "01:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
@@ -58,15 +58,48 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/240p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/360p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/480p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/540p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/720p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/240p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/360p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/480p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/540p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/720p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC"
           },
-          "cookie": "hdntl=Expires=1791083999~_GO=Generated~acl=/mumbai/4250047_english_hls_26a4914dd276655_1ta-di_h264/*~Signature=ARxeIm_khv44kAIrnwv-37VQIKmbFHRQ9xMtS--fgBuOLxTA8-mUdj-vCRRNEJrn7DLNml9M35bADlYfrl4PNbxHe60E",
-          "expires": "1791083999",
+          "cookie": "hdntl=Expires=1791098537~_GO=Generated~acl=/mumbai/4249295_english_hls_ad60127e3874258_1ta-di_h264/*~Signature=ARxeIm-CGLdXDQJAFpRdDqirvG2u1pJZu7gkr30WIkzIpYSuAC1dhJp9BOfu9yO72y6_DZ4Q0WAz9QPtr_KWFBKKOcMC",
+          "expires": "1791098537",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jagannathpur Tigers vs Saranda Warriors [English]",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250048",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/240p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/360p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/480p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/540p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/720p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM"
+          },
+          "cookie": "hdntl=Expires=1791098538~_GO=Generated~acl=/mumbai/4250048_english_hls_74a3f755f936664_1ta-di_h264/*~Signature=ARxeIm_cDdRkytPN7d4tEnZmIPDAbhuBFfZU6ZyElzPhCDiBGUDeuDQgo75ANoDEqGOOsbg6oEfpES0-SO-NAtG5-8sM",
+          "expires": "1791098538",
           "expire_date": ""
         }
       }
@@ -205,25 +238,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Delhi Dynamos vs Yamuna Warriors",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249295",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "India Champions vs Australia Champions",
       "tournament": "World Championship of Legends, 2026",
       "match_id": "4249221",
@@ -306,25 +320,6 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 AM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249823_53099_WRW_VAC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Jagannathpur Tigers vs Saranda Warriors",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250048",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -835,6 +830,25 @@
       "title": "Aston Villa Women vs Crystal Palace Women",
       "tournament": "Barclays Women's Super League 2026-27",
       "match_id": "4249188",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Brighton and Hove Albion Women vs Charlton Athletic F.C Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249189",
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
