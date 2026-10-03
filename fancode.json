@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 6:41:32 am",
+  "updatedAt": "3/10/2026, 6:50:56 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Toronto Sixers vs Vancouver Anchors [English]",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249820",
-      "status": "LIVE",
-      "startTime": "04:30:00 AM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/240p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/360p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/480p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/540p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/720p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO"
-          },
-          "cookie": "hdntl=Expires=1791067627~_GO=Generated~acl=/mumbai/4249820_english_hls_3cdb09fbd897637_1ta-di_h264/*~Signature=ARxeIm_bE0wEaXf54mdWXpqD7q8QYLF_mbFOllz4cAspT1g8Ko7w9z8MwksRoVr9NFT6cztsKeDbh-w-z5ajLaORHxEO",
-          "expires": "1791067627",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "MotoGP",
       "title": "Japan GP [English]",
@@ -782,6 +749,25 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "India Champions vs England Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249223",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
