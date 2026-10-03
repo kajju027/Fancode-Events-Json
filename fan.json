@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "3/10/2026, 8:28:46 pm",
+  "updatedAt": "3/10/2026, 8:31:56 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -29,6 +29,17 @@
     },
     {
       "category": "Cricket",
+      "title": "Namibia vs United Arab Emirates [English]",
+      "tournament": "ICC CWC League 2 USA, 2026",
+      "match_id": "4249656",
+      "status": "LIVE",
+      "startTime": "08:30:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249656_53086_NAM_UAE_fc-web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249656_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
       "title": "Dubai vs Fujairah [English]",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250077",
@@ -37,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250077_53103_FUJ_DUB_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250077_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia vs United Arab Emirates",
-      "tournament": "ICC CWC League 2 USA, 2026",
-      "match_id": "4249656",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249656_53086_NAM_UAE_fc-web.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -160,17 +160,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Cádiz vs Leganes",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249262",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "India Champions vs England Champions",
       "tournament": "World Championship of Legends, 2026",
@@ -178,6 +167,17 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Cádiz vs Leganes",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249262",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -336,17 +336,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Formula 1",
-      "title": "Race",
-      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-      "match_id": "4248245",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Las Palmas vs Real Valladolid",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -354,6 +343,17 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+      "match_id": "4248245",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
