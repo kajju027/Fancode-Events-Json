@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 8:27:43 pm",
+  "updatedAt": "3/10/2026, 8:28:46 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -86,39 +86,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia vs United Arab Emirates [English]",
-      "tournament": "ICC CWC League 2 USA, 2026",
-      "match_id": "4249656",
-      "status": "LIVE",
-      "startTime": "08:30:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249656_53086_NAM_UAE_fc-web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/240p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/360p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/480p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/540p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/720p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG"
-          },
-          "cookie": "hdntl=Expires=1791125819~_GO=Generated~acl=/mumbai/4249656_english_hls_f7482524e782286_1ta-di_h264/*~Signature=ARxeIm_X7KTnhUbrTyJpNM13QVFkDcRJN_ni5hsaBO6Pg1L1oxepiTrdUp_wwqglqZbEOD6RXuqj-6YohQ-xwkij2bMG",
-          "expires": "1791125819",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Dubai vs Fujairah [English]",
       "tournament": "Emirates D10, 2026",
       "match_id": "4250077",
@@ -149,6 +116,25 @@
           "expire_date": ""
         }
       }
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia vs United Arab Emirates",
+      "tournament": "ICC CWC League 2 USA, 2026",
+      "match_id": "4249656",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249656_53086_NAM_UAE_fc-web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -341,13 +327,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "India Champions vs England Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249223",
+      "category": "Football",
+      "title": "Cádiz vs Leganes",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249262",
       "status": "UPCOMING",
-      "startTime": "09:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
+      "startTime": "10:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -360,13 +346,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Cádiz vs Leganes",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249262",
+      "category": "Cricket",
+      "title": "India Champions vs England Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249223",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
+      "startTime": "09:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -645,13 +631,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Las Palmas vs Real Valladolid",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249263",
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+      "match_id": "4248245",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
+      "startTime": "12:30:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -664,13 +650,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Formula 1",
-      "title": "Race",
-      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-      "match_id": "4248245",
+      "category": "Football",
+      "title": "Las Palmas vs Real Valladolid",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249263",
       "status": "UPCOMING",
-      "startTime": "12:30:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
+      "startTime": "10:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
