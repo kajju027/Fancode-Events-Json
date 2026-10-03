@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 5:28:17 pm",
+  "updatedAt": "3/10/2026, 5:48:41 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -53,7 +53,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Faridabad Firebirds vs Ghaziabad Giants [English]",
+      "title": "Ghaziabad Giants vs Faridabad Firebirds [English]",
       "tournament": "NCR T20 League, 2026",
       "match_id": "4249309",
       "status": "LIVE",
@@ -261,6 +261,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Fujairah vs Dubai",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250077",
+      "status": "UPCOMING",
+      "startTime": "06:45:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250077_53103_FUJ_DUB_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Brampton Blitz vs Montreal Royal Tigers",
       "tournament": "Canada Super 60, 2026",
       "match_id": "4249825",
@@ -280,41 +299,36 @@
     },
     {
       "category": "Football",
-      "title": "Manchester United Women vs Liverpool Women",
+      "title": "Manchester United Women vs Liverpool Women [English]",
       "tournament": "Barclays Women's Super League 2026-27",
       "match_id": "4249186",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "06:00:00 PM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Fujairah vs Dubai",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250077",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250077_53103_FUJ_DUB_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/240p.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/360p.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/480p.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/540p.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/720p.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL"
+          },
+          "cookie": "hdntl=Expires=1791116123~_GO=Generated~acl=/mumbai/4249186_english_hls_2d3e9d729644723_1ta-di_h264/*~Signature=ARxeIm8LYeEbxNJHW9fXVmU0BjGurYZrE2jz_SokCvVRYqw4lKq6h2XhJissovisS221nkNK21i4q4xxqXqwEV3BVzAL",
+          "expires": "1791116123",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -431,13 +445,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Cádiz vs Leganes",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249262",
+      "category": "Cricket",
+      "title": "Jagannathpur Tigers vs Chaibasa Challengers",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250050",
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
+      "startTime": "01:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -450,13 +464,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Jagannathpur Tigers vs Chaibasa Challengers",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250050",
+      "category": "Football",
+      "title": "Cádiz vs Leganes",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249262",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "startTime": "10:00:00 PM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249262_53017_CDZ_LEG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
