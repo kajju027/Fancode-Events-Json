@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 7:11:19 am",
+  "updatedAt": "3/10/2026, 7:11:28 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Montreal Royal Tigers vs White Rock Warriors [English]",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249821",
-      "status": "LIVE",
-      "startTime": "07:15:00 AM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249821_53099_MRT_WRW_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/240p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/360p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/480p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/540p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/720p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI"
-          },
-          "cookie": "hdntl=Expires=1791077941~_GO=Generated~acl=/mumbai/4249821_english_hls_f0c42bfac043160_1ta-di_h264/*~Signature=ARxeIm91JaXjmGuydvhTtikqSV1qoSMOjn1LNWlJYhxjlXG9upGuW36W2ycaG1BkpSq16Mc40AvFKPJddY_eRKwNjoAI",
-          "expires": "1791077941",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "MotoGP",
       "title": "Japan GP [English]",
@@ -70,6 +37,25 @@
           "expire_date": ""
         }
       }
+    },
+    {
+      "category": "Cricket",
+      "title": "Montreal Royal Tigers vs White Rock Warriors",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249821",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 AM 03-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249821_53099_MRT_WRW_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -376,25 +362,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Canada Super 60 Women, 2026",
-      "match_id": "4249833",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 AM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
@@ -421,6 +388,25 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 03-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Canada Super 60 Women, 2026",
+      "match_id": "4249833",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 AM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
