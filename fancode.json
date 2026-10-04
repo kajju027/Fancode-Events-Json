@@ -1,56 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/10/2026, 2:06:12 am",
+  "updatedAt": "5/10/2026, 2:06:31 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "England Champions vs India Champions [English]",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249223",
-      "status": "LIVE",
-      "startTime": "09:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/240p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/360p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/480p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/540p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/720p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ"
-          },
-          "cookie": "hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-          "expires": "1791211848",
-          "expire_date": ""
-        },
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/240p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/360p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/480p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/540p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/720p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO"
-          },
-          "cookie": "hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-          "expires": "1791211848",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Mississauga Masters vs Toronto Sixers [English]",
@@ -423,44 +377,6 @@
     },
     {
       "category": "Tennis",
-      "title": "ATP 500 - China Open 2026",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248556",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - China Open 2026",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248563",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
       "title": "Colosseum",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
       "match_id": "4248577",
@@ -480,12 +396,50 @@
     },
     {
       "category": "Tennis",
+      "title": "World Feed 1",
+      "tournament": "ATP 500 - China Open 2026",
+      "match_id": "4248556",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 PM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
       "match_id": "4248570",
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed 2",
+      "tournament": "ATP 500 - China Open 2026",
+      "match_id": "4248563",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -809,6 +763,25 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 07-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250055",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
