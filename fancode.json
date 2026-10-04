@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/10/2026, 9:41:40 pm",
+  "updatedAt": "4/10/2026, 9:55:21 pm",
   "total_matches": 40,
   "live_matches": 3,
   "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Yamuna Warriors vs Faridabad Firebirds [English]",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": "4249308",
-      "status": "LIVE",
-      "startTime": "05:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249308_53073_FFI_YAW_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/240p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/360p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/480p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/540p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/720p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF"
-          },
-          "cookie": "hdntl=Expires=1791199122~_GO=Generated~acl=/mumbai/4249308_english_hls_17fc206cee15972_1ta-di_h264/*~Signature=ARxeIm9WwNAQOmI_PzkHlT3Hoz3AKc_4TGKOhcfjegxCulsyfkz4zpjBKd4t8r4uDu4X-ctxGrQOEUAk78bzYSiDDjEF",
-          "expires": "1791199122",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "England Champions vs India Champions [English]",
@@ -118,6 +85,39 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Las Palmas vs Real Valladolid",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249263",
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/240p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/360p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/480p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/540p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/720p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC"
+          },
+          "cookie": "hdntl=Expires=1791217313~_GO=Generated~acl=/mumbai/4249263_english_hls_2f785546d947169_1ta-di_h264/*~Signature=ARxeIm_9RX-mU4EZQoeG2LAQ75tqDQs39cvuIDgfQma18ovfTzqZXAiorpRRHFM6xq5t2QMhNr58nPqr2Ec6SWwSTVsC",
+          "expires": "1791217313",
+          "expire_date": ""
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Mississauga Masters vs Toronto Sixers",
       "tournament": "Canada Super 60, 2026",
@@ -182,25 +182,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249218_53069_AAC_PNC_FC-Web_1790764440703.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Las Palmas vs Real Valladolid",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249263",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -809,6 +790,25 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 06-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249228_53069_PNC_WIC_FC-Web_1790764441607.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Sharjah vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250086",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250086_53103_SHA_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
