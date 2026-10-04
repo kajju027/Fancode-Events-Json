@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/10/2026, 8:23:11 pm",
+  "updatedAt": "4/10/2026, 8:24:32 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -251,49 +251,22 @@
     },
     {
       "category": "Cricket",
-      "title": "India Champions vs England Champions [English]",
+      "title": "India Champions vs England Champions",
       "tournament": "World Championship of Legends, 2026",
       "match_id": "4249223",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "09:00:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249223_53069_IAC_EDC_FC-Web_1790764441407.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
+        "primary": "",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/240p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/360p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/480p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/540p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/720p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ"
-          },
-          "cookie": "hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/*~Signature=ARxeIm8Mstyy0PyKaRF8ddiJGzMA9m7RdFdz_QgbxpZrecBxdrkqnNNXKUrUHII4gzzPxAla96neoezhJtVoRbEO5kQJ",
-          "expires": "1791211848",
-          "expire_date": ""
-        },
-        "HINDI": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/240p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/360p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/480p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/540p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/720p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO"
-          },
-          "cookie": "hdntl=Expires=1791211848~_GO=Generated~acl=/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/*~Signature=ARxeIm96hGLDhOv19-ffKmvIfQI_q3BWsy00bNbcvwFvp9yEdCod9_-T3jMnOhXJSKRfASry4fkpaIBDmx3NsEJlxRgO",
-          "expires": "1791211848",
-          "expire_date": ""
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -524,13 +497,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Bangladesh Champions vs England Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249217",
+      "category": "Football",
+      "title": "Girona FC vs RCD Mallorca",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249264",
       "status": "UPCOMING",
-      "startTime": "09:00:00 PM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
+      "startTime": "12:30:00 AM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249264_53017_GIR_MRC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -543,13 +516,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Girona FC vs RCD Mallorca",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249264",
+      "category": "Cricket",
+      "title": "Bangladesh Champions vs England Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249217",
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249264_53017_GIR_MRC_FC-Web.png",
+      "startTime": "09:00:00 PM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
