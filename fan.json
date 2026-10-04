@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "5/10/2026, 1:55:39 am",
+  "updatedAt": "5/10/2026, 1:56:01 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -17,6 +17,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249223_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Mississauga Masters vs Toronto Sixers [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249826",
+      "status": "LIVE",
+      "startTime": "02:00:00 AM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249826_53099_MGM_TTS_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249826_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Football",
       "title": "Girona FC vs RCD Mallorca [English]",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -26,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249264_53017_GIR_MRC_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249264_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Mississauga Masters vs Toronto Sixers",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249826",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249826_53099_MGM_TTS_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -193,17 +193,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "East Bengal FC vs NorthEast United FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249604",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Ajman vs Fujairah",
       "tournament": "Emirates D10, 2026",
@@ -211,6 +200,17 @@
       "status": "UPCOMING",
       "startTime": "11:15:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250083_53103_AJM_FUJ_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "East Bengal FC vs NorthEast United FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249604",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -238,22 +238,22 @@
     },
     {
       "category": "Tennis",
-      "title": "ATP 500 - Kinoshita Group Japan Open 2026",
+      "title": "Colosseum",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "match_id": "4248570",
+      "match_id": "4248577",
       "status": "UPCOMING",
-      "startTime": "09:00:00 AM 05-10-2026",
+      "startTime": "10:30:00 AM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
     {
       "category": "Tennis",
-      "title": "ATP 500 - Kinoshita Group Japan Open 2026",
+      "title": "World Feed",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
-      "match_id": "4248577",
+      "match_id": "4248570",
       "status": "UPCOMING",
-      "startTime": "09:00:00 AM 05-10-2026",
+      "startTime": "12:30:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
