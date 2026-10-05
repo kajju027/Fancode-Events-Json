@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/10/2026, 8:38:34 am",
+  "updatedAt": "5/10/2026, 8:52:40 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Toronto Sixers vs Vancouver Anchors [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249828",
+      "status": "LIVE",
+      "startTime": "09:00:00 AM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/240p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/360p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/480p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/540p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/720p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC"
+          },
+          "cookie": "hdntl=Expires=1791256652~_GO=Generated~acl=/mumbai/4249828_english_hls_81953f6e7f47328_1ta-di_h264/*~Signature=ARxeIm_pl3t1UmZeNq2awvJdyg5vkP0ljehyYvpKeTWCFI1NcXeirBqnyt31mcNo5LrrOQM3EU08Ma5_4rPo-dzc8gIC",
+          "expires": "1791256652",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Bhutan vs Myanmar [English]",
@@ -73,22 +106,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Toronto Sixers vs Vancouver Anchors",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249828",
-      "status": "UPCOMING",
+      "title": "Chakradharpur Royals vs Manoharpur Lions [English]",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250051",
+      "status": "LIVE",
       "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/240p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/360p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/480p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/540p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/720p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB"
+          },
+          "cookie": "hdntl=Expires=1791256653~_GO=Generated~acl=/mumbai/4250051_english_hls_a8957583d23601_1ta-di_h264/*~Signature=ARxeIm8jnzD4dkGi9CsQg7z74oDqip1R_nSo8RPcxEkHPbVHomoHN0GdIVQVq7ek4QVLjYtW1NRCpHsApEZctVxwiRkB",
+          "expires": "1791256653",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -136,25 +183,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Chakradharpur Royals vs Manoharpur Lions",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250051",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -338,6 +366,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Bahrain vs Bhutan",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249722",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kuwait vs Mongolia",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249723",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Colosseum",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
@@ -383,44 +449,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bahrain vs Bhutan",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249722",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait vs Mongolia",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249723",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",

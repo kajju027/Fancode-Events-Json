@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "5/10/2026, 8:38:34 am",
+  "updatedAt": "5/10/2026, 8:52:40 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Toronto Sixers vs Vancouver Anchors [English]",
+      "tournament": "Canada Super 60, 2026",
+      "match_id": "4249828",
+      "status": "LIVE",
+      "startTime": "09:00:00 AM 05-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249828_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Bhutan vs Myanmar [English]",
@@ -29,14 +40,14 @@
     },
     {
       "category": "Cricket",
-      "title": "Toronto Sixers vs Vancouver Anchors",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249828",
-      "status": "UPCOMING",
+      "title": "Chakradharpur Royals vs Manoharpur Lions [English]",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250051",
+      "status": "LIVE",
       "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250051_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -68,17 +79,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249217_53069_BGC_EDC_FC-Web_1790764441279.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Chakradharpur Royals vs Manoharpur Lions",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250051",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -182,6 +182,28 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Bahrain vs Bhutan",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249722",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Kuwait vs Mongolia",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249723",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "Colosseum",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
@@ -211,28 +233,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 05-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Bahrain vs Bhutan",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249722",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait vs Mongolia",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249723",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
       "language": null,
       "cnptv_cdn": null
     },
