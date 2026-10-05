@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "5/10/2026, 12:22:09 pm",
+  "updatedAt": "5/10/2026, 12:32:20 pm",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Vancouver Anchors vs Toronto Sixers [English]",
-      "tournament": "Canada Super 60, 2026",
-      "match_id": "4249828",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 05-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249820_53099_VAC_TTS_FC-Web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249828_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Chakradharpur Royals vs Manoharpur Lions [English]",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 PM 07-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters - Rolex Shanghai Masters",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248809",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
