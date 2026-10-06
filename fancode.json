@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/10/2026, 10:35:48 am",
+  "updatedAt": "6/10/2026, 10:38:54 am",
   "total_matches": 40,
   "live_matches": 2,
   "upcoming_matches": 38,
@@ -73,6 +73,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Victoria vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249662",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Bahrain vs Bhutan",
       "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
       "match_id": "4249722",
@@ -98,25 +117,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 06-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs South Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249662",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 AM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -244,7 +244,7 @@
     },
     {
       "category": "Tennis",
-      "title": "Doubles Final",
+      "title": "Capital Group Diamond",
       "tournament": "ATP 500 - China Open 2026",
       "match_id": "4248557",
       "status": "UPCOMING",
@@ -263,7 +263,7 @@
     },
     {
       "category": "Tennis",
-      "title": "C. Alcaraz vs J. Lehecka",
+      "title": "Finals: Alcaraz vs Lehecka",
       "tournament": "ATP 500 - Kinoshita Group Japan Open 2026",
       "match_id": "4248578",
       "status": "UPCOMING",
@@ -282,7 +282,7 @@
     },
     {
       "category": "Tennis",
-      "title": "N. Djokovic vs A. de Minaur",
+      "title": "Final: Djokovic vs Alex",
       "tournament": "ATP 500 - China Open 2026",
       "match_id": "4248564",
       "status": "UPCOMING",
