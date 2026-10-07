@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "8/10/2026, 4:53:40 am",
+  "updatedAt": "8/10/2026, 5:03:49 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -18,14 +18,14 @@
     },
     {
       "category": "Cricket",
-      "title": "Victoria vs South Australia",
+      "title": "Victoria vs South Australia [English]",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249662",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "05:00:00 AM 07-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249662_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -380,6 +380,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Namibia vs United Arab Emirates",
+      "tournament": "ICC CWC League 2 USA, 2026",
+      "match_id": "4249659",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
@@ -420,17 +431,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia vs United Arab Emirates",
-      "tournament": "ICC CWC League 2 USA, 2026",
-      "match_id": "4249659",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
       "language": null,
       "cnptv_cdn": null
     },
