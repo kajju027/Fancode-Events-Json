@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "8/10/2026, 12:48:22 pm",
+  "updatedAt": "8/10/2026, 12:50:43 pm",
   "total_matches": 40,
-  "live_matches": 13,
-  "upcoming_matches": 27,
+  "live_matches": 11,
+  "upcoming_matches": 29,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249663",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249663_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Queensland vs Western Australia [English]",
@@ -26,17 +15,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249664_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249662",
-      "status": "LIVE",
-      "startTime": "09:50:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249662_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -147,6 +125,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250124_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249663",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 08-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Victoria vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249662",
+      "status": "UPCOMING",
+      "startTime": "09:50:00 AM 08-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -424,17 +424,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-      "match_id": "139497",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Al-Fateh SC vs Al-Ahli Saudi FC",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "08:25:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+      "match_id": "139497",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
