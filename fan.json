@@ -1,10 +1,32 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/10/2026, 8:17:39 pm",
-  "total_matches": 35,
-  "live_matches": 4,
-  "upcoming_matches": 31,
+  "updatedAt": "9/10/2026, 8:27:36 pm",
+  "total_matches": 36,
+  "live_matches": 6,
+  "upcoming_matches": 30,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "United Arab Emirates vs Namibia [English]",
+      "tournament": "ICC CWC League 2 USA, 2026",
+      "match_id": "4249659",
+      "status": "LIVE",
+      "startTime": "08:30:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249659_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Champions vs West Indies Champions [English]",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249227",
+      "status": "LIVE",
+      "startTime": "09:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249227_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Emirates Blues vs Fujairah [English]",
@@ -48,28 +70,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250133_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia vs United Arab Emirates",
-      "tournament": "ICC CWC League 2 USA, 2026",
-      "match_id": "4249659",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Champions vs West Indies Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249227",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -303,17 +303,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 3",
-      "tournament": "Aramco Korea Championship 2026",
-      "match_id": "4250105",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Al Hilal SFC vs Al-Ittihad",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -321,6 +310,17 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3",
+      "tournament": "Aramco Korea Championship 2026",
+      "match_id": "4250105",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -387,6 +387,17 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Real Madrid vs Villarreal CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247644",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }
