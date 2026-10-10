@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/10/2026, 8:17:01 pm",
+  "updatedAt": "10/10/2026, 8:27:19 pm",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "India Champions vs South Africa Champions [English]",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249220",
+      "status": "LIVE",
+      "startTime": "09:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249220_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Australia vs South Africa [English]",
@@ -48,17 +59,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250126_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "India Champions vs South Africa Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249220",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -336,6 +336,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Al-Shabab FC vs Al-Taawoun FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4249140",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249140_53025_ASF_ALTW_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "MotoGP",
       "title": "Indonesia GP",
       "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
@@ -354,17 +365,6 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Al-Shabab FC vs Al-Taawoun FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4249140",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249140_53025_ASF_ALTW_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
