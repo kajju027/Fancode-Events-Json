@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/10/2026, 12:35:01 pm",
-  "total_matches": 39,
+  "updatedAt": "10/10/2026, 12:37:08 pm",
+  "total_matches": 40,
   "live_matches": 13,
-  "upcoming_matches": 26,
+  "upcoming_matches": 27,
   "matches": [
     {
       "category": "Cricket",
@@ -39,17 +39,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249693_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Australia vs South Africa [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
-      "status": "LIVE",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249781_eng.sonuxs.m3u8"
-    },
-    {
       "category": "MotoGP",
       "title": "Indonesia GP [English]",
       "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
@@ -59,6 +48,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139976_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 - World Feed [English]",
+      "tournament": "Baycurrent Classic 2026",
+      "match_id": "4249776",
+      "status": "LIVE",
+      "startTime": "08:30:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249776_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -147,6 +147,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250196_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Australia vs South Africa",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249781",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -270,17 +281,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Canada vs Nepal",
-      "tournament": "ICC CWC League 2 Oman, 2026",
-      "match_id": "4250114",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Real Madrid vs Villarreal CF",
       "tournament": "LALIGA 2026-27",
@@ -288,6 +288,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Canada vs Nepal",
+      "tournament": "ICC CWC League 2 Oman, 2026",
+      "match_id": "4250114",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -336,17 +347,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Badminton",
-      "title": "Semi-Final",
-      "tournament": "BWF Super 500 - Arctic Open 2026",
-      "match_id": "4250126",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Kuwait vs Myanmar",
       "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
@@ -387,6 +387,17 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Badminton",
+      "title": "Semi-Final",
+      "tournament": "BWF Super 500 - Arctic Open 2026",
+      "match_id": "4250126",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": null,
       "cnptv_cdn": null
     },
