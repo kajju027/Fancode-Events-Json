@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/10/2026, 10:55:08 am",
+  "updatedAt": "10/10/2026, 10:57:18 am",
   "total_matches": 40,
-  "live_matches": 13,
-  "upcoming_matches": 27,
+  "live_matches": 11,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249664_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs Afghanistan [English]",
-      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
-      "match_id": "4249693",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249693_eng.sonuxs.m3u8"
     },
     {
       "category": "MotoGP",
@@ -138,15 +127,15 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250198_eng.sonuxs.m3u8"
     },
     {
-      "category": "Tennis",
-      "title": "Stadium Court [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250196",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250196_eng.sonuxs.m3u8"
+      "category": "Cricket",
+      "title": "Bangladesh vs Afghanistan",
+      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
+      "match_id": "4249693",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -332,6 +321,17 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Stadium Court",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4250196",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
