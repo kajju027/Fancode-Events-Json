@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/10/2026, 6:36:26 pm",
+  "updatedAt": "10/10/2026, 6:41:33 pm",
   "total_matches": 38,
-  "live_matches": 11,
-  "upcoming_matches": 27,
+  "live_matches": 10,
+  "upcoming_matches": 28,
   "matches": [
     {
       "category": "Cricket",
@@ -70,17 +70,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248823_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "Court 7 [English]",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4250197",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250197_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -402,6 +391,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Almería vs Leganes",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249265",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Golf",
       "title": "Day 4 - World Feed",
       "tournament": "Baycurrent Classic 2026",
@@ -414,12 +414,12 @@
     },
     {
       "category": "Football",
-      "title": "Almería vs Leganes",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249265",
+      "title": "Real Betis vs CA Osasuna",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247638",
       "status": "UPCOMING",
-      "startTime": "07:45:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
+      "startTime": "10:00:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247638_53004_RB_OSN_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     }
