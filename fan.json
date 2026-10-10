@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/10/2026, 7:34:43 am",
+  "updatedAt": "10/10/2026, 7:43:58 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -17,6 +17,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249663_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Queensland vs Western Australia [English]",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249664",
+      "status": "LIVE",
+      "startTime": "08:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249664_eng.sonuxs.m3u8"
+    },
+    {
       "category": "MotoGP",
       "title": "Indonesia GP [English]",
       "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
@@ -26,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139976_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Queensland vs Western Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249664",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -83,17 +83,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "West Bromwich Albion F.C. vs Birmingham City F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4249589",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249589_52993_WBA_BIR_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Emirates Blues vs Abu Dhabi",
       "tournament": "Emirates D10, 2026",
@@ -101,6 +90,17 @@
       "status": "UPCOMING",
       "startTime": "07:15:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "West Bromwich Albion F.C. vs Birmingham City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249589",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249589_52993_WBA_BIR_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
