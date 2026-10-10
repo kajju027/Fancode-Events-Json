@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/10/2026, 12:57:40 pm",
+  "updatedAt": "10/10/2026, 1:05:34 pm",
   "total_matches": 40,
-  "live_matches": 15,
-  "upcoming_matches": 25,
+  "live_matches": 14,
+  "upcoming_matches": 26,
   "matches": [
     {
       "category": "Cricket",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249693_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249663",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249663_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -169,6 +158,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250126_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249663",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -403,6 +403,17 @@
     },
     {
       "category": "Motorsports",
+      "title": "F1 Kids 2026",
+      "tournament": "F1 Kids 2026",
+      "match_id": "4250199",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
       "title": "ADAC GT4 Germany - Race 1",
       "tournament": "DTM 2026",
       "match_id": "4250137",
@@ -431,17 +442,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Motorsports",
-      "title": "ADAC GT Masters - Race 1",
-      "tournament": "DTM 2026",
-      "match_id": "4250136",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
