@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "11/10/2026, 6:40:57 am",
+  "updatedAt": "11/10/2026, 6:47:55 am",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -48,6 +48,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249747_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Indonesia GP [English]",
+      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
+      "match_id": "139977",
+      "status": "LIVE",
+      "startTime": "09:30:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139977_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -248,17 +259,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "RCD Mallorca vs Las Palmas",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4249266",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Victoria vs South Australia",
       "tournament": "One Day Cup, 2026/27",
@@ -266,6 +266,17 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "RCD Mallorca vs Las Palmas",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4249266",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -343,17 +354,6 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "MotoGP",
-      "title": "Indonesia GP",
-      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
-      "match_id": "139977",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
