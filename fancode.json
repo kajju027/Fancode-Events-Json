@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/10/2026, 7:46:21 pm",
+  "updatedAt": "12/10/2026, 7:47:33 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -133,6 +133,39 @@
           },
           "cookie": "hdntl=Expires=1791892448~_GO=Generated~acl=/mumbai/4248831_english_hls_d85f2846c991426_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_10acfd1b-0af2-4a~Signature=AZJsJWY5d9vvcNarF9DNnrVinb7EPq1PhmRIvZAhkBkH_dOmJgma8bIxfSEwx_DFD3JfkowLXQIokmrvMcCm7EIcRbMO",
           "expires": "1791892448",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed [English]",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248832",
+      "status": "LIVE",
+      "startTime": "09:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/240p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/360p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/480p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/540p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/720p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP"
+          },
+          "cookie": "hdntl=Expires=1791892450~_GO=Generated~acl=/mumbai/4248832_english_hls_6865163b9417853_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ccb09503-5756-4c~Signature=AZJsJWYVNf_s321nYdPqhZs57kd_lhJ0jNGo6RUF2YV1UJMZe7wEGbW4g7vWW1CAEeMyjhAabASLDQ8QHb283xLqdLwP",
+          "expires": "1791892450",
           "expire_date": ""
         }
       }
@@ -271,25 +304,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sydney Sixers Women vs ACT Meteors",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249788",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Air Force SC vs Al Ain",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -335,6 +349,25 @@
       "status": "UPCOMING",
       "startTime": "11:45:00 PM 12-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248701_53053_AGH_ESG_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Sydney Sixers Women vs ACT Meteors",
+      "tournament": "T20 Spring Challenge, 2026",
+      "match_id": "4249788",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -734,25 +767,6 @@
       "status": "UPCOMING",
       "startTime": "11:45:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248703_53053_ITT_SAA_fc-web_1791802338807.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Space City Cowboys vs Michigan Cricket Stars",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250169",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 AM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250169_53113_SCC_MCS_fc-web_1791793972521.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
