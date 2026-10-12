@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/10/2026, 7:07:21 pm",
+  "updatedAt": "12/10/2026, 7:16:52 pm",
   "total_matches": 40,
   "live_matches": 6,
   "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs Afghanistan [English]",
-      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
-      "match_id": "4249693",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249693_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Australia vs South Africa [English]",
@@ -26,6 +15,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249781_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs Afghanistan [English]",
+      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
+      "match_id": "4249693",
+      "status": "LIVE",
+      "startTime": "11:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249693_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -127,6 +127,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "England Champions vs South Africa Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249236",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Air Force SC vs Al Ain",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -160,17 +171,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Levante vs Sevilla FC",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247643",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247643_53004_LET_SEV_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Sydney Sixers Women vs ACT Meteors",
       "tournament": "T20 Spring Challenge, 2026",
@@ -182,13 +182,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "England Champions vs South Africa Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249236",
+      "category": "Football",
+      "title": "Levante vs Sevilla FC",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247643",
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png",
+      "startTime": "12:30:00 AM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247643_53004_LET_SEV_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
