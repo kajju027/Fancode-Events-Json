@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/10/2026, 11:02:06 am",
+  "updatedAt": "12/10/2026, 11:22:13 am",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 11,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -48,6 +48,39 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249787_53097_ST-W_MS-W_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249787_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Qatar vs Mongolia [English]",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249733",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249733_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Myanmar vs Thailand [English]",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249734",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249734_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhutan vs Kuwait [English]",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249735",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 12-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249735_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -101,39 +134,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Qatar vs Mongolia",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249733",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 12-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Myanmar vs Thailand",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249734",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 12-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Bhutan vs Kuwait",
-      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-      "match_id": "4249735",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 12-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -227,23 +227,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Sydney Sixers Women vs ACT Meteors",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249788",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Oman vs Nepal",
       "tournament": "ICC CWC League 2 Oman, 2026",
       "match_id": "4250115",
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250115_53106_OMA_NEP_fc-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Sydney Sixers Women vs ACT Meteors",
+      "tournament": "T20 Spring Challenge, 2026",
+      "match_id": "4249788",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -413,6 +413,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Prime Raider Gladiators vs Atlanta Force",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250165",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
@@ -428,17 +439,6 @@
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248834",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248835",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
