@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/10/2026, 10:31:18 am",
+  "updatedAt": "12/10/2026, 10:51:39 am",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 9,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -271,22 +271,36 @@
     },
     {
       "category": "Cricket",
-      "title": "Bangladesh vs Afghanistan",
+      "title": "Bangladesh vs Afghanistan [English]",
       "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
       "match_id": "4249693",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/240p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/360p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/480p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/540p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/720p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC"
+          },
+          "cookie": "hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC",
+          "expires": "1791868822",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
