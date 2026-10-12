@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "12/10/2026, 12:13:08 pm",
+  "updatedAt": "12/10/2026, 12:33:29 pm",
   "total_matches": 40,
-  "live_matches": 9,
-  "upcoming_matches": 31,
+  "live_matches": 10,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249280_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Australia vs South Africa [English]",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249781",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249781_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -106,17 +117,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Australia vs South Africa",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249781",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "New South Wales vs Tasmania",
       "tournament": "One Day Cup, 2026/27",
       "match_id": "4249284",
@@ -193,17 +193,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Levante vs Sevilla FC",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247643",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 13-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247643_53004_LET_SEV_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Oman vs Nepal",
       "tournament": "ICC CWC League 2 Oman, 2026",
@@ -211,6 +200,17 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 13-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250115_53106_OMA_NEP_fc-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Levante vs Sevilla FC",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247643",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 13-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247643_53004_LET_SEV_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
