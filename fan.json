@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "14/10/2026, 6:57:37 pm",
+  "updatedAt": "14/10/2026, 7:09:08 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248978_53057_PER_CV_fc-web_1789025066383.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248978_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "PFC Nasaf vs Al Wahda [English]",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248969",
+      "status": "LIVE",
+      "startTime": "07:15:00 PM 14-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248969_53057_NAS_ALW_fc-web_1789029296959.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248969_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -95,34 +106,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Oman vs Canada",
-      "tournament": "ICC CWC League 2 Oman, 2026",
-      "match_id": "4250116",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "PFC Nasaf vs Al Wahda",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248969",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 14-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248969_53057_NAS_ALW_fc-web_1789029296959.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Seattle Thunderbolts vs All Stars Cardinals",
       "tournament": "Atlanta Open T20 2026",
       "match_id": "4250172",
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 14-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250172_53113_ST_ASC_fc-web_1791793971791.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Oman vs Canada",
+      "tournament": "ICC CWC League 2 Oman, 2026",
+      "match_id": "4250116",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
