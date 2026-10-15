@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "15/10/2026, 3:26:04 pm",
+  "updatedAt": "15/10/2026, 3:26:15 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -26,28 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Governor-Generals-XI-vs-New-Zealand-W-2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250101_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Tai Po FC vs Lion City Sailors [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248979",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248979_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Gangwon FC vs Phnom Penh Crown [English]",
-      "tournament": "AFC Champions League Two 2026-27",
-      "match_id": "4248983",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248983_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -94,6 +72,28 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250144_eng.sonuxs.m3u8"
     },
     {
+      "category": "Football",
+      "title": "Tai Po FC vs Lion City Sailors",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248979",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Gangwon FC vs Phnom Penh Crown",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4248983",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Southern Strikers Women vs Seattle Thunders Women",
       "tournament": "Atlanta Open Women's T20 2026",
@@ -138,28 +138,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Atlanta Force vs Space City Cowboys",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250179",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791990454359.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Atlanta Fire Women vs Hurricanes Women",
-      "tournament": "Atlanta Open Women's T20 2026",
-      "match_id": "4250190",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 15-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250190_53114_AF-W_HR-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "BG Pathum United vs Adelaide United",
       "tournament": "AFC Champions League Two 2026-27",
@@ -200,6 +178,28 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 15-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248984_53057_KFC_KIT_fc-web_1789025066016.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Atlanta Force vs Space City Cowboys",
+      "tournament": "Atlanta Open T20 2026",
+      "match_id": "4250179",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791990454359.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Atlanta Fire Women vs Hurricanes Women",
+      "tournament": "Atlanta Open Women's T20 2026",
+      "match_id": "4250190",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 15-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250190_53114_AF-W_HR-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
