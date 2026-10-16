@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "16/10/2026, 2:40:32 pm",
+  "updatedAt": "16/10/2026, 2:40:58 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -37,6 +37,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249834_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Badminton",
+      "title": "QF - Court 1 [English]",
+      "tournament": "BWF Super 750 - Denmark Open 2026",
+      "match_id": "4250145",
+      "status": "LIVE",
+      "startTime": "03:30:00 PM 16-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250145_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Badminton",
+      "title": "QF - Court 2 [English]",
+      "tournament": "BWF Super 750 - Denmark Open 2026",
+      "match_id": "4250146",
+      "status": "LIVE",
+      "startTime": "03:30:00 PM 16-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250146_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -303,28 +325,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Badminton",
-      "title": "QF - Court 1",
-      "tournament": "BWF Super 750 - Denmark Open 2026",
-      "match_id": "4250145",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Badminton",
-      "title": "QF - Court 2",
-      "tournament": "BWF Super 750 - Denmark Open 2026",
-      "match_id": "4250146",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Watford F.C. vs Charlton Athletic F.C",
       "tournament": "EFL Championship 2026-27",
@@ -424,17 +424,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Macarthur vs Perth Glory",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249836",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "TSV Malmsheim vs THCC Rot-Gelb Hamburg",
       "tournament": "GSL Championship 2026",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250229_53117_TSV_THCC_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Macarthur vs Perth Glory",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249836",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
       "language": null,
       "cnptv_cdn": null
     }
