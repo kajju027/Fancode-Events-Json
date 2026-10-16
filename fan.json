@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "16/10/2026, 1:57:54 pm",
+  "updatedAt": "16/10/2026, 2:19:00 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248845_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Sydney FC vs Western Sydney Wanderers [English]",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249834",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 16-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249834_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -237,17 +248,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Sydney FC vs Western Sydney Wanderers",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249834",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 16-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Koln CC vs ICA Berlin",
       "tournament": "GSL Championship 2026",
@@ -358,17 +358,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Auckland vs Melbourne City",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249835",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 17-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Hurricanes Women vs Seattle Thunders Women",
       "tournament": "Atlanta Open Women's T20 2026",
@@ -376,6 +365,17 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 17-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250193_53114_HR-W_ST-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Auckland vs Melbourne City",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249835",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 17-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
       "language": null,
       "cnptv_cdn": null
     },
