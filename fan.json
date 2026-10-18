@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "18/10/2026, 6:23:18 pm",
+  "updatedAt": "18/10/2026, 6:26:40 pm",
   "total_matches": 39,
-  "live_matches": 10,
-  "upcoming_matches": 29,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -39,17 +39,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250232_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "THCC Rot-Gelb Hamburg vs Darmstadt CC [English]",
-      "tournament": "GSL Championship 2026",
-      "match_id": "4250233",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250233_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Football",
       "title": "Chelsea F.C. Women vs Tottenham Hotspur Women [English]",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -70,39 +59,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249197_53038_CP-W_WHU-W_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249197_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Aston Villa Women vs Liverpool Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249194",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249194_53038_AST-W_LIV-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249194_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "Charlton Athletic F.C Women vs Manchester United Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249195",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249195_53038_CHL-W_MUN-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249195_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "London City Lionesses vs Everton Women [English]",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249198",
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249198_53038_LCL_EVE-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249198_eng.sonuxs.m3u8"
     },
     {
       "category": "Badminton",
@@ -161,12 +117,56 @@
     },
     {
       "category": "Cricket",
+      "title": "THCC Rot-Gelb Hamburg vs Darmstadt CC",
+      "tournament": "GSL Championship 2026",
+      "match_id": "4250233",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Oman vs Nepal",
       "tournament": "ICC CWC League 2 Oman, 2026",
       "match_id": "4250118",
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 19-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250118_53106_OMA_NEP_fc-web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Aston Villa Women vs Liverpool Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249194",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249194_53038_AST-W_LIV-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Charlton Athletic F.C Women vs Manchester United Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249195",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249195_53038_CHL-W_MUN-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "London City Lionesses vs Everton Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249198",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249198_53038_LCL_EVE-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
