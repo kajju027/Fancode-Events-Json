@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "20/10/2026, 11:06:52 pm",
+  "updatedAt": "20/10/2026, 11:17:05 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -40,6 +40,17 @@
     },
     {
       "category": "Cricket",
+      "title": "South Africa vs Australia",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249782",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 18-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Tasmania vs Victoria",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249665",
@@ -62,17 +73,6 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa vs Australia",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249782",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 18-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "New South Wales vs Western Australia",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249667",
@@ -84,25 +84,25 @@
     },
     {
       "category": "Football",
-      "title": "Al-Ettifaq vs Al-Ittihad",
+      "title": "Al-Ettifaq vs Al-Ittihad [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250216",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:30:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250216_53025_ETT_ITT_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250216_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
-      "title": "Al-Nassr FC vs Neom SC",
+      "title": "Al-Nassr FC vs Neom SC [English]",
       "tournament": "Roshn Saudi League 2026-2027",
       "match_id": "4250217",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:30:00 PM 20-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250217_53025_ANF_NEOM_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250217_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -182,17 +182,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Gillingham vs Port Vale F.C.",
-      "tournament": "League Two 2026-27",
-      "match_id": "4249999",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 21-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Zambia vs Nigeria",
       "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
@@ -200,6 +189,17 @@
       "status": "UPCOMING",
       "startTime": "06:20:00 PM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Gillingham vs Port Vale F.C.",
+      "tournament": "League Two 2026-27",
+      "match_id": "4249999",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 21-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
       "language": null,
       "cnptv_cdn": null
     },
