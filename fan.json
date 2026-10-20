@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "20/10/2026, 12:02:44 pm",
+  "updatedAt": "20/10/2026, 12:21:36 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs Victoria [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249665",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 19-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249665_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "South Australia vs Queensland [English]",
@@ -39,17 +28,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249667_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Sydney Thunder Women vs Sydney Sixers Women [English]",
-      "tournament": "T20 Spring Challenge, 2026",
-      "match_id": "4249803",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 20-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Semiinal2web.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249803_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Tennis",
       "title": "Day 2 - World Feed [English]",
       "tournament": "ATP 250 - Almaty Open 2026",
@@ -59,6 +37,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792392838118.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249608_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania vs Victoria",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249665",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 19-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -248,17 +237,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Day 2 - World Feed",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249615",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 20-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Emirates Blues vs Dubai",
       "tournament": "Emirates D20, 2026",
@@ -266,6 +244,17 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2 - World Feed",
+      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "match_id": "4249615",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 20-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 22-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Badminton",
+      "title": "Court 1 - Round 16",
+      "tournament": "BWF Super 750 - French Open 2026",
+      "match_id": "4250154",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 22-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
