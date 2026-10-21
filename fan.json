@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "21/10/2026, 5:08:55 pm",
+  "updatedAt": "21/10/2026, 5:19:01 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -81,6 +81,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249623_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 3 - World Feed [English]",
+      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "match_id": "4249616",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 21-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249616_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -193,17 +204,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Reading vs Leyton Orient",
-      "tournament": "League One 2026-27",
-      "match_id": "4249805",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 22-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Emirates Red vs Dubai",
       "tournament": "Emirates D20, 2026",
@@ -215,13 +215,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Day 3 - World Feed",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249616",
+      "category": "Football",
+      "title": "Reading vs Leyton Orient",
+      "tournament": "League One 2026-27",
+      "match_id": "4249805",
       "status": "UPCOMING",
-      "startTime": "05:30:00 PM 21-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+      "startTime": "12:30:00 AM 22-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": null,
       "cnptv_cdn": null
     },
