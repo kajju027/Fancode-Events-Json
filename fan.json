@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "22/10/2026, 8:57:42 am",
+  "updatedAt": "22/10/2026, 9:18:06 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs Victoria [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249665",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 19-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249665_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "New South Wales vs Western Australia [English]",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+      "match_id": "139502",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
       "language": null,
       "cnptv_cdn": null
     }
