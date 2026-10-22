@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/10/2026, 3:23:21 am",
+  "updatedAt": "23/10/2026, 3:23:37 am",
   "total_matches": 39,
-  "live_matches": 0,
-  "upcoming_matches": 39,
+  "live_matches": 1,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "MotoGP",
+      "title": "Day 1 [English]",
+      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
+      "match_id": "139978",
+      "status": "LIVE",
+      "startTime": "03:30:00 AM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139978_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Afghanistan vs Zimbabwe",
@@ -112,17 +123,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "MotoGP",
-      "title": "Day 1",
-      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
-      "match_id": "139978",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 AM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -270,17 +270,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 2",
-      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-      "match_id": "139503",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Denmark vs Kuwait",
       "tournament": "ICC CWC Challenge League A 2026",
@@ -299,6 +288,17 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Formula 1",
+      "title": "Practice 2",
+      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+      "match_id": "139503",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
       "language": null,
       "cnptv_cdn": null
     },
