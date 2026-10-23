@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/10/2026, 4:19:46 pm",
+  "updatedAt": "23/10/2026, 4:29:58 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Afghanistan vs Zimbabwe [English]",
+      "tournament": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
+      "match_id": "4249697",
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249697_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Mozambique vs Nigeria [English]",
@@ -59,17 +70,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249840_53101_BRB_PG_fc-Web_1792223292186.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249840_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe",
-      "tournament": "Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026",
-      "match_id": "4249697",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -303,6 +303,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Emirates Red vs Ajman",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250485",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "Day 5 - World Feed",
       "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
@@ -321,17 +332,6 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 23-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Red vs Ajman",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250485",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -380,17 +380,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Opening Race",
-      "tournament": "F1 ACADEMY AUSTIN 2026",
-      "match_id": "4250507",
-      "status": "UPCOMING",
-      "startTime": "04:20:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Tottenham Hotspur Women vs Arsenal Women",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -398,6 +387,17 @@
       "status": "UPCOMING",
       "startTime": "05:15:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249200_53038_TOT-W_ARS-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
+      "title": "Opening Race",
+      "tournament": "F1 ACADEMY AUSTIN 2026",
+      "match_id": "4250507",
+      "status": "UPCOMING",
+      "startTime": "04:20:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": null,
       "cnptv_cdn": null
     },
