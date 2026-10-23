@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 4:00:07 am",
+  "updatedAt": "24/10/2026, 4:10:18 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Tennis",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139979_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Motorsports",
+      "title": "Opening Race [English]",
+      "tournament": "F1 ACADEMY AUSTIN 2026",
+      "match_id": "4250507",
+      "status": "LIVE",
+      "startTime": "04:20:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250507_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -215,17 +226,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Opening Race",
-      "tournament": "F1 ACADEMY AUSTIN 2026",
-      "match_id": "4250507",
-      "status": "UPCOMING",
-      "startTime": "04:20:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Leganes vs RCD Mallorca",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -336,17 +336,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 3 - World Feed",
-      "tournament": "Butterfield Bermuda Championship 2026",
-      "match_id": "4250353",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Netherlands",
       "tournament": "ICC CWC League 2 UAE, 2026",
@@ -354,6 +343,17 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 - World Feed",
+      "tournament": "Butterfield Bermuda Championship 2026",
+      "match_id": "4250353",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
