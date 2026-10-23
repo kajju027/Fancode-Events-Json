@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/10/2026, 5:10:58 pm",
+  "updatedAt": "23/10/2026, 5:21:13 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -48,6 +48,28 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250157_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5 - World Feed [English]",
+      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+      "match_id": "4249618",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249618_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5 - World Feed [English]",
+      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
+      "match_id": "4249625",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249625_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -204,6 +226,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Dubai vs Abu Dhabi",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250484",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Granada vs Real Valladolid",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -216,45 +249,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Dubai vs Abu Dhabi",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250484",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Uganda vs Mozambique",
       "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
       "match_id": "4249763",
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249763_53093_UGA_MOZ_FC-Web_1792493252645.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5 - World Feed",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249618",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 5 - World Feed",
-      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
-      "match_id": "4249625",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -336,17 +336,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 2 - World Feed",
-      "tournament": "Butterfield Bermuda Championship 2026",
-      "match_id": "4250352",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Racing Club de Santander vs RCD Espanyol",
       "tournament": "LALIGA 2026-27",
@@ -354,6 +343,17 @@
       "status": "UPCOMING",
       "startTime": "07:45:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247658_53004_RAC_ESL_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2 - World Feed",
+      "tournament": "Butterfield Bermuda Championship 2026",
+      "match_id": "4250352",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
