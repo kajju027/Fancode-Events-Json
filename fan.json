@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/10/2026, 9:52:26 pm",
+  "updatedAt": "23/10/2026, 9:53:19 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 9,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -15,6 +15,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249697_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Emirates Blues vs Abu Dhabi [English]",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250483",
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250483_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -92,17 +103,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250352_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Abu Dhabi",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250483",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -391,17 +391,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Opening Race",
-      "tournament": "F1 ACADEMY AUSTIN 2026",
-      "match_id": "4250507",
-      "status": "UPCOMING",
-      "startTime": "04:20:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Atletico de Madrid vs Deportivo de La Coruna",
       "tournament": "LALIGA 2026-27",
@@ -409,6 +398,17 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
+      "title": "Opening Race",
+      "tournament": "F1 ACADEMY AUSTIN 2026",
+      "match_id": "4250507",
+      "status": "UPCOMING",
+      "startTime": "04:20:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
       "language": null,
       "cnptv_cdn": null
     },
