@@ -1,10 +1,32 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "23/10/2026, 1:49:13 pm",
+  "updatedAt": "23/10/2026, 1:56:20 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Mozambique vs Nigeria [English]",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249760",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249760_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Lesotho vs Zambia [English]",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249761",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 23-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249761_eng.sonuxs.m3u8"
+    },
     {
       "category": "Tennis",
       "title": "Day 5 - World Feed [English]",
@@ -79,28 +101,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Mozambique vs Nigeria",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249760",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Lesotho vs Zambia",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249761",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 23-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -314,6 +314,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Charlton Athletic F.C vs Norwich City F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4249598",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249598_52993_CHL_NOR_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Formula 1",
       "title": "Practice 2",
       "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
@@ -332,17 +343,6 @@
       "status": "UPCOMING",
       "startTime": "03:10:00 AM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Charlton Athletic F.C vs Norwich City F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4249598",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249598_52993_CHL_NOR_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -425,23 +425,23 @@
     },
     {
       "category": "Football",
-      "title": "Western Sydney Wanderers vs Auckland",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249842",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
       "title": "Preston North End F.C. vs West Bromwich Albion F.C.",
       "tournament": "EFL Championship 2026-27",
       "match_id": "4249599",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Western Sydney Wanderers vs Auckland",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249842",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg",
       "language": null,
       "cnptv_cdn": null
     }
