@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 6:08:44 pm",
+  "updatedAt": "24/10/2026, 6:10:49 pm",
   "total_matches": 39,
-  "live_matches": 12,
-  "upcoming_matches": 27,
+  "live_matches": 10,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -59,28 +59,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250484_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Gambia vs Zambia [English]",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249764",
-      "status": "LIVE",
-      "startTime": "06:20:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249764_53093_GAM_ZAM_FC-Web_1792493252668.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249764_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Lesotho vs Nigeria [English]",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249765",
-      "status": "LIVE",
-      "startTime": "06:20:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249765_53093_LES_NGR_FC-Web_1792493253251.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249765_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -145,6 +123,28 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Gambia vs Zambia",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249764",
+      "status": "UPCOMING",
+      "startTime": "06:20:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249764_53093_GAM_ZAM_FC-Web_1792493252668.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Lesotho vs Nigeria",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249765",
+      "status": "UPCOMING",
+      "startTime": "06:20:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249765_53093_LES_NGR_FC-Web_1792493253251.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -369,6 +369,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Formula 1",
+      "title": "Qualifying",
+      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+      "match_id": "139505",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "RC Celta vs Real Betis",
       "tournament": "LALIGA 2026-27",
@@ -387,17 +398,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250110_53017_CES_TFE_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-      "match_id": "139505",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
       "language": null,
       "cnptv_cdn": null
     },
