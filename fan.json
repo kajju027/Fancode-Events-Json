@@ -1,13 +1,13 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 11:25:23 am",
+  "updatedAt": "24/10/2026, 11:26:40 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Victoria vs Tasmania",
+      "title": "Victoria vs Tasmania [English]",
       "tournament": "One Day Cup, 2026/27",
       "match_id": "4249285",
       "status": "LIVE",
@@ -17,8 +17,19 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249285_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Western Australia vs New South Wales [English]",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": "4249282",
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249282_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Football",
-      "title": "Newcastle Jets vs Macarthur",
+      "title": "Newcastle Jets vs Macarthur [English]",
       "tournament": "A-League 2026-27",
       "match_id": "4249841",
       "status": "LIVE",
@@ -28,15 +39,15 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249841_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Western Australia vs New South Wales",
-      "tournament": "One Day Cup, 2026/27",
-      "match_id": "4249282",
-      "status": "UPCOMING",
+      "category": "Football",
+      "title": "Western Sydney Wanderers vs Auckland [English]",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249842",
+      "status": "LIVE",
       "startTime": "11:30:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",
-      "language": null,
-      "cnptv_cdn": null
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249842_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -215,17 +226,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Leganes vs RCD Mallorca",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4250108",
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Jersey vs Kenya",
       "tournament": "ICC CWC Challenge League A 2026",
@@ -244,6 +244,17 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Leganes vs RCD Mallorca",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4250108",
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -270,13 +281,24 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Western Sydney Wanderers vs Auckland",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249842",
+      "category": "Cricket",
+      "title": "Gambia vs Lesotho",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249766",
       "status": "UPCOMING",
-      "startTime": "11:30:00 AM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg",
+      "startTime": "02:00:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249766_53093_GAM_LES_FC-Web_1792493253302.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Mozambique vs Zambia",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249767",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249767_53093_MOZ_ZAM_FC-Web_1792493252681.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -310,28 +332,6 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 24-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Gambia vs Lesotho",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249766",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249766_53093_GAM_LES_FC-Web_1792493253302.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Mozambique vs Zambia",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249767",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249767_53093_MOZ_ZAM_FC-Web_1792493252681.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -391,17 +391,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "MotoGP",
-      "title": "Race Day",
-      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
-      "match_id": "139980",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Emirates Red vs Emirates Blues",
       "tournament": "Emirates D20, 2026",
@@ -409,6 +398,17 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "MotoGP",
+      "title": "Race Day",
+      "tournament": "GRAND PRIX OF AUSTRALIA 2026",
+      "match_id": "139980",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
