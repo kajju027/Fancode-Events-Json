@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 12:36:08 pm",
+  "updatedAt": "24/10/2026, 12:38:07 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -50,6 +50,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250340_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Namibia vs Ireland [English]",
+      "tournament": "Ireland tour of Namibia, 2026",
+      "match_id": "4250332",
+      "status": "LIVE",
+      "startTime": "01:00:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250332_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Football",
       "title": "Western Sydney Wanderers vs Auckland [English]",
       "tournament": "A-League 2026-27",
@@ -59,17 +70,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249842_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia vs Ireland",
-      "tournament": "Ireland tour of Namibia, 2026",
-      "match_id": "4250332",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -182,17 +182,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Atletico de Madrid vs Deportivo de La Coruna",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247659",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Netherlands",
       "tournament": "ICC CWC League 2 UAE, 2026",
@@ -200,6 +189,17 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Atletico de Madrid vs Deportivo de La Coruna",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247659",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
