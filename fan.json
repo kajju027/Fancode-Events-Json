@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 3:15:50 pm",
+  "updatedAt": "24/10/2026, 3:17:23 pm",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -81,17 +81,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249843_53101_MLV_MLC_fc-Web_1792223292104.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249843_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 6 - World Feed [English]",
-      "tournament": "ATP 250 - Almaty Open 2026",
-      "match_id": "4249612",
-      "status": "LIVE",
-      "startTime": "03:30:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249612_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -281,6 +270,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Tennis",
+      "title": "Day 6 - World Feed",
+      "tournament": "ATP 250 - Almaty Open 2026",
+      "match_id": "4249612",
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "Gambia vs Lesotho",
       "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
@@ -358,17 +358,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Nigeria vs Uganda",
-      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
-      "match_id": "4249768",
-      "status": "UPCOMING",
-      "startTime": "06:20:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Formula 1",
       "title": "Qualifying",
       "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
@@ -376,6 +365,17 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Nigeria vs Uganda",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249768",
+      "status": "UPCOMING",
+      "startTime": "06:20:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png",
       "language": null,
       "cnptv_cdn": null
     },
