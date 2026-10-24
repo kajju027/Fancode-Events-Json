@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 10:37:03 pm",
+  "updatedAt": "24/10/2026, 10:38:29 pm",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 33,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -37,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250158_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed [English]",
-      "tournament": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-      "match_id": "4249619",
-      "status": "LIVE",
-      "startTime": "05:30:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249619_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -326,6 +315,17 @@
     },
     {
       "category": "Football",
+      "title": "FC Barcelona vs Real Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247666",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 26-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
       "title": "Sydney FC vs Adelaide United",
       "tournament": "A-League 2026-27",
       "match_id": "4249845",
@@ -343,17 +343,6 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "FC Barcelona vs Real Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247666",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 26-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -431,6 +420,17 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+      "match_id": "139506",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 26-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
       "language": null,
       "cnptv_cdn": null
     }
