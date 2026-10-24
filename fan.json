@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "24/10/2026, 9:35:49 pm",
-  "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "updatedAt": "24/10/2026, 9:37:24 pm",
+  "total_matches": 38,
+  "live_matches": 8,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -37,6 +37,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250108_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Brighton and Hove Albion Women vs West Ham United Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249201",
+      "status": "LIVE",
+      "startTime": "09:45:00 PM 24-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249201_53038_BHA-W_WHU-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249201_eng.sonuxs.m3u8"
     },
     {
       "category": "Badminton",
@@ -123,28 +134,6 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Valencia CF vs Villarreal CF",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247661",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247661_53004_VAL_VIL_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Brighton and Hove Albion Women vs West Ham United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249201",
-      "status": "UPCOMING",
-      "startTime": "09:45:00 PM 24-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249201_53038_BHA-W_WHU-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -392,23 +381,23 @@
     },
     {
       "category": "Football",
-      "title": "Manchester United Women vs Manchester City Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249206",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
       "title": "FC Barcelona vs Real Madrid",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247666",
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Manchester United Women vs Manchester City Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249206",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
