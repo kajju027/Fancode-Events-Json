@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "25/10/2026, 9:08:16 am",
+  "updatedAt": "25/10/2026, 9:17:20 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "MotoGP",
@@ -26,6 +26,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249844_53101_WEL_CCM_fc-Web_1792223292135.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249844_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Sydney FC vs Adelaide United [English]",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249845",
+      "status": "LIVE",
+      "startTime": "09:30:00 AM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249845_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -215,26 +226,15 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Sydney FC vs Adelaide United",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249845",
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Motorsports",
-      "title": "Race Day",
-      "tournament": "The FMSCI Indian National Car Racing Championship",
+      "title": "Race Day [English]",
+      "tournament": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026",
       "match_id": "4250528",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "09:30:00 AM 25-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250528_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -260,12 +260,12 @@
     },
     {
       "category": "Badminton",
-      "title": "Finals",
+      "title": "Young vs PV Sindhu",
       "tournament": "BWF Super 750 - French Open 2026",
       "match_id": "4250159",
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -281,17 +281,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Day 7 - World Feed",
-      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
-      "match_id": "4249627",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 25-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Delhi Dynamites vs Haryana Hustlers",
       "tournament": "Northern Artist Champions League 2026",
@@ -299,6 +288,17 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 AM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 7 - World Feed",
+      "tournament": "ATP 250 - BNP Paribas Fortis European Open",
+      "match_id": "4249627",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 25-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
