@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "27/10/2026, 3:51:53 pm",
+  "updatedAt": "27/10/2026, 4:22:22 pm",
   "total_matches": 40,
-  "live_matches": 12,
-  "upcoming_matches": 28,
+  "live_matches": 13,
+  "upcoming_matches": 27,
   "matches": [
     {
       "category": "Cricket",
@@ -136,6 +136,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249636_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "IWB Court 1 [English]",
+      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
+      "match_id": "4249650",
+      "status": "LIVE",
+      "startTime": "04:30:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249650_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -336,13 +347,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "IWB Court 1",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249650",
+      "category": "Cricket",
+      "title": "Sharjah vs Emirates Red",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250490",
       "status": "UPCOMING",
-      "startTime": "04:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "startTime": "06:00:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250490_53130_SHA_EMR_fc-web_1792412929378.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -354,17 +365,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250536_53137_PBW_RR_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah vs Emirates Red",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250490",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250490_53130_SHA_EMR_fc-web_1792412929378.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -424,6 +424,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Emirates Blues vs Abu Dhabi",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250491",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP 500 - Erste Bank Open 2026",
@@ -431,17 +442,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249643",
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
       "language": null,
       "cnptv_cdn": null
     }
