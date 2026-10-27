@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "27/10/2026, 1:14:00 pm",
+  "updatedAt": "27/10/2026, 1:21:35 pm",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -62,14 +62,25 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa vs Australia",
+      "title": "South Africa vs Australia [English]",
       "tournament": "Australia tour of South Africa, 2026",
       "match_id": "4249783",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "02:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249783_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Haryana Hustlers vs Chandigarh Chargers [English]",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250533",
+      "status": "LIVE",
+      "startTime": "01:30:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250533_53137_HH_CC_FC-Web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250533_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -90,17 +101,6 @@
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Haryana Hustlers vs Chandigarh Chargers",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250533",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250533_53137_HH_CC_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
