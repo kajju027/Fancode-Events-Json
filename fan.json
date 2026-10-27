@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "28/10/2026, 3:14:31 am",
+  "updatedAt": "28/10/2026, 3:32:30 am",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Borussia Dortmund vs SV Werder Bremen [English]",
-      "tournament": "DFB Pokal 2026-27",
-      "match_id": "4249991",
-      "status": "LIVE",
-      "startTime": "01:15:00 AM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249991_eng.sonuxs.m3u8"
-    },
     {
       "category": "Football",
       "title": "Fleetwood Town vs Arsenal [English]",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
+      "match_id": "4249644",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
       "language": null,
       "cnptv_cdn": null
     }
