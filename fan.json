@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "28/10/2026, 1:19:34 pm",
+  "updatedAt": "28/10/2026, 1:39:58 pm",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -40,14 +40,14 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa vs Australia",
+      "title": "South Africa vs Australia [English]",
       "tournament": "Australia tour of South Africa, 2026",
       "match_id": "4249783",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "02:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249783_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -106,23 +106,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Delhi Dynamites vs Chandigarh Chargers",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250537",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250537_53137_DLD_CC_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "United Arab Emirates vs Oman",
       "tournament": "ICC CWC League 2 UAE, 2026",
       "match_id": "4250518",
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Delhi Dynamites vs Chandigarh Chargers",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250537",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250537_53137_DLD_CC_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
