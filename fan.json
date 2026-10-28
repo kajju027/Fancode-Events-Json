@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "29/10/2026, 2:17:45 am",
+  "updatedAt": "29/10/2026, 2:38:09 am",
   "total_matches": 40,
-  "live_matches": 11,
-  "upcoming_matches": 29,
+  "live_matches": 10,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Football",
@@ -103,17 +103,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249716_53016_LIV_CHE_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249716_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed [English]",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249630",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249630_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "06:15:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs Scotland",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250308",
+      "status": "UPCOMING",
+      "startTime": "07:10:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
