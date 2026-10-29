@@ -1,13 +1,24 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 4:39:37 am",
+  "updatedAt": "30/10/2026, 4:47:24 am",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
+      "category": "Cricket",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249669",
+      "status": "LIVE",
+      "startTime": "05:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249669_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Tennis",
-      "title": "World Feed [English]",
+      "title": "World Feed",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4249645",
       "status": "LIVE",
@@ -18,7 +29,7 @@
     },
     {
       "category": "Tennis",
-      "title": "IWB Court 1 [English]",
+      "title": "IWB Court 1",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
       "match_id": "4249652",
       "status": "LIVE",
@@ -29,7 +40,7 @@
     },
     {
       "category": "Golf",
-      "title": "Day 1 [English]",
+      "title": "Day 1",
       "tournament": "VidantaWorld Mexico Open 2026",
       "match_id": "4250508",
       "status": "LIVE",
@@ -37,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250508_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249669",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -435,13 +435,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Glaubandich Court",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249639",
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250321",
       "status": "UPCOMING",
-      "startTime": "05:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "startTime": "10:50:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
