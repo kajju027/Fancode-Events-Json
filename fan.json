@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "29/10/2026, 1:56:02 pm",
+  "updatedAt": "29/10/2026, 2:06:17 pm",
   "total_matches": 39,
   "live_matches": 7,
   "upcoming_matches": 32,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "South Africa vs Australia [English]",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": "4249783",
+      "status": "LIVE",
+      "startTime": "02:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249783_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Bangladesh vs West Indies [English]",
@@ -48,17 +59,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web_1793256237758.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250388_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia [English]",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": "4249783",
-      "status": "LIVE",
-      "startTime": "02:00:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249783_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -248,6 +248,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "India vs Pakistan",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250313",
+      "status": "UPCOMING",
+      "startTime": "11:45:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250313_53120_IND_PAK_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Tai Po FC vs BG Pathum United",
       "tournament": "AFC Champions League Two 2026-27",
@@ -277,17 +288,6 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249000_53057_PPC_KFC_fc-web_1789025066672.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "India vs Pakistan",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250313",
-      "status": "UPCOMING",
-      "startTime": "11:45:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250313_53120_IND_PAK_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
