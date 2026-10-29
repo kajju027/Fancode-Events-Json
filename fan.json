@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "29/10/2026, 10:31:18 am",
+  "updatedAt": "29/10/2026, 10:52:59 am",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -40,14 +40,14 @@
     },
     {
       "category": "Cricket",
-      "title": "United Arab Emirates vs Oman",
+      "title": "Oman vs United Arab Emirates [English]",
       "tournament": "ICC CWC League 2 UAE, 2026",
       "match_id": "4250518",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 AM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250518_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -161,23 +161,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Punjab Warriors vs UP Thunderbolts",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250539",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250539_53137_PBW_UPT_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Pakistan vs United Arab Emirates",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250309",
       "status": "UPCOMING",
       "startTime": "08:05:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250309_53120_PAK_UAE_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Punjab Warriors vs UP Thunderbolts",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250539",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250539_53137_PBW_UPT_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -325,6 +325,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Hong Kong, China vs England",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250311",
+      "status": "UPCOMING",
+      "startTime": "09:55:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "HB Køge Women vs Barcelona Women",
       "tournament": "UEFA Women's Champions League 2026-27",
@@ -343,17 +354,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249494_53078_MCI-W_PSG-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Hong Kong, China vs England",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250311",
-      "status": "UPCOMING",
-      "startTime": "09:55:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -380,17 +380,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "Wistron Ladies Open 2026",
-      "match_id": "4250512",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Papua New Guinea vs Kuwait",
       "tournament": "ICC CWC Challenge League A 2026",
@@ -409,6 +398,17 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "Wistron Ladies Open 2026",
+      "match_id": "4250512",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
