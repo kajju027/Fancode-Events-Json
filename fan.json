@@ -1,6 +1,6 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 12:21:54 pm",
+  "updatedAt": "30/10/2026, 12:32:49 pm",
   "total_matches": 39,
   "live_matches": 8,
   "upcoming_matches": 31,
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250526_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249669",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249669_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -72,6 +61,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250348_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "South Africa vs Afghanistan [English]",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250314",
+      "status": "LIVE",
+      "startTime": "12:40:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250314_53120_SA_AFG_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250314_eng.sonuxs.m3u8"
+    },
+    {
       "category": "MotoGP",
       "title": "Day 1 [English]",
       "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
@@ -95,12 +95,12 @@
     },
     {
       "category": "Cricket",
-      "title": "South Africa vs Afghanistan",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250314",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249669",
       "status": "UPCOMING",
-      "startTime": "12:40:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250314_53120_SA_AFG_fc-web.jpg",
+      "startTime": "05:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -270,17 +270,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Al-Shabab FC vs Al-Ahli Saudi FC",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": "4250272",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "Hong Kong Sixes, 2026",
@@ -288,6 +277,17 @@
       "status": "UPCOMING",
       "startTime": "10:50:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Al-Shabab FC vs Al-Ahli Saudi FC",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": "4250272",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
