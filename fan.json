@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 7:58:10 am",
+  "updatedAt": "30/10/2026, 7:58:14 am",
   "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -39,17 +39,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250308_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Pakistan vs United Arab Emirates [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250309",
-      "status": "LIVE",
-      "startTime": "08:05:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250309_53120_PAK_UAE_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250309_eng.sonuxs.m3u8"
-    },
-    {
       "category": "MotoGP",
       "title": "Day 1 [English]",
       "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
@@ -59,6 +48,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139981_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Pakistan vs United Arab Emirates",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250309",
+      "status": "UPCOMING",
+      "startTime": "08:05:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250309_53120_PAK_UAE_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -435,13 +435,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250324",
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "Wistron Ladies Open 2026",
+      "match_id": "4250513",
       "status": "UPCOMING",
-      "startTime": "01:35:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "11:30:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
