@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/10/2026, 1:28:44 am",
+  "updatedAt": "31/10/2026, 1:36:07 am",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 33,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Dubai [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250495",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250495_eng.sonuxs.m3u8"
-    },
     {
       "category": "Football",
       "title": "Al-Shabab FC vs Al-Ahli Saudi FC [English]",
@@ -420,6 +409,17 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247668_53004_BAR_ALA_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250325",
+      "status": "UPCOMING",
+      "startTime": "07:10:00 AM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     },
