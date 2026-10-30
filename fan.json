@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 9:29:44 am",
-  "total_matches": 40,
-  "live_matches": 5,
-  "upcoming_matches": 35,
+  "updatedAt": "30/10/2026, 9:50:03 am",
+  "total_matches": 39,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -50,6 +50,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250310_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Hong Kong, China vs England [English]",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250311",
+      "status": "LIVE",
+      "startTime": "09:55:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250311_eng.sonuxs.m3u8"
+    },
+    {
       "category": "MotoGP",
       "title": "Day 1 [English]",
       "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
@@ -59,17 +70,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139981_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Hong Kong, China vs England",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250311",
-      "status": "UPCOMING",
-      "startTime": "09:55:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -194,17 +194,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Rajasthan Royalsmen vs Uttrakhand Stars",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250541",
-      "status": "UPCOMING",
-      "startTime": "10:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Queensland vs Victoria",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249670",
@@ -227,23 +216,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Himachal Highlenders vs Chandigarh Chargers",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250542",
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Scotland vs Sri Lanka",
       "tournament": "Hong Kong Sixes, 2026",
       "match_id": "4250317",
       "status": "UPCOMING",
       "startTime": "07:10:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Himachal Highlenders vs Chandigarh Chargers",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250542",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
       "language": null,
       "cnptv_cdn": null
     },
