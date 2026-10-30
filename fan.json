@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 4:11:25 pm",
+  "updatedAt": "30/10/2026, 4:21:24 pm",
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -61,17 +61,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250389_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Bangladesh vs West Indies [English]",
-      "tournament": "West Indies tour of Bangladesh, 2026",
-      "match_id": "4250526",
-      "status": "LIVE",
-      "startTime": "09:30:00 AM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250526_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Football",
       "title": "Brisbane Roar vs Auckland [English]",
       "tournament": "A-League 2026-27",
@@ -90,6 +79,17 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 AM 28-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs West Indies",
+      "tournament": "West Indies tour of Bangladesh, 2026",
+      "match_id": "4250526",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
       "language": null,
       "cnptv_cdn": null
     },
