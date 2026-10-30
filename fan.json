@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 1:33:48 pm",
+  "updatedAt": "30/10/2026, 1:45:18 pm",
   "total_matches": 40,
-  "live_matches": 11,
-  "upcoming_matches": 29,
+  "live_matches": 10,
+  "upcoming_matches": 30,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Western Australia vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249668",
-      "status": "LIVE",
-      "startTime": "05:30:00 AM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249668_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Bangladesh vs West Indies [English]",
@@ -125,6 +114,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250513_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs South Australia",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249668",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
