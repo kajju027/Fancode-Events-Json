@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "30/10/2026, 6:21:29 am",
+  "updatedAt": "30/10/2026, 6:29:40 am",
   "total_matches": 40,
   "live_matches": 4,
   "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs South Australia [English]",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249668",
+      "status": "LIVE",
+      "startTime": "05:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249668_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Tasmania vs New South Wales [English]",
@@ -26,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250307_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Western Australia vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249668",
-      "status": "LIVE",
-      "startTime": "05:30:00 AM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249668_eng.sonuxs.m3u8"
     },
     {
       "category": "MotoGP",
@@ -292,6 +292,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Scotland vs Sri Lanka",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250317",
+      "status": "UPCOMING",
+      "startTime": "07:10:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Villarreal CF vs RCD Espanyol",
       "tournament": "LALIGA 2026-27",
@@ -310,17 +321,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249600_52993_SHF_WRX_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland vs Sri Lanka",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250317",
-      "status": "UPCOMING",
-      "startTime": "07:10:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -413,28 +413,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Brisbane Roar vs Auckland",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249846",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249846_53101_BRB_AFC_fc-Web_1792223292139.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP 500 - Swiss Indoors Basel 2026",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249653",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Kenya vs Papua New Guinea",
       "tournament": "ICC CWC Challenge League A 2026",
@@ -442,6 +420,28 @@
       "status": "UPCOMING",
       "startTime": "12:15:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Qatar vs Jersey",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": "4250350",
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Lumbini Lions vs Chitwan Rhinos",
+      "tournament": "Nepal Premier League Season 3, 2026",
+      "match_id": "4250361",
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250361_53124_LBL_CWR_fc-Web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
