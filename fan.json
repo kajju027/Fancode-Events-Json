@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "1/11/2026, 1:03:53 am",
+  "updatedAt": "1/11/2026, 1:24:13 am",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -37,6 +37,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250524_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 [English]",
+      "tournament": "VidantaWorld Mexico Open 2026",
+      "match_id": "4250510",
+      "status": "LIVE",
+      "startTime": "01:30:00 AM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250510_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -259,13 +270,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 3",
-      "tournament": "VidantaWorld Mexico Open 2026",
-      "match_id": "4250510",
+      "category": "Cricket",
+      "title": "West Indies A vs England Lions",
+      "tournament": "England Lions tour of West Indies, 2026",
+      "match_id": "4250203",
       "status": "UPCOMING",
-      "startTime": "01:30:00 AM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
+      "startTime": "10:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -277,17 +288,6 @@
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "West Indies A vs England Lions",
-      "tournament": "England Lions tour of West Indies, 2026",
-      "match_id": "4250203",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -315,23 +315,23 @@
     },
     {
       "category": "Football",
-      "title": "Naegohyang Women's FC vs Ayeyawady FC Women",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250249",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
       "title": "Elche CF vs Valencia CF",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247672",
       "status": "UPCOMING",
       "startTime": "11:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247672_53004_ELC_VAL_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Naegohyang Women's FC vs Ayeyawady FC Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250249",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": null,
       "cnptv_cdn": null
     },
