@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/10/2026, 9:17:48 pm",
+  "updatedAt": "31/10/2026, 9:19:45 pm",
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -15,17 +15,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250362_53124_SPR_BK_fc-Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250362_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi vs Dubai [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250496",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250496_53130_ABD_DUB_fc-web_1792412929356.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250496_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -391,6 +380,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "West Indies A vs England Lions",
+      "tournament": "England Lions tour of West Indies, 2026",
+      "match_id": "4250203",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Birmingham City F.C. Women vs Tottenham Hotspur Women",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -424,13 +424,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "West Indies A vs England Lions",
-      "tournament": "England Lions tour of West Indies, 2026",
-      "match_id": "4250203",
+      "category": "Football",
+      "title": "Charlton Athletic F.C Women vs Chelsea F.C. Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249213",
       "status": "UPCOMING",
-      "startTime": "10:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+      "startTime": "08:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249213_53038_CHL-W_CHE-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
