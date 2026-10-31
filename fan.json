@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/10/2026, 11:25:23 am",
+  "updatedAt": "31/10/2026, 11:35:33 am",
   "total_matches": 40,
-  "live_matches": 10,
-  "upcoming_matches": 30,
+  "live_matches": 11,
+  "upcoming_matches": 29,
   "matches": [
     {
       "category": "Cricket",
@@ -72,6 +72,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250519_eng.sonuxs.m3u8"
     },
     {
+      "category": "Cricket",
+      "title": "Hong Kong, China vs Pakistan [English]",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250322",
+      "status": "LIVE",
+      "startTime": "11:45:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/HK-vs-PAK_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250322_eng.sonuxs.m3u8"
+    },
+    {
       "category": "MotoGP",
       "title": "Day 2 [English]",
       "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
@@ -114,17 +125,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250514_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Hong Kong, China vs Pakistan",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250322",
-      "status": "UPCOMING",
-      "startTime": "11:45:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/HK-vs-PAK_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -325,17 +325,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Real Betis vs Malaga",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247676",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247676_53004_RB_MAG_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Womens \"A\" vs Womens \"B\"",
       "tournament": "Hong Kong Sixes, 2026",
@@ -343,6 +332,17 @@
       "status": "UPCOMING",
       "startTime": "09:55:00 AM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Real Betis vs Malaga",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247676",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247676_53004_RB_MAG_FC-Web.png",
       "language": null,
       "cnptv_cdn": null
     },
