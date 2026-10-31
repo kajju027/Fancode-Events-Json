@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/10/2026, 5:13:28 pm",
+  "updatedAt": "31/10/2026, 5:20:08 pm",
   "total_matches": 39,
-  "live_matches": 5,
-  "upcoming_matches": 34,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -59,6 +59,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250362_53124_SPR_BK_fc-Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250362_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Glaubandich Court [English]",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249633",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249633_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -227,6 +238,17 @@
     },
     {
       "category": "Football",
+      "title": "Everton Women vs Manchester United Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249207",
+      "status": "UPCOMING",
+      "startTime": "06:15:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
       "title": "Levante vs Atletico de Madrid",
       "tournament": "LALIGA 2026-27",
       "match_id": "4247671",
@@ -303,17 +325,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Everton Women vs Manchester United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249207",
-      "status": "UPCOMING",
-      "startTime": "06:15:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Sharjah vs Abu Dhabi",
       "tournament": "Emirates D20, 2026",
@@ -321,17 +332,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Glaubandich Court",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249633",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -380,17 +380,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Beijing Jingtan FC Women vs Kaya FC Iloilo Women",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250260",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Ajman vs Emirates Red",
       "tournament": "Emirates D20, 2026",
@@ -402,6 +391,39 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Beijing Jingtan FC Women vs Kaya FC Iloilo Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250260",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal Women vs Aston Villa Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249208",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249208_53038_ARS-W_AST-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "London City Lionesses vs Manchester City Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249209",
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249209_53038_LCL_MCI-W_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Badminton",
       "title": "Semi-Finals",
       "tournament": "BWF Super 500 - Hylo Open 2026",
@@ -409,28 +431,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 31-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249640",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249647",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
       "language": null,
       "cnptv_cdn": null
     }
