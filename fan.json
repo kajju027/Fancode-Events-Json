@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "31/10/2026, 5:54:28 am",
+  "updatedAt": "31/10/2026, 6:01:30 am",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -48,6 +48,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249668_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 2 [English]",
+      "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "match_id": "139982",
+      "status": "LIVE",
+      "startTime": "06:10:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139982_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -347,17 +358,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Everton Women vs Manchester United Women",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": "4249207",
-      "status": "UPCOMING",
-      "startTime": "06:15:00 PM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "Hong Kong Sixes, 2026",
@@ -369,13 +369,13 @@
       "cnptv_cdn": null
     },
     {
-      "category": "MotoGP",
-      "title": "Day 2",
-      "tournament": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
-      "match_id": "139982",
+      "category": "Football",
+      "title": "Everton Women vs Manchester United Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249207",
       "status": "UPCOMING",
-      "startTime": "06:10:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
+      "startTime": "06:15:00 PM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
