@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "1/11/2026, 10:21:54 am",
+  "updatedAt": "1/11/2026, 10:23:47 am",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Tasmania vs New South Wales [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249669",
-      "status": "LIVE",
-      "startTime": "05:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249669_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Victoria vs Queensland [English]",
@@ -26,17 +15,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249670_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Scotland vs United Arab Emirates [English]",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250327",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-SCO_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250327_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -248,6 +226,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "Oman vs Netherlands",
+      "tournament": "ICC CWC League 2 UAE, 2026",
+      "match_id": "4250520",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "INAC Kobe Leonessa Women vs Bam Khatoon FC",
       "tournament": "AFC Women's Champions League 2026-27",
@@ -299,17 +288,6 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249209_53038_LCL_MCI-W_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman vs Netherlands",
-      "tournament": "ICC CWC League 2 UAE, 2026",
-      "match_id": "4250520",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -442,6 +420,28 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 01-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Final: A. de Minaur vs C. Alcaraz",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": "4249634",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Badminton",
+      "title": "Finals",
+      "tournament": "BWF Super 500 - Hylo Open 2026",
+      "match_id": "4250525",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     }
