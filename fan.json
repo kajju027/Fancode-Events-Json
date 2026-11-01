@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "1/11/2026, 11:37:37 pm",
+  "updatedAt": "1/11/2026, 11:37:45 pm",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -48,6 +48,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250525_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race [Hindi]",
+      "tournament": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
+      "match_id": "139511",
+      "status": "LIVE",
+      "startTime": "01:30:00 AM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
+      "language": "HINDI",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139511_hin.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -149,6 +160,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Golf",
+      "title": "Day 4",
+      "tournament": "VidantaWorld Mexico Open 2026",
+      "match_id": "4250511",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Football",
       "title": "Tractor vs PFC Neftchi",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -211,28 +233,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 03-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247673_53004_COR_OSN_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4",
-      "tournament": "VidantaWorld Mexico Open 2026",
-      "match_id": "4250511",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Formula 1",
-      "title": "Race",
-      "tournament": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
-      "match_id": "139511",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
