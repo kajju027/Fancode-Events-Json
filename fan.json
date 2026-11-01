@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "1/11/2026, 9:55:09 pm",
+  "updatedAt": "1/11/2026, 9:55:28 pm",
   "total_matches": 39,
-  "live_matches": 9,
-  "upcoming_matches": 30,
+  "live_matches": 10,
+  "upcoming_matches": 29,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Abu Dhabi vs Sharjah [English]",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250498",
+      "status": "LIVE",
+      "startTime": "06:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250498_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Zimbabwe vs Afghanistan [English]",
@@ -17,17 +28,6 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249771_eng.sonuxs.m3u8"
     },
     {
-      "category": "Cricket",
-      "title": "Ajman vs Emirates Red [English]",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250499",
-      "status": "LIVE",
-      "startTime": "10:00:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250499_53130_AJM_EMR_fc-web_1792412929398.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250499_eng.sonuxs.m3u8"
-    },
-    {
       "category": "Football",
       "title": "Birmingham City F.C. Women vs Tottenham Hotspur Women [English]",
       "tournament": "Barclays Women's Super League 2026-27",
@@ -37,6 +37,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249210_53038_BIR-W_TOT-W_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249210_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Football",
+      "title": "Brighton and Hove Albion Women vs Crystal Palace Women [English]",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249211",
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249211_53038_BHA-W_CP-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249211_eng.sonuxs.m3u8"
     },
     {
       "category": "Football",
@@ -84,12 +95,12 @@
     },
     {
       "category": "Badminton",
-      "title": "Finals [English]",
+      "title": "Finals: Christie vs Sen [English]",
       "tournament": "BWF Super 500 - Hylo Open 2026",
       "match_id": "4250525",
       "status": "LIVE",
       "startTime": "06:30:00 PM 01-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Jonatan-Christie-vs-Lakshya-Sen_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250525_eng.sonuxs.m3u8"
     },
@@ -103,6 +114,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Jiri_Lehecka_vs_Valentin_Vacherot_FC-Web.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249655_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Ajman vs Emirates Red",
+      "tournament": "Emirates D20, 2026",
+      "match_id": "4250499",
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 01-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250499_53130_AJM_EMR_fc-web_1792412929398.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -409,28 +431,6 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 03-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248738_53053_VIS_RAT_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Kashiwa Reysol vs Daejeon Hana Citizen FC",
-      "tournament": "AFC Champions League Elite 2026-27",
-      "match_id": "4248739",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248739_53053_REY_DAC_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Emirates Red",
-      "tournament": "Emirates D20, 2026",
-      "match_id": "4250502",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
       "language": null,
       "cnptv_cdn": null
     }
