@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "2/11/2026, 11:12:51 pm",
+  "updatedAt": "2/11/2026, 11:20:23 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -81,6 +81,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250549_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Tennis",
+      "title": "Court Central [English]",
+      "tournament": "ATP Masters - Rolex Paris Masters 2026",
+      "match_id": "4250550",
+      "status": "LIVE",
+      "startTime": "11:30:00 PM 02-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250550_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -259,17 +270,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Court Central",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250550",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Esteghlal FC vs Al Shamal",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -369,17 +369,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Live Events",
-      "title": "APL Draft 2026",
-      "tournament": "APL Draft 2026",
-      "match_id": "4250648",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 03-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Oman",
       "tournament": "ICC CWC League 2 UAE, 2026",
@@ -387,6 +376,17 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 AM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Live Events",
+      "title": "APL Draft 2026",
+      "tournament": "APL Draft 2026",
+      "match_id": "4250648",
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 03-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
       "language": null,
       "cnptv_cdn": null
     },
