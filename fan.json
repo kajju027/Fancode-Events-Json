@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "3/11/2026, 4:46:53 am",
+  "updatedAt": "3/11/2026, 5:07:45 am",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "live_matches": 4,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Victoria vs Queensland [English]",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249670",
+      "status": "LIVE",
+      "startTime": "05:30:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249670_eng.sonuxs.m3u8"
+    },
     {
       "category": "Football",
       "title": "RCD Mallorca vs Cadiz [English]",
@@ -37,17 +48,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250550_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs Queensland",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249670",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -226,6 +226,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Cricket",
+      "title": "United Arab Emirates vs Oman",
+      "tournament": "ICC CWC League 2 UAE, 2026",
+      "match_id": "4250521",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Tennis",
       "title": "ATP - Rolex Paris Masters 2026",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
@@ -266,17 +277,6 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 03-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "United Arab Emirates vs Oman",
-      "tournament": "ICC CWC League 2 UAE, 2026",
-      "match_id": "4250521",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
       "language": null,
       "cnptv_cdn": null
     },
