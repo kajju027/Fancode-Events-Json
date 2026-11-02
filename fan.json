@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "3/11/2026, 1:19:44 am",
+  "updatedAt": "3/11/2026, 1:23:13 am",
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -37,17 +37,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248733_53053_AGH_ALQ_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248733_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Football",
-      "title": "RCD Mallorca vs Cadiz [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4250629",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 03-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250629_eng.sonuxs.m3u8"
     },
     {
       "category": "Tennis",
@@ -123,6 +112,17 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 03-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "RCD Mallorca vs Cadiz",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4250629",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 03-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793599298969/4250629_CASACARDS_APP.png",
       "language": null,
       "cnptv_cdn": null
     },
