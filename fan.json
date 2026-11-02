@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "2/11/2026, 1:13:27 pm",
+  "updatedAt": "2/11/2026, 1:15:25 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Victoria vs Queensland [English]",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249670",
+      "status": "LIVE",
+      "startTime": "05:30:00 AM 31-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249670_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Oman vs Netherlands [English]",
@@ -29,23 +40,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Perth Scorchers Women vs Melbourne Stars Women",
+      "title": "Melbourne Stars Women vs Perth Scorchers Women",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250394",
       "status": "UPCOMING",
       "startTime": "01:40:00 PM 02-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250394_53125_MS-W_PS-W_fc-web_1793352701258.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs Queensland",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249670",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 31-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -259,50 +259,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Tennis",
-      "title": "Court 2",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250547",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Court 1",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250548",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250549",
-      "status": "UPCOMING",
-      "startTime": "03:30:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Court Central",
-      "tournament": "ATP Masters - Rolex Paris Masters 2026",
-      "match_id": "4250550",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 02-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Football",
       "title": "Port FC vs Beijing Guoan",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -442,6 +398,50 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "United Arab Emirates vs Oman",
+      "tournament": "ICC CWC League 2 UAE, 2026",
+      "match_id": "4250521",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Women vs Melbourne Renegades Women",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": "4250395",
+      "status": "UPCOMING",
+      "startTime": "01:40:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Melbourne Victory vs Persib Bandung",
+      "tournament": "AFC Champions League Two 2026-27",
+      "match_id": "4249009",
+      "status": "UPCOMING",
+      "startTime": "01:15:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249009_53057_MLV_PER_fc-web_1789025065711.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Bam Khatoon FC vs Naegohyang Women's FC",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250250",
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 04-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_APP.png",
       "language": null,
       "cnptv_cdn": null
     }
