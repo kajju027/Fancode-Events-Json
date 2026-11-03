@@ -1,13 +1,13 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "4/11/2026, 1:11:16 am",
+  "updatedAt": "4/11/2026, 1:21:28 am",
   "total_matches": 40,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Dubai vs Ajman",
+      "title": "Dubai vs Ajman [English]",
       "tournament": "Emirates D20, 2026",
       "match_id": "4250503",
       "status": "LIVE",
@@ -18,7 +18,7 @@
     },
     {
       "category": "Cricket",
-      "title": "England Lions vs West Indies A",
+      "title": "England Lions vs West Indies A [English]",
       "tournament": "England Lions tour of West Indies, 2026",
       "match_id": "4250204",
       "status": "LIVE",
@@ -29,7 +29,7 @@
     },
     {
       "category": "Football",
-      "title": "Al Hilal SFC vs Shabab Al Ahli",
+      "title": "Al Hilal SFC vs Shabab Al Ahli [English]",
       "tournament": "AFC Champions League Elite 2026-27",
       "match_id": "4248735",
       "status": "LIVE",
@@ -39,8 +39,19 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4248735_eng.sonuxs.m3u8"
     },
     {
+      "category": "Football",
+      "title": "West Bromwich Albion F.C. vs Southampton F.C. [English]",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4250006",
+      "status": "LIVE",
+      "startTime": "01:30:00 AM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250006_eng.sonuxs.m3u8"
+    },
+    {
       "category": "Tennis",
-      "title": "Court 1",
+      "title": "Court 1 [English]",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250551",
       "status": "LIVE",
@@ -51,7 +62,7 @@
     },
     {
       "category": "Tennis",
-      "title": "World Feed",
+      "title": "World Feed [English]",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250552",
       "status": "LIVE",
@@ -62,7 +73,7 @@
     },
     {
       "category": "Tennis",
-      "title": "Court Central",
+      "title": "Court Central [English]",
       "tournament": "ATP Masters - Rolex Paris Masters 2026",
       "match_id": "4250649",
       "status": "LIVE",
@@ -90,17 +101,6 @@
       "status": "UPCOMING",
       "startTime": "01:40:00 PM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "West Bromwich Albion F.C. vs Southampton F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250006",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -237,17 +237,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Kaya FC Iloilo Women vs Melbourne City Women",
-      "tournament": "AFC Women's Champions League 2026-27",
-      "match_id": "4250262",
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 04-11-2026",
-      "image": "https://images.fancode.com/aig/match/v1793533399054/4250262_CASACARDS_APP.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "West Indies A vs England Lions",
       "tournament": "England Lions tour of West Indies, 2026",
@@ -255,6 +244,17 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Kaya FC Iloilo Women vs Melbourne City Women",
+      "tournament": "AFC Women's Champions League 2026-27",
+      "match_id": "4250262",
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 04-11-2026",
+      "image": "https://images.fancode.com/aig/match/v1793533399054/4250262_CASACARDS_APP.png",
       "language": null,
       "cnptv_cdn": null
     },
