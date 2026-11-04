@@ -1,20 +1,20 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "4/11/2026, 10:57:17 am",
+  "updatedAt": "4/11/2026, 10:59:31 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
-      "title": "United Arab Emirates vs Oman",
+      "title": "United Arab Emirates vs Oman [English]",
       "tournament": "ICC CWC League 2 UAE, 2026",
       "match_id": "4250521",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:00:00 AM 04-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-      "language": null,
-      "cnptv_cdn": null
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250521_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -106,23 +106,23 @@
     },
     {
       "category": "Cricket",
-      "title": "West Indies A vs England Lions",
-      "tournament": "England Lions tour of West Indies, 2026",
-      "match_id": "4250205",
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 04-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Bangladesh vs West Indies",
       "tournament": "West Indies tour of Bangladesh, 2026",
       "match_id": "4250527",
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 05-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies A vs England Lions",
+      "tournament": "England Lions tour of West Indies, 2026",
+      "match_id": "4250205",
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 04-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
       "language": null,
       "cnptv_cdn": null
     },
