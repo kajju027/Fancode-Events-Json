@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "5/11/2026, 8:51:12 am",
+  "updatedAt": "5/11/2026, 8:53:55 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "West Indies vs Bangladesh [English]",
-      "tournament": "West Indies tour of Bangladesh, 2026",
-      "match_id": "4250527",
-      "status": "LIVE",
-      "startTime": "09:00:00 AM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250527_eng.sonuxs.m3u8"
-    },
     {
       "category": "Badminton",
       "title": "Round of 16 [English]",
@@ -26,6 +15,17 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250603_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs West Indies",
+      "tournament": "West Indies tour of Bangladesh, 2026",
+      "match_id": "4250527",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 05-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
