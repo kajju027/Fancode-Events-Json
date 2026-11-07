@@ -1,9 +1,9 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "7/11/2026, 7:47:18 pm",
+  "updatedAt": "7/11/2026, 7:48:04 pm",
   "total_matches": 39,
-  "live_matches": 13,
-  "upcoming_matches": 26,
+  "live_matches": 12,
+  "upcoming_matches": 27,
   "matches": [
     {
       "category": "Cricket",
@@ -26,17 +26,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250527_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Zimbabwe vs Afghanistan [English]",
-      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-      "match_id": "4249772",
-      "status": "LIVE",
-      "startTime": "11:30:00 AM 05-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249772_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -150,6 +139,17 @@
     },
     {
       "category": "Cricket",
+      "title": "Zimbabwe vs Afghanistan",
+      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+      "match_id": "4249772",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 05-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
       "title": "Sydney Sixers Women vs Sydney Thunder Women",
       "tournament": "Women's Big Bash League, 2026",
       "match_id": "4250401",
@@ -167,6 +167,17 @@
       "status": "UPCOMING",
       "startTime": "11:40:00 AM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250402_53125_PS-W_MS-W_fc-web_1793352702019.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Birmingham City F.C. vs Swansea City A.F.C.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4250010",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 07-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250010_52993_BIR_SWA_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -200,17 +211,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 07-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Birmingham City F.C. vs Swansea City A.F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250010",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 07-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250010_52993_BIR_SWA_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -337,6 +337,28 @@
     },
     {
       "category": "Football",
+      "title": "Villarreal CF vs Getafe CF",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247683",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247683_53004_VIL_GEF_FC-Web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "RC Celta vs Levante",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247685",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 08-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247685_53004_CEV_LET_FC-Web_1792660540027.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
       "title": "Macarthur vs Brisbane Roar",
       "tournament": "A-League 2026-27",
       "match_id": "4249856",
@@ -365,28 +387,6 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 08-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249857_53101_ADL_MLV_fc-Web_1792223292214.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Villarreal CF vs Getafe CF",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247683",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 08-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247683_53004_VIL_GEF_FC-Web.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "RC Celta vs Levante",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247685",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 08-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247685_53004_CEV_LET_FC-Web_1792660540027.png",
       "language": null,
       "cnptv_cdn": null
     },
