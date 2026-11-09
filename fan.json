@@ -1,21 +1,10 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/11/2026, 4:57:23 am",
+  "updatedAt": "9/11/2026, 5:58:28 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Golf",
-      "title": "Day 4 [English]",
-      "tournament": "World Wide Technology Championship 2026",
-      "match_id": "4250600",
-      "status": "LIVE",
-      "startTime": "01:30:00 AM 09-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250600_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "West Indies vs Bangladesh",
@@ -442,6 +431,17 @@
       "status": "UPCOMING",
       "startTime": "12:00:00 PM 13-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Football",
+      "title": "Leganes vs Burgos CF",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": "4250592",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 AM 14-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": null,
       "cnptv_cdn": null
     }
