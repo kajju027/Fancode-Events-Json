@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "11/11/2026, 5:03:39 pm",
+  "updatedAt": "11/11/2026, 5:24:10 pm",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Tennis",
+      "title": "World Feed [English]",
+      "tournament": "ATP 250 - Bybit Stockholm Open 2026",
+      "match_id": "4250584",
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 11-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250584_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "New South Wales vs South Australia",
@@ -112,17 +123,6 @@
       "status": "UPCOMING",
       "startTime": "04:45:00 PM 12-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250377_53124_KNY_LBL_fc-Web_1793616701916.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 250 - Bybit Stockholm Open 2026",
-      "match_id": "4250584",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 11-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     },
