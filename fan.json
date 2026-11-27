@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "27/11/2026, 1:09:26 pm",
-  "total_matches": 39,
-  "live_matches": 1,
+  "updatedAt": "27/11/2026, 1:19:39 pm",
+  "total_matches": 40,
+  "live_matches": 2,
   "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "South Australia Vs Victoria",
+      "tournament": null,
+      "match_id": "4249676",
+      "status": "LIVE",
+      "startTime": null,
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4249676_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Sohar Smashers Women Vs Oca Invincibles Women",
@@ -193,6 +204,17 @@
       "cnptv_cdn": null
     },
     {
+      "category": "Football",
+      "title": "Macarthur vs Melbourne City",
+      "tournament": "A-League 2026-27",
+      "match_id": "4249863",
+      "status": "UPCOMING",
+      "startTime": "02:10:00 PM 27-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
       "category": "Cricket",
       "title": "TBC vs TBC",
       "tournament": "Italia T10 2026",
@@ -237,17 +259,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Football",
-      "title": "Macarthur vs Melbourne City",
-      "tournament": "A-League 2026-27",
-      "match_id": "4249863",
-      "status": "UPCOMING",
-      "startTime": "02:10:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Motorsports",
       "title": "Practice Session",
       "tournament": "F2 QATAR 2026",
@@ -281,17 +292,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F2 QATAR 2026",
-      "match_id": "139659",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 27-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Sohar Smashers Women vs Ghubra Giants Women",
       "tournament": "Oman Women's D20, 2026",
@@ -299,6 +299,17 @@
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 28-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F2 QATAR 2026",
+      "match_id": "139659",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 27-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
