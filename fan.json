@@ -1,10 +1,21 @@
 {
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "28/11/2026, 5:46:13 pm",
+  "updatedAt": "28/11/2026, 5:52:14 pm",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Brescia Lions Vs Rome Gladiators",
+      "tournament": "Italia T10 2026",
+      "match_id": "4251151",
+      "status": "LIVE",
+      "startTime": "06:00:00 PM 28-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4251151_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Mi Emirates Vs Desert Vipers",
@@ -39,6 +50,17 @@
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250971_eng.sonuxs.m3u8"
     },
     {
+      "category": "Football",
+      "title": "Preston North End F.c. Vs Norwich City F.c.",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": "4250017",
+      "status": "LIVE",
+      "startTime": "06:00:00 PM 28-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/4250017_eng.sonuxs.m3u8"
+    },
+    {
       "category": "MotoGP",
       "title": "Day 2",
       "tournament": null,
@@ -48,17 +70,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://in-mc-flive.pages.dev/cnp-tv/139988_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Brescia Lions vs Rome Gladiators",
-      "tournament": "Italia T10 2026",
-      "match_id": "4251151",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -79,17 +90,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 AM 29-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4250426_53125_AS-W_HB-W_fc-web_1793352701264.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Football",
-      "title": "Preston North End F.C. vs Norwich City F.C.",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": "4250017",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 28-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg",
       "language": null,
       "cnptv_cdn": null
     },
